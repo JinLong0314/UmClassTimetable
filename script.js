@@ -13,8 +13,8 @@ var default_block = {bg: "#d9d9d9", col: "#888888"}
 
 function checkTextOverflow(){
 	var spans = document.querySelectorAll(".day-col a span.text-marq");
-	var margin_px = 5;
-	var px_per_frame = 1;
+	var margin_px = window.innerWidth <= 768 ? 2 : 5;
+	var px_per_frame = window.innerWidth <= 768 ? 0.5 : 1;
 
 	for(var span of spans) {
 		var col_width = $(span.parentElement).width();
@@ -692,7 +692,7 @@ function genIt(courses_list, no_scroll, is_ctrlZ){
 
 			// 只在非预览模式下添加操作按钮
 			if(allCourseMode === false) {
-				// 添加操作按钮容器
+				// 添加操作按钮容���
 				var actionsDiv = document.createElement("div");
 				actionsDiv.className = "course-actions";
 
@@ -728,7 +728,7 @@ function genIt(courses_list, no_scroll, is_ctrlZ){
 				actionsDiv.appendChild(umehBtn);
 				actionsDiv.appendChild(removeBtn);
 
-				// 将容器添加到课程格
+				// 将容器添��到课程格
 				div.appendChild(actionsDiv);
 			}
 		}
@@ -930,7 +930,7 @@ if(!document.getElementById(ths_id)){
 			als_text_eng = 'All';
 		}
 		else{
-			als_text_chi = als_total + '個課程中有' + als_count + '個';
+			als_text_chi = als_total + '個課程中��' + als_count + '個';
 			als_text_eng = als_count + ' of ' + als_total;
 
 			if(als_count===1){
@@ -2058,11 +2058,38 @@ function find_period_pr(starttext, endtext, day, ven, disable_scroll){
             }
             courseHtml += '</small>';
 
-            // 添加上课时间信息
-            courseHtml += '<small><br>' + dayDisp[dayName.indexOf(im_courses[i].day)] + 
-                         ' - ' + im_courses[i].start + '-' + im_courses[i].end + 
-                         (im_courses[i].type === 'Lecture' ? '' : ' (' + im_courses[i].type + ')') + 
-                         '</small>';
+            // 获取该课程的所有上课时间
+            var allTimeSlots = [];
+            for(var j=0; j<courses_info.length; j++) {
+                if(courses_info[j].code === im_courses[i].code) {
+                    allTimeSlots.push({
+                        day: courses_info[j].day,
+                        start: courses_info[j].start,
+                        end: courses_info[j].end,
+                        type: courses_info[j].type,
+                        venue: courses_info[j].venue
+                    });
+                }
+            }
+
+            // 按日期和时间排序
+            allTimeSlots.sort((a, b) => {
+                var dayDiff = dayName.indexOf(a.day) - dayName.indexOf(b.day);
+                if(dayDiff === 0) {
+                    return convertToStamp(a.start) - convertToStamp(b.start);
+                }
+                return dayDiff;
+            });
+
+            // 添加所有上课时间信息
+            courseHtml += '<small><br>上课时间 Class Schedule:';
+            for(var slot of allTimeSlots) {
+                courseHtml += '<br>' + dayDisp[dayName.indexOf(slot.day)] + 
+                             ' - ' + slot.start + '-' + slot.end + 
+                             (slot.type === 'Lecture' ? '' : ' (' + slot.type + ')') +
+                             ' @' + slot.venue;
+            }
+            courseHtml += '</small>';
 
             // 检查冲突
             var hasConflict = false;
@@ -2354,5 +2381,74 @@ function clearSearch() {
     
     // 重新生成课程表显示所有课程
     genIt(null, true, true);
+}
+
+// 添加触摸事件支持
+function addTouchSupport() {
+  const timetable = document.getElementById('timetable');
+  let startX = 0;
+  let scrollLeft = 0;
+
+  timetable.addEventListener('touchstart', (e) => {
+    startX = e.touches[0].pageX - timetable.offsetLeft;
+    scrollLeft = timetable.scrollLeft;
+  });
+
+  timetable.addEventListener('touchmove', (e) => {
+    e.preventDefault();
+    const x = e.touches[0].pageX - timetable.offsetLeft;
+    const walk = (x - startX) * 2;
+    timetable.scrollLeft = scrollLeft - walk;
+  });
+}
+
+// 优化课程点击处理
+function optimizeForTouch() {
+  const courseBlocks = document.querySelectorAll('.col a');
+  courseBlocks.forEach(block => {
+    block.addEventListener('touchstart', (e) => {
+      // 防止触发父元素的滚动
+      e.stopPropagation();
+    });
+    
+    block.addEventListener('touchend', (e) => {
+      // 处理课程点击
+      const href = block.getAttribute('href');
+      if (href && href.startsWith('javascript:')) {
+        e.preventDefault();
+        eval(href.slice(11));
+      }
+    });
+  });
+}
+
+// 在页面加载完成后初始化
+document.addEventListener('DOMContentLoaded', () => {
+  addTouchSupport();
+  optimizeForTouch();
+  
+  // 监听窗口大小变化
+  window.addEventListener('resize', () => {
+    // 重新计算课程表大小和位置
+    const wrapper = document.getElementById('wrapper');
+    const timetable = document.getElementById('timetable');
+    
+    if (window.innerWidth <= 768) {
+      wrapper.style.width = '100%';
+      // 其他移动端特定的调整...
+    } else {
+      wrapper.style.width = '888px';
+      // 恢复桌面端的设置...
+    }
+  });
+});
+
+// 修改现有的 checkTextOverflow 函数以适应移动端
+function checkTextOverflow() {
+  const spans = document.querySelectorAll(".day-col a span.text-marq");
+  const margin_px = window.innerWidth <= 768 ? 2 : 5;
+  const px_per_frame = window.innerWidth <= 768 ? 0.5 : 1;
+
+  // ... 其余代码保持不变
 }
 

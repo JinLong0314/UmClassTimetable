@@ -198,7 +198,104 @@ studyPlanLink.style.display = "none";
 var profBtn = 0;
 
 var searched_umacinfo = {};
-var studyPlanHeader = "<b><i class=\"fa fa-list-alt\" aria-hidden=\"true\"></i> 可選擇的課程列表 Available Courses List</b>";
+var studyPlanHeader = `
+    <div class="study-plan-header">
+        <b><i class="fa fa-list-alt" aria-hidden="true"></i> 可選擇的課程列表 Available Courses List</b>
+		<a href="javascript:clearSearch()" class="clear-search" id="clear-search">
+				<i class="fa fa-times-circle"></i> 清除搜索
+		</a>
+        <div class="host-filter">
+            <label><i class="fa fa-filter" aria-hidden="true"></i> 按開課單位篩選：</label>
+            <select id="hostFilter" onchange="filterByHost(this.value)">
+                <option value="">全部 All</option>
+            </select>
+        </div>
+    </div>`;
+
+// 添加筛选功能
+function filterByHost(selectedHost) {
+    const courseElements = document.querySelectorAll('#study-plan div[data-host]');
+    // 检查是否是大分类（=== 开头）
+    const isMainCategory = selectedHost.startsWith('===');
+    
+    // 如果是大分类，提取分类名称
+    const mainCategory = isMainCategory ? selectedHost.replace(/===\s*(\w+)\s*===/, '$1') : '';
+    
+    courseElements.forEach(element => {
+        const hostAttr = element.getAttribute('data-host');
+        if (!selectedHost || 
+            (!isMainCategory && hostAttr === selectedHost) ||
+            (isMainCategory && hostAttr.startsWith(mainCategory + '-'))) {
+            element.style.display = 'block';
+        } else {
+            element.style.display = 'none';
+        }
+    });
+
+    // 更新显示的课程数量
+    const visibleCourses = document.querySelectorAll('#study-plan div[data-host][style*="display: block"]').length;
+    const courseCountElement = document.getElementById('course-count');
+    if (courseCountElement) {
+        courseCountElement.textContent = visibleCourses;
+    }
+}
+
+// 获取所有可用的host选项
+function updateHostOptions() {
+    const hosts = new Set();
+    const hostGroups = new Map(); // 用于存储分组
+
+    courses_info.forEach(course => {
+        if (course.host) {
+            hosts.add(course.host);
+            // 获取主分类（-之前的部分）
+            const mainGroup = course.host.split('-')[0];
+            if (!hostGroups.has(mainGroup)) {
+                hostGroups.set(mainGroup, new Set());
+            }
+            hostGroups.get(mainGroup).add(course.host);
+        }
+    });
+    
+    const hostFilter = document.getElementById('hostFilter');
+    if (hostFilter) {
+        // 保存当前选择
+        const currentValue = hostFilter.value;
+        
+        // 清除现有选项（保留"全部"选项）
+        while (hostFilter.options.length > 1) {
+            hostFilter.remove(1);
+        }
+        
+        // 按组添加选项
+        Array.from(hostGroups.keys()).sort().forEach(group => {
+            // 如果该组有多个子选项
+            if (hostGroups.get(group).size > 1) {
+                // 添加组标题作为可选选项
+                const groupOption = new Option(`=== ${group} ===`, `=== ${group} ===`);
+                hostFilter.add(groupOption);
+                
+                // 添加该�����所有选项
+                Array.from(hostGroups.get(group)).sort().forEach(host => {
+                    const option = new Option(host, host);
+                    option.style.paddingLeft = '20px';
+                    hostFilter.add(option);
+                });
+            } else {
+                // 如果组内只有一个选项，直接添加
+                Array.from(hostGroups.get(group)).forEach(host => {
+                    const option = new Option(host, host);
+                    hostFilter.add(option);
+                });
+            }
+        });
+        
+        // 恢复之前的选择
+        if (currentValue) {
+            hostFilter.value = currentValue;
+        }
+    }
+}
 
 var allSlotItems = [];
 var blackListSlot = [];
@@ -310,10 +407,7 @@ function genIt(courses_list, no_scroll, is_ctrlZ){
 	}
 
 
-	// if(
-	// 	allCourseMode===true ||
-	// 	(localStorage["lockMode"] && localStorage["lockMode"]==="lock")
-	// ){
+	// if(allCourseMode===true || (localStorage["lockMode"] && localStorage["lockMode"]==="lock")){
 	// 	document.getElementById("overlay").className = "lock";
 	// 	document.getElementById("lock").className = "lock";
 	// 	localStorage["lockMode"] = "lock";
@@ -469,7 +563,7 @@ function genIt(courses_list, no_scroll, is_ctrlZ){
 					// console.log(i);
 				}
 				else {
-					div.href = "javascript:deleteIt('" + courses_list[i].code + "')";
+					div.href = "javascript:void(0)";
 				}
 			}
 			else{
@@ -595,6 +689,48 @@ function genIt(courses_list, no_scroll, is_ctrlZ){
 			div.appendChild(bgDiv);
 			// div.appendChild(altText);
 			addToScreen(day[weekday], div, i*renderGap);
+
+			// 只在非预览模式下添加操作按钮
+			if(allCourseMode === false) {
+				// 添加操作按钮容器
+				var actionsDiv = document.createElement("div");
+				actionsDiv.className = "course-actions";
+
+				// 添加UMEH按钮
+				var umehBtn = document.createElement("a");
+				umehBtn.className = "course-action umeh";
+				umehBtn.href = "https://www.umeh.top/search/course/" + courses_list[i].code.split("-")[0];
+				umehBtn.target = "_blank";
+				umehBtn.innerHTML = '<i class="fa fa-external-link"></i>选咩课评价';
+				umehBtn.onclick = function(e) {
+					e.stopPropagation();
+				};
+
+				// 添加删除按钮
+				var removeBtn = document.createElement("div");
+				removeBtn.className = "course-action remove";
+				removeBtn.innerHTML = '<i class="fa fa-trash"></i>删除';
+
+				// 使用立即执行函数来创建一个新的作用域
+				(function(courseIndex, courseInfo) {
+					removeBtn.onclick = function(e) {
+						e.stopPropagation();
+						e.preventDefault();
+						if(thisIsLab) {
+							removeSection(courseIndex);
+						} else {
+							deleteIt(courseInfo.code);
+						}
+					};
+				})(i, courses_list[i]);
+
+				// 将按钮添加到容器
+				actionsDiv.appendChild(umehBtn);
+				actionsDiv.appendChild(removeBtn);
+
+				// 将容器添加到课程格
+				div.appendChild(actionsDiv);
+			}
 		}
 	}
 
@@ -689,7 +825,7 @@ function genIt(courses_list, no_scroll, is_ctrlZ){
 								: '<p><u>備註 Remark</u>' +
 								(no_dept
 									? ''
-									: '<br>Host by ' + courses_list[i].host + '; ') +
+									: '<br>Host by ' + courses_list[i].host + '; <br>') +
 								(no_remark
 									? ''
 									: courses_list[i].remark.replace(/\n/g, "<br>")) +
@@ -1033,7 +1169,7 @@ function look(coursecode, is_error, is_importing){
 		if(is_importing && is_importing===true){
 
 			if(is_error && is_error===true){
-				print_error(coursecode+": 該課程有兩個Lab，請在下方輸入課程編號並手動選擇 / Two labs are found, type course code and select your lab.", coursecode);
+				print_error(coursecode+": 該課程有兩個Lab，请在下方輸入課程編號並手動選擇 / Two labs are found, type course code and select your lab.", coursecode);
 			}
 		}
 		else{
@@ -1540,7 +1676,7 @@ function addIsw(){
 				max = course_categories[cid+1].index;
 			}
 
-			// 一開始的 rid 是本分類的首項
+			// 一���始的 rid 是本分類的首項
 			while(rid < im_courses_detail.length) {
 
 				// 若課程的 indexOf 比下一終止界小
@@ -1657,6 +1793,13 @@ var totalSort = {};
 // 	less_arr_fromObj.sort(function(a,b){
 // 		return convertToStamp(a.timeslot) - convertToStamp(b.timeslot);
 // 	})
+
+
+
+
+
+
+
 
 
 // 	for(var i in less_arr_fromObj){
@@ -1817,310 +1960,144 @@ function checkProfBtn(btn, params) {
 }
 
 function find_period_pr(starttext, endtext, day, ven, disable_scroll){
-
-	var start = 1;
-	var end = (23*60 + 59);
-
-	var venue = ven;
-
-	if(ven){
-		venue = ven.toUpperCase()
-	}
-
-	if(starttext !== ""){
-		start = convertToStamp(starttext);
-	}
-	if(endtext !== ""){
-		end = convertToStamp(endtext);
-	}
-
-	if(start >= 0 && end >= start && end < (24*60)){
-		// valid
-	}
-	else{
-		return print_error("時間格式錯誤 / Time format invalid.");
-	}
-
-	var range = day + " " + convertToDisp(starttext) + "-" + convertToDisp(endtext);
-
-	// if(window.jQuery && onServer===true){
-	// 	$.post(
-	// 		"check_look_func_available.php",
-	// 		{content: range},
-	// 		checkAvailable
-	// 	);
-	// }
-
-	finding_period = true;
-
-	studyPlanLink.style.display = "inline-block";
-	studyPlanDiv.innerHTML = "<hr class='full'><p>"+studyPlanHeader+"<br><small>區間 Range: " + range + "</small></p>";
-
-
-	if(disable_scroll && disable_scroll===true){
-
-	}
-	else{
-		var scrollTopPx = document.getElementById("study-plan").offsetTop;
-		window.scrollTo(0,scrollTopPx);
-		document.getElementById("courses-list").scrollTop = scrollTopPx;
-	}
-
-	var im_courses = [];
-	var current_course_code_list = getSelectedCourseCodeList();
-
-	for(var i=0; i<courses_info.length; i++){
-
-		if(current_course_code_list.indexOf(courses_info[i].code)!==-1){
-			continue;
-		}
-
-		if(!courses_info[i].startStamp){
-			courses_info[i].startStamp = convertToStamp(courses_info[i].start);
-		}
-		if(!courses_info[i].endStamp){
-			courses_info[i].endStamp   = convertToStamp(courses_info[i].end);
-		}
-
-		var matched = courses_info[i].day === day;
-
-		if(starttext === '') {
-			// end only.
-			matched = (matched
-				&& courses_info[i].endStamp <= end
-				&& courses_info[i].endStamp > (end - 60));
-		}
-		else if(endtext === '') {
-			// start only.
-			matched = (matched
-				&& courses_info[i].startStamp >= start
-				&& courses_info[i].startStamp < (start + 60));
-		}
-		else{ 
-			matched = (matched
-				&& courses_info[i].startStamp >= start
-				&& courses_info[i].endStamp <= end);
-		}
-
-		if(venue !== ""){
-			matched = matched && (courses_info[i].venue.substr(0,venue.length) === venue);
-		}
-
-		if(matched){
-
-			im_courses.push(courses_info[i]);
-		}
-	}
-	
-	removeError();
-
-	if(im_courses.length === 0){
-		studyPlanDiv.innerHTML += '<p>此期間沒有課堂 / No class in this period.';
-	}
-	else{
-		// studyPlanDiv.innerHTML += '<p>&nbsp;</p>';
-
-		studyPlanDiv.innerHTML += '<p>共有 <span id="course-count">' + (im_courses.length) + '</span> 節課</p>';// +
-			// '<p>上堂時間/Classes start at <br><span id="timeslots"></span></p>';
-
-		allSlotItems = [];
-		selectedCourseCount = 0;
-
-		var slots_collection = [];
-
-		var div = document.createElement("div");
-		// var less_arr = {};
-		// var less_arr_2 = {};
-
-		for(var i=0; i<im_courses.length; i++){
-			var p = document.createElement("p");
-			var stri = '<a href="javascript:add(\'' + im_courses[i].code + '\',null,true)">' +
-				'<b>' + im_courses[i].code + '</b><br><small>' + im_courses[i].name + '</small></a><small class="location">@' + im_courses[i].venue + ' by ' + im_courses[i].prof + '<br><strong class="sans-serif">' + im_courses[i].remark+ '</strong></small>';
-
-			var conflict_arr = [];
-			var dates = [];
-			var dates_GBS_divId = 'cl-';
-
-		// 計上課
-			var key = im_courses[i].start;
-			var venue = im_courses[i].venue.split("-")[0];
-
-		// 計算該時間段的課堂數量
-			// if(!less_arr[key]){
-			// 	less_arr[key] = {count: 0};
-			// }
-			// less_arr[key].count++;
-
-		// 計算該時間段、同一地點的課堂數量
-			// if(!less_arr[key][venue]){
-			// 	less_arr[key][venue] = 0;
-			// }
-			// less_arr[key][venue]++;
-
-		// 計落課
-			var key = im_courses[i].end;
-
-			// if(!less_arr_2[key]){
-			// 	less_arr_2[key] = {count: 0};
-			// }
-			// less_arr_2[key].count++;
-
-			// if(!less_arr_2[key][venue]){
-			// 	less_arr_2[key][venue] = 0;
-			// }
-			// less_arr_2[key][venue]++;
-
-
-
-		var has_more_than_one_prof = false;
-		var target_code_substr = im_courses[i].code.substr(0,course_code_length);
-		var target_code_prof   = im_courses[i].prof;
-
-		for(var jx in courses_info){
-
-			var ths = courses_info[jx];
-			if(ths.code !== im_courses[i].code){
-
-				// if same class, different section
-				if(ths.code.substr(0,course_code_length) === target_code_substr
-					&& ths.prof !== target_code_prof){
-					has_more_than_one_prof = true;
-				}
-				continue;	// skip to next loop
-			}
-
-			dates_GBS_divId += ths.day + ths.start + '-' + ths.end;
-
-			var should_show_checkbox = (ths.start === dates_GBS_divId.substr(6,5));
-
-			if(slots_collection.indexOf(ths.start) === -1 && should_show_checkbox === true) {
-				slots_collection.push(ths.start);
-				allSlotItems.push(ths.start);
-			}
-			dates.push(dayDisp[dayName.indexOf(ths.day)] + " - " + ths.start + "-" + ths.end + (ths.type==='Lecture' ? '' : " (" + ths.type + ")"));
-
-			// stri += "<br><small>";
-			// stri += dayDisp[dayName.indexOf(ths.day)] + " - " + ths.start + "-" + ths.end + "<br>" + ths.venue + " (" + ths.type + ")";
-
-			for(var ix in courses){
-
-				var oppose = courses[ix];
-
-				if(
-					oppose.code !== ths.code
-					&& oppose.day === ths.day
-					&& conflict_arr.indexOf(oppose.code)===-1
-					&& (
-						(oppose.startStamp <= ths.startStamp && oppose.endStamp >= ths.startStamp)
-						|| (oppose.startStamp <= ths.endStamp && oppose.endStamp >= ths.endStamp)
-						|| (oppose.startStamp >= ths.startStamp && oppose.endStamp <= ths.endStamp)
-					)
-				){
-
-					conflict_arr.push(oppose.code);
-
-					// stri += "<br><span class=\"warning\">與" + oppose.code + "衝突</span>";
-				}
-				// console.log(oppose.code, ths.code);
-			}
-
-			// stri += "</small>";
-		}
-
-			// console.log(target_code_substr);
-
-			// var umacinfo_text = '<br><a href="https://rateprof.tk/course/umac-mo/' + target_code_substr + '" target="_blank" class="umacinfo">前往暗黑資料庫查看評分</a>';
-			var namecard = target_code_prof.split(" ")[0];
-			namecard = namecard[0].toUpperCase() + namecard.substr(1).toLowerCase();
-
-			var prof_url = encodeURIComponent(target_code_prof.split(" \(in ")[0]);
-			var umacinfo_params = '?New_code=' + target_code_substr + '&prof_name=' + prof_url;
-			profBtn++;
-
-			var umacinfo_text = '<a href="https://www.umeh.top/reviews/' + target_code_substr + '/' + prof_url + '" target="_blank" class="umacinfo" id="prof-' + profBtn + '"><i class="fa fa-address-card-o" aria-hidden="true"></i> ' + namecard + '</a>';
-
-			// if(window.jQuery){
-			// 	$.get(
-			// 		"https://umac.info/api/search/course/umac-mo/" + target_code_prof,
-			// 		{},
-			// 		function(data){
-			// 			console.log(data);
-			// 		}
-			// 	);
-			// }
-
-			// var umacinfo_text = '<br><a href="javascript:getRate(\'' + target_code_substr + '\',\'' + target_code_prof.split("(in")[0].cleanup() + '\')" class="umacinfo">查看教授評分</a>';
-
-			if(has_more_than_one_prof === false){
-				umacinfo_text = '<br><span class="umacinfo"><i class="fa fa-info-circle" aria-hidden="true"></i> 這科唯一的教授 The only prof of this course</span>'
-			}
-
-			// console.log(dates_GBS_divId);
-
-			dates_GBS_divId = dates_GBS_divId.replace(/:/g, '');
-
-			if(!document.getElementById(dates_GBS_divId)) {
-				var tmpDiv = document.createElement('div');
-				tmpDiv.id = dates_GBS_divId;
-				studyPlanDiv.appendChild(tmpDiv);
-			}
-
-			var tmpDiv = document.getElementById(dates_GBS_divId);
-
-			if(conflict_arr.length === 0){
-
-				// console.log(dates);
-
-				stri += '<small>' + dates.join("<br>") + "</small>";
-				stri += '<br><span class="warning" style="background:#b8e4b8;color:#099848;">未與現有任何科目衝突 No Conflict</span>';
-
-				p.innerHTML = stri + umacinfo_text;
-				tmpDiv.appendChild(p);
-			}
-			else{
-				stri = "<del>" + stri + "</del>";
-				stri += '<span class="warning">與 ' + conflict_arr.join(', ') + ' 衝突</span>';
-				p.innerHTML = stri + umacinfo_text;
-				tmpDiv.appendChild(p);
-			}
-
-			if(has_more_than_one_prof === true) {
-				checkProfBtn(profBtn, umacinfo_params);
-			}
-		}
-
-		// 上課時間概要列表
-		// slots_collection.sort();
-		// for (var i=0; i<slots_collection.length; i++) {
-		// 	var this_slot = slots_collection[i];
-		// 	var slot_a = document.createElement('span');
-		// 	slot_a.innerHTML = '<label for="r-'+i+'"><span><input type="checkbox" id="r-'+i+'" checked onchange="filterCourses(\''+this_slot+'\')">' + this_slot + '</span></label>';
-		// 	document.getElementById("timeslots").appendChild(slot_a);
-		// }
-
-	// 將object變成array
-		// var less_arr_fromObj = [];
-		// for(var i in less_arr){
-		// 	less_arr[i].timeslot = i;
-		// 	less_arr_fromObj.push(less_arr[i]);
-		// }
-		// var less_arr_2_fromObj = [];
-		// for(var i in less_arr_2){
-		// 	less_arr_2[i].timeslot = i;
-		// 	less_arr_2_fromObj.push(less_arr_2[i]);
-		// }
-
-	// 結果拼成字串
-		// var str_l = "<p>&nbsp;</p><p><b>時間及地點分佈 Distribution</b></p>";
-
-		// str_l += "<small>(上課 Begin at)</small>" + draw_diagram(less_arr_fromObj, "limegreen");
-		// str_l += "<br>&nbsp;<br><small>(下課 End at)</small>" + draw_diagram(less_arr_2_fromObj, "salmon");
-
-		// studyPlanDiv.appendChild(div);
-
-		// studyPlanDiv.innerHTML += '<p><span id="splist"></span></p>';
-		// document.getElementById("splist").innerHTML = str_l;
-	}
+    var start = 1;
+    var end = (23*60 + 59);
+    var venue = ven;
+
+    if(ven){
+        venue = ven.toUpperCase()
+    }
+
+    if(starttext !== ""){
+        start = convertToStamp(starttext);
+    }
+    if(endtext !== ""){
+        end = convertToStamp(endtext);
+    }
+
+    if(start >= 0 && end >= start && end < (24*60)){
+        // valid
+    }
+    else{
+        return print_error("時間格式錯誤 / Time format invalid.");
+    }
+
+    finding_period = true;
+
+    studyPlanLink.style.display = "inline-block";
+    studyPlanDiv.innerHTML = studyPlanHeader + "<p><small>區間 Range: " + day + " " + convertToDisp(starttext) + "-" + convertToDisp(endtext) + "</small></p>";
+
+    if(!disable_scroll){
+        var scrollTopPx = document.getElementById("study-plan").offsetTop;
+        window.scrollTo(0,scrollTopPx);
+        document.getElementById("courses-list").scrollTop = scrollTopPx;
+    }
+
+    var im_courses = [];
+    var current_course_code_list = getSelectedCourseCodeList();
+    
+    // 筛选符合条件的课程
+    for(var i=0; i<courses_info.length; i++){
+        if(current_course_code_list.indexOf(courses_info[i].code)!==-1){
+            continue;
+        }
+
+        if(!courses_info[i].startStamp){
+            courses_info[i].startStamp = convertToStamp(courses_info[i].start);
+        }
+        if(!courses_info[i].endStamp){
+            courses_info[i].endStamp = convertToStamp(courses_info[i].end);
+        }
+
+        var matched = courses_info[i].day === day;
+
+        if(starttext === '') {
+            matched = (matched
+                && courses_info[i].endStamp <= end
+                && courses_info[i].endStamp > (end - 60));
+        }
+        else if(endtext === '') {
+            matched = (matched
+                && courses_info[i].startStamp >= start
+                && courses_info[i].startStamp < (start + 60));
+        }
+        else{ 
+            matched = (matched
+                && courses_info[i].startStamp >= start
+                && courses_info[i].endStamp <= end);
+        }
+
+        if(venue !== ""){
+            matched = matched && (courses_info[i].venue.substr(0,venue.length) === venue);
+        }
+
+        if(matched){
+            im_courses.push(courses_info[i]);
+        }
+    }
+    
+    removeError();
+
+    if(im_courses.length === 0){
+        studyPlanDiv.innerHTML += '<p>此期間沒有課堂 / No class in this period.</p>';
+    }
+    else{
+        studyPlanDiv.innerHTML += '<p>共有 <span id="course-count">' + (im_courses.length) + '</span> 節課</p>';
+
+        // 显示课程信息
+        for(var i=0; i<im_courses.length; i++){
+            var div = document.createElement("div");
+            div.setAttribute('data-host', im_courses[i].host);
+            
+            var courseHtml = '<p><a href="javascript:add(\'' + im_courses[i].code + '\',null,true)">' +
+                '<b>' + im_courses[i].code + '</b><br><small>' + im_courses[i].name + '</small></a>' +
+                '<small class="location">@' + im_courses[i].venue + ' by ' + im_courses[i].prof;
+            
+            if (im_courses[i].remark) {
+                courseHtml += '<br><strong class="sans-serif">' + im_courses[i].remark + '</strong>';
+            }
+            courseHtml += '</small>';
+
+            // 添加上课时间信息
+            courseHtml += '<small><br>' + dayDisp[dayName.indexOf(im_courses[i].day)] + 
+                         ' - ' + im_courses[i].start + '-' + im_courses[i].end + 
+                         (im_courses[i].type === 'Lecture' ? '' : ' (' + im_courses[i].type + ')') + 
+                         '</small>';
+
+            // 检查冲突
+            var hasConflict = false;
+            var conflictCourses = [];
+            
+            for(var j=0; j<courses.length; j++){
+                if(courses[j].day === im_courses[i].day && !courses[j].isRemoved){
+                    if(checkTimeConflict(courses[j], im_courses[i])){
+                        hasConflict = true;
+                        conflictCourses.push(courses[j].code);
+                    }
+                }
+            }
+
+            if(!hasConflict){
+                courseHtml += '<br><span class="warning" style="background:#b8e4b8;color:#099848;">未與現有任何科目衝突 No Conflict</span>';
+            } else {
+                courseHtml = '<del>' + courseHtml + '</del>';
+                courseHtml += '<span class="warning">與 ' + conflictCourses.join(', ') + ' 衝突</span>';
+            }
+
+            div.innerHTML = courseHtml;
+            studyPlanDiv.appendChild(div);
+        }
+    }
+
+    // 更新筛选器选项
+    updateHostOptions();
+}
+
+// 辅助函数：检查时间冲突
+function checkTimeConflict(course1, course2) {
+    return (course1.startStamp <= course2.startStamp && course1.endStamp > course2.startStamp) ||
+           (course1.startStamp < course2.endStamp && course1.endStamp >= course2.endStamp) ||
+           (course1.startStamp >= course2.startStamp && course1.endStamp <= course2.endStamp);
 }
 
 function filterCourses(changed_slot){
@@ -2163,6 +2140,9 @@ function filterCourses(changed_slot){
 
 function find_period(disable_scroll){
 
+	// 显示清除搜索按钮
+	document.getElementById('clear-search').style.display = 'inline-block';
+
 	var start = document.getElementById("pr-start").value;
 	var end = document.getElementById("pr-end").value;
 	var day = document.getElementById("pr-day").value;
@@ -2185,6 +2165,8 @@ function find_period(disable_scroll){
 	}
 
 	if(real_start==="" && real_end===""){
+		// 如果搜索无效，隐藏清除按钮
+		document.getElementById('clear-search').style.display = 'none';
 		return print_error("時間格式錯誤 / Time format invalid.");
 	}
 
@@ -2196,7 +2178,6 @@ function find_period(disable_scroll){
 	});
 
 	find_period_pr(start, end, day, ven, (disable_scroll && disable_scroll===true));
-
 }
 
 function ctrlZ(){
@@ -2230,6 +2211,11 @@ if(localStorage["prdata"]){
 	if(old_data.ven){
 		ven.value = old_data.ven;
 	}
+	
+	// 如果有之前的搜索记录，显示清除按钮
+	if (old_data.start || old_data.end || old_data.ven) {
+		document.getElementById('clear-search').style.display = 'inline-block';
+	}
 }
 
 if(localStorage["prSrchText"]){
@@ -2239,16 +2225,134 @@ if(localStorage["prSrchText"]){
 genIt();
 window.setInterval(checkTextOverflow, 124);
 
-// var i=0;
-// function checkTextBlink() {
-// 	i++;
-// 	console.log(i);
-// 	if(i >= 2) {
-// 		$(".day-col a span.text-blink span").animate({width: "toggle"}, 150);
-// 	}
-// 	if(i==3) {
-// 		i = 0;
-// 	}
-// }
-// window.setInterval(checkTextBlink, 1500);
+// 初始化host筛选器
+updateHostOptions();
+
+// 修改handleTimetableClick函数
+function handleTimetableClick(event) {
+    // 检查是否正在搜索中
+    if (finding_period) {
+        return;
+    }
+    
+    // 获取点击的元素
+    const target = event.target;
+    
+    // 如果点击的是课程或其他非空白区域，不处理
+    if (target.tagName === 'A' || target.closest('a') || target.classList.contains('header')) {
+        return;
+    }
+
+    // 获取点击的时间格子
+    const cell = target.closest('.col');
+    if (!cell) return;
+    
+    // 获取日期
+    const day = cell.querySelector('.header')?.textContent;
+    if (!day) return;
+    const dayValue = day.toUpperCase().slice(0, 3);
+    
+    // 获取该列所有课程并按时间排序
+    const coursesInDay = courses
+        .filter(course => course.day === dayValue && !course.isRemoved)
+        .map(course => ({
+            startTime: course.start,
+            endTime: course.end
+        }))
+        .sort((a, b) => convertToStamp(a.startTime) - convertToStamp(b.startTime));
+    
+    // 获取点击位置
+    const rect = cell.getBoundingClientRect();
+    const clickY = event.clientY - rect.top;
+    const totalHeight = rect.height - 30; // 减去表头高度
+    
+    // 将点击位置转换为时间
+    const dayMinutes = 14 * 60; // 8:30 到 22:30 共14小时
+    const startOfDay = 8 * 60 + 30; // 8:30
+    const clickMinutes = Math.floor((clickY / totalHeight) * dayMinutes) + startOfDay;
+    const clickTime = formatTime(Math.floor(clickMinutes / 60), clickMinutes % 60);
+    
+    // 找到点击位置前后的课程
+    let prevCourse = null;
+    let nextCourse = null;
+    
+    for (let i = 0; i < coursesInDay.length; i++) {
+        const course = coursesInDay[i];
+        if (convertToStamp(course.startTime) > convertToStamp(clickTime)) {
+            if (i > 0) {
+                prevCourse = coursesInDay[i - 1];
+            }
+            nextCourse = course;
+            break;
+        }
+        if (i === coursesInDay.length - 1) {
+            prevCourse = course;
+        }
+    }
+    
+    // 设置搜索时间
+    let startTime, endTime;
+    
+    if (!prevCourse && !nextCourse) {
+        startTime = '08:30';
+        endTime = '22:30';
+    } else if (!prevCourse) {
+        startTime = '08:30';
+        endTime = nextCourse.startTime;
+    } else if (!nextCourse) {
+        startTime = prevCourse.endTime;
+        endTime = '22:30';
+    } else {
+        startTime = prevCourse.endTime;
+        endTime = nextCourse.startTime;
+    }
+    
+    // 填充搜索表单
+    document.getElementById('pr-day').value = dayValue;
+    document.getElementById('pr-start').value = startTime;
+    document.getElementById('pr-end').value = endTime;
+    
+    // 触发搜索
+    find_period();
+}
+
+// 辅助函数：格式化时间
+function formatTime(hours, minutes) {
+    return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}`;
+}
+
+// 添加事件监听器
+document.getElementById('timetable').addEventListener('click', handleTimetableClick);
+
+// 添加清除搜索功能
+function clearSearch() {
+    // 清空搜索表单
+    document.getElementById('pr-start').value = '';
+    document.getElementById('pr-end').value = '';
+    document.getElementById('pr-ven').value = '';
+    
+    // 隐藏清除按钮
+    document.getElementById('clear-search').style.display = 'none';
+    
+    // 重置搜索状态
+    finding_period = false;
+    
+    // 清除本地存储的搜索数据
+    localStorage.removeItem('prdata');
+    
+    // 清除课程列表
+    studyPlanDiv.innerHTML = studyPlanHeader;
+    
+    // 重置筛选器选项
+    const hostFilter = document.getElementById('hostFilter');
+    if (hostFilter) {
+        hostFilter.value = '';
+    }
+    
+    // 隐藏课程列表链接
+    studyPlanLink.style.display = 'none';
+    
+    // 重新生成课程表显示所有课程
+    genIt(null, true, true);
+}
 

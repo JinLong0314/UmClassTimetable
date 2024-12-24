@@ -97,6 +97,7 @@ div#timetable {
 	transform-origin:0 0;
 	-moz-transform:scale(1);
 	padding-top:30px;
+	cursor: pointer;
 }
 div.col {
 	width:130px;
@@ -106,11 +107,13 @@ div.col {
 	border-bottom:0;
 	margin:5px 0 5px 5px;
 	position: relative;
+	min-height: 840px;
 }
 div.col a {
 	-webkit-box-shadow: -3px 0 0 rgba(255,255,255,.75);
 	-moz-box-shadow: -3px 0 0 rgba(255,255,255,.75);
 	box-shadow: -3px 0 0 rgba(255,255,255,.75);
+	position: relative;
 }
 div.col a:hover {
 	-webkit-box-shadow: none;
@@ -861,3 +864,183 @@ p.br a {padding: 5px; font-size: 17px;}
 
 /*p.br a { padding: 0; }*/
 /*p.br a img { height: 23px; padding: 5px 15px; vertical-align: middle; }*/
+
+
+
+/* 添加清除搜索按钮样式 */
+.clear-search {
+	display: inline-block;
+	margin-left: 10px;
+	padding: 5px 10px;
+	color: #fff;
+	background-color: #ff6b6b;
+	border-radius: 3px;
+	font-size: 13px;
+	vertical-align: middle;
+	transition: background-color 0.2s ease;
+}
+
+.clear-search:hover {
+	background-color: #ff5252;
+}
+
+.clear-search i {
+	margin-right: 5px;
+}
+
+/* 添加筛选器样式 */
+.study-plan-header {
+	margin-bottom: 15px;
+}
+
+.host-filter {
+	margin-top: 10px;
+	padding: 8px;
+	background: #f5f5f5;
+	border-radius: 3px;
+}
+
+.host-filter label {
+	margin-right: 10px;
+	color: #666;
+}
+
+.host-filter select {
+	padding: 3px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	min-width: 150px;
+}
+
+.host-filter i {
+	margin-right: 5px;
+}
+
+div.col a .action-buttons {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	display: none;
+	background: rgba(255, 255, 255, 0.9);
+	z-index: 10;
+}
+
+div.col a:hover .action-buttons {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.action-button {
+	width: 50%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+	font-size: 16px;
+	cursor: pointer;
+	transition: background-color 0.2s;
+}
+
+.action-button.umeh {
+	background-color: rgba(30, 144, 255, 0.8);
+}
+
+.action-button.remove {
+	background-color: rgba(255, 69, 0, 0.8);
+}
+
+.action-button:hover {
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+/* 修改课程操作按钮容器样式 */
+.course-actions {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	display: none;
+	z-index: 20;
+}
+
+div.col a:hover .course-actions {
+	display: flex;
+	flex-direction: row; /* 确保水平排列 */
+}
+
+/* 修改操作按钮样式 */
+.course-action {
+	flex: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-decoration: none;
+	color: #fff;
+	font-size: 12px; /* 减小字体大小 */
+	transition: background-color 0.2s;
+	cursor: pointer;
+	border: none; /* 移除边框 */
+	padding: 0; /* 移除内边距 */
+	margin: 0; /* 移除外边距 */
+}
+
+/* UMEH按钮样式 */
+.course-action.umeh {
+	top: 20%;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	width: 60%;
+	background-color: rgba(30, 144, 255, 0.8);
+	border-radius: 4px 4px 4px 4px; /* 左侧圆角 */
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 添加阴影效果 */
+	transition: all 0.2s ease; /* 平滑过渡效果 */
+}
+
+/* 删除按钮样式 */
+.course-action.remove {
+	top: 60%;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	width: 60%;
+	background-color: rgba(255, 69, 0, 0.8);
+	border-radius: 4px 4px 4px 4px; /* 右侧圆角 */
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 添加阴影效果 */
+	transition: all 0.2s ease; /* 平滑过渡效果 */
+}
+
+.course-action.umeh:hover {
+	background-color: rgba(30, 144, 255, 1); /* UMEH按钮hover时加深蓝色 */
+}
+
+.course-action.remove:hover {
+	background-color: rgba(150, 40, 0, 0.9); /* 删除按钮hover时加深红色 */
+}
+
+.course-action i {
+	margin-right: 3px; /* 减小图标和文字的间距 */
+	font-size: 12px; /* 减小图标大小 */
+}
+
+/* 修改原有hover效果 */
+div.col a:hover {
+	overflow: visible; /* 确保按钮可见 */
+}
+
+div.col a:hover span.cross,
+div.col a:hover span.alt-text {
+	display: none;
+}
+
+/* 确保按钮文字不换行 */
+.course-action span {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}

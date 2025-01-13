@@ -16,8 +16,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FAH-DCH"
   },
   {
@@ -28,8 +28,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-G009",
     "remark": "",
+    "venue": "E21-G009",
     "host": "FAH-DCH"
   },
   {
@@ -40,8 +40,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-G009",
     "remark": "",
+    "venue": "E21-G009",
     "host": "FAH-DCH"
   },
   {
@@ -52,8 +52,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FAH-DCH"
   },
   {
@@ -64,8 +64,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
+    "remark": "",
     "venue": "E21-1029",
-    "remark": "",
     "host": "FAH-DCH"
   },
   {
@@ -76,8 +76,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1031",
     "remark": "",
+    "venue": "E21-1031",
     "host": "FAH-DCH"
   },
   {
@@ -88,8 +88,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1031",
     "remark": "",
+    "venue": "E21-1031",
     "host": "FAH-DCH"
   },
   {
@@ -100,8 +100,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1031",
     "remark": "",
+    "venue": "E21-1031",
     "host": "FAH-DCH"
   },
   {
@@ -112,8 +112,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1031",
     "remark": "",
+    "venue": "E21-1031",
     "host": "FAH-DCH"
   },
   {
@@ -124,8 +124,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FAH-DCH"
   },
   {
@@ -136,8 +136,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
+    "remark": "",
     "venue": "E21-1019",
-    "remark": "",
     "host": "FAH-DCH"
   },
   {
@@ -148,8 +148,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1027",
     "remark": "",
+    "venue": "E21-1027",
     "host": "FAH-DCH"
   },
   {
@@ -160,8 +160,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E21-1027",
-    "remark": "",
     "host": "FAH-DCH"
   },
   {
@@ -172,8 +172,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1017",
     "remark": "",
+    "venue": "E21-1017",
     "host": "FAH-DCH"
   },
   {
@@ -184,8 +184,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1017",
     "remark": "",
+    "venue": "E21-1017",
     "host": "FAH-DCH"
   },
   {
@@ -196,8 +196,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1046",
     "remark": "",
+    "venue": "E21-1046",
     "host": "FAH-DCH"
   },
   {
@@ -208,8 +208,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E21-1046",
-    "remark": "",
     "host": "FAH-DCH"
   },
   {
@@ -220,8 +220,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-1043",
     "remark": "",
+    "venue": "E3-1043",
     "host": "FAH-DCH"
   },
   {
@@ -232,8 +232,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E3-1043",
-    "remark": "",
     "host": "FAH-DCH"
   },
   {
@@ -244,8 +244,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-G016",
     "remark": "",
+    "venue": "E21-G016",
     "host": "FAH-DCH"
   },
   {
@@ -256,8 +256,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E21-G016",
-    "remark": "",
     "host": "FAH-DCH"
   },
   {
@@ -268,8 +268,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-4011",
     "remark": "",
+    "venue": "E22-4011",
     "host": "FAH-DCH"
   },
   {
@@ -280,8 +280,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-4011",
     "remark": "",
+    "venue": "E22-4011",
     "host": "FAH-DCH"
   },
   {
@@ -292,8 +292,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-4011",
     "remark": "",
+    "venue": "E22-4011",
     "host": "FAH-DCH"
   },
   {
@@ -304,8 +304,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-4011",
     "remark": "",
+    "venue": "E22-4011",
     "host": "FAH-DCH"
   },
   {
@@ -316,8 +316,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1031",
     "remark": "",
+    "venue": "E21-1031",
     "host": "FAH-DCH"
   },
   {
@@ -328,8 +328,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E21-1031",
-    "remark": "",
     "host": "FAH-DCH"
   },
   {
@@ -340,8 +340,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-4011",
     "remark": "",
+    "venue": "E22-4011",
     "host": "FAH-DCH"
   },
   {
@@ -352,8 +352,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E22-4011",
-    "remark": "",
     "host": "FAH-DCH"
   },
   {
@@ -364,8 +364,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1017",
     "remark": "",
+    "venue": "E21-1017",
     "host": "FAH-DCH"
   },
   {
@@ -376,8 +376,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1017",
     "remark": "",
+    "venue": "E21-1017",
     "host": "FAH-DCH"
   },
   {
@@ -388,8 +388,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-G009",
     "remark": "Class for :\n - FAH - CLL19\n",
+    "venue": "E21-G009",
     "host": "FAH-DCH"
   },
   {
@@ -400,8 +400,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-G009",
     "remark": "Class for :\n - FAH - CLL19\n",
+    "venue": "E21-G009",
     "host": "FAH-DCH"
   },
   {
@@ -412,8 +412,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1015",
     "remark": "Class for :\n - FAH - CLL19\n",
+    "venue": "E21-1015",
     "host": "FAH-DCH"
   },
   {
@@ -424,8 +424,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1015",
     "remark": "Class for :\n - FAH - CLL19\n",
+    "venue": "E21-1015",
     "host": "FAH-DCH"
   },
   {
@@ -436,8 +436,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-1027",
     "remark": "Class for :\n - FAH - CLL19\n",
+    "venue": "E21-1027",
     "host": "FAH-DCH"
   },
   {
@@ -448,8 +448,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E22-4015",
     "remark": "",
+    "venue": "E22-4015",
     "host": "FAH-DCH"
   },
   {
@@ -460,8 +460,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1056",
     "remark": "",
+    "venue": "E21-1056",
     "host": "FAH-DCH"
   },
   {
@@ -472,8 +472,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E21-1056",
-    "remark": "",
     "host": "FAH-DCH"
   },
   {
@@ -484,8 +484,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FAH-DCH"
   },
   {
@@ -496,8 +496,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
+    "remark": "",
     "venue": "E21-1030",
-    "remark": "",
     "host": "FAH-DCH"
   },
   {
@@ -508,8 +508,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-G037",
     "remark": "",
+    "venue": "E21-G037",
     "host": "FAH-DCH"
   },
   {
@@ -520,8 +520,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-G037",
     "remark": "",
+    "venue": "E21-G037",
     "host": "FAH-DCH"
   },
   {
@@ -532,8 +532,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1021",
     "remark": "Class for :\n - FAH - CLL19\n",
+    "venue": "E21-1021",
     "host": "FAH-DCH"
   },
   {
@@ -544,8 +544,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1021",
     "remark": "Class for :\n - FAH - CLL19\n",
+    "venue": "E21-1021",
     "host": "FAH-DCH"
   },
   {
@@ -556,8 +556,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-2109",
     "remark": "Class for :\n - FAH - CLL19\n",
+    "venue": "E21-2109",
     "host": "FAH-DCH"
   },
   {
@@ -568,8 +568,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-1039",
     "remark": "Class for :\n - FAH - CLL19\n",
+    "venue": "E21-1039",
     "host": "FAH-DCH"
   },
   {
@@ -580,8 +580,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-2111",
     "remark": "Class for :\n - FAH - CLL19\n",
+    "venue": "E21-2111",
     "host": "FAH-DCH"
   },
   {
@@ -592,8 +592,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E21-2115",
     "remark": "Class for :\n - FAH - CLL19\n",
+    "venue": "E21-2115",
     "host": "FAH-DCH"
   },
   {
@@ -604,8 +604,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-1032",
     "remark": "Class for :\n - FAH - CLL19\n",
+    "venue": "E21-1032",
     "host": "FAH-DCH"
   },
   {
@@ -616,8 +616,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-1045",
     "remark": "Class for :\n - FAH - CLL19\n",
+    "venue": "E21-1045",
     "host": "FAH-DCH"
   },
   {
@@ -628,8 +628,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -640,8 +640,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -652,8 +652,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -664,8 +664,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -676,8 +676,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -688,8 +688,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -700,8 +700,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-1052",
     "remark": "",
+    "venue": "E4-1052",
     "host": "FAH-DCH"
   },
   {
@@ -712,8 +712,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-1052",
     "remark": "",
+    "venue": "E4-1052",
     "host": "FAH-DCH"
   },
   {
@@ -724,8 +724,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -736,8 +736,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -748,8 +748,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-1052",
     "remark": "",
+    "venue": "E4-1052",
     "host": "FAH-DCH"
   },
   {
@@ -760,8 +760,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-1052",
     "remark": "",
+    "venue": "E4-1052",
     "host": "FAH-DCH"
   },
   {
@@ -772,8 +772,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -784,8 +784,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -796,8 +796,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -808,8 +808,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -820,8 +820,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-1052",
     "remark": "",
+    "venue": "E4-1052",
     "host": "FAH-DCH"
   },
   {
@@ -832,8 +832,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E4-1052",
-    "remark": "",
     "host": "FAH-DCH"
   },
   {
@@ -844,8 +844,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -856,8 +856,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -868,8 +868,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -880,8 +880,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -892,8 +892,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -904,8 +904,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -916,8 +916,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DCH"
   },
   {
@@ -928,8 +928,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DCH"
   },
   {
@@ -940,8 +940,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FAH-DCH"
   },
   {
@@ -952,8 +952,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FAH-DCH"
   },
   {
@@ -964,8 +964,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FAH-DCH"
   },
   {
@@ -976,8 +976,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
+    "remark": "",
     "venue": "E6-1113A",
-    "remark": "",
     "host": "FAH-DCH"
   },
   {
@@ -988,8 +988,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DCH"
   },
   {
@@ -1000,8 +1000,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
+    "remark": "",
     "venue": "E4-G053",
-    "remark": "",
     "host": "FAH-DCH"
   },
   {
@@ -1012,8 +1012,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E6-1102D",
     "remark": "",
+    "venue": "E6-1102D",
     "host": "FAH-DCH"
   },
   {
@@ -1024,8 +1024,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E6-1102D",
-    "remark": "",
     "host": "FAH-DCH"
   },
   {
@@ -1036,8 +1036,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -1048,8 +1048,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -1060,8 +1060,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1056",
     "remark": "",
+    "venue": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1072,8 +1072,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1056",
     "remark": "",
+    "venue": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1084,8 +1084,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1056",
     "remark": "",
+    "venue": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1096,8 +1096,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1056",
     "remark": "",
+    "venue": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1108,8 +1108,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1056",
     "remark": "",
+    "venue": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1120,8 +1120,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1056",
     "remark": "",
+    "venue": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1132,8 +1132,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1011",
     "remark": "",
+    "venue": "E21-1011",
     "host": "FAH-DENG"
   },
   {
@@ -1144,8 +1144,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E21-1011",
-    "remark": "",
     "host": "FAH-DENG"
   },
   {
@@ -1156,8 +1156,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1018",
     "remark": "",
+    "venue": "E21-1018",
     "host": "FAH-DENG"
   },
   {
@@ -1168,8 +1168,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1018",
     "remark": "",
+    "venue": "E21-1018",
     "host": "FAH-DENG"
   },
   {
@@ -1180,8 +1180,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1056",
     "remark": "",
+    "venue": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1192,8 +1192,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E21-1056",
-    "remark": "",
     "host": "FAH-DENG"
   },
   {
@@ -1204,8 +1204,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-2003",
     "remark": "",
+    "venue": "E21-2003",
     "host": "FAH-DENG"
   },
   {
@@ -1216,8 +1216,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E21-2003",
-    "remark": "",
     "host": "FAH-DENG"
   },
   {
@@ -1228,8 +1228,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DENG"
   },
   {
@@ -1240,8 +1240,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E21-1013",
-    "remark": "",
     "host": "FAH-DENG"
   },
   {
@@ -1252,8 +1252,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-3126",
     "remark": "",
+    "venue": "E21-3126",
     "host": "FAH-DENG"
   },
   {
@@ -1264,8 +1264,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-3126",
     "remark": "",
+    "venue": "E21-3126",
     "host": "FAH-DENG"
   },
   {
@@ -1276,8 +1276,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-3126",
     "remark": "",
+    "venue": "E21-3126",
     "host": "FAH-DENG"
   },
   {
@@ -1288,8 +1288,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-3126",
     "remark": "",
+    "venue": "E21-3126",
     "host": "FAH-DENG"
   },
   {
@@ -1300,8 +1300,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-3126",
     "remark": "",
+    "venue": "E21-3126",
     "host": "FAH-DENG"
   },
   {
@@ -1312,8 +1312,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E21-3126",
-    "remark": "",
     "host": "FAH-DENG"
   },
   {
@@ -1324,8 +1324,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1018",
     "remark": "",
+    "venue": "E21-1018",
     "host": "FAH-DENG"
   },
   {
@@ -1336,8 +1336,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
+    "remark": "",
     "venue": "E21-1018",
-    "remark": "",
     "host": "FAH-DENG"
   },
   {
@@ -1348,8 +1348,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1045",
     "remark": "",
+    "venue": "E21-1045",
     "host": "FAH-DENG"
   },
   {
@@ -1360,8 +1360,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1045",
     "remark": "",
+    "venue": "E21-1045",
     "host": "FAH-DENG"
   },
   {
@@ -1372,8 +1372,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1055",
     "remark": "",
+    "venue": "E21-1055",
     "host": "FAH-DENG"
   },
   {
@@ -1384,8 +1384,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E21-1055",
-    "remark": "",
     "host": "FAH-DENG"
   },
   {
@@ -1396,8 +1396,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-G037",
     "remark": "",
+    "venue": "E21-G037",
     "host": "FAH-DENG"
   },
   {
@@ -1408,8 +1408,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E21-G037",
-    "remark": "",
     "host": "FAH-DENG"
   },
   {
@@ -1420,8 +1420,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DENG"
   },
   {
@@ -1432,8 +1432,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DENG"
   },
   {
@@ -1444,8 +1444,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-3127",
     "remark": "",
+    "venue": "E21-3127",
     "host": "FAH-DENG"
   },
   {
@@ -1456,8 +1456,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E21-3127",
-    "remark": "",
     "host": "FAH-DENG"
   },
   {
@@ -1468,8 +1468,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1045",
     "remark": "",
+    "venue": "E21-1045",
     "host": "FAH-DENG"
   },
   {
@@ -1480,8 +1480,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E21-1045",
-    "remark": "",
     "host": "FAH-DENG"
   },
   {
@@ -1492,8 +1492,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DENG"
   },
   {
@@ -1504,8 +1504,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DENG"
   },
   {
@@ -1516,8 +1516,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3033",
     "remark": "",
+    "venue": "E3-3033",
     "host": "FAH-DENG"
   },
   {
@@ -1528,8 +1528,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3033",
     "remark": "",
+    "venue": "E3-3033",
     "host": "FAH-DENG"
   },
   {
@@ -1540,8 +1540,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-1046",
     "remark": "",
+    "venue": "E21-1046",
     "host": "FAH-DENG"
   },
   {
@@ -1552,8 +1552,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DENG"
   },
   {
@@ -1564,8 +1564,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DENG"
   },
   {
@@ -1576,8 +1576,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1046",
     "remark": "",
+    "venue": "E21-1046",
     "host": "FAH-DENG"
   },
   {
@@ -1588,8 +1588,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1046",
     "remark": "",
+    "venue": "E21-1046",
     "host": "FAH-DENG"
   },
   {
@@ -1600,8 +1600,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E3-1032",
     "remark": "",
+    "venue": "E3-1032",
     "host": "FAH-DENG"
   },
   {
@@ -1612,8 +1612,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-1043",
     "remark": "",
+    "venue": "E3-1043",
     "host": "FAH-DENG"
   },
   {
@@ -1624,8 +1624,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-1043",
     "remark": "",
+    "venue": "E3-1043",
     "host": "FAH-DENG"
   },
   {
@@ -1636,8 +1636,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2015",
     "remark": "",
+    "venue": "E22-2015",
     "host": "FAH-DENG"
   },
   {
@@ -1648,8 +1648,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2015",
     "remark": "",
+    "venue": "E22-2015",
     "host": "FAH-DENG"
   },
   {
@@ -1660,8 +1660,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FAH-DENG"
   },
   {
@@ -1672,8 +1672,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-G037",
     "remark": "",
+    "venue": "E21-G037",
     "host": "FAH-DENG"
   },
   {
@@ -1684,8 +1684,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-G037",
     "remark": "",
+    "venue": "E21-G037",
     "host": "FAH-DENG"
   },
   {
@@ -1696,8 +1696,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E21-2003",
     "remark": "",
+    "venue": "E21-2003",
     "host": "FAH-DENG"
   },
   {
@@ -1708,8 +1708,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "18:45",
+    "remark": "",
     "venue": "E21-2003",
-    "remark": "",
     "host": "FAH-DENG"
   },
   {
@@ -1720,8 +1720,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "FAH-DENG"
   },
   {
@@ -1732,8 +1732,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "FAH-DENG"
   },
   {
@@ -1744,8 +1744,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-1032",
     "remark": "",
+    "venue": "E3-1032",
     "host": "FAH-DENG"
   },
   {
@@ -1756,8 +1756,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-1032",
     "remark": "",
+    "venue": "E3-1032",
     "host": "FAH-DENG"
   },
   {
@@ -1768,8 +1768,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FAH-DENG"
   },
   {
@@ -1780,8 +1780,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E3-1032",
     "remark": "",
+    "venue": "E3-1032",
     "host": "FAH-DENG"
   },
   {
@@ -1792,8 +1792,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "17:15",
+    "remark": "",
     "venue": "E3-1032",
-    "remark": "",
     "host": "FAH-DENG"
   },
   {
@@ -1804,8 +1804,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DENG"
   },
   {
@@ -1816,8 +1816,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DENG"
   },
   {
@@ -1828,8 +1828,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-G068",
     "remark": "",
+    "venue": "E4-G068",
     "host": "FAH-DHIST"
   },
   {
@@ -1840,8 +1840,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
+    "remark": "",
     "venue": "E4-G068",
-    "remark": "",
     "host": "FAH-DHIST"
   },
   {
@@ -1852,8 +1852,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1063",
     "remark": "",
+    "venue": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1864,8 +1864,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1063",
     "remark": "",
+    "venue": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1876,8 +1876,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-1063",
     "remark": "",
+    "venue": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1888,8 +1888,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-1063",
     "remark": "",
+    "venue": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1900,8 +1900,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E4-1063",
     "remark": "",
+    "venue": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1912,8 +1912,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E4-1063",
     "remark": "",
+    "venue": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1924,8 +1924,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-1063",
     "remark": "",
+    "venue": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1936,8 +1936,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-1063",
     "remark": "",
+    "venue": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1948,8 +1948,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-1063",
     "remark": "",
+    "venue": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1960,8 +1960,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E4-1063",
-    "remark": "",
     "host": "FAH-DHIST"
   },
   {
@@ -1972,8 +1972,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3032",
     "remark": "",
+    "venue": "E3-3032",
     "host": "FAH-DHIST"
   },
   {
@@ -1984,8 +1984,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E3-3032",
-    "remark": "",
     "host": "FAH-DHIST"
   },
   {
@@ -1996,8 +1996,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FAH-DHIST"
   },
   {
@@ -2008,8 +2008,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
+    "remark": "",
     "venue": "E4-1051",
-    "remark": "",
     "host": "FAH-DHIST"
   },
   {
@@ -2020,8 +2020,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4032",
     "remark": "",
+    "venue": "E3-4032",
     "host": "FAH-DHIST"
   },
   {
@@ -2032,8 +2032,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E3-4032",
-    "remark": "",
     "host": "FAH-DHIST"
   },
   {
@@ -2044,8 +2044,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FAH-DHIST"
   },
   {
@@ -2056,8 +2056,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FAH-DHIST"
   },
   {
@@ -2068,8 +2068,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1031",
     "remark": "",
+    "venue": "E21-1031",
     "host": "FAH-DHIST"
   },
   {
@@ -2080,8 +2080,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1031",
     "remark": "",
+    "venue": "E21-1031",
     "host": "FAH-DHIST"
   },
   {
@@ -2092,8 +2092,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1031",
     "remark": "",
+    "venue": "E21-1031",
     "host": "FAH-DHIST"
   },
   {
@@ -2104,8 +2104,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1031",
     "remark": "",
+    "venue": "E21-1031",
     "host": "FAH-DHIST"
   },
   {
@@ -2116,8 +2116,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FAH-DHIST"
   },
   {
@@ -2128,8 +2128,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FAH-DHIST"
   },
   {
@@ -2140,8 +2140,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1031",
     "remark": "",
+    "venue": "E21-1031",
     "host": "FAH-DHIST"
   },
   {
@@ -2152,8 +2152,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1031",
     "remark": "",
+    "venue": "E21-1031",
     "host": "FAH-DHIST"
   },
   {
@@ -2164,8 +2164,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1015",
     "remark": "",
+    "venue": "E21-1015",
     "host": "FAH-DHIST"
   },
   {
@@ -2176,8 +2176,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1015",
     "remark": "",
+    "venue": "E21-1015",
     "host": "FAH-DHIST"
   },
   {
@@ -2188,8 +2188,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-1015",
     "remark": "",
+    "venue": "E21-1015",
     "host": "FAH-DHIST"
   },
   {
@@ -2200,8 +2200,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1027",
     "remark": "",
+    "venue": "E21-1027",
     "host": "FAH-DHIST"
   },
   {
@@ -2212,8 +2212,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1027",
     "remark": "",
+    "venue": "E21-1027",
     "host": "FAH-DHIST"
   },
   {
@@ -2224,8 +2224,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E21-1031",
     "remark": "",
+    "venue": "E21-1031",
     "host": "FAH-DHIST"
   },
   {
@@ -2236,8 +2236,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E21-1027",
     "remark": "",
+    "venue": "E21-1027",
     "host": "FAH-DHIST"
   },
   {
@@ -2245,11 +2245,11 @@ var courses_info = [
     "name": "Internship",
     "prof": "ZHU TIAN SHU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FAH-DHIST"
   },
   {
@@ -2257,11 +2257,11 @@ var courses_info = [
     "name": "Advanced History Writing II",
     "prof": "XIE JINGZHEN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FAH-DHIST"
   },
   {
@@ -2269,11 +2269,11 @@ var courses_info = [
     "name": "Advanced History Writing II",
     "prof": "JOSHUA PARR EHRLICH (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FAH-DHIST"
   },
   {
@@ -2281,11 +2281,11 @@ var courses_info = [
     "name": "Advanced History Writing II",
     "prof": "LIN SHAOYANG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FAH-DHIST"
   },
   {
@@ -2293,11 +2293,11 @@ var courses_info = [
     "name": "Advanced History Writing II",
     "prof": "SHEYLA SCHUVARTZ ZANDONAI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FAH-DHIST"
   },
   {
@@ -2305,11 +2305,11 @@ var courses_info = [
     "name": "Advanced History Writing II",
     "prof": "ZHU TIAN SHU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FAH-DHIST"
   },
   {
@@ -2317,11 +2317,11 @@ var courses_info = [
     "name": "Advanced History Writing II",
     "prof": "GUILLERMO FRANCISCO RICHARD RUIZ STOVEL (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FAH-DHIST"
   },
   {
@@ -2332,8 +2332,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1043",
     "remark": "",
+    "venue": "E21-1043",
     "host": "FAH-DJP"
   },
   {
@@ -2344,8 +2344,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1043",
     "remark": "",
+    "venue": "E21-1043",
     "host": "FAH-DJP"
   },
   {
@@ -2356,8 +2356,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1043",
     "remark": "",
+    "venue": "E21-1043",
     "host": "FAH-DJP"
   },
   {
@@ -2368,8 +2368,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E21-1043",
-    "remark": "",
     "host": "FAH-DJP"
   },
   {
@@ -2380,8 +2380,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1045",
     "remark": "",
+    "venue": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2392,8 +2392,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1045",
     "remark": "",
+    "venue": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2404,8 +2404,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1045",
     "remark": "",
+    "venue": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2416,8 +2416,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1045",
     "remark": "",
+    "venue": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2428,8 +2428,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-3127",
     "remark": "",
+    "venue": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2440,8 +2440,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-3127",
     "remark": "",
+    "venue": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2452,8 +2452,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-3127",
     "remark": "",
+    "venue": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2464,8 +2464,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-3127",
     "remark": "",
+    "venue": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2476,8 +2476,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G037",
     "remark": "",
+    "venue": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2488,8 +2488,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G037",
     "remark": "",
+    "venue": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2500,8 +2500,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G037",
     "remark": "",
+    "venue": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2512,8 +2512,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G037",
     "remark": "",
+    "venue": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2524,8 +2524,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1045",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2536,8 +2536,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1045",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2548,8 +2548,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1045",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2560,8 +2560,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
+    "remark": "Class not for :\n - FAH - JAP19\n",
     "venue": "E21-1045",
-    "remark": "Class not for :\n - FAH - JAP19\n",
     "host": "FAH-DJP"
   },
   {
@@ -2572,8 +2572,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-3127",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2584,8 +2584,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-3127",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2596,8 +2596,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1011",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-1011",
     "host": "FAH-DJP"
   },
   {
@@ -2608,8 +2608,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1011",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-1011",
     "host": "FAH-DJP"
   },
   {
@@ -2620,8 +2620,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-2003",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-2003",
     "host": "FAH-DJP"
   },
   {
@@ -2632,8 +2632,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-2003",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-2003",
     "host": "FAH-DJP"
   },
   {
@@ -2644,8 +2644,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-3127",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2656,8 +2656,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "Class not for :\n - FAH - JAP19\n",
     "venue": "E21-3127",
-    "remark": "Class not for :\n - FAH - JAP19\n",
     "host": "FAH-DJP"
   },
   {
@@ -2668,8 +2668,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-2003",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-2003",
     "host": "FAH-DJP"
   },
   {
@@ -2680,8 +2680,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
+    "remark": "Class not for :\n - FAH - JAP19\n",
     "venue": "E21-2003",
-    "remark": "Class not for :\n - FAH - JAP19\n",
     "host": "FAH-DJP"
   },
   {
@@ -2692,8 +2692,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1011",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-1011",
     "host": "FAH-DJP"
   },
   {
@@ -2704,8 +2704,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1011",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-1011",
     "host": "FAH-DJP"
   },
   {
@@ -2716,8 +2716,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1011",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-1011",
     "host": "FAH-DJP"
   },
   {
@@ -2728,8 +2728,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1011",
     "remark": "Class not for :\n - FAH - JAP19\n",
+    "venue": "E21-1011",
     "host": "FAH-DJP"
   },
   {
@@ -2740,8 +2740,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1056",
     "remark": "",
+    "venue": "E21-1056",
     "host": "FAH-DJP"
   },
   {
@@ -2752,8 +2752,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1056",
     "remark": "",
+    "venue": "E21-1056",
     "host": "FAH-DJP"
   },
   {
@@ -2764,8 +2764,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1044",
     "remark": "",
+    "venue": "E21-1044",
     "host": "FAH-DJP"
   },
   {
@@ -2776,8 +2776,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1044",
     "remark": "",
+    "venue": "E21-1044",
     "host": "FAH-DJP"
   },
   {
@@ -2788,8 +2788,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-G037",
     "remark": "",
+    "venue": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2800,8 +2800,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-G037",
     "remark": "",
+    "venue": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2812,8 +2812,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DJP"
   },
   {
@@ -2824,8 +2824,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
+    "remark": "",
     "venue": "E21-1016",
-    "remark": "",
     "host": "FAH-DJP"
   },
   {
@@ -2836,8 +2836,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1015",
     "remark": "",
+    "venue": "E21-1015",
     "host": "FAH-DJP"
   },
   {
@@ -2848,8 +2848,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1015",
     "remark": "",
+    "venue": "E21-1015",
     "host": "FAH-DJP"
   },
   {
@@ -2860,8 +2860,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-G037",
     "remark": "",
+    "venue": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2872,8 +2872,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-G037",
     "remark": "",
+    "venue": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2884,8 +2884,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-G037",
     "remark": "",
+    "venue": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2896,8 +2896,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
+    "remark": "",
     "venue": "E21-G037",
-    "remark": "",
     "host": "FAH-DJP"
   },
   {
@@ -2908,8 +2908,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1044",
     "remark": "Class for :\n - FAH - JAP19\n - FAH - JSM19\n",
+    "venue": "E21-1044",
     "host": "FAH-DJP"
   },
   {
@@ -2920,8 +2920,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1044",
     "remark": "Class for :\n - FAH - JAP19\n - FAH - JSM19\n",
+    "venue": "E21-1044",
     "host": "FAH-DJP"
   },
   {
@@ -2932,8 +2932,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-2115",
     "remark": "Class for :\n - FAH - JAP19\n",
+    "venue": "E21-2115",
     "host": "FAH-DJP"
   },
   {
@@ -2944,8 +2944,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-2115",
     "remark": "Class for :\n - FAH - JAP19\n",
+    "venue": "E21-2115",
     "host": "FAH-DJP"
   },
   {
@@ -2956,8 +2956,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-2115",
     "remark": "Class for :\n - FAH - JAP19\n",
+    "venue": "E21-2115",
     "host": "FAH-DJP"
   },
   {
@@ -2968,8 +2968,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
+    "remark": "Class for :\n - FAH - JAP19\n",
     "venue": "E21-2115",
-    "remark": "Class for :\n - FAH - JAP19\n",
     "host": "FAH-DJP"
   },
   {
@@ -2980,8 +2980,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1056",
     "remark": "Class for :\n - FAH - JAP19\n",
+    "venue": "E21-1056",
     "host": "FAH-DJP"
   },
   {
@@ -2992,8 +2992,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
+    "remark": "Class for :\n - FAH - JAP19\n",
     "venue": "E21-1056",
-    "remark": "Class for :\n - FAH - JAP19\n",
     "host": "FAH-DJP"
   },
   {
@@ -3004,8 +3004,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1018",
     "remark": "Class for :\n - FAH - JAP19\n",
+    "venue": "E21-1018",
     "host": "FAH-DJP"
   },
   {
@@ -3016,8 +3016,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
+    "remark": "Class for :\n - FAH - JAP19\n",
     "venue": "E21-1018",
-    "remark": "Class for :\n - FAH - JAP19\n",
     "host": "FAH-DJP"
   },
   {
@@ -3028,8 +3028,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1015",
     "remark": "Class for :\n - FAH - JAP19\n",
+    "venue": "E21-1015",
     "host": "FAH-DJP"
   },
   {
@@ -3040,8 +3040,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "Class for :\n - FAH - JAP19\n",
     "venue": "E21-1015",
-    "remark": "Class for :\n - FAH - JAP19\n",
     "host": "FAH-DJP"
   },
   {
@@ -3052,8 +3052,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1031",
     "remark": "Class for :\n - FAH - JAP19\n",
+    "venue": "E21-1031",
     "host": "FAH-DJP"
   },
   {
@@ -3064,8 +3064,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
+    "remark": "Class for :\n - FAH - JAP19\n",
     "venue": "E21-1031",
-    "remark": "Class for :\n - FAH - JAP19\n",
     "host": "FAH-DJP"
   },
   {
@@ -3076,8 +3076,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G012",
     "remark": "Class for :\n - FAH - JAP19\n",
+    "venue": "E21-G012",
     "host": "FAH-DJP"
   },
   {
@@ -3088,8 +3088,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G012",
     "remark": "Class for :\n - FAH - JAP19\n",
+    "venue": "E21-G012",
     "host": "FAH-DJP"
   },
   {
@@ -3100,8 +3100,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3112,8 +3112,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3124,8 +3124,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1102D",
     "remark": "",
+    "venue": "E6-1102D",
     "host": "FAH-DPHIL"
   },
   {
@@ -3136,8 +3136,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E6-1102D",
-    "remark": "",
     "host": "FAH-DPHIL"
   },
   {
@@ -3148,8 +3148,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3160,8 +3160,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3172,8 +3172,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3184,8 +3184,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3196,8 +3196,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3208,8 +3208,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3220,8 +3220,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3232,8 +3232,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3244,8 +3244,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3256,8 +3256,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3268,8 +3268,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3280,8 +3280,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3292,8 +3292,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3304,8 +3304,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3316,8 +3316,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3328,8 +3328,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3340,8 +3340,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3352,8 +3352,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3364,8 +3364,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3376,8 +3376,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3388,8 +3388,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3400,8 +3400,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3412,8 +3412,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3424,8 +3424,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3436,8 +3436,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3448,8 +3448,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E6-1102C",
-    "remark": "",
     "host": "FAH-DPHIL"
   },
   {
@@ -3460,8 +3460,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3472,8 +3472,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3484,8 +3484,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3496,8 +3496,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3508,8 +3508,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E3-3033",
     "remark": "",
+    "venue": "E3-3033",
     "host": "FAH-DPHIL"
   },
   {
@@ -3520,8 +3520,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-1017",
     "remark": "",
+    "venue": "E21-1017",
     "host": "FAH-DPHIL"
   },
   {
@@ -3532,8 +3532,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E21-1027",
     "remark": "",
+    "venue": "E21-1027",
     "host": "FAH-DPHIL"
   },
   {
@@ -3544,8 +3544,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-1046",
     "remark": "",
+    "venue": "E21-1046",
     "host": "FAH-DPHIL"
   },
   {
@@ -3556,8 +3556,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E3-3033",
     "remark": "",
+    "venue": "E3-3033",
     "host": "FAH-DPHIL"
   },
   {
@@ -3568,8 +3568,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E21-G035",
     "remark": "",
+    "venue": "E21-G035",
     "host": "FAH-DPHIL"
   },
   {
@@ -3580,8 +3580,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1042",
     "remark": "",
+    "venue": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3592,8 +3592,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1042",
     "remark": "",
+    "venue": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3604,8 +3604,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1042",
     "remark": "",
+    "venue": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3616,8 +3616,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1042",
     "remark": "",
+    "venue": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3628,8 +3628,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1042",
     "remark": "",
+    "venue": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3640,8 +3640,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1042",
     "remark": "",
+    "venue": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3652,8 +3652,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1042",
     "remark": "",
+    "venue": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3664,8 +3664,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E21-1042",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -3676,8 +3676,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3688,8 +3688,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3700,8 +3700,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3712,8 +3712,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3724,8 +3724,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3736,8 +3736,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3748,8 +3748,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1052",
     "remark": "",
+    "venue": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -3760,8 +3760,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1052",
     "remark": "",
+    "venue": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -3772,8 +3772,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1011",
     "remark": "",
+    "venue": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -3784,8 +3784,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1011",
     "remark": "",
+    "venue": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -3796,8 +3796,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3808,8 +3808,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3820,8 +3820,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1011",
     "remark": "",
+    "venue": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -3832,8 +3832,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1011",
     "remark": "",
+    "venue": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -3844,8 +3844,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -3856,8 +3856,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
+    "remark": "",
     "venue": "E21-1013",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -3868,8 +3868,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-3126 / E21-1038",
     "remark": "",
+    "venue": "E21-3126 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -3880,8 +3880,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-3126 / E21-1038",
     "remark": "",
+    "venue": "E21-3126 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -3892,8 +3892,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-3126 / E21-1038",
     "remark": "",
+    "venue": "E21-3126 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -3904,8 +3904,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E21-3126 / E21-1038",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -3916,8 +3916,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1040 / E21-1020",
     "remark": "",
+    "venue": "E21-1040 / E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -3928,8 +3928,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1040 / E21-1020",
     "remark": "",
+    "venue": "E21-1040 / E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -3940,8 +3940,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1040 / E21-1020",
     "remark": "",
+    "venue": "E21-1040 / E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -3952,8 +3952,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1040 / E21-1020",
     "remark": "",
+    "venue": "E21-1040 / E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -3964,8 +3964,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1020 / E21-1038",
     "remark": "",
+    "venue": "E21-1020 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -3976,8 +3976,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1020 / E21-1038",
     "remark": "",
+    "venue": "E21-1020 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -3988,8 +3988,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1020 / E21-1038",
     "remark": "",
+    "venue": "E21-1020 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -4000,8 +4000,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1020 / E21-1038",
     "remark": "",
+    "venue": "E21-1020 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -4012,8 +4012,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1020 / E21-1038",
     "remark": "",
+    "venue": "E21-1020 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -4024,8 +4024,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1020 / E21-1038",
     "remark": "",
+    "venue": "E21-1020 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -4036,8 +4036,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E21-1018 / E21-1038",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -4048,8 +4048,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E21-1018 / E21-1038",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -4060,8 +4060,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1018",
     "remark": "",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -4072,8 +4072,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1018",
     "remark": "",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -4084,8 +4084,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4096,8 +4096,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4108,8 +4108,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E21-1018",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -4120,8 +4120,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E21-1018",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -4132,8 +4132,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4144,8 +4144,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4156,8 +4156,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1052",
     "remark": "",
+    "venue": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4168,8 +4168,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1052",
     "remark": "",
+    "venue": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4180,8 +4180,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1052",
     "remark": "",
+    "venue": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4192,8 +4192,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1052",
     "remark": "",
+    "venue": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4204,8 +4204,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1052",
     "remark": "",
+    "venue": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4216,8 +4216,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1052",
     "remark": "",
+    "venue": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4228,8 +4228,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1052",
     "remark": "",
+    "venue": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4240,8 +4240,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E21-1052",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -4252,8 +4252,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4264,8 +4264,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4276,8 +4276,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4288,8 +4288,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4300,8 +4300,8 @@ var courses_info = [
     "day": "MON",
     "start": "20:30",
     "end": "21:45",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4312,20 +4312,8 @@ var courses_info = [
     "day": "THU",
     "start": "20:30",
     "end": "21:45",
-    "venue": "E21-1020",
     "remark": "",
-    "host": "FAH-DPT"
-  },
-  {
-    "code": "PORT1004-010",
-    "name": "Oral Comprehension and Production Skills II",
-    "prof": "JOSÉ FERNANDO LINO PASCOAL / VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
-    "type": "Lab",
-    "day": "TUE",
-    "start": "20:30",
-    "end": "21:45",
     "venue": "E21-1020",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -4333,11 +4321,23 @@ var courses_info = [
     "name": "Oral Comprehension and Production Skills II",
     "prof": "JOSÉ FERNANDO LINO PASCOAL / VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
     "type": "Lab",
+    "day": "TUE",
+    "start": "20:30",
+    "end": "21:45",
+    "remark": "",
+    "venue": "E21-1020",
+    "host": "FAH-DPT"
+  },
+  {
+    "code": "PORT1004-010",
+    "name": "Oral Comprehension and Production Skills II",
+    "prof": "JOSÉ FERNANDO LINO PASCOAL / VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
+    "type": "Lab",
     "day": "FRI",
     "start": "20:30",
     "end": "21:45",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4348,8 +4348,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-2003",
     "remark": "",
+    "venue": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4360,8 +4360,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-2003",
     "remark": "",
+    "venue": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4372,8 +4372,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-2003",
     "remark": "",
+    "venue": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4384,8 +4384,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-2003",
     "remark": "",
+    "venue": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4396,8 +4396,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-2003",
     "remark": "",
+    "venue": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4408,8 +4408,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-2003",
     "remark": "",
+    "venue": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4420,8 +4420,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-2003",
     "remark": "",
+    "venue": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4432,8 +4432,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E21-2003",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -4444,8 +4444,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4456,8 +4456,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4468,8 +4468,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4480,8 +4480,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4492,8 +4492,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4504,8 +4504,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4516,8 +4516,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4528,8 +4528,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4540,8 +4540,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4552,8 +4552,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4564,8 +4564,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4576,8 +4576,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4588,8 +4588,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4600,8 +4600,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4612,8 +4612,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4624,8 +4624,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E21-1016",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -4636,8 +4636,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1011",
     "remark": "",
+    "venue": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4648,8 +4648,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1011",
     "remark": "",
+    "venue": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4660,8 +4660,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1011",
     "remark": "",
+    "venue": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4672,8 +4672,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1011",
     "remark": "",
+    "venue": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4684,8 +4684,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1011",
     "remark": "",
+    "venue": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4696,8 +4696,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1011",
     "remark": "",
+    "venue": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4708,8 +4708,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1011",
     "remark": "",
+    "venue": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4720,8 +4720,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1011",
     "remark": "",
+    "venue": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4732,8 +4732,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -4744,8 +4744,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -4756,8 +4756,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -4768,8 +4768,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-G011",
     "remark": "",
+    "venue": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -4780,8 +4780,8 @@ var courses_info = [
     "day": "MON",
     "start": "19:00",
     "end": "20:15",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4792,8 +4792,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:00",
     "end": "20:15",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4804,8 +4804,8 @@ var courses_info = [
     "day": "THU",
     "start": "19:00",
     "end": "20:15",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4816,8 +4816,8 @@ var courses_info = [
     "day": "FRI",
     "start": "19:00",
     "end": "20:15",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4828,8 +4828,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1037",
     "remark": "",
+    "venue": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4840,8 +4840,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1037",
     "remark": "",
+    "venue": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4852,8 +4852,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1037",
     "remark": "",
+    "venue": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4864,8 +4864,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1037",
     "remark": "",
+    "venue": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4876,8 +4876,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1037",
     "remark": "",
+    "venue": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4888,8 +4888,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1037",
     "remark": "",
+    "venue": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4900,8 +4900,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1037",
     "remark": "",
+    "venue": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4912,8 +4912,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E21-1037",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -4924,8 +4924,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1018",
     "remark": "",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -4936,8 +4936,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1018",
     "remark": "",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -4948,8 +4948,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1018",
     "remark": "",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -4960,8 +4960,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1018",
     "remark": "",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -4972,8 +4972,8 @@ var courses_info = [
     "day": "WED",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1020",
     "remark": "",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4984,8 +4984,8 @@ var courses_info = [
     "day": "SAT",
     "start": "13:00",
     "end": "14:15",
+    "remark": "",
     "venue": "E21-1020",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -4996,8 +4996,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-3126 / E21-1040",
     "remark": "",
+    "venue": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5008,8 +5008,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-3126 / E21-1040",
     "remark": "",
+    "venue": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5020,8 +5020,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-3126 / E21-1040",
     "remark": "",
+    "venue": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5032,8 +5032,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-3126 / E21-1040",
     "remark": "",
+    "venue": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5044,8 +5044,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-3126 / E21-1040",
     "remark": "",
+    "venue": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5056,8 +5056,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-3126 / E21-1040",
     "remark": "",
+    "venue": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5068,8 +5068,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-3126 / E21-1040",
     "remark": "",
+    "venue": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5080,8 +5080,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-3126 / E21-1040",
     "remark": "",
+    "venue": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5092,8 +5092,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
+    "remark": "",
     "venue": "E21-1040 / E21-1020",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -5104,8 +5104,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
+    "remark": "",
     "venue": "E21-1040 / E21-1020",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -5116,8 +5116,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1040 / E21-1011",
     "remark": "",
+    "venue": "E21-1040 / E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -5128,8 +5128,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
+    "remark": "",
     "venue": "E21-1040 / E21-1011",
-    "remark": "",
     "host": "FAH-DPT"
   },
   {
@@ -5140,8 +5140,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5152,8 +5152,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5164,8 +5164,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5176,8 +5176,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5188,8 +5188,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5200,8 +5200,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5212,8 +5212,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5224,8 +5224,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5236,8 +5236,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5248,8 +5248,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5260,8 +5260,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5272,8 +5272,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5284,8 +5284,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5296,8 +5296,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5308,8 +5308,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5320,8 +5320,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5332,8 +5332,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5344,8 +5344,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5356,8 +5356,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5368,8 +5368,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1013",
     "remark": "",
+    "venue": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5380,8 +5380,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5392,8 +5392,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5404,8 +5404,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5416,8 +5416,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1016",
     "remark": "",
+    "venue": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5428,8 +5428,8 @@ var courses_info = [
     "day": "MON",
     "start": "19:00",
     "end": "20:15",
-    "venue": "E21-3126",
     "remark": "",
+    "venue": "E21-3126",
     "host": "FAH-DPT"
   },
   {
@@ -5440,8 +5440,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:00",
     "end": "20:15",
-    "venue": "E21-3126",
     "remark": "",
+    "venue": "E21-3126",
     "host": "FAH-DPT"
   },
   {
@@ -5452,8 +5452,8 @@ var courses_info = [
     "day": "THU",
     "start": "19:00",
     "end": "20:15",
-    "venue": "E21-3126",
     "remark": "",
+    "venue": "E21-3126",
     "host": "FAH-DPT"
   },
   {
@@ -5464,8 +5464,8 @@ var courses_info = [
     "day": "FRI",
     "start": "19:00",
     "end": "20:15",
-    "venue": "E21-3126",
     "remark": "",
+    "venue": "E21-3126",
     "host": "FAH-DPT"
   },
   {
@@ -5476,8 +5476,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1020",
     "remark": "Class for :\n - FAH - PTS17 / PTS19\n",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5488,8 +5488,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1020",
     "remark": "Class for :\n - FAH - PTS17 / PTS19\n",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5500,8 +5500,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1018",
     "remark": "Class for :\n - FAH - PTS17 / PTS19\n",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5512,8 +5512,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1018",
     "remark": "Class for :\n - FAH - PTS17 / PTS19\n",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5524,8 +5524,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1020",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5536,8 +5536,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1020",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5548,8 +5548,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1020",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5560,8 +5560,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1020",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5572,8 +5572,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1018",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5584,8 +5584,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1018",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5596,8 +5596,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-3126",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-3126",
     "host": "FAH-DPT"
   },
   {
@@ -5608,8 +5608,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
+    "remark": "Class for :\n - FAH - PTS19\n",
     "venue": "E21-3126",
-    "remark": "Class for :\n - FAH - PTS19\n",
     "host": "FAH-DPT"
   },
   {
@@ -5620,8 +5620,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1011",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -5632,8 +5632,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
+    "remark": "Class for :\n - FAH - PTS19\n",
     "venue": "E21-1011",
-    "remark": "Class for :\n - FAH - PTS19\n",
     "host": "FAH-DPT"
   },
   {
@@ -5644,8 +5644,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1018",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5656,8 +5656,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1018",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5668,8 +5668,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1018",
     "remark": "Class for :\n - FAH - PTS19\n - FLL - BLL18\n",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5680,8 +5680,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1018",
     "remark": "Class for :\n - FAH - PTS19\n - FLL - BLL18\n",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5692,8 +5692,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1018",
     "remark": "Class for :\n - FAH - PTS19\n - FLL - BLL18\n",
+    "venue": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5704,8 +5704,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "Class for :\n - FAH - PTS19\n - FLL - BLL18\n",
     "venue": "E21-1018",
-    "remark": "Class for :\n - FAH - PTS19\n - FLL - BLL18\n",
     "host": "FAH-DPT"
   },
   {
@@ -5716,8 +5716,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1056",
     "remark": "Class for :\n - FAH - PTS19\n - FLL - BLL18\n",
+    "venue": "E21-1056",
     "host": "FAH-DPT"
   },
   {
@@ -5728,8 +5728,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1056",
     "remark": "Class for :\n - FAH - PTS19\n - FLL - BLL18\n",
+    "venue": "E21-1056",
     "host": "FAH-DPT"
   },
   {
@@ -5740,8 +5740,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-2106",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-2106",
     "host": "FAH-DPT"
   },
   {
@@ -5752,8 +5752,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-2106",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-2106",
     "host": "FAH-DPT"
   },
   {
@@ -5764,8 +5764,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1020",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5776,8 +5776,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
+    "remark": "Class for :\n - FAH - PTS19\n",
     "venue": "E21-1020",
-    "remark": "Class for :\n - FAH - PTS19\n",
     "host": "FAH-DPT"
   },
   {
@@ -5788,8 +5788,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-2109",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-2109",
     "host": "FAH-DPT"
   },
   {
@@ -5800,8 +5800,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
+    "remark": "Class for :\n - FAH - PTS19\n",
     "venue": "E21-2109",
-    "remark": "Class for :\n - FAH - PTS19\n",
     "host": "FAH-DPT"
   },
   {
@@ -5812,8 +5812,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-2115",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-2115",
     "host": "FAH-DPT"
   },
   {
@@ -5824,8 +5824,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-2115",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-2115",
     "host": "FAH-DPT"
   },
   {
@@ -5836,8 +5836,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-2115",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-2115",
     "host": "FAH-DPT"
   },
   {
@@ -5848,8 +5848,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "Class for :\n - FAH - PTS19\n",
     "venue": "E21-2115",
-    "remark": "Class for :\n - FAH - PTS19\n",
     "host": "FAH-DPT"
   },
   {
@@ -5860,8 +5860,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-2106",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-2106",
     "host": "FAH-DPT"
   },
   {
@@ -5872,8 +5872,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "Class for :\n - FAH - PTS19\n",
     "venue": "E21-2106",
-    "remark": "Class for :\n - FAH - PTS19\n",
     "host": "FAH-DPT"
   },
   {
@@ -5884,8 +5884,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1039",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-1039",
     "host": "FAH-DPT"
   },
   {
@@ -5896,8 +5896,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
+    "remark": "Class for :\n - FAH - PTS19\n",
     "venue": "E21-1039",
-    "remark": "Class for :\n - FAH - PTS19\n",
     "host": "FAH-DPT"
   },
   {
@@ -5908,8 +5908,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-2111",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-2111",
     "host": "FAH-DPT"
   },
   {
@@ -5920,8 +5920,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-2111",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-2111",
     "host": "FAH-DPT"
   },
   {
@@ -5932,8 +5932,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-2111",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-2111",
     "host": "FAH-DPT"
   },
   {
@@ -5944,8 +5944,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-2111",
     "remark": "Class for :\n - FAH - PTS19\n",
+    "venue": "E21-2111",
     "host": "FAH-DPT"
   },
   {
@@ -5956,8 +5956,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-3055",
     "remark": "",
+    "venue": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -5968,8 +5968,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-3055",
     "remark": "",
+    "venue": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -5980,8 +5980,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-3055",
     "remark": "",
+    "venue": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -5992,8 +5992,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-3055",
     "remark": "",
+    "venue": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -6004,8 +6004,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -6016,8 +6016,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -6028,8 +6028,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -6040,8 +6040,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E3-4034",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -6052,8 +6052,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6064,8 +6064,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6076,8 +6076,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6088,8 +6088,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6100,8 +6100,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6112,8 +6112,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6124,8 +6124,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6136,8 +6136,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6148,8 +6148,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6160,8 +6160,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6172,8 +6172,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6184,8 +6184,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6196,8 +6196,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6208,8 +6208,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6220,8 +6220,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6232,8 +6232,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6244,8 +6244,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6256,8 +6256,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6268,8 +6268,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6280,8 +6280,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6292,8 +6292,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6304,8 +6304,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6316,8 +6316,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6328,8 +6328,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E4-3053",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -6340,8 +6340,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6352,8 +6352,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6364,8 +6364,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6376,8 +6376,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6388,8 +6388,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-2043",
     "remark": "",
+    "venue": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -6400,8 +6400,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-2043",
     "remark": "",
+    "venue": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -6412,8 +6412,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-2043",
     "remark": "",
+    "venue": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -6424,8 +6424,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E3-2043",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -6436,8 +6436,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6448,8 +6448,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6460,8 +6460,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6472,8 +6472,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E3-4033",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -6484,8 +6484,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6496,8 +6496,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6508,8 +6508,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6520,8 +6520,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6532,8 +6532,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6544,8 +6544,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6556,8 +6556,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6568,8 +6568,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6580,8 +6580,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6592,8 +6592,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6604,8 +6604,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6616,8 +6616,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E3-3044",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -6628,8 +6628,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6640,8 +6640,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6652,8 +6652,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6664,8 +6664,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6676,8 +6676,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6688,8 +6688,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6700,8 +6700,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6712,8 +6712,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E3-3042",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -6724,8 +6724,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6736,8 +6736,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6748,8 +6748,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6760,8 +6760,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6772,8 +6772,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -6784,8 +6784,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -6796,8 +6796,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -6808,8 +6808,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -6820,8 +6820,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6832,8 +6832,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6844,8 +6844,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6856,8 +6856,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6868,8 +6868,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6880,8 +6880,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6892,8 +6892,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6904,8 +6904,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6916,8 +6916,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-3055",
     "remark": "",
+    "venue": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -6928,8 +6928,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-3055",
     "remark": "",
+    "venue": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -6940,8 +6940,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-3055",
     "remark": "",
+    "venue": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -6952,8 +6952,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E4-3055",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -6964,8 +6964,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6976,8 +6976,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6988,8 +6988,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -7000,8 +7000,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -7012,8 +7012,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7024,8 +7024,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7036,8 +7036,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7048,8 +7048,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7060,8 +7060,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7072,8 +7072,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7084,8 +7084,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7096,8 +7096,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7108,8 +7108,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7120,8 +7120,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7132,8 +7132,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7144,8 +7144,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7156,8 +7156,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7168,8 +7168,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7180,8 +7180,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7192,8 +7192,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E4-3053",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -7204,8 +7204,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7216,8 +7216,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7228,8 +7228,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7240,8 +7240,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E3-3044",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -7252,8 +7252,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7264,8 +7264,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7276,8 +7276,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7288,8 +7288,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7300,8 +7300,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -7312,8 +7312,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -7324,8 +7324,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -7336,8 +7336,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -7348,8 +7348,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -7360,8 +7360,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -7372,8 +7372,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -7384,8 +7384,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -7396,8 +7396,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7408,8 +7408,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7420,8 +7420,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7432,8 +7432,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7444,8 +7444,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7456,8 +7456,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7468,8 +7468,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7480,8 +7480,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7492,8 +7492,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7504,8 +7504,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7516,8 +7516,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7528,8 +7528,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7540,8 +7540,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7552,8 +7552,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7564,8 +7564,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7576,8 +7576,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7588,8 +7588,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7600,8 +7600,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7612,8 +7612,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7624,8 +7624,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7636,8 +7636,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7648,8 +7648,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7660,8 +7660,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7672,8 +7672,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7684,8 +7684,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7696,8 +7696,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7708,8 +7708,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7720,8 +7720,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7732,8 +7732,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7744,8 +7744,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7756,8 +7756,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7768,8 +7768,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7780,8 +7780,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7792,8 +7792,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7804,8 +7804,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7816,8 +7816,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7828,8 +7828,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7840,8 +7840,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
+    "remark": "",
     "venue": "E3-4034",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -7852,8 +7852,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7864,8 +7864,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7876,8 +7876,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7888,8 +7888,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7900,8 +7900,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-3055",
     "remark": "",
+    "venue": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -7912,8 +7912,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E4-3055",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -7924,8 +7924,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4033",
     "remark": "",
+    "venue": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7936,8 +7936,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E3-4033",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -7948,8 +7948,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -7960,8 +7960,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -7972,8 +7972,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -7984,8 +7984,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -7996,8 +7996,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8008,8 +8008,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8020,8 +8020,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8032,8 +8032,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8044,8 +8044,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8056,8 +8056,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8068,8 +8068,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8080,8 +8080,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8092,8 +8092,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8104,8 +8104,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8116,8 +8116,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8128,8 +8128,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8140,8 +8140,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-2043",
     "remark": "",
+    "venue": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8152,8 +8152,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-2043",
     "remark": "",
+    "venue": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8164,8 +8164,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-2043",
     "remark": "",
+    "venue": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8176,8 +8176,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-2043",
     "remark": "",
+    "venue": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8188,8 +8188,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -8200,8 +8200,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -8212,8 +8212,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-2043",
     "remark": "",
+    "venue": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8224,8 +8224,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-2043",
     "remark": "",
+    "venue": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8236,8 +8236,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -8248,8 +8248,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E3-2032",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -8260,8 +8260,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-2043",
     "remark": "",
+    "venue": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8272,8 +8272,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E3-2043",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -8284,8 +8284,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-4035",
     "remark": "",
+    "venue": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8296,8 +8296,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
+    "remark": "",
     "venue": "E3-4035",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -8308,8 +8308,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8320,8 +8320,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8332,8 +8332,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8344,8 +8344,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8356,8 +8356,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8368,8 +8368,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8380,8 +8380,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8392,8 +8392,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8404,8 +8404,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8416,8 +8416,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8428,8 +8428,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8440,8 +8440,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8452,8 +8452,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8464,8 +8464,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8476,8 +8476,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8488,8 +8488,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8500,8 +8500,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-3034",
     "remark": "",
+    "venue": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8512,8 +8512,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E3-3034",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -8524,8 +8524,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-2102",
     "remark": "",
+    "venue": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8536,8 +8536,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-2102",
     "remark": "",
+    "venue": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8548,8 +8548,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-2102",
     "remark": "",
+    "venue": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8560,8 +8560,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-2102",
     "remark": "",
+    "venue": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8572,8 +8572,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-2102",
     "remark": "",
+    "venue": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8584,8 +8584,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-2102",
     "remark": "",
+    "venue": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8596,8 +8596,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E6-2102",
     "remark": "",
+    "venue": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8608,8 +8608,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E6-2102",
-    "remark": "",
     "host": "FAH-ELC"
   },
   {
@@ -8620,8 +8620,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -8632,8 +8632,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -8644,8 +8644,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -8656,8 +8656,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E4-3053",
     "remark": "",
+    "venue": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -8668,8 +8668,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -8680,8 +8680,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -8692,8 +8692,8 @@ var courses_info = [
     "day": "WED",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -8704,8 +8704,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:00",
     "end": "11:50",
-    "venue": "E4-G060",
     "remark": "",
+    "venue": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -8716,8 +8716,8 @@ var courses_info = [
     "day": "WED",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -8728,8 +8728,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:30",
     "end": "15:20",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -8740,8 +8740,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "10:50",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8752,8 +8752,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:30",
     "end": "11:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -8764,8 +8764,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:00",
     "end": "11:50",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8776,8 +8776,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -8788,8 +8788,8 @@ var courses_info = [
     "day": "TUE",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8800,8 +8800,8 @@ var courses_info = [
     "day": "TUE",
     "start": "12:30",
     "end": "13:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -8812,8 +8812,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "13:50",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8824,8 +8824,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:30",
     "end": "14:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -8836,8 +8836,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:00",
     "end": "14:50",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8848,8 +8848,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -8860,8 +8860,8 @@ var courses_info = [
     "day": "TUE",
     "start": "15:00",
     "end": "15:50",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8872,8 +8872,8 @@ var courses_info = [
     "day": "TUE",
     "start": "15:30",
     "end": "16:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -8884,8 +8884,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "16:50",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8896,8 +8896,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "10:50",
-    "venue": "E4-G067",
     "remark": "",
+    "venue": "E4-G067",
     "host": "FAH-ELC"
   },
   {
@@ -8908,8 +8908,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "10:50",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -8920,8 +8920,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "10:50",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -8932,8 +8932,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "10:50",
-    "venue": "E4-G060",
     "remark": "",
+    "venue": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -8944,8 +8944,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:30",
     "end": "11:20",
-    "venue": "E4-G070",
     "remark": "",
+    "venue": "E4-G070",
     "host": "FAH-ELC"
   },
   {
@@ -8956,8 +8956,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:30",
     "end": "11:20",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8968,8 +8968,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:30",
     "end": "11:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -8980,8 +8980,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:30",
     "end": "11:20",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -8992,8 +8992,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:00",
     "end": "11:50",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -9004,8 +9004,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:00",
     "end": "11:50",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -9016,8 +9016,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:00",
     "end": "11:50",
-    "venue": "E3-2032",
     "remark": "",
+    "venue": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -9028,8 +9028,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:00",
     "end": "11:50",
-    "venue": "E4-G067",
     "remark": "",
+    "venue": "E4-G067",
     "host": "FAH-ELC"
   },
   {
@@ -9040,8 +9040,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:30",
     "end": "12:20",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -9052,8 +9052,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:30",
     "end": "12:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9064,8 +9064,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:30",
     "end": "12:20",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9076,8 +9076,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:30",
     "end": "12:20",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -9088,8 +9088,8 @@ var courses_info = [
     "day": "WED",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E4-G070",
     "remark": "",
+    "venue": "E4-G070",
     "host": "FAH-ELC"
   },
   {
@@ -9100,8 +9100,8 @@ var courses_info = [
     "day": "WED",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E4-G067",
     "remark": "",
+    "venue": "E4-G067",
     "host": "FAH-ELC"
   },
   {
@@ -9112,8 +9112,8 @@ var courses_info = [
     "day": "WED",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E4-G060",
     "remark": "",
+    "venue": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -9124,8 +9124,8 @@ var courses_info = [
     "day": "WED",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -9136,8 +9136,8 @@ var courses_info = [
     "day": "WED",
     "start": "12:30",
     "end": "13:20",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9148,8 +9148,8 @@ var courses_info = [
     "day": "WED",
     "start": "12:30",
     "end": "13:20",
-    "venue": "E3-3042",
     "remark": "",
+    "venue": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -9160,8 +9160,8 @@ var courses_info = [
     "day": "WED",
     "start": "12:30",
     "end": "13:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9172,8 +9172,8 @@ var courses_info = [
     "day": "WED",
     "start": "12:30",
     "end": "13:20",
-    "venue": "E3-3044",
     "remark": "",
+    "venue": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -9184,8 +9184,8 @@ var courses_info = [
     "day": "WED",
     "start": "13:00",
     "end": "13:50",
-    "venue": "E4-G060",
     "remark": "",
+    "venue": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -9196,8 +9196,8 @@ var courses_info = [
     "day": "WED",
     "start": "13:00",
     "end": "13:50",
-    "venue": "E4-G067",
     "remark": "",
+    "venue": "E4-G067",
     "host": "FAH-ELC"
   },
   {
@@ -9208,8 +9208,8 @@ var courses_info = [
     "day": "WED",
     "start": "13:00",
     "end": "13:50",
-    "venue": "E3-3041",
     "remark": "",
+    "venue": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -9220,8 +9220,8 @@ var courses_info = [
     "day": "WED",
     "start": "13:30",
     "end": "14:20",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9232,8 +9232,8 @@ var courses_info = [
     "day": "WED",
     "start": "13:30",
     "end": "14:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9244,8 +9244,8 @@ var courses_info = [
     "day": "WED",
     "start": "13:30",
     "end": "14:20",
-    "venue": "E4-G070",
     "remark": "",
+    "venue": "E4-G070",
     "host": "FAH-ELC"
   },
   {
@@ -9256,8 +9256,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:00",
     "end": "14:50",
-    "venue": "E4-G060",
     "remark": "",
+    "venue": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -9268,8 +9268,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:00",
     "end": "14:50",
-    "venue": "E4-G067",
     "remark": "",
+    "venue": "E4-G067",
     "host": "FAH-ELC"
   },
   {
@@ -9280,8 +9280,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:00",
     "end": "14:50",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -9292,8 +9292,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:30",
     "end": "15:20",
-    "venue": "E4-G070",
     "remark": "",
+    "venue": "E4-G070",
     "host": "FAH-ELC"
   },
   {
@@ -9304,8 +9304,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:30",
     "end": "15:20",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9316,8 +9316,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:30",
     "end": "15:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9328,8 +9328,8 @@ var courses_info = [
     "day": "WED",
     "start": "15:00",
     "end": "15:50",
-    "venue": "E4-G060",
     "remark": "",
+    "venue": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -9340,8 +9340,8 @@ var courses_info = [
     "day": "WED",
     "start": "15:00",
     "end": "15:50",
-    "venue": "E4-G067",
     "remark": "",
+    "venue": "E4-G067",
     "host": "FAH-ELC"
   },
   {
@@ -9352,8 +9352,8 @@ var courses_info = [
     "day": "WED",
     "start": "15:00",
     "end": "15:50",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -9364,8 +9364,8 @@ var courses_info = [
     "day": "WED",
     "start": "15:30",
     "end": "16:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9376,8 +9376,8 @@ var courses_info = [
     "day": "WED",
     "start": "15:30",
     "end": "16:20",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9388,8 +9388,8 @@ var courses_info = [
     "day": "WED",
     "start": "15:30",
     "end": "16:20",
-    "venue": "E4-G070",
     "remark": "",
+    "venue": "E4-G070",
     "host": "FAH-ELC"
   },
   {
@@ -9400,8 +9400,8 @@ var courses_info = [
     "day": "WED",
     "start": "16:00",
     "end": "16:50",
-    "venue": "E4-G060",
     "remark": "",
+    "venue": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -9412,8 +9412,8 @@ var courses_info = [
     "day": "WED",
     "start": "16:00",
     "end": "16:50",
-    "venue": "E4-G067",
     "remark": "",
+    "venue": "E4-G067",
     "host": "FAH-ELC"
   },
   {
@@ -9424,8 +9424,8 @@ var courses_info = [
     "day": "WED",
     "start": "16:00",
     "end": "16:50",
-    "venue": "E3-1042",
     "remark": "",
+    "venue": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -9436,8 +9436,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "10:50",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9448,8 +9448,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:30",
     "end": "11:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9460,8 +9460,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:00",
     "end": "11:50",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9472,8 +9472,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9484,8 +9484,8 @@ var courses_info = [
     "day": "THU",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9496,8 +9496,8 @@ var courses_info = [
     "day": "THU",
     "start": "12:30",
     "end": "13:20",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9508,8 +9508,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "13:50",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9520,8 +9520,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:30",
     "end": "14:20",
-    "venue": "E4-G060",
     "remark": "",
+    "venue": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -9532,8 +9532,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:00",
     "end": "14:50",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9544,8 +9544,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:20",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9556,8 +9556,8 @@ var courses_info = [
     "day": "THU",
     "start": "15:00",
     "end": "15:50",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9568,8 +9568,8 @@ var courses_info = [
     "day": "THU",
     "start": "15:30",
     "end": "16:20",
-    "venue": "E4-G058",
     "remark": "",
+    "venue": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9580,8 +9580,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "16:50",
-    "venue": "E4-G052",
     "remark": "",
+    "venue": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9592,8 +9592,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9604,8 +9604,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9616,8 +9616,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9628,8 +9628,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9640,8 +9640,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9652,8 +9652,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9664,8 +9664,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9676,8 +9676,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9688,8 +9688,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2013",
     "remark": "",
+    "venue": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -9700,8 +9700,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2013",
     "remark": "",
+    "venue": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -9712,8 +9712,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E22-2010",
     "remark": "",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -9724,8 +9724,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E22-2010",
     "remark": "",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -9736,8 +9736,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2010",
     "remark": "",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -9748,8 +9748,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2010",
     "remark": "",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -9760,8 +9760,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-2013",
     "remark": "",
+    "venue": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -9772,8 +9772,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-2013",
     "remark": "",
+    "venue": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -9784,8 +9784,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2013",
     "remark": "",
+    "venue": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -9796,8 +9796,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E22-2013",
-    "remark": "",
     "host": "FBA-AIM"
   },
   {
@@ -9808,8 +9808,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9820,8 +9820,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9832,8 +9832,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-4010",
     "remark": "",
+    "venue": "E22-4010",
     "host": "FBA-AIM"
   },
   {
@@ -9844,8 +9844,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E22-4010",
-    "remark": "",
     "host": "FBA-AIM"
   },
   {
@@ -9856,8 +9856,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9868,8 +9868,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E22-2017",
-    "remark": "",
     "host": "FBA-AIM"
   },
   {
@@ -9880,8 +9880,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-1011",
     "remark": "",
+    "venue": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -9892,8 +9892,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-1011",
     "remark": "",
+    "venue": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -9904,8 +9904,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-1015",
     "remark": "",
+    "venue": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -9916,8 +9916,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E22-1015",
-    "remark": "",
     "host": "FBA-AIM"
   },
   {
@@ -9928,8 +9928,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-1013",
     "remark": "",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -9940,8 +9940,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-1013",
     "remark": "",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -9952,8 +9952,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-1011",
     "remark": "",
+    "venue": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -9964,8 +9964,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-1011",
     "remark": "",
+    "venue": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -9976,8 +9976,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-1011",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -9988,8 +9988,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-1011",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -10000,8 +10000,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2010",
     "remark": "Class for :\n - FBA - ACC19 / ACC21-SECOND YEAR / ACC21-THIRD YEAR / FIC20-FOURTH YEAR / FIC22-THIRD YEAR / FIC22-FOURTH YEAR\n - FBA - ACM21\n",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10012,8 +10012,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2010",
     "remark": "Class for :\n - FBA - ACC19 / ACC21-SECOND YEAR / ACC21-THIRD YEAR / FIC20-FOURTH YEAR / FIC22-THIRD YEAR / FIC22-FOURTH YEAR\n - FBA - ACM21\n",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10024,8 +10024,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2010",
     "remark": "Class for :\n - FBA - ACC19 / ACC21-SECOND YEAR / ACC21-THIRD YEAR / FIC20-FOURTH YEAR / FIC22-THIRD YEAR / FIC22-FOURTH YEAR\n - FBA - ACM21\n",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10036,8 +10036,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2010",
     "remark": "Class for :\n - FBA - ACC19 / ACC21-SECOND YEAR / ACC21-THIRD YEAR / FIC20-FOURTH YEAR / FIC22-THIRD YEAR / FIC22-FOURTH YEAR\n - FBA - ACM21\n",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10048,8 +10048,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - ACC19 / ACC21-THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10060,8 +10060,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - ACC19 / ACC21-THIRD YEAR / ACC21-FOURTH YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10072,8 +10072,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2015",
     "remark": "Class for :\n - FBA - ACC21\n",
+    "venue": "E22-2015",
     "host": "FBA-AIM"
   },
   {
@@ -10084,8 +10084,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2015",
     "remark": "Class for :\n - FBA - ACC21\n",
+    "venue": "E22-2015",
     "host": "FBA-AIM"
   },
   {
@@ -10096,8 +10096,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2015",
     "remark": "Class for :\n - FBA - ACC21\n",
+    "venue": "E22-2015",
     "host": "FBA-AIM"
   },
   {
@@ -10108,8 +10108,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
+    "remark": "Class for :\n - FBA - ACC21\n",
     "venue": "E22-2015",
-    "remark": "Class for :\n - FBA - ACC21\n",
     "host": "FBA-AIM"
   },
   {
@@ -10120,8 +10120,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2011",
     "remark": "Class for :\n - FBA - ACC21\n",
+    "venue": "E22-2011",
     "host": "FBA-AIM"
   },
   {
@@ -10132,8 +10132,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2011",
     "remark": "Class for :\n - FBA - ACC21\n",
+    "venue": "E22-2011",
     "host": "FBA-AIM"
   },
   {
@@ -10144,8 +10144,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-THIRD YEAR / ACC21-FOURTH YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10156,8 +10156,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-THIRD YEAR / ACC21-FOURTH YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10168,8 +10168,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-THIRD YEAR / ACC21-FOURTH YEAR / IIR20-THIRD YEAR / IIR20-FOURTH YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10180,8 +10180,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-THIRD YEAR / ACC21-FOURTH YEAR / IIR20-THIRD YEAR / IIR20-FOURTH YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10192,8 +10192,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-1015",
     "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-FOURTH YEAR\n",
+    "venue": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -10204,8 +10204,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
+    "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-FOURTH YEAR\n",
     "venue": "E22-1015",
-    "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-FOURTH YEAR\n",
     "host": "FBA-AIM"
   },
   {
@@ -10216,8 +10216,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-1011",
     "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-FOURTH YEAR\n",
+    "venue": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -10228,8 +10228,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-FOURTH YEAR\n",
     "venue": "E22-1011",
-    "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-FOURTH YEAR\n",
     "host": "FBA-AIM"
   },
   {
@@ -10240,8 +10240,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-THIRD YEAR / ACC21-FOURTH YEAR\n - FBA - ACM19 / ACM21\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10252,8 +10252,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-THIRD YEAR / ACC21-FOURTH YEAR\n - FBA - ACM19 / ACM21\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10264,8 +10264,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-FOURTH YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10276,8 +10276,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-FOURTH YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10288,8 +10288,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-FOURTH YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10300,8 +10300,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - ACC17 / ACC19 / ACC21-FOURTH YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10312,8 +10312,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4042",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E3-4042",
     "host": "FBA-AIM"
   },
   {
@@ -10324,8 +10324,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4042",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E3-4042",
     "host": "FBA-AIM"
   },
   {
@@ -10336,8 +10336,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:00",
     "end": "20:15",
-    "venue": "E3-4043",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E3-4043",
     "host": "FBA-AIM"
   },
   {
@@ -10348,8 +10348,8 @@ var courses_info = [
     "day": "FRI",
     "start": "19:00",
     "end": "20:15",
-    "venue": "E3-4043",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E3-4043",
     "host": "FBA-AIM"
   },
   {
@@ -10360,8 +10360,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4042",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E3-4042",
     "host": "FBA-AIM"
   },
   {
@@ -10372,8 +10372,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4042",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E3-4042",
     "host": "FBA-AIM"
   },
   {
@@ -10384,8 +10384,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "FBA-AIM"
   },
   {
@@ -10396,8 +10396,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E3-4043",
-    "remark": "",
     "host": "FBA-AIM"
   },
   {
@@ -10408,8 +10408,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10420,8 +10420,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10432,8 +10432,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1102D",
     "remark": "",
+    "venue": "E6-1102D",
     "host": "FBA-AIM"
   },
   {
@@ -10444,8 +10444,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
+    "remark": "",
     "venue": "E6-1102D",
-    "remark": "",
     "host": "FBA-AIM"
   },
   {
@@ -10456,8 +10456,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10468,8 +10468,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10480,8 +10480,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10492,8 +10492,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E6-1113A",
-    "remark": "",
     "host": "FBA-AIM"
   },
   {
@@ -10504,8 +10504,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1113A / E6-2092 / E6-2093",
     "remark": "",
+    "venue": "E6-1113A / E6-2092 / E6-2093",
     "host": "FBA-AIM"
   },
   {
@@ -10516,8 +10516,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1113A / E6-2092 / E6-2093",
     "remark": "",
+    "venue": "E6-1113A / E6-2092 / E6-2093",
     "host": "FBA-AIM"
   },
   {
@@ -10528,8 +10528,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -10540,8 +10540,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -10552,8 +10552,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -10564,8 +10564,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -10576,8 +10576,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -10588,8 +10588,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -10600,8 +10600,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E33-G021",
     "remark": "",
+    "venue": "E33-G021",
     "host": "FBA-AIM"
   },
   {
@@ -10612,8 +10612,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "17:15",
+    "remark": "",
     "venue": "E33-G021",
-    "remark": "",
     "host": "FBA-AIM"
   },
   {
@@ -10624,8 +10624,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1113A / E6-2092",
     "remark": "",
+    "venue": "E6-1113A / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -10636,8 +10636,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1113A / E6-2092",
     "remark": "",
+    "venue": "E6-1113A / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -10648,8 +10648,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1113A / E6-2092",
     "remark": "",
+    "venue": "E6-1113A / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -10660,8 +10660,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1113A / E6-2092",
     "remark": "",
+    "venue": "E6-1113A / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -10672,8 +10672,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1113A / E6-2092",
     "remark": "",
+    "venue": "E6-1113A / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -10684,8 +10684,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E6-1113A / E6-2092",
-    "remark": "",
     "host": "FBA-AIM"
   },
   {
@@ -10696,8 +10696,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-3045 / E6-3094",
     "remark": "",
+    "venue": "E3-3045 / E6-3094",
     "host": "FBA-AIM"
   },
   {
@@ -10708,8 +10708,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E3-3045 / E6-3094",
-    "remark": "",
     "host": "FBA-AIM"
   },
   {
@@ -10720,8 +10720,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2010",
     "remark": "",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10732,8 +10732,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2010",
     "remark": "",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10744,8 +10744,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2010",
     "remark": "",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10756,8 +10756,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2010",
     "remark": "",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10768,8 +10768,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2013",
     "remark": "",
+    "venue": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -10780,8 +10780,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2013",
     "remark": "",
+    "venue": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -10792,8 +10792,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2013",
     "remark": "",
+    "venue": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -10804,8 +10804,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2013",
     "remark": "",
+    "venue": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -10816,8 +10816,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-2010",
     "remark": "",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10828,8 +10828,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-2010",
     "remark": "",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10840,8 +10840,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2010",
     "remark": "",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10852,8 +10852,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2010",
     "remark": "",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10864,8 +10864,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E6-1113A",
     "remark": "Class for :\n - FBA - BIA19-SECOND YEAR / BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10876,8 +10876,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E6-1113A",
     "remark": "Class for :\n - FBA - BIA19-SECOND YEAR / BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10888,8 +10888,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-G004",
     "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-G004",
     "host": "FBA-AIM"
   },
   {
@@ -10900,8 +10900,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
+    "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
     "venue": "E22-G004",
-    "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
     "host": "FBA-AIM"
   },
   {
@@ -10912,8 +10912,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-1015",
     "remark": "Class for :\n - FBA - BIA19-SECOND YEAR / BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -10924,8 +10924,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-1015",
     "remark": "Class for :\n - FBA - BIA19-SECOND YEAR / BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -10936,8 +10936,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-1015",
     "remark": "Class for :\n - FBA - BIA19-SECOND YEAR / BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -10948,8 +10948,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-1015",
     "remark": "Class for :\n - FBA - BIA19-SECOND YEAR / BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -10960,8 +10960,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - BIA19-SECOND YEAR / BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n - FSS - ECN19-SECOND YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10972,8 +10972,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - BIA19-SECOND YEAR / BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n - FSS - ECN19-SECOND YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10984,8 +10984,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - BIA19-SECOND YEAR / BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n - FSS - ECN19-SECOND YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10996,8 +10996,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - BIA19-SECOND YEAR / BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n - FSS - ECN19-SECOND YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -11008,8 +11008,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - BIA19-SECOND YEAR / BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -11020,8 +11020,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - BIA19-SECOND YEAR / BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -11032,8 +11032,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-1015",
     "remark": "Class for :\n - FBA - BIA19-SECOND YEAR / BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -11044,8 +11044,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-1015",
     "remark": "Class for :\n - FBA - BIA19-SECOND YEAR / BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -11056,8 +11056,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-2010",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -11068,8 +11068,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-2010",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -11080,8 +11080,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E4-1051",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E4-1051",
     "host": "FBA-AIM"
   },
   {
@@ -11092,8 +11092,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
+    "remark": "Class for :\n - FBA\n",
     "venue": "E4-1051",
-    "remark": "Class for :\n - FBA\n",
     "host": "FBA-AIM"
   },
   {
@@ -11104,8 +11104,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2010",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -11116,8 +11116,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2010",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -11128,8 +11128,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-1011",
     "remark": "Class for :\n - FBA - FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n - FSS - ECN19-SECOND YEAR\n",
+    "venue": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -11140,8 +11140,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-1011",
     "remark": "Class for :\n - FBA - FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n - FSS - ECN19-SECOND YEAR\n",
+    "venue": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -11152,8 +11152,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-1011",
     "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -11164,8 +11164,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
     "venue": "E22-1011",
-    "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
     "host": "FBA-AIM"
   },
   {
@@ -11176,8 +11176,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-1013",
     "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -11188,8 +11188,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
     "venue": "E22-1013",
-    "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
     "host": "FBA-AIM"
   },
   {
@@ -11200,8 +11200,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-G010",
     "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -11212,8 +11212,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
     "venue": "E22-G010",
-    "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
     "host": "FBA-AIM"
   },
   {
@@ -11224,8 +11224,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E3-4043 / E6-3094",
     "remark": "Class for :\n - FBA - ACC19-THIRD YEAR / ACC19-FOURTH YEAR / ACC21-THIRD YEAR / ACC21-FOURTH YEAR / FIC22-THIRD YEAR\n",
+    "venue": "E3-4043 / E6-3094",
     "host": "FBA-AIM"
   },
   {
@@ -11236,8 +11236,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E3-4043 / E6-3094",
     "remark": "Class for :\n - FBA - ACC19-THIRD YEAR / ACC19-FOURTH YEAR / ACC21-THIRD YEAR / ACC21-FOURTH YEAR / FIC22-THIRD YEAR\n",
+    "venue": "E3-4043 / E6-3094",
     "host": "FBA-AIM"
   },
   {
@@ -11248,8 +11248,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2013",
     "remark": "Class for :\n - FBA - FOURTH YEAR\n - FBA - FIC22\n",
+    "venue": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -11260,8 +11260,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2013",
     "remark": "Class for :\n - FBA - FOURTH YEAR\n - FBA - FIC22\n",
+    "venue": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -11272,8 +11272,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-2013",
     "remark": "Class for :\n - FBA - FOURTH YEAR\n",
+    "venue": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -11284,8 +11284,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-2013",
     "remark": "Class for :\n - FBA - FOURTH YEAR\n",
+    "venue": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -11296,8 +11296,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-3010 / E6-2092",
     "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-3010 / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -11308,8 +11308,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-3010 / E6-2092",
     "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-3010 / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -11320,8 +11320,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-3010 / E6-2092",
     "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-3010 / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -11332,8 +11332,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-3010 / E6-2092",
     "remark": "Class for :\n - FBA - BIA19-THIRD YEAR / BIA19-FOURTH YEAR\n",
+    "venue": "E22-3010 / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -11344,8 +11344,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1102D",
     "remark": "",
+    "venue": "E6-1102D",
     "host": "FBA-DRTM"
   },
   {
@@ -11356,8 +11356,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1102D",
     "remark": "",
+    "venue": "E6-1102D",
     "host": "FBA-DRTM"
   },
   {
@@ -11368,8 +11368,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FBA-DRTM"
   },
   {
@@ -11380,8 +11380,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FBA-DRTM"
   },
   {
@@ -11392,8 +11392,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E22-2018",
     "remark": "",
+    "venue": "E22-2018",
     "host": "FBA-DRTM"
   },
   {
@@ -11404,8 +11404,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "12:45",
+    "remark": "",
     "venue": "E22-2018",
-    "remark": "",
     "host": "FBA-DRTM"
   },
   {
@@ -11416,8 +11416,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2015",
     "remark": "",
+    "venue": "E22-2015",
     "host": "FBA-DRTM"
   },
   {
@@ -11428,8 +11428,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2015",
     "remark": "",
+    "venue": "E22-2015",
     "host": "FBA-DRTM"
   },
   {
@@ -11440,8 +11440,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2015",
     "remark": "",
+    "venue": "E22-2015",
     "host": "FBA-DRTM"
   },
   {
@@ -11452,8 +11452,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2015",
     "remark": "",
+    "venue": "E22-2015",
     "host": "FBA-DRTM"
   },
   {
@@ -11464,8 +11464,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-1011",
     "remark": "",
+    "venue": "E22-1011",
     "host": "FBA-DRTM"
   },
   {
@@ -11476,8 +11476,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-1011",
     "remark": "",
+    "venue": "E22-1011",
     "host": "FBA-DRTM"
   },
   {
@@ -11488,8 +11488,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E3-1032",
     "remark": "Class for :\n - FBA - IIR20-CHM20-THIRD YEAR / IIR20-CHM20-FOURTH YEAR / IIR20-GMM20-THIRD YEAR / IIR20-GMM20-FOURTH YEAR\n - FBA - IIM19\n",
+    "venue": "E3-1032",
     "host": "FBA-DRTM"
   },
   {
@@ -11500,8 +11500,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E3-1032",
     "remark": "Class for :\n - FBA - IIR20-CHM20-THIRD YEAR / IIR20-CHM20-FOURTH YEAR / IIR20-GMM20-THIRD YEAR / IIR20-GMM20-FOURTH YEAR\n - FBA - IIM19\n",
+    "venue": "E3-1032",
     "host": "FBA-DRTM"
   },
   {
@@ -11512,8 +11512,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-3015",
     "remark": "Class for :\n - FBA - IIR20-CHM20\n - FBA - IIM19\n",
+    "venue": "E22-3015",
     "host": "FBA-DRTM"
   },
   {
@@ -11524,8 +11524,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-3015",
     "remark": "Class for :\n - FBA - IIR20-CHM20\n - FBA - IIM19\n",
+    "venue": "E22-3015",
     "host": "FBA-DRTM"
   },
   {
@@ -11536,8 +11536,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E22-G010",
     "remark": "Class for :\n - FBA - IIR20-CHM20-THIRD YEAR / IIR20-CHM20-FOURTH YEAR / IIR20-GMM20-THIRD YEAR / IIR20-GMM20-FOURTH YEAR\n - FBA - IIM19\n",
+    "venue": "E22-G010",
     "host": "FBA-DRTM"
   },
   {
@@ -11548,8 +11548,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-1011",
     "remark": "Class for :\n - FBA\n - FBA - IIM19\n",
+    "venue": "E22-1011",
     "host": "FBA-DRTM"
   },
   {
@@ -11560,8 +11560,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-1011",
     "remark": "Class for :\n - FBA\n - FBA - IIM19\n",
+    "venue": "E22-1011",
     "host": "FBA-DRTM"
   },
   {
@@ -11572,8 +11572,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E22-2011",
     "remark": "Class for :\n - FBA\n - FBA - IIM19\n",
+    "venue": "E22-2011",
     "host": "FBA-DRTM"
   },
   {
@@ -11584,8 +11584,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E22-3001",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n - FBA - IIM19\n",
+    "venue": "E22-3001",
     "host": "FBA-DRTM"
   },
   {
@@ -11596,8 +11596,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-4020",
     "remark": "Class for :\n - FBA - IIR20-CHM20-THIRD YEAR / IIR20-CHM20-FOURTH YEAR / IIR20-GMM20-FOURTH YEAR\n - FBA - IIM19\n",
+    "venue": "E22-4020",
     "host": "FBA-DRTM"
   },
   {
@@ -11608,8 +11608,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-4020",
     "remark": "Class for :\n - FBA - IIR20-CHM20-THIRD YEAR / IIR20-CHM20-FOURTH YEAR / IIR20-GMM20-FOURTH YEAR\n - FBA - IIM19\n",
+    "venue": "E22-4020",
     "host": "FBA-DRTM"
   },
   {
@@ -11620,8 +11620,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-4020",
     "remark": "Class for :\n - FBA - IIR20-CHM20-FOURTH YEAR / IIR20-GMM20-FOURTH YEAR\n - FBA - IIM19\n",
+    "venue": "E22-4020",
     "host": "FBA-DRTM"
   },
   {
@@ -11632,8 +11632,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-4020",
     "remark": "Class for :\n - FBA - IIR20-CHM20-FOURTH YEAR / IIR20-GMM20-FOURTH YEAR\n - FBA - IIM19\n",
+    "venue": "E22-4020",
     "host": "FBA-DRTM"
   },
   {
@@ -11644,8 +11644,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-3001",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E22-3001",
     "host": "FBA-DRTM"
   },
   {
@@ -11656,8 +11656,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-3001",
     "remark": "Class for :\n - FBA\n",
+    "venue": "E22-3001",
     "host": "FBA-DRTM"
   },
   {
@@ -11668,8 +11668,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2018",
     "remark": "Class for :\n - FBA - IIR20-GMM20-FOURTH YEAR\n - FBA - IIM19\n",
+    "venue": "E22-2018",
     "host": "FBA-DRTM"
   },
   {
@@ -11680,8 +11680,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2018",
     "remark": "Class for :\n - FBA - IIR20-GMM20-FOURTH YEAR\n - FBA - IIM19\n",
+    "venue": "E22-2018",
     "host": "FBA-DRTM"
   },
   {
@@ -11692,8 +11692,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E3-2043 / E6-3093",
     "remark": "Class for :\n - FBA - IIR20-CHM20-FOURTH YEAR\n - FBA - IIM19\n",
+    "venue": "E3-2043 / E6-3093",
     "host": "FBA-DRTM"
   },
   {
@@ -11704,8 +11704,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2018",
     "remark": "Class for :\n - FBA\n - FBA - IIM19\n",
+    "venue": "E22-2018",
     "host": "FBA-DRTM"
   },
   {
@@ -11716,8 +11716,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2018",
     "remark": "Class for :\n - FBA\n - FBA - IIM19\n",
+    "venue": "E22-2018",
     "host": "FBA-DRTM"
   },
   {
@@ -11728,8 +11728,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E22-2013",
     "remark": "",
+    "venue": "E22-2013",
     "host": "FBA-FBE"
   },
   {
@@ -11740,8 +11740,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E22-2013",
     "remark": "",
+    "venue": "E22-2013",
     "host": "FBA-FBE"
   },
   {
@@ -11752,8 +11752,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2013",
     "remark": "",
+    "venue": "E22-2013",
     "host": "FBA-FBE"
   },
   {
@@ -11764,8 +11764,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E22-2013",
-    "remark": "",
     "host": "FBA-FBE"
   },
   {
@@ -11776,8 +11776,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-FBE"
   },
   {
@@ -11788,8 +11788,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-FBE"
   },
   {
@@ -11800,8 +11800,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11812,8 +11812,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11824,8 +11824,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11836,8 +11836,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11848,8 +11848,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11860,8 +11860,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11872,8 +11872,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11884,8 +11884,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11896,8 +11896,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E33-G021",
     "remark": "",
+    "venue": "E33-G021",
     "host": "FBA-FBE"
   },
   {
@@ -11908,8 +11908,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E33-G021",
-    "remark": "",
     "host": "FBA-FBE"
   },
   {
@@ -11920,8 +11920,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11932,8 +11932,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11944,8 +11944,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11956,8 +11956,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-G010",
     "remark": "",
+    "venue": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11968,8 +11968,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-4005",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-4005",
     "host": "FBA-FBE"
   },
   {
@@ -11980,8 +11980,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-4005",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-4005",
     "host": "FBA-FBE"
   },
   {
@@ -11992,8 +11992,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-1002",
     "remark": "Class for :\n - FBA - BEC20 / FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR / FOURTH YEAR\n",
+    "venue": "E22-1002",
     "host": "FBA-FBE"
   },
   {
@@ -12004,8 +12004,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-1002",
     "remark": "Class for :\n - FBA - BEC20 / FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR / FOURTH YEAR\n",
+    "venue": "E22-1002",
     "host": "FBA-FBE"
   },
   {
@@ -12016,8 +12016,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2017",
     "remark": "Class for :\n - FBA - BEC17 / BEC20 / BEC22 / GBS20\n",
+    "venue": "E22-2017",
     "host": "FBA-FBE"
   },
   {
@@ -12028,8 +12028,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2017",
     "remark": "Class for :\n - FBA - BEC17 / BEC20 / BEC22 / GBS20\n",
+    "venue": "E22-2017",
     "host": "FBA-FBE"
   },
   {
@@ -12040,8 +12040,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E22-3007",
     "remark": "Class for :\n - FBA - BEC17 / BEC20 / BEC22-SECOND YEAR / BEC22-THIRD YEAR / BEC22-FOURTH YEAR / GBS20\n - FBA - BAM19 / BAM22\n",
+    "venue": "E22-3007",
     "host": "FBA-FBE"
   },
   {
@@ -12052,8 +12052,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E22-2002",
     "remark": "Class for :\n - FBA - FNC16 / FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n",
+    "venue": "E22-2002",
     "host": "FBA-FBE"
   },
   {
@@ -12064,8 +12064,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-4005",
     "remark": "Class for :\n - FBA - BEC17 / BEC20 / BEC22-THIRD YEAR / BEC22-FOURTH YEAR\n",
+    "venue": "E22-4005",
     "host": "FBA-FBE"
   },
   {
@@ -12076,8 +12076,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-4005",
     "remark": "Class for :\n - FBA - BEC17 / BEC20 / BEC22-THIRD YEAR / BEC22-FOURTH YEAR\n",
+    "venue": "E22-4005",
     "host": "FBA-FBE"
   },
   {
@@ -12088,8 +12088,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-4010",
     "remark": "Class for :\n - FBA - BEC17 / BEC20\n",
+    "venue": "E22-4010",
     "host": "FBA-FBE"
   },
   {
@@ -12100,8 +12100,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-4010",
     "remark": "Class for :\n - FBA - BEC17 / BEC20\n",
+    "venue": "E22-4010",
     "host": "FBA-FBE"
   },
   {
@@ -12112,8 +12112,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2011",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-2011",
     "host": "FBA-FBE"
   },
   {
@@ -12124,8 +12124,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2011",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-2011",
     "host": "FBA-FBE"
   },
   {
@@ -12136,8 +12136,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E22-2015",
     "remark": "Class for :\n - FBA - BEC17 / BEC20\n",
+    "venue": "E22-2015",
     "host": "FBA-FBE"
   },
   {
@@ -12148,8 +12148,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-2010",
     "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
+    "venue": "E22-2010",
     "host": "FBA-FBE"
   },
   {
@@ -12160,8 +12160,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
+    "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
     "venue": "E22-2010",
-    "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
     "host": "FBA-FBE"
   },
   {
@@ -12172,8 +12172,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-1002",
     "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
+    "venue": "E22-1002",
     "host": "FBA-FBE"
   },
   {
@@ -12184,8 +12184,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-1002",
     "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
+    "venue": "E22-1002",
     "host": "FBA-FBE"
   },
   {
@@ -12196,8 +12196,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-4015",
     "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
+    "venue": "E22-4015",
     "host": "FBA-FBE"
   },
   {
@@ -12208,8 +12208,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-4015",
     "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
+    "venue": "E22-4015",
     "host": "FBA-FBE"
   },
   {
@@ -12220,8 +12220,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-4015",
     "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
+    "venue": "E22-4015",
     "host": "FBA-FBE"
   },
   {
@@ -12232,8 +12232,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
     "venue": "E22-4015",
-    "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
     "host": "FBA-FBE"
   },
   {
@@ -12244,8 +12244,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-2013",
     "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
+    "venue": "E22-2013",
     "host": "FBA-FBE"
   },
   {
@@ -12256,8 +12256,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
+    "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
     "venue": "E22-2013",
-    "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
     "host": "FBA-FBE"
   },
   {
@@ -12268,8 +12268,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-1002",
     "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
+    "venue": "E22-1002",
     "host": "FBA-FBE"
   },
   {
@@ -12280,8 +12280,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
     "venue": "E22-1002",
-    "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
     "host": "FBA-FBE"
   },
   {
@@ -12292,8 +12292,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-4010",
     "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
+    "venue": "E22-4010",
     "host": "FBA-FBE"
   },
   {
@@ -12304,8 +12304,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-4010",
     "remark": "Class not for :\n - FBA - FNC16 / FNC17 / FNC20\n",
+    "venue": "E22-4010",
     "host": "FBA-FBE"
   },
   {
@@ -12316,8 +12316,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-1015",
     "remark": "Class for :\n - FBA - FNC16 / FNC17 / FNC20\n",
+    "venue": "E22-1015",
     "host": "FBA-FBE"
   },
   {
@@ -12328,8 +12328,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-1015",
     "remark": "Class for :\n - FBA - FNC16 / FNC17 / FNC20\n",
+    "venue": "E22-1015",
     "host": "FBA-FBE"
   },
   {
@@ -12340,8 +12340,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-1015",
     "remark": "Class for :\n - FBA - FIC20 / FNC17 / FNC20\n - FBA - FNM19\n",
+    "venue": "E22-1015",
     "host": "FBA-FBE"
   },
   {
@@ -12352,8 +12352,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-1015",
     "remark": "Class for :\n - FBA - FIC20 / FNC17 / FNC20\n - FBA - FNM19\n",
+    "venue": "E22-1015",
     "host": "FBA-FBE"
   },
   {
@@ -12364,8 +12364,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1052",
     "remark": "Class for :\n - FBA - FIC17 / FIC20 / FIC22-THIRD YEAR / FIC22-FOURTH YEAR / FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n - FBA - FNM19\n",
+    "venue": "E4-1052",
     "host": "FBA-FBE"
   },
   {
@@ -12376,8 +12376,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1052",
     "remark": "Class for :\n - FBA - FIC17 / FIC20 / FIC22-THIRD YEAR / FIC22-FOURTH YEAR / FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n - FBA - FNM19\n",
+    "venue": "E4-1052",
     "host": "FBA-FBE"
   },
   {
@@ -12388,8 +12388,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-G010",
     "remark": "Class for :\n - FBA - ACC21 / FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n - FBA - FNM19\n",
+    "venue": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -12400,8 +12400,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-G010",
     "remark": "Class for :\n - FBA - ACC21 / FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n - FBA - FNM19\n",
+    "venue": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -12412,8 +12412,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E33-G021",
     "remark": "Class for :\n - FBA - ACC21 / FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n - FBA - FNM19\n",
+    "venue": "E33-G021",
     "host": "FBA-FBE"
   },
   {
@@ -12424,8 +12424,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E33-G021",
     "remark": "Class for :\n - FBA - ACC21 / FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n - FBA - FNM19\n",
+    "venue": "E33-G021",
     "host": "FBA-FBE"
   },
   {
@@ -12436,8 +12436,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E22-4004",
     "remark": "Class for :\n - FBA - ACC21-THIRD YEAR / ACC21-FOURTH YEAR / FIC20 / FIC22-THIRD YEAR / FIC22-FOURTH YEAR / FNC17 / FNC20\n - FBA - FNM19\n",
+    "venue": "E22-4004",
     "host": "FBA-FBE"
   },
   {
@@ -12448,8 +12448,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E22-2017",
     "remark": "Class for :\n - FBA - ACC21-THIRD YEAR / ACC21-FOURTH YEAR / FIC20 / FIC22-THIRD YEAR / FIC22-FOURTH YEAR / FNC17 / FNC20\n - FBA - FNM19\n",
+    "venue": "E22-2017",
     "host": "FBA-FBE"
   },
   {
@@ -12460,8 +12460,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E33-G021",
     "remark": "Class for :\n - FBA - FIC20 / FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n - FBA - FNM19\n",
+    "venue": "E33-G021",
     "host": "FBA-FBE"
   },
   {
@@ -12472,8 +12472,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E22-2002",
     "remark": "Class for :\n - FBA - FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n - FBA - FNM19\n",
+    "venue": "E22-2002",
     "host": "FBA-FBE"
   },
   {
@@ -12484,8 +12484,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E22-4005",
     "remark": "Class for :\n - FBA - FNC17 / FNC20-FNE20-FOURTH YEAR / FNC20-FOURTH YEAR\n - FBA - FNM19\n",
+    "venue": "E22-4005",
     "host": "FBA-FBE"
   },
   {
@@ -12496,8 +12496,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-1011",
     "remark": "Class for :\n - FBA - FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n",
+    "venue": "E22-1011",
     "host": "FBA-FBE"
   },
   {
@@ -12508,8 +12508,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-1011",
     "remark": "Class for :\n - FBA - FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n",
+    "venue": "E22-1011",
     "host": "FBA-FBE"
   },
   {
@@ -12520,8 +12520,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-G004",
     "remark": "Class for :\n - FBA - FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n",
+    "venue": "E22-G004",
     "host": "FBA-FBE"
   },
   {
@@ -12532,8 +12532,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-G004",
     "remark": "Class for :\n - FBA - FNC17 / FNC20-THIRD YEAR / FNC20-FOURTH YEAR\n",
+    "venue": "E22-G004",
     "host": "FBA-FBE"
   },
   {
@@ -12544,8 +12544,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E22-3009",
     "remark": "Class for :\n - FBA - FNC17 / FNC20-FOURTH YEAR\n - FBA - FNM19\n",
+    "venue": "E22-3009",
     "host": "FBA-FBE"
   },
   {
@@ -12556,8 +12556,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-1051",
     "remark": "",
+    "venue": "E4-1051",
     "host": "FBA-FBE"
   },
   {
@@ -12568,8 +12568,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E4-1051",
-    "remark": "",
     "host": "FBA-FBE"
   },
   {
@@ -12580,8 +12580,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1102D",
     "remark": "",
+    "venue": "E6-1102D",
     "host": "FBA-FBE"
   },
   {
@@ -12592,8 +12592,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1102D",
     "remark": "",
+    "venue": "E6-1102D",
     "host": "FBA-FBE"
   },
   {
@@ -12604,8 +12604,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-2043",
     "remark": "",
+    "venue": "E3-2043",
     "host": "FBA-MMI"
   },
   {
@@ -12616,8 +12616,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
+    "remark": "",
     "venue": "E3-2043",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -12628,8 +12628,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12640,8 +12640,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12652,8 +12652,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12664,8 +12664,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12676,8 +12676,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12688,8 +12688,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12700,8 +12700,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12712,8 +12712,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12724,8 +12724,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12736,8 +12736,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12748,8 +12748,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12760,8 +12760,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12772,8 +12772,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12784,8 +12784,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12796,8 +12796,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12808,8 +12808,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12820,8 +12820,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12832,8 +12832,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12844,8 +12844,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12856,8 +12856,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12868,8 +12868,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12880,8 +12880,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12892,8 +12892,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12904,8 +12904,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12916,8 +12916,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12928,8 +12928,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E6-1102C",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -12940,8 +12940,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12952,8 +12952,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E6-1113B",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -12964,8 +12964,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-G053",
     "remark": "",
+    "venue": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12976,8 +12976,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E4-G053",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -12988,8 +12988,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4032",
     "remark": "",
+    "venue": "E3-4032",
     "host": "FBA-MMI"
   },
   {
@@ -13000,8 +13000,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E3-4032",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -13012,8 +13012,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FBA-MMI"
   },
   {
@@ -13024,8 +13024,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E6-1113A",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -13036,8 +13036,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1102D",
     "remark": "",
+    "venue": "E6-1102D",
     "host": "FBA-MMI"
   },
   {
@@ -13048,8 +13048,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E6-1102D",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -13060,8 +13060,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-1011",
     "remark": "",
+    "venue": "E22-1011",
     "host": "FBA-MMI"
   },
   {
@@ -13072,8 +13072,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E22-1011",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -13084,8 +13084,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-G015",
     "remark": "",
+    "venue": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13096,8 +13096,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-G015",
     "remark": "",
+    "venue": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13108,8 +13108,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-G015",
     "remark": "",
+    "venue": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13120,8 +13120,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-G015",
     "remark": "",
+    "venue": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13132,8 +13132,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-G015",
     "remark": "",
+    "venue": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13144,8 +13144,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-G015",
     "remark": "",
+    "venue": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13156,8 +13156,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-G015",
     "remark": "",
+    "venue": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13168,8 +13168,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E22-G015",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -13180,8 +13180,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-1015",
     "remark": "",
+    "venue": "E22-1015",
     "host": "FBA-MMI"
   },
   {
@@ -13192,8 +13192,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-1015",
     "remark": "",
+    "venue": "E22-1015",
     "host": "FBA-MMI"
   },
   {
@@ -13204,8 +13204,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E22-2011",
     "remark": "",
+    "venue": "E22-2011",
     "host": "FBA-MMI"
   },
   {
@@ -13216,8 +13216,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E22-2011",
     "remark": "",
+    "venue": "E22-2011",
     "host": "FBA-MMI"
   },
   {
@@ -13228,8 +13228,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2011",
     "remark": "",
+    "venue": "E22-2011",
     "host": "FBA-MMI"
   },
   {
@@ -13240,8 +13240,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E22-2011",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -13252,8 +13252,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-3015",
     "remark": "",
+    "venue": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13264,8 +13264,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-3015",
     "remark": "",
+    "venue": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13276,8 +13276,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-3015",
     "remark": "",
+    "venue": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13288,8 +13288,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E22-3015",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -13300,8 +13300,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2018",
     "remark": "",
+    "venue": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13312,8 +13312,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-2018",
     "remark": "",
+    "venue": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13324,8 +13324,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2018",
     "remark": "",
+    "venue": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13336,8 +13336,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2018",
     "remark": "",
+    "venue": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13348,8 +13348,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2018",
     "remark": "",
+    "venue": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13360,8 +13360,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2018",
     "remark": "",
+    "venue": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13372,8 +13372,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-2018",
     "remark": "",
+    "venue": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13384,8 +13384,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
+    "remark": "",
     "venue": "E22-2018",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -13396,8 +13396,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-1015",
     "remark": "",
+    "venue": "E22-1015",
     "host": "FBA-MMI"
   },
   {
@@ -13408,8 +13408,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-1015",
     "remark": "",
+    "venue": "E22-1015",
     "host": "FBA-MMI"
   },
   {
@@ -13420,8 +13420,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-1002",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-1002",
     "host": "FBA-MMI"
   },
   {
@@ -13432,8 +13432,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-1002",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-1002",
     "host": "FBA-MMI"
   },
   {
@@ -13444,8 +13444,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E22-2015",
     "remark": "",
+    "venue": "E22-2015",
     "host": "FBA-MMI"
   },
   {
@@ -13456,8 +13456,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E22-2011",
     "remark": "",
+    "venue": "E22-2011",
     "host": "FBA-MMI"
   },
   {
@@ -13468,8 +13468,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E22-3001",
     "remark": "",
+    "venue": "E22-3001",
     "host": "FBA-MMI"
   },
   {
@@ -13480,8 +13480,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E22-3009",
     "remark": "",
+    "venue": "E22-3009",
     "host": "FBA-MMI"
   },
   {
@@ -13492,8 +13492,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E22-4010",
     "remark": "",
+    "venue": "E22-4010",
     "host": "FBA-MMI"
   },
   {
@@ -13504,8 +13504,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-3015",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13516,8 +13516,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-3015",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13528,8 +13528,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2015",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-2015",
     "host": "FBA-MMI"
   },
   {
@@ -13540,8 +13540,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-2015",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-2015",
     "host": "FBA-MMI"
   },
   {
@@ -13552,8 +13552,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "12:45",
+    "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
     "venue": "E22-3001",
-    "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
     "host": "FBA-MMI"
   },
   {
@@ -13564,8 +13564,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E6-1102D",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E6-1102D",
     "host": "FBA-MMI"
   },
   {
@@ -13576,8 +13576,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
     "venue": "E6-1102D",
-    "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
     "host": "FBA-MMI"
   },
   {
@@ -13588,8 +13588,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2013",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-2013",
     "host": "FBA-MMI"
   },
   {
@@ -13600,8 +13600,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2013",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-2013",
     "host": "FBA-MMI"
   },
   {
@@ -13612,8 +13612,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-2017",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-2017",
     "host": "FBA-MMI"
   },
   {
@@ -13624,8 +13624,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-2017",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-2017",
     "host": "FBA-MMI"
   },
   {
@@ -13636,8 +13636,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2010",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-2010",
     "host": "FBA-MMI"
   },
   {
@@ -13648,8 +13648,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2010",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-2010",
     "host": "FBA-MMI"
   },
   {
@@ -13660,8 +13660,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E22-3001",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-3001",
     "host": "FBA-MMI"
   },
   {
@@ -13672,8 +13672,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E22-3009",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-3009",
     "host": "FBA-MMI"
   },
   {
@@ -13684,8 +13684,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-3015",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13696,8 +13696,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-3015",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13708,8 +13708,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E22-4010",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-4010",
     "host": "FBA-MMI"
   },
   {
@@ -13720,8 +13720,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-2013",
     "remark": "",
+    "venue": "E22-2013",
     "host": "FBA-MMI"
   },
   {
@@ -13732,8 +13732,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E22-2013",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -13744,8 +13744,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-4004",
     "remark": "",
+    "venue": "E22-4004",
     "host": "FBA-MMI"
   },
   {
@@ -13756,8 +13756,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-4004",
     "remark": "",
+    "venue": "E22-4004",
     "host": "FBA-MMI"
   },
   {
@@ -13768,8 +13768,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-4004",
     "remark": "",
+    "venue": "E22-4004",
     "host": "FBA-MMI"
   },
   {
@@ -13780,8 +13780,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E22-4004",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -13792,8 +13792,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-4010",
     "remark": "",
+    "venue": "E22-4010",
     "host": "FBA-MMI"
   },
   {
@@ -13804,8 +13804,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-4010",
     "remark": "",
+    "venue": "E22-4010",
     "host": "FBA-MMI"
   },
   {
@@ -13816,8 +13816,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-1002",
     "remark": "",
+    "venue": "E22-1002",
     "host": "FBA-MMI"
   },
   {
@@ -13828,8 +13828,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E22-1002",
-    "remark": "",
     "host": "FBA-MMI"
   },
   {
@@ -13840,8 +13840,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-MMI"
   },
   {
@@ -13852,8 +13852,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-2017",
     "remark": "",
+    "venue": "E22-2017",
     "host": "FBA-MMI"
   },
   {
@@ -13864,8 +13864,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-3015",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13876,8 +13876,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-3015",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13888,8 +13888,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E22-1015",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-1015",
     "host": "FBA-MMI"
   },
   {
@@ -13900,8 +13900,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E22-4010",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-4010",
     "host": "FBA-MMI"
   },
   {
@@ -13912,8 +13912,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E22-4010",
     "remark": "",
+    "venue": "E22-4010",
     "host": "FBA-MMI"
   },
   {
@@ -13924,8 +13924,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-3015",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13936,8 +13936,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-3015",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13948,8 +13948,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E22-1011",
     "remark": "Class for :\n - FBA - THIRD YEAR / FOURTH YEAR\n",
+    "venue": "E22-1011",
     "host": "FBA-MMI"
   },
   {
@@ -13960,8 +13960,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-G028",
     "remark": "",
+    "venue": "N8-G028",
     "host": "FED"
   },
   {
@@ -13972,8 +13972,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:30",
     "end": "13:15",
-    "venue": "N8-G028",
     "remark": "",
+    "venue": "N8-G028",
     "host": "FED"
   },
   {
@@ -13984,8 +13984,8 @@ var courses_info = [
     "day": "TUE",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-G001",
     "remark": "",
+    "venue": "N8-G001",
     "host": "FED"
   },
   {
@@ -13996,8 +13996,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "13:15",
-    "venue": "N8-G001",
     "remark": "",
+    "venue": "N8-G001",
     "host": "FED"
   },
   {
@@ -14008,8 +14008,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-G001",
     "remark": "",
+    "venue": "N8-G001",
     "host": "FED"
   },
   {
@@ -14020,8 +14020,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:30",
     "end": "13:15",
-    "venue": "N8-G001",
     "remark": "",
+    "venue": "N8-G001",
     "host": "FED"
   },
   {
@@ -14032,8 +14032,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:30",
     "end": "15:15",
-    "venue": "N8-G028 / N8-G016",
     "remark": "",
+    "venue": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14044,8 +14044,8 @@ var courses_info = [
     "day": "MON",
     "start": "15:30",
     "end": "17:15",
-    "venue": "N8-G028 / N8-G016",
     "remark": "",
+    "venue": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14056,8 +14056,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:30",
     "end": "15:15",
-    "venue": "N8-G028 / N8-G016",
     "remark": "",
+    "venue": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14068,8 +14068,8 @@ var courses_info = [
     "day": "TUE",
     "start": "15:30",
     "end": "17:15",
-    "venue": "N8-G028 / N8-G016",
     "remark": "",
+    "venue": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14080,8 +14080,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-G016",
     "remark": "",
+    "venue": "N8-G016",
     "host": "FED"
   },
   {
@@ -14092,8 +14092,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:30",
     "end": "13:15",
-    "venue": "N8-G016",
     "remark": "",
+    "venue": "N8-G016",
     "host": "FED"
   },
   {
@@ -14104,8 +14104,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:30",
     "end": "15:15",
-    "venue": "N8-G028 / N8-G016",
     "remark": "",
+    "venue": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14116,8 +14116,8 @@ var courses_info = [
     "day": "THU",
     "start": "15:30",
     "end": "17:15",
-    "venue": "N8-G028 / N8-G016",
     "remark": "",
+    "venue": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14128,8 +14128,8 @@ var courses_info = [
     "day": "WED",
     "start": "13:30",
     "end": "15:15",
-    "venue": "N8-G028",
     "remark": "",
+    "venue": "N8-G028",
     "host": "FED"
   },
   {
@@ -14140,8 +14140,8 @@ var courses_info = [
     "day": "THU",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-G028",
     "remark": "",
+    "venue": "N8-G028",
     "host": "FED"
   },
   {
@@ -14152,8 +14152,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "13:15",
-    "venue": "N8-G028",
     "remark": "",
+    "venue": "N8-G028",
     "host": "FED"
   },
   {
@@ -14164,8 +14164,8 @@ var courses_info = [
     "day": "MON",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-G001",
     "remark": "",
+    "venue": "N8-G001",
     "host": "FED"
   },
   {
@@ -14176,8 +14176,8 @@ var courses_info = [
     "day": "FRI",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-G001",
     "remark": "",
+    "venue": "N8-G001",
     "host": "FED"
   },
   {
@@ -14188,8 +14188,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "13:15",
-    "venue": "N8-G001",
     "remark": "",
+    "venue": "N8-G001",
     "host": "FED"
   },
   {
@@ -14200,8 +14200,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "19:15",
-    "venue": "N8-G028",
     "remark": "",
+    "venue": "N8-G028",
     "host": "FED"
   },
   {
@@ -14212,8 +14212,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:30",
     "end": "21:15",
-    "venue": "N8-G028",
     "remark": "",
+    "venue": "N8-G028",
     "host": "FED"
   },
   {
@@ -14224,8 +14224,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "13:15",
-    "venue": "N8-G028",
     "remark": "",
+    "venue": "N8-G028",
     "host": "FED"
   },
   {
@@ -14236,8 +14236,8 @@ var courses_info = [
     "day": "FRI",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-G028 / N8-G016",
     "remark": "",
+    "venue": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14248,8 +14248,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "13:15",
-    "venue": "N8-G028 / N8-G016",
     "remark": "",
+    "venue": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14260,8 +14260,8 @@ var courses_info = [
     "day": "WED",
     "start": "19:30",
     "end": "21:15",
-    "venue": "N8-G016",
     "remark": "",
+    "venue": "N8-G016",
     "host": "FED"
   },
   {
@@ -14272,8 +14272,8 @@ var courses_info = [
     "day": "THU",
     "start": "19:30",
     "end": "21:15",
-    "venue": "N8-G016",
     "remark": "",
+    "venue": "N8-G016",
     "host": "FED"
   },
   {
@@ -14284,8 +14284,8 @@ var courses_info = [
     "day": "TUE",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-G028 / N8-G016",
     "remark": "",
+    "venue": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14296,8 +14296,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "13:15",
-    "venue": "N8-G016",
     "remark": "",
+    "venue": "N8-G016",
     "host": "FED"
   },
   {
@@ -14308,8 +14308,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:30",
     "end": "15:15",
-    "venue": "N8-G028",
     "remark": "",
+    "venue": "N8-G028",
     "host": "FED"
   },
   {
@@ -14320,8 +14320,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:30",
     "end": "21:15",
-    "venue": "N8-G001",
     "remark": "",
+    "venue": "N8-G001",
     "host": "FED"
   },
   {
@@ -14332,8 +14332,8 @@ var courses_info = [
     "day": "MON",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-1009",
     "remark": "",
+    "venue": "N8-1009",
     "host": "FED"
   },
   {
@@ -14344,8 +14344,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "13:15",
-    "venue": "N8-1009",
     "remark": "",
+    "venue": "N8-1009",
     "host": "FED"
   },
   {
@@ -14356,8 +14356,8 @@ var courses_info = [
     "day": "TUE",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-1009",
     "remark": "",
+    "venue": "N8-1009",
     "host": "FED"
   },
   {
@@ -14368,8 +14368,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "13:15",
-    "venue": "N8-1009",
     "remark": "",
+    "venue": "N8-1009",
     "host": "FED"
   },
   {
@@ -14380,8 +14380,8 @@ var courses_info = [
     "day": "MON",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-G028 / N8-G016",
     "remark": "",
+    "venue": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14392,8 +14392,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:30",
     "end": "15:15",
-    "venue": "N8-3010",
     "remark": "",
+    "venue": "N8-3010",
     "host": "FED"
   },
   {
@@ -14404,8 +14404,8 @@ var courses_info = [
     "day": "TUE",
     "start": "15:30",
     "end": "17:15",
-    "venue": "N8-3010",
     "remark": "",
+    "venue": "N8-3010",
     "host": "FED"
   },
   {
@@ -14416,8 +14416,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-3010",
     "remark": "",
+    "venue": "N8-3010",
     "host": "FED"
   },
   {
@@ -14428,8 +14428,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:30",
     "end": "13:15",
-    "venue": "N8-3010",
     "remark": "",
+    "venue": "N8-3010",
     "host": "FED"
   },
   {
@@ -14440,8 +14440,8 @@ var courses_info = [
     "day": "THU",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-3008",
     "remark": "",
+    "venue": "N8-3008",
     "host": "FED"
   },
   {
@@ -14452,8 +14452,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "13:15",
-    "venue": "N8-3008",
     "remark": "",
+    "venue": "N8-3008",
     "host": "FED"
   },
   {
@@ -14464,8 +14464,8 @@ var courses_info = [
     "day": "FRI",
     "start": "09:30",
     "end": "11:15",
-    "venue": "N8-3008",
     "remark": "",
+    "venue": "N8-3008",
     "host": "FED"
   },
   {
@@ -14476,8 +14476,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:30",
     "end": "15:15",
-    "venue": "N8-G016",
     "remark": "",
+    "venue": "N8-G016",
     "host": "FED"
   },
   {
@@ -14488,8 +14488,8 @@ var courses_info = [
     "day": "FRI",
     "start": "15:30",
     "end": "17:15",
-    "venue": "N8-G016",
     "remark": "",
+    "venue": "N8-G016",
     "host": "FED"
   },
   {
@@ -14500,8 +14500,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "19:15",
-    "venue": "N8-3010",
     "remark": "",
+    "venue": "N8-3010",
     "host": "FED"
   },
   {
@@ -14512,8 +14512,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:30",
     "end": "21:15",
-    "venue": "N8-3010",
     "remark": "",
+    "venue": "N8-3010",
     "host": "FED"
   },
   {
@@ -14524,8 +14524,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "19:15",
-    "venue": "N8-3010",
     "remark": "",
+    "venue": "N8-3010",
     "host": "FED"
   },
   {
@@ -14536,8 +14536,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "19:15",
-    "venue": "N8-4008A",
     "remark": "",
+    "venue": "N8-4008A",
     "host": "FED"
   },
   {
@@ -14548,8 +14548,8 @@ var courses_info = [
     "day": "MON",
     "start": "19:30",
     "end": "21:15",
-    "venue": "N8-4008A",
     "remark": "",
+    "venue": "N8-4008A",
     "host": "FED"
   },
   {
@@ -14560,8 +14560,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:30",
     "end": "15:15",
-    "venue": "N8-3008",
     "remark": "",
+    "venue": "N8-3008",
     "host": "FED"
   },
   {
@@ -14572,8 +14572,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:30",
     "end": "15:15",
-    "venue": "N8-3008",
     "remark": "",
+    "venue": "N8-3008",
     "host": "FED"
   },
   {
@@ -14584,8 +14584,8 @@ var courses_info = [
     "day": "FRI",
     "start": "15:30",
     "end": "17:15",
-    "venue": "N8-3008",
     "remark": "",
+    "venue": "N8-3008",
     "host": "FED"
   },
   {
@@ -14596,8 +14596,8 @@ var courses_info = [
     "day": "WED",
     "start": "17:30",
     "end": "19:15",
-    "venue": "N8-3008",
     "remark": "",
+    "venue": "N8-3008",
     "host": "FED"
   },
   {
@@ -14608,8 +14608,8 @@ var courses_info = [
     "day": "WED",
     "start": "19:30",
     "end": "21:15",
-    "venue": "N8-3008",
     "remark": "",
+    "venue": "N8-3008",
     "host": "FED"
   },
   {
@@ -14620,8 +14620,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "19:15",
-    "venue": "N8-3008",
     "remark": "",
+    "venue": "N8-3008",
     "host": "FED"
   },
   {
@@ -14632,8 +14632,8 @@ var courses_info = [
     "day": "THU",
     "start": "19:30",
     "end": "21:15",
-    "venue": "N8-3008",
     "remark": "",
+    "venue": "N8-3008",
     "host": "FED"
   },
   {
@@ -14644,8 +14644,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "19:15",
-    "venue": "N8-G016",
     "remark": "",
+    "venue": "N8-G016",
     "host": "FED"
   },
   {
@@ -14656,8 +14656,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:30",
     "end": "21:15",
-    "venue": "N8-G016",
     "remark": "",
+    "venue": "N8-G016",
     "host": "FED"
   },
   {
@@ -14668,8 +14668,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "19:15",
-    "venue": "N8-4008A",
     "remark": "",
+    "venue": "N8-4008A",
     "host": "FED"
   },
   {
@@ -14680,8 +14680,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:30",
     "end": "21:15",
-    "venue": "N8-4008A",
     "remark": "",
+    "venue": "N8-4008A",
     "host": "FED"
   },
   {
@@ -14692,8 +14692,8 @@ var courses_info = [
     "day": "MON",
     "start": "19:30",
     "end": "21:15",
+    "remark": "",
     "venue": "N8-G001",
-    "remark": "",
     "host": "FED"
   },
   {
@@ -14704,8 +14704,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E33-1029",
     "remark": "",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -14716,8 +14716,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E33-1029",
     "remark": "",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -14728,8 +14728,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E33-1029",
     "remark": "",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -14740,8 +14740,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E33-1029",
     "remark": "",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -14752,8 +14752,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E33-1029",
     "remark": "",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -14764,8 +14764,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E33-1029",
     "remark": "",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -14776,8 +14776,8 @@ var courses_info = [
     "day": "MON",
     "start": "19:00",
     "end": "21:45",
+    "remark": "",
     "venue": "E33-1029",
-    "remark": "",
     "host": "FED"
   },
   {
@@ -14788,8 +14788,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E33-1030",
     "remark": "",
+    "venue": "E33-1030",
     "host": "FED"
   },
   {
@@ -14800,8 +14800,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
+    "remark": "",
     "venue": "E33-1030",
-    "remark": "",
     "host": "FED"
   },
   {
@@ -14812,8 +14812,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-3013",
     "remark": "",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -14824,8 +14824,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-3013",
     "remark": "",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -14836,8 +14836,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E22-3013",
     "remark": "",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -14848,8 +14848,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E22-3013",
     "remark": "",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -14860,8 +14860,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-3013",
     "remark": "",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -14872,8 +14872,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-3013",
     "remark": "",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -14884,8 +14884,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-3002",
     "remark": "Class for :\n - FED - ENG19\n",
+    "venue": "E22-3002",
     "host": "FED"
   },
   {
@@ -14896,8 +14896,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-3002",
     "remark": "Class for :\n - FED - ENG19\n",
+    "venue": "E22-3002",
     "host": "FED"
   },
   {
@@ -14908,8 +14908,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E22-3002",
     "remark": "Class for :\n - FED - ENG19\n",
+    "venue": "E22-3002",
     "host": "FED"
   },
   {
@@ -14920,8 +14920,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E22-3002",
     "remark": "Class for :\n - FED - ENG19\n",
+    "venue": "E22-3002",
     "host": "FED"
   },
   {
@@ -14932,8 +14932,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-3011",
     "remark": "Class not for :\n - FED - ENG19 / INS19 / INS23 / MAS19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E22-3011",
     "host": "FED"
   },
   {
@@ -14944,8 +14944,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-3011",
     "remark": "Class not for :\n - FED - ENG19 / INS19 / INS23 / MAS19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E22-3011",
     "host": "FED"
   },
   {
@@ -14956,8 +14956,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-3013",
     "remark": "Class not for :\n - FED - CHN19 / ENG19 / INS19 / INS23 / MAS19 / PPE19\n",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -14968,8 +14968,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-3013",
     "remark": "Class not for :\n - FED - CHN19 / ENG19 / INS19 / INS23 / MAS19 / PPE19\n",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -14980,8 +14980,8 @@ var courses_info = [
     "day": "THU",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E33-1048",
     "remark": "",
+    "venue": "E33-1048",
     "host": "FED"
   },
   {
@@ -14992,8 +14992,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E33-1051",
     "remark": "",
+    "venue": "E33-1051",
     "host": "FED"
   },
   {
@@ -15004,8 +15004,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E33-1051",
     "remark": "",
+    "venue": "E33-1051",
     "host": "FED"
   },
   {
@@ -15016,8 +15016,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E33-G025",
     "remark": "",
+    "venue": "E33-G025",
     "host": "FED"
   },
   {
@@ -15028,8 +15028,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E33-G032",
     "remark": "",
+    "venue": "E33-G032",
     "host": "FED"
   },
   {
@@ -15040,8 +15040,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E33-G032",
     "remark": "",
+    "venue": "E33-G032",
     "host": "FED"
   },
   {
@@ -15052,8 +15052,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E33-G031",
     "remark": "Class for :\n - FED - PPE19 / PYE19 / PYE22\n",
+    "venue": "E33-G031",
     "host": "FED"
   },
   {
@@ -15064,8 +15064,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E33-G031",
     "remark": "",
+    "venue": "E33-G031",
     "host": "FED"
   },
   {
@@ -15076,8 +15076,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E33-1030",
     "remark": "Class not for :\n - FED - CHN19 / INS19 / INS23 / MAS19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E33-1030",
     "host": "FED"
   },
   {
@@ -15088,8 +15088,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E22-3013",
     "remark": "Class not for :\n - FED - ENG19 / INS19 / INS23 / MAS19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -15100,8 +15100,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E22-3013",
     "remark": "Class not for :\n - FED - CHN19 / ENG19 / INS19 / INS23 / MAS19 / PPE19\n",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -15112,8 +15112,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E33-1030",
     "remark": "Class not for :\n - FED - CHN19 / ENG19 / INS19 / INS23 / MAS19 / PYE19 / PYE22\n",
+    "venue": "E33-1030",
     "host": "FED"
   },
   {
@@ -15124,8 +15124,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-3011",
     "remark": "Class not for :\n - FED - ENG19 / INS19 / INS23 / MAS19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E22-3011",
     "host": "FED"
   },
   {
@@ -15136,8 +15136,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-3011",
     "remark": "Class not for :\n - FED - ENG19 / INS19 / INS23 / MAS19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E22-3011",
     "host": "FED"
   },
   {
@@ -15148,8 +15148,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E33-1030",
     "remark": "Class not for :\n - FED - CHN19 / ENG19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E33-1030",
     "host": "FED"
   },
   {
@@ -15160,8 +15160,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E33-1030",
     "remark": "Class not for :\n - FED - CHN19 / ENG19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E33-1030",
     "host": "FED"
   },
   {
@@ -15172,8 +15172,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E33-1029",
     "remark": "",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -15184,8 +15184,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E33-1029",
     "remark": "",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -15196,8 +15196,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E33-3037",
     "remark": "",
+    "venue": "E33-3037",
     "host": "FED"
   },
   {
@@ -15208,8 +15208,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E33-3037",
     "remark": "",
+    "venue": "E33-3037",
     "host": "FED"
   },
   {
@@ -15220,8 +15220,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E33-3037",
     "remark": "",
+    "venue": "E33-3037",
     "host": "FED"
   },
   {
@@ -15232,8 +15232,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E33-3037",
     "remark": "",
+    "venue": "E33-3037",
     "host": "FED"
   },
   {
@@ -15244,8 +15244,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E33-3037",
-    "remark": "",
     "host": "FED"
   },
   {
@@ -15256,8 +15256,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E33-1045",
     "remark": "",
+    "venue": "E33-1045",
     "host": "FED"
   },
   {
@@ -15268,8 +15268,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E33-1045",
     "remark": "",
+    "venue": "E33-1045",
     "host": "FED"
   },
   {
@@ -15280,8 +15280,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E33-1045",
     "remark": "",
+    "venue": "E33-1045",
     "host": "FED"
   },
   {
@@ -15292,8 +15292,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E33-1045",
     "remark": "",
+    "venue": "E33-1045",
     "host": "FED"
   },
   {
@@ -15304,8 +15304,8 @@ var courses_info = [
     "day": "THU",
     "start": "09:00",
     "end": "10:45",
-    "venue": "N8-3002 / N8-G016",
     "remark": "",
+    "venue": "N8-3002 / N8-G016",
     "host": "FED"
   },
   {
@@ -15316,8 +15316,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:00",
     "end": "12:45",
+    "remark": "",
     "venue": "N8-3002 / N8-G016",
-    "remark": "",
     "host": "FED"
   },
   {
@@ -15328,8 +15328,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-1030",
     "remark": "",
+    "venue": "E33-1030",
     "host": "FED"
   },
   {
@@ -15340,8 +15340,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-1030",
     "remark": "",
+    "venue": "E33-1030",
     "host": "FED"
   },
   {
@@ -15352,8 +15352,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "N8-G001",
     "remark": "",
+    "venue": "N8-G001",
     "host": "FED"
   },
   {
@@ -15364,8 +15364,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "N8-G001",
     "remark": "",
+    "venue": "N8-G001",
     "host": "FED"
   },
   {
@@ -15376,8 +15376,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E33-1045",
     "remark": "",
+    "venue": "E33-1045",
     "host": "FED"
   },
   {
@@ -15388,8 +15388,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-3013",
     "remark": "",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -15400,8 +15400,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-3013",
     "remark": "",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -15412,8 +15412,8 @@ var courses_info = [
     "day": "FRI",
     "start": "18:00",
     "end": "20:45",
-    "venue": "E33-1029",
     "remark": "",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -15424,8 +15424,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E3-2043",
     "remark": "",
+    "venue": "E3-2043",
     "host": "FED"
   },
   {
@@ -15436,8 +15436,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E33-1051",
     "remark": "",
+    "venue": "E33-1051",
     "host": "FED"
   },
   {
@@ -15448,8 +15448,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-1051",
     "remark": "",
+    "venue": "E33-1051",
     "host": "FED"
   },
   {
@@ -15460,8 +15460,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E33-1051",
     "remark": "",
+    "venue": "E33-1051",
     "host": "FED"
   },
   {
@@ -15472,8 +15472,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E33-G031",
     "remark": "",
+    "venue": "E33-G031",
     "host": "FED"
   },
   {
@@ -15484,8 +15484,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E33-3035 / E33-3042",
     "remark": "Class not for :\n - FED - INS19 / INS23 / MAS19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E33-3035 / E33-3042",
     "host": "FED"
   },
   {
@@ -15496,8 +15496,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E33-3035 / E33-3042",
     "remark": "Class not for :\n - FED - INS19 / INS23 / MAS19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E33-3035 / E33-3042",
     "host": "FED"
   },
   {
@@ -15508,8 +15508,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E33-3035 / E33-3042",
     "remark": "Class not for :\n - FED - INS19 / INS23 / MAS19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E33-3035 / E33-3042",
     "host": "FED"
   },
   {
@@ -15520,8 +15520,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E33-3035 / E33-3042",
     "remark": "Class not for :\n - FED - INS19 / INS23 / MAS19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E33-3035 / E33-3042",
     "host": "FED"
   },
   {
@@ -15532,8 +15532,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E33-3035 / E33-3042",
     "remark": "Class not for :\n - FED - INS19 / INS23 / MAS19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E33-3035 / E33-3042",
     "host": "FED"
   },
   {
@@ -15544,8 +15544,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E33-3035 / E33-3042",
     "remark": "Class not for :\n - FED - INS19 / INS23 / MAS19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E33-3035 / E33-3042",
     "host": "FED"
   },
   {
@@ -15556,8 +15556,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E33-1029",
     "remark": "Class not for :\n - FED - ENG19 / INS19 / INS23 / MAS19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -15568,8 +15568,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E33-1030",
     "remark": "Class not for :\n - FED - CHN19 / ENG19 / INS19 / INS23 / MAS19 / PYE19 / PYE22\n",
+    "venue": "E33-1030",
     "host": "FED"
   },
   {
@@ -15580,8 +15580,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E33-1030",
     "remark": "Class not for :\n - FED - CHN19 / ENG19 / INS19 / INS23 / MAS19 / PYE19 / PYE22\n",
+    "venue": "E33-1030",
     "host": "FED"
   },
   {
@@ -15592,8 +15592,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E33-1029",
     "remark": "Class not for :\n - FED - CHN19 / ENG19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -15604,8 +15604,8 @@ var courses_info = [
     "day": "MON",
     "start": "18:00",
     "end": "20:45",
-    "venue": "E22-3013",
     "remark": "Class not for :\n - FED - CHN19 / ENG19 / INS19 / INS23 / MAS19 / PPE19\n",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -15616,8 +15616,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "15:45",
-    "venue": "E22-3002",
     "remark": "",
+    "venue": "E22-3002",
     "host": "FED"
   },
   {
@@ -15628,8 +15628,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E33-1030",
     "remark": "",
+    "venue": "E33-1030",
     "host": "FED"
   },
   {
@@ -15640,8 +15640,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E33-1030",
     "remark": "",
+    "venue": "E33-1030",
     "host": "FED"
   },
   {
@@ -15652,8 +15652,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-3002",
     "remark": "",
+    "venue": "E22-3002",
     "host": "FED"
   },
   {
@@ -15664,8 +15664,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-3002",
     "remark": "",
+    "venue": "E22-3002",
     "host": "FED"
   },
   {
@@ -15676,8 +15676,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
+    "remark": "",
     "venue": "E33-1030",
-    "remark": "",
     "host": "FED"
   },
   {
@@ -15688,8 +15688,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-3011",
     "remark": "",
+    "venue": "E22-3011",
     "host": "FED"
   },
   {
@@ -15700,8 +15700,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-3011",
     "remark": "",
+    "venue": "E22-3011",
     "host": "FED"
   },
   {
@@ -15712,8 +15712,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E1-B1002",
     "remark": "Class not for :\n - FED - PPE19-SECOND YEAR / PPE19-THIRD YEAR / PPE19-FOURTH YEAR\n",
+    "venue": "E1-B1002",
     "host": "FED"
   },
   {
@@ -15724,8 +15724,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E1-B1002",
     "remark": "Class not for :\n - FED - PPE19-SECOND YEAR / PPE19-THIRD YEAR / PPE19-FOURTH YEAR\n",
+    "venue": "E1-B1002",
     "host": "FED"
   },
   {
@@ -15736,8 +15736,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E33-1029",
     "remark": "",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -15748,8 +15748,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E22-3011",
     "remark": "",
+    "venue": "E22-3011",
     "host": "FED"
   },
   {
@@ -15760,8 +15760,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-1045",
     "remark": "",
+    "venue": "E33-1045",
     "host": "FED"
   },
   {
@@ -15772,8 +15772,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-1045",
     "remark": "",
+    "venue": "E33-1045",
     "host": "FED"
   },
   {
@@ -15784,8 +15784,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E33-1045",
     "remark": "",
+    "venue": "E33-1045",
     "host": "FED"
   },
   {
@@ -15796,8 +15796,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E33-1045",
     "remark": "",
+    "venue": "E33-1045",
     "host": "FED"
   },
   {
@@ -15808,8 +15808,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E33-1045",
-    "remark": "",
     "host": "FED"
   },
   {
@@ -15820,8 +15820,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E33-1029",
     "remark": "",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -15832,8 +15832,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E33-1029",
     "remark": "",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -15844,8 +15844,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-3011",
     "remark": "",
+    "venue": "E22-3011",
     "host": "FED"
   },
   {
@@ -15856,8 +15856,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-3011",
     "remark": "",
+    "venue": "E22-3011",
     "host": "FED"
   },
   {
@@ -15868,8 +15868,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E33-1029",
     "remark": "",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -15880,8 +15880,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E33-1029",
-    "remark": "",
     "host": "FED"
   },
   {
@@ -15892,8 +15892,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-3002",
     "remark": "",
+    "venue": "E22-3002",
     "host": "FED"
   },
   {
@@ -15904,8 +15904,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-3002",
     "remark": "",
+    "venue": "E22-3002",
     "host": "FED"
   },
   {
@@ -15916,8 +15916,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-3013",
     "remark": "",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -15928,8 +15928,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-3013",
     "remark": "",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -15940,8 +15940,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E33-1029 / E33-2039",
     "remark": "",
+    "venue": "E33-1029 / E33-2039",
     "host": "FED"
   },
   {
@@ -15952,8 +15952,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E33-1029 / E33-2039",
     "remark": "",
+    "venue": "E33-1029 / E33-2039",
     "host": "FED"
   },
   {
@@ -15964,8 +15964,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E6-3093",
     "remark": "",
+    "venue": "E6-3093",
     "host": "FED"
   },
   {
@@ -15976,8 +15976,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
+    "remark": "",
     "venue": "E6-3093",
-    "remark": "",
     "host": "FED"
   },
   {
@@ -15988,8 +15988,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E33-1029 / E33-2039",
     "remark": "",
+    "venue": "E33-1029 / E33-2039",
     "host": "FED"
   },
   {
@@ -16000,8 +16000,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E33-1029 / E33-2039",
     "remark": "",
+    "venue": "E33-1029 / E33-2039",
     "host": "FED"
   },
   {
@@ -16012,8 +16012,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-3011",
     "remark": "",
+    "venue": "E22-3011",
     "host": "FED"
   },
   {
@@ -16024,8 +16024,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-3011",
     "remark": "",
+    "venue": "E22-3011",
     "host": "FED"
   },
   {
@@ -16033,11 +16033,11 @@ var courses_info = [
     "name": "Educational Probation (Internship)",
     "prof": "FAN CHUN WAI / HSIANG TIEN PING / SUN XUHUA / TANG XIAOWEI / YU SHULIN (in Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FED - PYE22\n",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16048,8 +16048,8 @@ var courses_info = [
     "day": "TUE",
     "start": "18:00",
     "end": "20:45",
-    "venue": "E33-1029",
     "remark": "Class not for :\n - FED - CHN19 / INS19 / INS23 / MAS19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -16060,8 +16060,8 @@ var courses_info = [
     "day": "FRI",
     "start": "18:00",
     "end": "20:45",
-    "venue": "E22-3013",
     "remark": "Class not for :\n - FED - CHN19 / ENG19 / PPE19 / PYE19 / PYE22\n",
+    "venue": "E22-3013",
     "host": "FED"
   },
   {
@@ -16069,11 +16069,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "YEUNG SIU KWAI (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16081,11 +16081,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG ZHI SHENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16093,11 +16093,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHO KEE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16105,11 +16105,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG ZHI SHENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16117,11 +16117,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG ZHI SHENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16129,11 +16129,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHUN WAI GEORGE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16141,11 +16141,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHUN WAI GEORGE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16153,11 +16153,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHO KEE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16165,11 +16165,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHUN WAI GEORGE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16177,11 +16177,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHUN WAI GEORGE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16189,11 +16189,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG ZHI SHENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16201,11 +16201,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG ZHI SHENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16213,11 +16213,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "YEUNG SIU KWAI (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16225,11 +16225,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG ZHI SHENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16237,11 +16237,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHUN WAI GEORGE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16249,11 +16249,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHUN WAI GEORGE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16261,11 +16261,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "YEUNG SIU KWAI (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16273,11 +16273,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHO KEE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16285,11 +16285,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG ZHI SHENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16297,11 +16297,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG ZHI SHENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16309,11 +16309,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16321,11 +16321,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHO KEE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16333,11 +16333,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG ZHI SHENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16345,11 +16345,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "YEUNG SIU KWAI (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16357,11 +16357,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHO KEE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16369,11 +16369,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHO KEE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16381,11 +16381,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16393,11 +16393,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16405,11 +16405,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHO KEE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16417,11 +16417,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHO KEE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16429,11 +16429,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHENG CHO KEE (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16441,11 +16441,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG ZHI SHENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16453,11 +16453,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16465,11 +16465,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16477,11 +16477,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "YEUNG SIU KWAI (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16489,11 +16489,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16501,11 +16501,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16513,11 +16513,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16525,11 +16525,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WONG MING WAI MATILDA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16537,11 +16537,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LU CHAOQUN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16549,11 +16549,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16561,11 +16561,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WONG MING WAI MATILDA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16573,11 +16573,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16585,11 +16585,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16597,11 +16597,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16609,11 +16609,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16621,11 +16621,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "XIE QIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16633,11 +16633,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LU CHAOQUN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16645,11 +16645,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16657,11 +16657,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "XIE QIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16669,11 +16669,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WONG MING WAI MATILDA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16681,11 +16681,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WONG MING WAI MATILDA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16693,11 +16693,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WONG MING WAI MATILDA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16705,11 +16705,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16717,11 +16717,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "XIE QIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16729,11 +16729,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WONG MING WAI MATILDA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16741,11 +16741,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "XIE QIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16753,11 +16753,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WONG MING WAI MATILDA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16765,11 +16765,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "XIE QIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16777,11 +16777,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16789,11 +16789,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16801,11 +16801,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16813,11 +16813,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16825,11 +16825,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LU CHAOQUN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16837,11 +16837,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16849,11 +16849,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16861,11 +16861,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16873,11 +16873,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WONG MING WAI MATILDA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16885,11 +16885,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "VONG KEANG IENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16897,11 +16897,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUN JIN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16909,11 +16909,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LIU NAI HUA (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16921,11 +16921,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHAN KAN KAN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16933,11 +16933,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LIN LIJIA (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16945,11 +16945,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "ZHANG JUAN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16957,11 +16957,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SIT POU SEONG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16969,11 +16969,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LIU NAI HUA (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16981,11 +16981,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LIN LIJIA (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -16993,11 +16993,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUNG MIN-CHUAN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17005,11 +17005,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUN JIN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17017,11 +17017,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SIT POU SEONG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17029,11 +17029,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHAN KAN KAN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17041,11 +17041,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SIT POU SEONG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17053,11 +17053,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LIU NAI HUA (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17065,11 +17065,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "ZHANG JUAN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17077,11 +17077,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LIN LIJIA (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17089,11 +17089,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SIT POU SEONG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17101,11 +17101,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUN JIN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17113,11 +17113,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SIT POU SEONG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17125,11 +17125,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHAN KAN KAN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17137,11 +17137,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "ZHANG JUAN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17149,11 +17149,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "ZHANG JUAN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17161,11 +17161,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "ZHANG JUAN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17173,11 +17173,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "VONG KEANG IENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17185,11 +17185,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "VONG KEANG IENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17197,11 +17197,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "ZHANG JUAN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17209,11 +17209,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LIN LIJIA (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17221,11 +17221,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LIU NAI HUA (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17233,11 +17233,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SIT POU SEONG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17245,11 +17245,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUN JIN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17257,11 +17257,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "VONG KEANG IENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17269,11 +17269,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUNG MIN-CHUAN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17281,11 +17281,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHAN KAN KAN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17293,11 +17293,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUN JIN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17305,11 +17305,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SHIEH JIN-JY (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17317,11 +17317,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SIT POU SEONG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17329,11 +17329,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "VONG KEANG IENG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17341,11 +17341,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUN JIN (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17353,11 +17353,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "GUO LUYANG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17365,11 +17365,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "GUO LUYANG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17377,11 +17377,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WEI BING (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17389,11 +17389,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LYU WEICONG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17401,11 +17401,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SHIEH JIN-JY (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17413,11 +17413,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SHIEH JIN-JY (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17425,11 +17425,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "HSIANG TIEN PING (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17437,11 +17437,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LYU WEICONG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17449,11 +17449,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHEN FU (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17461,11 +17461,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "FAN CHUN WAI (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17473,11 +17473,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHEN FU (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17485,11 +17485,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "HSIANG TIEN PING (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17497,11 +17497,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "GUO LUYANG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17509,11 +17509,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "FAN CHUN WAI (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17521,11 +17521,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WEI BING (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17533,11 +17533,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "HSIANG TIEN PING (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17545,11 +17545,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUN XUHUA (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17557,11 +17557,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "GONG YANG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17569,11 +17569,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LYU WEICONG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17581,11 +17581,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "FAN CHUN WAI (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17593,11 +17593,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "FAN CHUN WAI (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17605,11 +17605,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUN XUHUA (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17617,11 +17617,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "FAN CHUN WAI (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17629,11 +17629,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "FAN CHUN WAI (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17641,11 +17641,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "GUO LUYANG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17653,11 +17653,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "CHOI SIU MING (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17665,11 +17665,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "GUO LUYANG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17677,11 +17677,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "FAN CHUN WAI (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17689,11 +17689,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "HSIANG TIEN PING (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17701,11 +17701,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "GUO LUYANG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17713,11 +17713,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "FAN CHUN WAI (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17725,11 +17725,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LYU WEICONG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17737,11 +17737,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "HSIANG TIEN PING (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17749,11 +17749,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "MING MING ZHOU (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17761,11 +17761,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "FAN CHUN WAI (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17773,11 +17773,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "LYU WEICONG (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17785,11 +17785,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "HSIANG TIEN PING (in Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17800,8 +17800,8 @@ var courses_info = [
     "day": "THU",
     "start": "18:00",
     "end": "20:45",
-    "venue": "E33-1029",
     "remark": "",
+    "venue": "E33-1029",
     "host": "FED"
   },
   {
@@ -17809,11 +17809,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17821,11 +17821,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WEI BING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17833,11 +17833,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TANG XIAOWEI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17845,11 +17845,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WEI BING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17857,11 +17857,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WEI BING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17869,11 +17869,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WEI BING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17881,11 +17881,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "WEI BING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17893,11 +17893,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17905,11 +17905,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17917,11 +17917,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17929,11 +17929,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17941,11 +17941,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUN XUHUA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17953,11 +17953,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17965,11 +17965,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUN XUHUA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17977,11 +17977,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUN XUHUA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -17989,11 +17989,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "JIANG CHUNLIAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -18001,11 +18001,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -18013,11 +18013,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUN XUHUA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -18025,11 +18025,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -18037,11 +18037,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "JIANG CHUNLIAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -18049,11 +18049,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "YANG XINRONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -18061,11 +18061,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "TBC_2024-1 (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -18073,11 +18073,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "YANG XINRONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -18085,11 +18085,11 @@ var courses_info = [
     "name": "Supervised Teaching and School Experience",
     "prof": "SUN XUHUA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FED"
   },
   {
@@ -18100,8 +18100,8 @@ var courses_info = [
     "day": "SAT",
     "start": "10:00",
     "end": "12:45",
-    "venue": "N8-3002 / N8-3008",
     "remark": "",
+    "venue": "N8-3002 / N8-3008",
     "host": "FED"
   },
   {
@@ -18112,8 +18112,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "FED"
   },
   {
@@ -18124,8 +18124,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E3-3032",
     "remark": "",
+    "venue": "E3-3032",
     "host": "FED"
   },
   {
@@ -18136,8 +18136,8 @@ var courses_info = [
     "day": "MON",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E33-1048",
     "remark": "",
+    "venue": "E33-1048",
     "host": "FED"
   },
   {
@@ -18148,8 +18148,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E33-1048",
     "remark": "",
+    "venue": "E33-1048",
     "host": "FED"
   },
   {
@@ -18160,8 +18160,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E33-G030",
     "remark": "",
+    "venue": "E33-G030",
     "host": "FED"
   },
   {
@@ -18172,8 +18172,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E33-G030",
     "remark": "",
+    "venue": "E33-G030",
     "host": "FED"
   },
   {
@@ -18184,8 +18184,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E33-G030",
     "remark": "",
+    "venue": "E33-G030",
     "host": "FED"
   },
   {
@@ -18196,8 +18196,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4032",
     "remark": "",
+    "venue": "E3-4032",
     "host": "FED"
   },
   {
@@ -18208,8 +18208,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4032",
     "remark": "",
+    "venue": "E3-4032",
     "host": "FED"
   },
   {
@@ -18220,8 +18220,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FHS-DBS"
   },
   {
@@ -18232,8 +18232,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FHS-DBS"
   },
   {
@@ -18244,8 +18244,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E12-G031",
     "remark": "Class for :\n - FHS - BIF22 / BIO19 / BIO22 / PHA22\n",
+    "venue": "E12-G031",
     "host": "FHS-DBS"
   },
   {
@@ -18256,8 +18256,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E12-G031",
     "remark": "Class for :\n - FHS - BIF22 / BIO19 / BIO22 / PHA22\n",
+    "venue": "E12-G031",
     "host": "FHS-DBS"
   },
   {
@@ -18268,8 +18268,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E12-G004",
     "remark": "",
+    "venue": "E12-G004",
     "host": "FHS-DBS"
   },
   {
@@ -18280,8 +18280,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E12-G004",
-    "remark": "",
     "host": "FHS-DBS"
   },
   {
@@ -18292,8 +18292,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FHS-DBS"
   },
   {
@@ -18304,8 +18304,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FHS-DBS"
   },
   {
@@ -18316,8 +18316,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FHS-DBS"
   },
   {
@@ -18328,8 +18328,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FHS-DBS"
   },
   {
@@ -18340,8 +18340,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E12-G030 / E12-1064",
     "remark": "Class for :\n - FHS - BIO22\n",
+    "venue": "E12-G030 / E12-1064",
     "host": "FHS-DBS"
   },
   {
@@ -18352,8 +18352,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E12-G003",
     "remark": "",
+    "venue": "E12-G003",
     "host": "FHS-DBS"
   },
   {
@@ -18364,8 +18364,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E12-G003",
     "remark": "",
+    "venue": "E12-G003",
     "host": "FHS-DBS"
   },
   {
@@ -18376,8 +18376,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E12-1057 / E12-1064 / E12-1061",
     "remark": "Class for :\n - FHS - BIF19 / BIF22 / BIO19 / BIO22\n",
+    "venue": "E12-1057 / E12-1064 / E12-1061",
     "host": "FHS-DBS"
   },
   {
@@ -18388,8 +18388,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E12-G003",
     "remark": "",
+    "venue": "E12-G003",
     "host": "FHS-DBS"
   },
   {
@@ -18400,8 +18400,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E12-G003",
-    "remark": "",
     "host": "FHS-DBS"
   },
   {
@@ -18412,8 +18412,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "N23-G016",
     "remark": "",
+    "venue": "N23-G016",
     "host": "FHS-DBS"
   },
   {
@@ -18424,8 +18424,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "N23-G016",
     "remark": "",
+    "venue": "N23-G016",
     "host": "FHS-DBS"
   },
   {
@@ -18436,8 +18436,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-G012",
     "remark": "",
+    "venue": "E11-G012",
     "host": "FHS-DPM"
   },
   {
@@ -18448,8 +18448,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-G012",
     "remark": "",
+    "venue": "E11-G012",
     "host": "FHS-DPM"
   },
   {
@@ -18460,8 +18460,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "13:15",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FHS-DPS"
   },
   {
@@ -18472,8 +18472,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "13:15",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FHS-DPS"
   },
   {
@@ -18484,8 +18484,8 @@ var courses_info = [
     "day": "MON",
     "start": "15:00",
     "end": "15:50",
-    "venue": "E12-G030",
     "remark": "Class for :\n - FHS - BIO22 / PHA22\n",
+    "venue": "E12-G030",
     "host": "FHS-DPS"
   },
   {
@@ -18496,8 +18496,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E12-G030",
     "remark": "Class for :\n - FHS - BIO22 / PHA22\n",
+    "venue": "E12-G030",
     "host": "FHS-DPS"
   },
   {
@@ -18508,8 +18508,8 @@ var courses_info = [
     "day": "WED",
     "start": "15:00",
     "end": "15:50",
-    "venue": "E12-G030",
     "remark": "Class for :\n - FHS - BIO22 / PHA22\n",
+    "venue": "E12-G030",
     "host": "FHS-DPS"
   },
   {
@@ -18520,8 +18520,8 @@ var courses_info = [
     "day": "WED",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E12-G030",
     "remark": "Class for :\n - FHS - BIO22 / PHA22\n",
+    "venue": "E12-G030",
     "host": "FHS-DPS"
   },
   {
@@ -18532,8 +18532,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FHS-DPS"
   },
   {
@@ -18544,8 +18544,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FHS-DPS"
   },
   {
@@ -18556,8 +18556,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1012",
     "remark": "",
+    "venue": "E11-1012",
     "host": "FHS-DPS"
   },
   {
@@ -18568,8 +18568,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1012",
     "remark": "",
+    "venue": "E11-1012",
     "host": "FHS-DPS"
   },
   {
@@ -18580,8 +18580,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E12-G030",
     "remark": "Class for :\n - FHS - PHA22\n",
+    "venue": "E12-G030",
     "host": "FHS-DPS"
   },
   {
@@ -18592,8 +18592,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FHS-DPS"
   },
   {
@@ -18604,8 +18604,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E11-1028",
-    "remark": "",
     "host": "FHS-DPS"
   },
   {
@@ -18616,8 +18616,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FHS-DPS"
   },
   {
@@ -18628,8 +18628,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E11-1018",
-    "remark": "",
     "host": "FHS-DPS"
   },
   {
@@ -18640,8 +18640,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1006",
     "remark": "",
+    "venue": "E11-1006",
     "host": "FHS-DPS"
   },
   {
@@ -18652,8 +18652,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E11-1006",
-    "remark": "",
     "host": "FHS-DPS"
   },
   {
@@ -18664,8 +18664,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E12-G020",
     "remark": "",
+    "venue": "E12-G020",
     "host": "FHS-DPS"
   },
   {
@@ -18676,8 +18676,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E12-G020",
-    "remark": "",
     "host": "FHS-DPS"
   },
   {
@@ -18688,8 +18688,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E12-G021",
     "remark": "",
+    "venue": "E12-G021",
     "host": "FHS-DPS"
   },
   {
@@ -18700,8 +18700,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E12-G021",
     "remark": "",
+    "venue": "E12-G021",
     "host": "FHS-DPS"
   },
   {
@@ -18712,8 +18712,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E4-G068",
     "remark": "",
+    "venue": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18724,8 +18724,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E4-G068",
     "remark": "",
+    "venue": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18736,8 +18736,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E4-1061",
     "remark": "",
+    "venue": "E4-1061",
     "host": "FHS"
   },
   {
@@ -18748,8 +18748,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E4-1061",
     "remark": "",
+    "venue": "E4-1061",
     "host": "FHS"
   },
   {
@@ -18760,8 +18760,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E4-G068",
     "remark": "Class for :\n - FAH\n - FED\n - FLL - BLC23\n - FSS\n",
+    "venue": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18772,8 +18772,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E4-G068",
     "remark": "Class for :\n - FAH\n - FED\n - FLL - BLC23\n - FSS\n",
+    "venue": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18784,8 +18784,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-G068",
     "remark": "Class for :\n - FAH\n - FED\n - FLL - BLC23\n - FSS\n",
+    "venue": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18796,8 +18796,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-G068",
     "remark": "Class for :\n - FAH\n - FED\n - FLL - BLC23\n - FSS\n",
+    "venue": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18808,8 +18808,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-G068",
     "remark": "",
+    "venue": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18820,8 +18820,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-G068",
     "remark": "",
+    "venue": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18829,11 +18829,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "CHANG WA KAM / CHAO CHONG HANG / CHEN QIANG / CHONG CHEONG MENG / DAI YUNLU / EDWIN CHONG WING CHEUNG / HANMING SHEN / JOONG SUP SHIM / JUNG WOO PARK / KWOK HANG FAI / LEE TSZ ON / LEUNG CHUNG HANG / LI GANG / LIN LIGEN / LIU TZU MING / LIU WEIWEI / LU JINJIAN / LUO QIAN / MIAO KAI / ROBERT DAVID SMITH / TAM KIN YIP / WONG KOON HO / XIANG YUTAO / XIE RUIYU / YUAN ZHEN / ZHANG HONGJIE / ZHANG QINGWEN / ZHANG XUANJUN / ZHAO QI / ZHENG WENHUA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FHS - BIO19-FOURTH YEAR\n",
+    "venue": "",
     "host": "FHS"
   },
   {
@@ -18841,11 +18841,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "CHUXIA DENG / DI LIJUN / DING XIAOFAN / GARY WONG / KWOK HANG FAI / LIU TZU MING / OUYANG DEFANG / ROBERT DAVID SMITH / UNG OI LAM CAROLINA / WANG PENG / XIANG YUTAO (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FHS - BIF19-FOURTH YEAR / BIF22-FOURTH YEAR\n",
+    "venue": "",
     "host": "FHS"
   },
   {
@@ -18856,8 +18856,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E21-G016",
     "remark": "Class for :\n - FLL - BLC23\n",
+    "venue": "E21-G016",
     "host": "FLL-GLS"
   },
   {
@@ -18868,8 +18868,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E4-1051",
     "remark": "Class for :\n - FLL - BLC23\n",
+    "venue": "E4-1051",
     "host": "FLL-GLS"
   },
   {
@@ -18880,8 +18880,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
-    "venue": "N8-3002",
     "remark": "Class for :\n - FLL - BLC23\n",
+    "venue": "N8-3002",
     "host": "FLL-GLS"
   },
   {
@@ -18892,8 +18892,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E21-G016",
     "remark": "Class for :\n - FLL - BLC23\n",
+    "venue": "E21-G016",
     "host": "FLL-GLS"
   },
   {
@@ -18904,8 +18904,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E21-G035",
     "remark": "Class for :\n - FLL - BLC23\n",
+    "venue": "E21-G035",
     "host": "FLL-GLS"
   },
   {
@@ -18916,8 +18916,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E32-G002",
     "remark": "Class for :\n - FLL - BLC23\n",
+    "venue": "E32-G002",
     "host": "FLL-GLS"
   },
   {
@@ -18928,8 +18928,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E32-G002",
     "remark": "Class for :\n - FLL - BLC23\n",
+    "venue": "E32-G002",
     "host": "FLL-GLS"
   },
   {
@@ -18940,8 +18940,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E32-G002",
     "remark": "Class for :\n - FLL - BLC23\n",
+    "venue": "E32-G002",
     "host": "FLL-GLS"
   },
   {
@@ -18952,8 +18952,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E32-G002",
     "remark": "Class for :\n - FLL - BLC23\n",
+    "venue": "E32-G002",
     "host": "FLL-GLS"
   },
   {
@@ -18964,8 +18964,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G002",
     "remark": "Class for :\n - FLL - BLC23\n",
+    "venue": "E32-G002",
     "host": "FLL-GLS"
   },
   {
@@ -18976,8 +18976,8 @@ var courses_info = [
     "day": "SAT",
     "start": "09:00",
     "end": "11:45",
-    "venue": "E32-G002",
     "remark": "Class for :\n - FLL - BLC23\n",
+    "venue": "E32-G002",
     "host": "FLL-GLS"
   },
   {
@@ -18988,8 +18988,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1102C",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19000,8 +19000,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1102C",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19012,8 +19012,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1113B",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19024,8 +19024,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1113B",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19036,8 +19036,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-G053",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19048,8 +19048,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-G053",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19060,8 +19060,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1102C",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19072,8 +19072,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1102C",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19084,8 +19084,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1113B",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19096,8 +19096,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1113B",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19108,8 +19108,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-G053",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19120,8 +19120,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-G053",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19132,8 +19132,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1102C",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19144,8 +19144,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1102C",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19156,8 +19156,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1113B",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19168,8 +19168,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1113B",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19180,8 +19180,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E4-G053",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19192,8 +19192,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E4-G053",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19204,8 +19204,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1102C",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19216,8 +19216,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1102C",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19228,8 +19228,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1113B",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19240,8 +19240,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1113B",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19252,8 +19252,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-G053",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19264,8 +19264,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-G053",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19276,8 +19276,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1102C",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19288,8 +19288,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
+    "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
     "venue": "E6-1102C",
-    "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
     "host": "FLL-MLS"
   },
   {
@@ -19300,8 +19300,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1113B",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19312,8 +19312,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1113B",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19324,8 +19324,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-G053",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19336,8 +19336,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-G053",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19348,8 +19348,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1113B",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19360,8 +19360,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1113B",
     "remark": "Class not for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19372,8 +19372,8 @@ var courses_info = [
     "day": "SAT",
     "start": "14:00",
     "end": "16:45",
-    "venue": "E32-G020",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -19384,8 +19384,8 @@ var courses_info = [
     "day": "SAT",
     "start": "17:00",
     "end": "17:50",
-    "venue": "E32-G020",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -19396,8 +19396,8 @@ var courses_info = [
     "day": "SAT",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G029",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -19408,8 +19408,8 @@ var courses_info = [
     "day": "SAT",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19420,8 +19420,8 @@ var courses_info = [
     "day": "MON",
     "start": "21:00",
     "end": "22:45",
-    "venue": "E32-G006",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19432,8 +19432,8 @@ var courses_info = [
     "day": "WED",
     "start": "19:00",
     "end": "19:50",
-    "venue": "E32-G008",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19444,8 +19444,8 @@ var courses_info = [
     "day": "WED",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E32-G027",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -19456,8 +19456,8 @@ var courses_info = [
     "day": "WED",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19468,8 +19468,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19480,8 +19480,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:45",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19492,8 +19492,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "10:50",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19504,8 +19504,8 @@ var courses_info = [
     "day": "WED",
     "start": "21:00",
     "end": "22:45",
-    "venue": "E32-G008",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19516,8 +19516,8 @@ var courses_info = [
     "day": "THU",
     "start": "18:00",
     "end": "18:50",
-    "venue": "E32-G008",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19528,8 +19528,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19540,8 +19540,8 @@ var courses_info = [
     "day": "WED",
     "start": "22:00",
     "end": "22:50",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19552,8 +19552,8 @@ var courses_info = [
     "day": "FRI",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19564,8 +19564,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:00",
     "end": "11:50",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19576,8 +19576,8 @@ var courses_info = [
     "day": "THU",
     "start": "19:00",
     "end": "19:50",
-    "venue": "E32-G008",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19588,8 +19588,8 @@ var courses_info = [
     "day": "THU",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19600,8 +19600,8 @@ var courses_info = [
     "day": "MON",
     "start": "20:30",
     "end": "23:15",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -19612,8 +19612,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -19624,8 +19624,8 @@ var courses_info = [
     "day": "MON",
     "start": "19:00",
     "end": "20:45",
-    "venue": "E32-G008",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19636,8 +19636,8 @@ var courses_info = [
     "day": "THU",
     "start": "18:00",
     "end": "18:50",
-    "venue": "E32-G006",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19648,8 +19648,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:00",
     "end": "11:45",
-    "venue": "E32-G029",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -19660,8 +19660,8 @@ var courses_info = [
     "day": "TUE",
     "start": "20:30",
     "end": "21:20",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -19672,8 +19672,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:30",
     "end": "17:20",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -19684,8 +19684,8 @@ var courses_info = [
     "day": "THU",
     "start": "19:00",
     "end": "19:50",
-    "venue": "E32-G006",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19696,8 +19696,8 @@ var courses_info = [
     "day": "WED",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E32-G029",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -19708,8 +19708,8 @@ var courses_info = [
     "day": "MON",
     "start": "19:00",
     "end": "20:45",
-    "venue": "E32-G006",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19720,8 +19720,8 @@ var courses_info = [
     "day": "WED",
     "start": "20:00",
     "end": "20:50",
-    "venue": "E32-G008",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19732,8 +19732,8 @@ var courses_info = [
     "day": "THU",
     "start": "20:00",
     "end": "21:45",
-    "venue": "E32-G008",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19744,8 +19744,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G027",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -19756,8 +19756,8 @@ var courses_info = [
     "day": "MON",
     "start": "20:00",
     "end": "20:50",
-    "venue": "E32-G002",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G002",
     "host": "FLL-MLS"
   },
   {
@@ -19768,8 +19768,8 @@ var courses_info = [
     "day": "TUE",
     "start": "21:00",
     "end": "21:50",
-    "venue": "E32-G008",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19780,8 +19780,8 @@ var courses_info = [
     "day": "FRI",
     "start": "19:00",
     "end": "20:15",
-    "venue": "E32-G029",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -19792,8 +19792,8 @@ var courses_info = [
     "day": "FRI",
     "start": "20:30",
     "end": "21:45",
-    "venue": "E32-G029",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -19804,8 +19804,8 @@ var courses_info = [
     "day": "WED",
     "start": "20:00",
     "end": "21:45",
-    "venue": "E32-G004",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -19816,8 +19816,8 @@ var courses_info = [
     "day": "FRI",
     "start": "22:00",
     "end": "22:50",
-    "venue": "E32-G004",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -19828,8 +19828,8 @@ var courses_info = [
     "day": "THU",
     "start": "20:30",
     "end": "23:15",
-    "venue": "E32-G029",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -19840,8 +19840,8 @@ var courses_info = [
     "day": "SAT",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G027",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -19852,8 +19852,8 @@ var courses_info = [
     "day": "TUE",
     "start": "18:00",
     "end": "20:45",
-    "venue": "E32-G006",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19864,8 +19864,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -19876,8 +19876,8 @@ var courses_info = [
     "day": "TUE",
     "start": "21:30",
     "end": "23:15",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -19888,8 +19888,8 @@ var courses_info = [
     "day": "SAT",
     "start": "14:00",
     "end": "15:45",
-    "venue": "E32-G027",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -19900,8 +19900,8 @@ var courses_info = [
     "day": "WED",
     "start": "20:00",
     "end": "21:45",
-    "venue": "E32-G006",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19912,8 +19912,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -19924,8 +19924,8 @@ var courses_info = [
     "day": "SAT",
     "start": "09:30",
     "end": "12:15",
-    "venue": "E32-G004",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -19936,8 +19936,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G020",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -19948,8 +19948,8 @@ var courses_info = [
     "day": "TUE",
     "start": "21:00",
     "end": "22:45",
-    "venue": "E32-G006",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19960,8 +19960,8 @@ var courses_info = [
     "day": "WED",
     "start": "19:00",
     "end": "19:50",
-    "venue": "E32-G006",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19972,8 +19972,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -19984,8 +19984,8 @@ var courses_info = [
     "day": "FRI",
     "start": "20:30",
     "end": "21:20",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -19996,8 +19996,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:00",
     "end": "17:50",
-    "venue": "E32-G020",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20008,8 +20008,8 @@ var courses_info = [
     "day": "WED",
     "start": "22:00",
     "end": "22:50",
-    "venue": "E32-G006",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -20020,8 +20020,8 @@ var courses_info = [
     "day": "FRI",
     "start": "18:00",
     "end": "18:50",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20032,8 +20032,8 @@ var courses_info = [
     "day": "THU",
     "start": "20:00",
     "end": "21:45",
-    "venue": "E32-1005",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-1005",
     "host": "FLL-MLS"
   },
   {
@@ -20044,8 +20044,8 @@ var courses_info = [
     "day": "WED",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20056,8 +20056,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G027",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -20068,8 +20068,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:00",
     "end": "16:45",
-    "venue": "E32-G020",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20080,8 +20080,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20092,8 +20092,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E32-G020",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20104,8 +20104,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "16:15",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20116,8 +20116,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E32-G029",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20128,8 +20128,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:00",
     "end": "19:50",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20140,8 +20140,8 @@ var courses_info = [
     "day": "THU",
     "start": "18:00",
     "end": "19:45",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20152,8 +20152,8 @@ var courses_info = [
     "day": "FRI",
     "start": "21:30",
     "end": "23:15",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20164,8 +20164,8 @@ var courses_info = [
     "day": "FRI",
     "start": "20:00",
     "end": "21:45",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20176,8 +20176,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:00",
     "end": "16:45",
-    "venue": "E32-G020",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20188,8 +20188,8 @@ var courses_info = [
     "day": "MON",
     "start": "18:00",
     "end": "19:45",
-    "venue": "E32-G028",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20200,8 +20200,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:00",
     "end": "19:50",
-    "venue": "E32-G028",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20212,8 +20212,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20224,8 +20224,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:00",
     "end": "17:50",
-    "venue": "E32-G020",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20236,8 +20236,8 @@ var courses_info = [
     "day": "MON",
     "start": "20:00",
     "end": "20:50",
-    "venue": "E32-G028",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20248,8 +20248,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "10:50",
-    "venue": "E32-G027",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -20260,8 +20260,8 @@ var courses_info = [
     "day": "THU",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20272,8 +20272,8 @@ var courses_info = [
     "day": "THU",
     "start": "22:00",
     "end": "22:50",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20284,8 +20284,8 @@ var courses_info = [
     "day": "THU",
     "start": "20:00",
     "end": "22:45",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20296,8 +20296,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20308,8 +20308,8 @@ var courses_info = [
     "day": "MON",
     "start": "18:00",
     "end": "19:45",
-    "venue": "E32-G002",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G002",
     "host": "FLL-MLS"
   },
   {
@@ -20320,8 +20320,8 @@ var courses_info = [
     "day": "TUE",
     "start": "18:00",
     "end": "18:50",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20332,8 +20332,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20344,8 +20344,8 @@ var courses_info = [
     "day": "FRI",
     "start": "19:30",
     "end": "21:15",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20356,8 +20356,8 @@ var courses_info = [
     "day": "SAT",
     "start": "10:00",
     "end": "11:45",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20368,8 +20368,8 @@ var courses_info = [
     "day": "THU",
     "start": "20:00",
     "end": "21:45",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20380,8 +20380,8 @@ var courses_info = [
     "day": "SAT",
     "start": "10:00",
     "end": "11:45",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20392,8 +20392,8 @@ var courses_info = [
     "day": "WED",
     "start": "20:00",
     "end": "22:45",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20404,8 +20404,8 @@ var courses_info = [
     "day": "WED",
     "start": "19:00",
     "end": "19:50",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20416,8 +20416,8 @@ var courses_info = [
     "day": "MON",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20428,8 +20428,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:00",
     "end": "16:45",
-    "venue": "E32-G020",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20440,8 +20440,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:00",
     "end": "11:45",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20452,8 +20452,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:00",
     "end": "16:45",
-    "venue": "E32-G020",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20464,8 +20464,8 @@ var courses_info = [
     "day": "MON",
     "start": "22:00",
     "end": "22:50",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20476,8 +20476,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:00",
     "end": "17:50",
-    "venue": "E32-G020",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20488,8 +20488,8 @@ var courses_info = [
     "day": "WED",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20500,8 +20500,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:00",
     "end": "17:50",
-    "venue": "E32-G020",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20512,8 +20512,8 @@ var courses_info = [
     "day": "SAT",
     "start": "14:00",
     "end": "16:45",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20524,8 +20524,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G029",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20536,8 +20536,8 @@ var courses_info = [
     "day": "SAT",
     "start": "17:00",
     "end": "18:45",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20548,8 +20548,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E32-G029",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20560,8 +20560,8 @@ var courses_info = [
     "day": "FRI",
     "start": "18:00",
     "end": "19:45",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20572,8 +20572,8 @@ var courses_info = [
     "day": "WED",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E32-G029",
     "remark": "Class for :\n - FLL - BLD18 / BLE17 / BLE18 / BLL18\n",
+    "venue": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20584,8 +20584,8 @@ var courses_info = [
     "day": "TUE",
     "start": "09:00",
     "end": "11:45",
-    "venue": "E32-G020",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20596,8 +20596,8 @@ var courses_info = [
     "day": "TUE",
     "start": "20:00",
     "end": "21:45",
-    "venue": "E32-G028",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20608,8 +20608,8 @@ var courses_info = [
     "day": "WED",
     "start": "20:00",
     "end": "20:50",
-    "venue": "E32-G028",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20620,8 +20620,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:00",
     "end": "16:45",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20632,8 +20632,8 @@ var courses_info = [
     "day": "WED",
     "start": "22:00",
     "end": "22:50",
-    "venue": "E32-G029",
     "remark": "Class for :\n - FLL - BLD18 / BLE17 / BLE18 / BLL18\n",
+    "venue": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20644,8 +20644,8 @@ var courses_info = [
     "day": "TUE",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E32-G020",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20656,8 +20656,8 @@ var courses_info = [
     "day": "WED",
     "start": "21:00",
     "end": "21:50",
-    "venue": "E32-G028",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20668,8 +20668,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:00",
     "end": "17:50",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20680,8 +20680,8 @@ var courses_info = [
     "day": "SAT",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20692,8 +20692,8 @@ var courses_info = [
     "day": "TUE",
     "start": "18:00",
     "end": "18:50",
-    "venue": "E32-G004",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -20704,8 +20704,8 @@ var courses_info = [
     "day": "WED",
     "start": "18:00",
     "end": "19:45",
-    "venue": "E32-G004",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -20716,8 +20716,8 @@ var courses_info = [
     "day": "SAT",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20728,8 +20728,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:00",
     "end": "19:50",
-    "venue": "E32-G004",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -20740,8 +20740,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20752,8 +20752,8 @@ var courses_info = [
     "day": "THU",
     "start": "19:00",
     "end": "19:50",
-    "venue": "E32-G029",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20764,8 +20764,8 @@ var courses_info = [
     "day": "MON",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20776,8 +20776,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20788,8 +20788,8 @@ var courses_info = [
     "day": "WED",
     "start": "18:00",
     "end": "19:45",
-    "venue": "E32-G028",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20800,8 +20800,8 @@ var courses_info = [
     "day": "FRI",
     "start": "20:00",
     "end": "20:50",
-    "venue": "E32-G004",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -20812,8 +20812,8 @@ var courses_info = [
     "day": "THU",
     "start": "15:00",
     "end": "17:45",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20824,8 +20824,8 @@ var courses_info = [
     "day": "SAT",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20836,8 +20836,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:00",
     "end": "14:50",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20848,8 +20848,8 @@ var courses_info = [
     "day": "FRI",
     "start": "19:00",
     "end": "19:50",
-    "venue": "E32-G004",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -20860,8 +20860,8 @@ var courses_info = [
     "day": "THU",
     "start": "18:00",
     "end": "18:50",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20872,8 +20872,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E32-G005",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20884,8 +20884,8 @@ var courses_info = [
     "day": "MON",
     "start": "21:00",
     "end": "22:45",
-    "venue": "E32-G028",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20896,8 +20896,8 @@ var courses_info = [
     "day": "TUE",
     "start": "22:00",
     "end": "22:50",
-    "venue": "E32-G028",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20908,8 +20908,8 @@ var courses_info = [
     "day": "FRI",
     "start": "21:30",
     "end": "23:15",
-    "venue": "E32-G013",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20920,8 +20920,8 @@ var courses_info = [
     "day": "THU",
     "start": "20:00",
     "end": "21:45",
-    "venue": "E32-G006",
     "remark": "Class for :\n - FLL - BLL18 / WA17\n",
+    "venue": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -20932,8 +20932,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:00",
     "end": "16:45",
-    "venue": "E32-G029",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20944,8 +20944,8 @@ var courses_info = [
     "day": "TUE",
     "start": "09:00",
     "end": "11:45",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20956,8 +20956,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:00",
     "end": "17:50",
-    "venue": "E32-G029",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20968,8 +20968,8 @@ var courses_info = [
     "day": "TUE",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E32-G007",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20980,8 +20980,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E32-G027",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -20992,8 +20992,8 @@ var courses_info = [
     "day": "THU",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E32-G027",
     "remark": "Class for :\n - FLL - BLD18 / BLE18 / BLL18\n",
+    "venue": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -21004,8 +21004,8 @@ var courses_info = [
     "day": "MON",
     "start": "19:00",
     "end": "20:45",
-    "venue": "E32-G004",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -21016,8 +21016,8 @@ var courses_info = [
     "day": "THU",
     "start": "20:00",
     "end": "21:45",
-    "venue": "E32-G004",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -21028,8 +21028,8 @@ var courses_info = [
     "day": "TUE",
     "start": "20:00",
     "end": "21:45",
-    "venue": "E32-G004",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -21040,8 +21040,8 @@ var courses_info = [
     "day": "THU",
     "start": "18:00",
     "end": "19:45",
-    "venue": "E32-G004",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -21049,11 +21049,11 @@ var courses_info = [
     "name": "Research Report",
     "prof": "TERESA LANCRY DE GOUVEIA DE ALBUQUERQUE E SOUSA ROBALO (in Portuguese)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "",
     "host": "FLL-MLS"
   },
   {
@@ -21064,8 +21064,8 @@ var courses_info = [
     "day": "MON",
     "start": "21:00",
     "end": "21:50",
-    "venue": "E32-G004",
     "remark": "Class for :\n - FLL - WA17\n",
+    "venue": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -21076,8 +21076,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1015",
     "remark": "",
+    "venue": "E21-1015",
     "host": "FSS-DCOM"
   },
   {
@@ -21088,8 +21088,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1015",
     "remark": "",
+    "venue": "E21-1015",
     "host": "FSS-DCOM"
   },
   {
@@ -21100,8 +21100,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-G041",
     "remark": "",
+    "venue": "E3-G041",
     "host": "FSS-DCOM"
   },
   {
@@ -21112,8 +21112,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-G041",
     "remark": "",
+    "venue": "E3-G041",
     "host": "FSS-DCOM"
   },
   {
@@ -21124,8 +21124,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FSS-DCOM"
   },
   {
@@ -21136,8 +21136,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
+    "remark": "",
     "venue": "E21-1019",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -21148,8 +21148,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-G041",
     "remark": "",
+    "venue": "E3-G041",
     "host": "FSS-DCOM"
   },
   {
@@ -21160,8 +21160,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E3-G041",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -21172,8 +21172,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21184,8 +21184,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21196,8 +21196,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21208,8 +21208,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21220,8 +21220,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1015",
     "remark": "",
+    "venue": "E21-1015",
     "host": "FSS-DCOM"
   },
   {
@@ -21232,8 +21232,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E21-1015",
     "remark": "",
+    "venue": "E21-1015",
     "host": "FSS-DCOM"
   },
   {
@@ -21244,8 +21244,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1015",
     "remark": "",
+    "venue": "E21-1015",
     "host": "FSS-DCOM"
   },
   {
@@ -21256,8 +21256,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E21-1015",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -21268,8 +21268,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1027",
     "remark": "",
+    "venue": "E21-1027",
     "host": "FSS-DCOM"
   },
   {
@@ -21280,8 +21280,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E21-1027",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -21292,8 +21292,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-4015",
     "remark": "",
+    "venue": "E22-4015",
     "host": "FSS-DCOM"
   },
   {
@@ -21304,8 +21304,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E22-4015",
     "remark": "",
+    "venue": "E22-4015",
     "host": "FSS-DCOM"
   },
   {
@@ -21316,8 +21316,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E22-4015",
     "remark": "",
+    "venue": "E22-4015",
     "host": "FSS-DCOM"
   },
   {
@@ -21328,8 +21328,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E22-4015",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -21340,8 +21340,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E22-4012",
     "remark": "",
+    "venue": "E22-4012",
     "host": "FSS-DCOM"
   },
   {
@@ -21352,8 +21352,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
+    "remark": "",
     "venue": "E22-4012",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -21364,8 +21364,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21376,8 +21376,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21388,8 +21388,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21400,8 +21400,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21412,8 +21412,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21424,8 +21424,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21436,8 +21436,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21448,8 +21448,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21460,8 +21460,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FSS-DCOM"
   },
   {
@@ -21472,8 +21472,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FSS-DCOM"
   },
   {
@@ -21484,8 +21484,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-G026A",
     "remark": "",
+    "venue": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -21496,8 +21496,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E21-G026A",
     "remark": "",
+    "venue": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -21508,8 +21508,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-G026A",
     "remark": "Class for :\n - FSS - COM17 / COM20\n",
+    "venue": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -21520,8 +21520,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-G026A",
     "remark": "",
+    "venue": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -21532,8 +21532,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E21-G026A",
     "remark": "",
+    "venue": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -21544,8 +21544,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "17:15",
+    "remark": "",
     "venue": "E21-G026A",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -21556,8 +21556,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4043 / E6-3093",
     "remark": "",
+    "venue": "E3-4043 / E6-3093",
     "host": "FSS-DCOM"
   },
   {
@@ -21568,8 +21568,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E3-4043 / E6-3093",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -21580,8 +21580,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4042 / E6-3093",
     "remark": "",
+    "venue": "E3-4042 / E6-3093",
     "host": "FSS-DCOM"
   },
   {
@@ -21592,8 +21592,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E3-4042 / E6-3093",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -21604,8 +21604,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21616,8 +21616,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1021",
     "remark": "",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21628,8 +21628,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1021",
     "remark": "Class for :\n - FSS - COM17 / COM20\n",
+    "venue": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21640,8 +21640,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
+    "remark": "Class for :\n - FSS - COM17 / COM20\n",
     "venue": "E21-1021",
-    "remark": "Class for :\n - FSS - COM17 / COM20\n",
     "host": "FSS-DCOM"
   },
   {
@@ -21652,8 +21652,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1017",
     "remark": "Class for :\n - FSS - COM17 / COM20\n",
+    "venue": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -21664,8 +21664,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1017",
     "remark": "Class for :\n - FSS - COM17 / COM20\n",
+    "venue": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -21676,8 +21676,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-G015",
     "remark": "",
+    "venue": "E21-G015",
     "host": "FSS-DCOM"
   },
   {
@@ -21688,8 +21688,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-G015",
     "remark": "",
+    "venue": "E21-G015",
     "host": "FSS-DCOM"
   },
   {
@@ -21700,8 +21700,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21712,8 +21712,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21724,8 +21724,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21736,8 +21736,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21748,8 +21748,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-G015",
     "remark": "",
+    "venue": "E21-G015",
     "host": "FSS-DCOM"
   },
   {
@@ -21760,8 +21760,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-G015",
     "remark": "",
+    "venue": "E21-G015",
     "host": "FSS-DCOM"
   },
   {
@@ -21772,8 +21772,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-G015",
     "remark": "",
+    "venue": "E21-G015",
     "host": "FSS-DCOM"
   },
   {
@@ -21784,8 +21784,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
+    "remark": "",
     "venue": "E21-G015",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -21796,8 +21796,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21808,8 +21808,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21820,8 +21820,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21832,8 +21832,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21844,8 +21844,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1017",
     "remark": "",
+    "venue": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -21856,8 +21856,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1017",
     "remark": "",
+    "venue": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -21868,8 +21868,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-G012",
     "remark": "Class for :\n - FSS - COM17 / COM20\n",
+    "venue": "E21-G012",
     "host": "FSS-DCOM"
   },
   {
@@ -21880,8 +21880,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-G012",
     "remark": "Class for :\n - FSS - COM17 / COM20\n",
+    "venue": "E21-G012",
     "host": "FSS-DCOM"
   },
   {
@@ -21892,8 +21892,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1029",
     "remark": "Class for :\n - FSS - COM17 / COM20\n",
+    "venue": "E21-1029",
     "host": "FSS-DCOM"
   },
   {
@@ -21904,8 +21904,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1029",
     "remark": "Class for :\n - FSS - COM17 / COM20\n",
+    "venue": "E21-1029",
     "host": "FSS-DCOM"
   },
   {
@@ -21916,8 +21916,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E6-3093",
     "remark": "",
+    "venue": "E6-3093",
     "host": "FSS-DCOM"
   },
   {
@@ -21928,8 +21928,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "17:15",
+    "remark": "",
     "venue": "E6-3093",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -21940,8 +21940,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1017",
     "remark": "",
+    "venue": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -21952,8 +21952,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
+    "remark": "",
     "venue": "E21-1017",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -21964,8 +21964,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FSS-DCOM"
   },
   {
@@ -21976,8 +21976,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FSS-DCOM"
   },
   {
@@ -21988,8 +21988,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FSS-DCOM"
   },
   {
@@ -22000,8 +22000,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FSS-DCOM"
   },
   {
@@ -22012,8 +22012,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -22024,8 +22024,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -22036,8 +22036,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -22048,8 +22048,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -22060,8 +22060,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E21-G026A",
     "remark": "",
+    "venue": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -22072,8 +22072,8 @@ var courses_info = [
     "day": "THU",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E21-1030",
     "remark": "Class for :\n - FSS - COM17 / COM20\n",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -22084,8 +22084,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1027",
     "remark": "",
+    "venue": "E21-1027",
     "host": "FSS-DCOM"
   },
   {
@@ -22096,8 +22096,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1027",
     "remark": "",
+    "venue": "E21-1027",
     "host": "FSS-DCOM"
   },
   {
@@ -22108,8 +22108,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1027",
     "remark": "",
+    "venue": "E21-1027",
     "host": "FSS-DCOM"
   },
   {
@@ -22120,8 +22120,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1027",
     "remark": "",
+    "venue": "E21-1027",
     "host": "FSS-DCOM"
   },
   {
@@ -22132,8 +22132,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1030",
     "remark": "Class for :\n - FSS - COM17-FOURTH YEAR / COM20-FOURTH YEAR\n",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -22144,8 +22144,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1030",
     "remark": "Class for :\n - FSS - COM17-FOURTH YEAR / COM20-FOURTH YEAR\n",
+    "venue": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -22156,8 +22156,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-1017",
     "remark": "Class for :\n - FSS - COM17 / COM20\n",
+    "venue": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -22168,8 +22168,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-1017",
     "remark": "Class for :\n - FSS - COM17 / COM20\n",
+    "venue": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -22180,8 +22180,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-G026A",
     "remark": "Class for :\n - FSS - COM17-CRM17-FOURTH YEAR / COM20-CRM20-FOURTH YEAR\n",
+    "venue": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -22192,8 +22192,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E21-G026A",
     "remark": "Class for :\n - FSS - COM17-CRM17-FOURTH YEAR / COM20-CRM20-FOURTH YEAR\n",
+    "venue": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -22204,8 +22204,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-G026A",
     "remark": "Class for :\n - FSS - COM17-CRM17-FOURTH YEAR / COM20-CRM20-FOURTH YEAR\n",
+    "venue": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -22216,8 +22216,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G035",
     "remark": "",
+    "venue": "E21-G035",
     "host": "FSS-DCOM"
   },
   {
@@ -22228,8 +22228,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E21-G035",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -22240,8 +22240,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-4042",
     "remark": "",
+    "venue": "E3-4042",
     "host": "FSS-DCOM"
   },
   {
@@ -22252,8 +22252,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E3-4042",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -22264,8 +22264,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-4032",
     "remark": "",
+    "venue": "E3-4032",
     "host": "FSS-DCOM"
   },
   {
@@ -22276,8 +22276,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E3-4032",
-    "remark": "",
     "host": "FSS-DCOM"
   },
   {
@@ -22288,8 +22288,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FSS-DCOM"
   },
   {
@@ -22300,8 +22300,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4034",
     "remark": "",
+    "venue": "E3-4034",
     "host": "FSS-DCOM"
   },
   {
@@ -22312,8 +22312,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FSS-DECO"
   },
   {
@@ -22324,8 +22324,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FSS-DECO"
   },
   {
@@ -22336,8 +22336,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FSS-DECO"
   },
   {
@@ -22348,8 +22348,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FSS-DECO"
   },
   {
@@ -22360,8 +22360,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-G068",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E4-G068",
     "host": "FSS-DECO"
   },
   {
@@ -22372,8 +22372,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-G068",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E4-G068",
     "host": "FSS-DECO"
   },
   {
@@ -22384,8 +22384,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-G068",
     "remark": "Class for :\n - FSS - ECN17\n- FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E4-G068",
     "host": "FSS-DECO"
   },
   {
@@ -22396,8 +22396,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-G068",
     "remark": "Class for :\n - FSS - ECN17 \n- FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E4-G068",
     "host": "FSS-DECO"
   },
   {
@@ -22408,8 +22408,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E6-1113B",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E6-1113B",
     "host": "FSS-DECO"
   },
   {
@@ -22420,8 +22420,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E6-1113B",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E6-1113B",
     "host": "FSS-DECO"
   },
   {
@@ -22432,8 +22432,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "15:45",
-    "venue": "E21-1015",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E21-1015",
     "host": "FSS-DECO"
   },
   {
@@ -22444,8 +22444,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "15:45",
-    "venue": "E21-G009",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E21-G009",
     "host": "FSS-DECO"
   },
   {
@@ -22456,8 +22456,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-G016",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E21-G016",
     "host": "FSS-DECO"
   },
   {
@@ -22468,8 +22468,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-G016",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E21-G016",
     "host": "FSS-DECO"
   },
   {
@@ -22480,8 +22480,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E6-1102C",
     "remark": "Class for :\n - FSS - ECN19\n",
+    "venue": "E6-1102C",
     "host": "FSS-DECO"
   },
   {
@@ -22492,8 +22492,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1015",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E21-1015",
     "host": "FSS-DECO"
   },
   {
@@ -22504,8 +22504,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1015",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E21-1015",
     "host": "FSS-DECO"
   },
   {
@@ -22516,8 +22516,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1019",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E21-1019",
     "host": "FSS-DECO"
   },
   {
@@ -22528,8 +22528,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1019",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E21-1019",
     "host": "FSS-DECO"
   },
   {
@@ -22540,8 +22540,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1015",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E21-1015",
     "host": "FSS-DECO"
   },
   {
@@ -22552,8 +22552,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1015",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E21-1015",
     "host": "FSS-DECO"
   },
   {
@@ -22564,8 +22564,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "15:45",
-    "venue": "E21-1029",
     "remark": "Class for :\n - FSS - ECN19\n",
+    "venue": "E21-1029",
     "host": "FSS-DECO"
   },
   {
@@ -22576,8 +22576,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1015",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E21-1015",
     "host": "FSS-DECO"
   },
   {
@@ -22588,8 +22588,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1015",
     "remark": "Class for :\n - FSS - ECN19\n - FSS - MEC19\n",
+    "venue": "E21-1015",
     "host": "FSS-DECO"
   },
   {
@@ -22600,8 +22600,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1063",
     "remark": "",
+    "venue": "E4-1063",
     "host": "FSS-DECO"
   },
   {
@@ -22612,8 +22612,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1063",
     "remark": "",
+    "venue": "E4-1063",
     "host": "FSS-DECO"
   },
   {
@@ -22624,8 +22624,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "FSS-DGPA"
   },
   {
@@ -22636,8 +22636,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E3-4043",
-    "remark": "",
     "host": "FSS-DGPA"
   },
   {
@@ -22648,8 +22648,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FSS-DGPA"
   },
   {
@@ -22660,8 +22660,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "FSS-DGPA"
   },
   {
@@ -22672,8 +22672,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FSS-DGPA"
   },
   {
@@ -22684,8 +22684,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E6-1113B",
-    "remark": "",
     "host": "FSS-DGPA"
   },
   {
@@ -22696,8 +22696,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E4-G068",
     "remark": "",
+    "venue": "E4-G068",
     "host": "FSS-DGPA"
   },
   {
@@ -22708,8 +22708,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E4-G068",
-    "remark": "",
     "host": "FSS-DGPA"
   },
   {
@@ -22720,8 +22720,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-G016",
     "remark": "",
+    "venue": "E21-G016",
     "host": "FSS-DGPA"
   },
   {
@@ -22732,8 +22732,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-G016",
     "remark": "",
+    "venue": "E21-G016",
     "host": "FSS-DGPA"
   },
   {
@@ -22744,8 +22744,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-G016",
     "remark": "",
+    "venue": "E21-G016",
     "host": "FSS-DGPA"
   },
   {
@@ -22756,8 +22756,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-G016",
     "remark": "",
+    "venue": "E21-G016",
     "host": "FSS-DGPA"
   },
   {
@@ -22768,8 +22768,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E22-4012",
     "remark": "",
+    "venue": "E22-4012",
     "host": "FSS-DGPA"
   },
   {
@@ -22780,8 +22780,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1019",
     "remark": "Class for :\n - FSS - GPA / GPA11 / GPA17 / GPA19\n",
+    "venue": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -22792,8 +22792,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1019",
     "remark": "Class for :\n - FSS - GPA / GPA11 / GPA17 / GPA19\n",
+    "venue": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -22804,8 +22804,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1017",
     "remark": "Class for :\n - FSS - GPA / GPA11 / GPA17 / GPA19\n",
+    "venue": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22816,8 +22816,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1017",
     "remark": "Class for :\n - FSS - GPA / GPA11 / GPA17 / GPA19\n",
+    "venue": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22828,8 +22828,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1017",
     "remark": "",
+    "venue": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22840,8 +22840,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1017",
     "remark": "",
+    "venue": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22852,8 +22852,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-G016",
     "remark": "",
+    "venue": "E21-G016",
     "host": "FSS-DGPA"
   },
   {
@@ -22864,8 +22864,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E21-G016",
-    "remark": "",
     "host": "FSS-DGPA"
   },
   {
@@ -22876,8 +22876,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FSS-DGPA"
   },
   {
@@ -22888,8 +22888,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
+    "remark": "",
     "venue": "E21-1029",
-    "remark": "",
     "host": "FSS-DGPA"
   },
   {
@@ -22900,8 +22900,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1017",
     "remark": "",
+    "venue": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22912,8 +22912,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1017",
     "remark": "",
+    "venue": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22924,8 +22924,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -22936,8 +22936,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -22948,8 +22948,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1017",
     "remark": "",
+    "venue": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22960,8 +22960,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E21-1017",
-    "remark": "",
     "host": "FSS-DGPA"
   },
   {
@@ -22972,8 +22972,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G035",
     "remark": "",
+    "venue": "E21-G035",
     "host": "FSS-DGPA"
   },
   {
@@ -22984,8 +22984,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G035",
     "remark": "",
+    "venue": "E21-G035",
     "host": "FSS-DGPA"
   },
   {
@@ -22996,8 +22996,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -23008,8 +23008,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -23020,8 +23020,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -23032,8 +23032,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -23044,8 +23044,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-4012",
     "remark": "",
+    "venue": "E22-4012",
     "host": "FSS-DGPA"
   },
   {
@@ -23056,8 +23056,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E22-4012",
     "remark": "",
+    "venue": "E22-4012",
     "host": "FSS-DGPA"
   },
   {
@@ -23068,8 +23068,8 @@ var courses_info = [
     "day": "SAT",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E21-1017",
     "remark": "",
+    "venue": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -23080,8 +23080,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-G016",
     "remark": "",
+    "venue": "E21-G016",
     "host": "FSS-DGPA"
   },
   {
@@ -23092,8 +23092,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E22-4012",
     "remark": "",
+    "venue": "E22-4012",
     "host": "FSS-DGPA"
   },
   {
@@ -23104,8 +23104,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E22-4012",
     "remark": "",
+    "venue": "E22-4012",
     "host": "FSS-DGPA"
   },
   {
@@ -23116,8 +23116,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E34-G011",
     "remark": "",
+    "venue": "E34-G011",
     "host": "FSS-DPSY"
   },
   {
@@ -23128,8 +23128,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E34-G011",
-    "remark": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23140,8 +23140,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23152,8 +23152,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23164,8 +23164,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23176,8 +23176,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23188,8 +23188,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23200,8 +23200,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23212,8 +23212,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23224,8 +23224,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23236,8 +23236,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23248,8 +23248,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1029",
     "remark": "",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23260,8 +23260,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "N21-G013",
     "remark": "",
+    "venue": "N21-G013",
     "host": "FSS-DPSY"
   },
   {
@@ -23272,8 +23272,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "N21-G013",
     "remark": "",
+    "venue": "N21-G013",
     "host": "FSS-DPSY"
   },
   {
@@ -23284,8 +23284,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1029",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n - FSS - PGM19\n",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23296,8 +23296,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1029",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n - FSS - PGM19\n",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23308,8 +23308,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-1029",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n - FSS - PGM19\n",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23320,8 +23320,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E33-G021",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n - FSS - PGM19\n",
+    "venue": "E33-G021",
     "host": "FSS-DPSY"
   },
   {
@@ -23332,8 +23332,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G016",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n - FSS - PGM19\n",
+    "venue": "E21-G016",
     "host": "FSS-DPSY"
   },
   {
@@ -23344,8 +23344,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G016",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n - FSS - PGM19\n",
+    "venue": "E21-G016",
     "host": "FSS-DPSY"
   },
   {
@@ -23356,8 +23356,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-G016",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n - FSS - PGM19\n",
+    "venue": "E21-G016",
     "host": "FSS-DPSY"
   },
   {
@@ -23368,8 +23368,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-G016",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n - FSS - PGM19\n",
+    "venue": "E21-G016",
     "host": "FSS-DPSY"
   },
   {
@@ -23380,8 +23380,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-2115",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n",
+    "venue": "E21-2115",
     "host": "FSS-DPSY"
   },
   {
@@ -23389,11 +23389,11 @@ var courses_info = [
     "name": "Research Project I",
     "prof": "YAN MING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23401,11 +23401,11 @@ var courses_info = [
     "name": "Research Project I",
     "prof": "GUO TIEYUAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23413,11 +23413,11 @@ var courses_info = [
     "name": "Research Project I",
     "prof": "MICHIEL MARTEN ARJEN SPAPÉ (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23425,11 +23425,11 @@ var courses_info = [
     "name": "Research Project I",
     "prof": "ZHANG HAOYUN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23437,11 +23437,11 @@ var courses_info = [
     "name": "Research Project I",
     "prof": "LIU LULU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23449,11 +23449,11 @@ var courses_info = [
     "name": "Research Project II",
     "prof": "CHI PEILIAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23461,11 +23461,11 @@ var courses_info = [
     "name": "Research Project II",
     "prof": "LIU LULU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23473,11 +23473,11 @@ var courses_info = [
     "name": "Research Project II",
     "prof": "KWAN YAN YEE LETTY (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23485,11 +23485,11 @@ var courses_info = [
     "name": "Research Project II",
     "prof": "CHEUNG SHU FAI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23497,11 +23497,11 @@ var courses_info = [
     "name": "Research Project II",
     "prof": "GUO TIEYUAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23509,11 +23509,11 @@ var courses_info = [
     "name": "Research Project II",
     "prof": "ZHANG HAOYUN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23521,11 +23521,11 @@ var courses_info = [
     "name": "Research Project II",
     "prof": "WU HAIYAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23533,11 +23533,11 @@ var courses_info = [
     "name": "Research Project II",
     "prof": "MICHIEL MARTEN ARJEN SPAPÉ (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23545,11 +23545,11 @@ var courses_info = [
     "name": "Research Project II",
     "prof": "HONG ZE (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23557,11 +23557,11 @@ var courses_info = [
     "name": "Research Project II",
     "prof": "ZHU NAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23569,11 +23569,11 @@ var courses_info = [
     "name": "Field Experience II",
     "prof": "KWAN YAN YEE LETTY / LAO CHAN FONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n",
+    "venue": "",
     "host": "FSS-DPSY"
   },
   {
@@ -23584,8 +23584,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "17:15",
+    "remark": "Class for :\n - FSS - PSY17 / PSY20\n - FSS - PGM19\n",
     "venue": "E33-G021",
-    "remark": "Class for :\n - FSS - PSY17 / PSY20\n - FSS - PGM19\n",
     "host": "FSS-DPSY"
   },
   {
@@ -23596,8 +23596,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1029",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n - FSS - PGM19\n",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23608,8 +23608,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E21-1029",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n - FSS - PGM19\n",
+    "venue": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23620,8 +23620,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1019",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n - FSS - PGM19\n",
+    "venue": "E21-1019",
     "host": "FSS-DPSY"
   },
   {
@@ -23632,8 +23632,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-1019",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n - FSS - PGM19\n",
+    "venue": "E21-1019",
     "host": "FSS-DPSY"
   },
   {
@@ -23644,8 +23644,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1019",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n",
+    "venue": "E21-1019",
     "host": "FSS-DPSY"
   },
   {
@@ -23656,8 +23656,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1019",
     "remark": "Class for :\n - FSS - PSY17 / PSY20\n",
+    "venue": "E21-1019",
     "host": "FSS-DPSY"
   },
   {
@@ -23668,8 +23668,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FSS-DSOC"
   },
   {
@@ -23680,8 +23680,8 @@ var courses_info = [
     "day": "SAT",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FSS-DSOC"
   },
   {
@@ -23692,8 +23692,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FSS-DSOC"
   },
   {
@@ -23704,8 +23704,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1113B",
     "remark": "",
+    "venue": "E6-1113B",
     "host": "FSS-DSOC"
   },
   {
@@ -23716,8 +23716,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FSS-DSOC"
   },
   {
@@ -23728,8 +23728,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FSS-DSOC"
   },
   {
@@ -23740,8 +23740,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FSS-DSOC"
   },
   {
@@ -23752,8 +23752,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E6-1113A",
     "remark": "",
+    "venue": "E6-1113A",
     "host": "FSS-DSOC"
   },
   {
@@ -23764,8 +23764,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-G009",
     "remark": "",
+    "venue": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23776,8 +23776,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-G009",
     "remark": "",
+    "venue": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23788,8 +23788,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-G009",
     "remark": "",
+    "venue": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23800,8 +23800,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E21-G009",
     "remark": "",
+    "venue": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23812,8 +23812,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G009",
     "remark": "",
+    "venue": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23824,8 +23824,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G009",
     "remark": "",
+    "venue": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23836,8 +23836,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-G009",
     "remark": "",
+    "venue": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23848,8 +23848,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-G009",
     "remark": "",
+    "venue": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23860,8 +23860,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-G009",
     "remark": "",
+    "venue": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23872,8 +23872,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-G009",
     "remark": "",
+    "venue": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23884,8 +23884,8 @@ var courses_info = [
     "day": "FRI",
     "start": "19:00",
     "end": "21:45",
-    "venue": "E21-G016",
     "remark": "",
+    "venue": "E21-G016",
     "host": "FSS-DSOC"
   },
   {
@@ -23896,8 +23896,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "12:45",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FSS-DSOC"
   },
   {
@@ -23908,8 +23908,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FSS-DSOC"
   },
   {
@@ -23920,8 +23920,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E21-1019",
     "remark": "",
+    "venue": "E21-1019",
     "host": "FSS-DSOC"
   },
   {
@@ -23932,8 +23932,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G009",
     "remark": "",
+    "venue": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23944,8 +23944,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E21-G009",
     "remark": "",
+    "venue": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23953,11 +23953,11 @@ var courses_info = [
     "name": "Independent Study in Sociology",
     "prof": "WANG DONGHUI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FSS - SOC19 / SOC22\n",
+    "venue": "",
     "host": "FSS-DSOC"
   },
   {
@@ -23968,8 +23968,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "18:45",
-    "venue": "E21-G015",
     "remark": "",
+    "venue": "E21-G015",
     "host": "FSS-DSOC"
   },
   {
@@ -23980,8 +23980,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FSS-DSOC"
   },
   {
@@ -23992,8 +23992,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "FSS-DSOC"
   },
   {
@@ -24004,8 +24004,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:00",
     "end": "15:45",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-CEE"
   },
   {
@@ -24016,8 +24016,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E4-1052",
     "remark": "",
+    "venue": "E4-1052",
     "host": "FST-CEE"
   },
   {
@@ -24028,8 +24028,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E4-1052",
     "remark": "",
+    "venue": "E4-1052",
     "host": "FST-CEE"
   },
   {
@@ -24040,8 +24040,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1006",
     "remark": "",
+    "venue": "E11-1006",
     "host": "FST-CEE"
   },
   {
@@ -24052,8 +24052,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1006",
     "remark": "",
+    "venue": "E11-1006",
     "host": "FST-CEE"
   },
   {
@@ -24064,8 +24064,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "10:50",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-CEE"
   },
   {
@@ -24076,8 +24076,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E12-G021",
     "remark": "",
+    "venue": "E12-G021",
     "host": "FST-CEE"
   },
   {
@@ -24088,8 +24088,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E12-G021",
     "remark": "",
+    "venue": "E12-G021",
     "host": "FST-CEE"
   },
   {
@@ -24100,8 +24100,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "11:45",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-CEE"
   },
   {
@@ -24112,8 +24112,8 @@ var courses_info = [
     "day": "TUE",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E11-1006",
     "remark": "",
+    "venue": "E11-1006",
     "host": "FST-CEE"
   },
   {
@@ -24124,8 +24124,8 @@ var courses_info = [
     "day": "FRI",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E11-1006",
     "remark": "",
+    "venue": "E11-1006",
     "host": "FST-CEE"
   },
   {
@@ -24136,8 +24136,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E11-1006",
     "remark": "",
+    "venue": "E11-1006",
     "host": "FST-CEE"
   },
   {
@@ -24148,8 +24148,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:00",
     "end": "11:50",
-    "venue": "E11-1006",
     "remark": "",
+    "venue": "E11-1006",
     "host": "FST-CEE"
   },
   {
@@ -24160,8 +24160,8 @@ var courses_info = [
     "day": "FRI",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E11-1006",
     "remark": "",
+    "venue": "E11-1006",
     "host": "FST-CEE"
   },
   {
@@ -24172,8 +24172,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-CEE"
   },
   {
@@ -24184,8 +24184,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-CEE"
   },
   {
@@ -24196,8 +24196,8 @@ var courses_info = [
     "day": "THU",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-CEE"
   },
   {
@@ -24208,8 +24208,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-CEE"
   },
   {
@@ -24220,8 +24220,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-CEE"
   },
   {
@@ -24232,8 +24232,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:00",
     "end": "15:45",
+    "remark": "",
     "venue": "E11-1027",
-    "remark": "",
     "host": "FST-CEE"
   },
   {
@@ -24244,8 +24244,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:00",
     "end": "18:45",
-    "venue": "E12-G021",
     "remark": "",
+    "venue": "E12-G021",
     "host": "FST-CEE"
   },
   {
@@ -24256,8 +24256,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:00",
     "end": "18:45",
-    "venue": "E12-G021",
     "remark": "",
+    "venue": "E12-G021",
     "host": "FST-CEE"
   },
   {
@@ -24268,8 +24268,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E11-1009",
     "remark": "",
+    "venue": "E11-1009",
     "host": "FST-CEE"
   },
   {
@@ -24280,8 +24280,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E11-1009",
     "remark": "",
+    "venue": "E11-1009",
     "host": "FST-CEE"
   },
   {
@@ -24289,11 +24289,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "KOU KUN PANG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24301,11 +24301,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "LAM CHI CHIU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24313,11 +24313,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "WAN IAT MENG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24325,11 +24325,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "LOK MAN HOI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24337,11 +24337,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "YUEN KA VENG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24349,11 +24349,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "KUOK SIN CHI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24361,11 +24361,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "LI YONGJIE (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24373,11 +24373,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "HAO TIANWEI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24385,11 +24385,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "ZHANG PING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24397,11 +24397,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "YAN WANGJI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24409,11 +24409,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "GAO LIANG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24421,11 +24421,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "SHEN PING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24433,11 +24433,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "SHI HUABIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24445,11 +24445,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "CAI ZHONGYA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24457,11 +24457,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "XU JIE (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24469,11 +24469,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "PAN MI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24481,11 +24481,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "LI ZHENNING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24493,11 +24493,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "JOEL OLIVEIRA REIS (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24505,11 +24505,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "GUAN ZHENG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24517,11 +24517,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "DU JIANTING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24529,11 +24529,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "WONG MAN ON (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24544,8 +24544,8 @@ var courses_info = [
     "day": "WED",
     "start": "17:00",
     "end": "18:45",
-    "venue": "E11-1006 / E11-2032",
     "remark": "",
+    "venue": "E11-1006 / E11-2032",
     "host": "FST-CEE"
   },
   {
@@ -24556,8 +24556,8 @@ var courses_info = [
     "day": "WED",
     "start": "19:00",
     "end": "20:45",
-    "venue": "E11-1006 / E11-2032",
     "remark": "",
+    "venue": "E11-1006 / E11-2032",
     "host": "FST-CEE"
   },
   {
@@ -24568,8 +24568,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "16:15",
-    "venue": "E11-1009",
     "remark": "",
+    "venue": "E11-1009",
     "host": "FST-CEE"
   },
   {
@@ -24580,8 +24580,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "16:15",
+    "remark": "",
     "venue": "E11-1009",
-    "remark": "",
     "host": "FST-CEE"
   },
   {
@@ -24592,8 +24592,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:45",
-    "venue": "E11-1015",
     "remark": "",
+    "venue": "E11-1015",
     "host": "FST-CEE"
   },
   {
@@ -24604,8 +24604,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:45",
+    "remark": "",
     "venue": "E11-1015",
-    "remark": "",
     "host": "FST-CEE"
   },
   {
@@ -24616,8 +24616,8 @@ var courses_info = [
     "day": "MON",
     "start": "15:00",
     "end": "16:45",
-    "venue": "E12-G020",
     "remark": "",
+    "venue": "E12-G020",
     "host": "FST-CEE"
   },
   {
@@ -24628,8 +24628,8 @@ var courses_info = [
     "day": "THU",
     "start": "15:00",
     "end": "16:45",
+    "remark": "",
     "venue": "E12-G020",
-    "remark": "",
     "host": "FST-CEE"
   },
   {
@@ -24640,8 +24640,8 @@ var courses_info = [
     "day": "MON",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-CEE"
   },
   {
@@ -24652,8 +24652,8 @@ var courses_info = [
     "day": "THU",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-CEE"
   },
   {
@@ -24664,8 +24664,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E11-1015 / E11-2032",
     "remark": "",
+    "venue": "E11-1015 / E11-2032",
     "host": "FST-CEE"
   },
   {
@@ -24676,8 +24676,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:00",
     "end": "12:45",
+    "remark": "",
     "venue": "E11-1015 / E11-2032",
-    "remark": "",
     "host": "FST-CEE"
   },
   {
@@ -24688,8 +24688,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E34-G011",
     "remark": "",
+    "venue": "E34-G011",
     "host": "FST-CEE"
   },
   {
@@ -24700,8 +24700,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E34-G011",
     "remark": "",
+    "venue": "E34-G011",
     "host": "FST-CEE"
   },
   {
@@ -24712,8 +24712,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4032",
     "remark": "",
+    "venue": "E3-4032",
     "host": "FST-CEE"
   },
   {
@@ -24724,8 +24724,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4032",
     "remark": "",
+    "venue": "E3-4032",
     "host": "FST-CEE"
   },
   {
@@ -24733,11 +24733,11 @@ var courses_info = [
     "name": "Work-Integrated Education",
     "prof": "HAO TIANWEI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - CVE17\n",
+    "venue": "",
     "host": "FST-CEE"
   },
   {
@@ -24745,11 +24745,11 @@ var courses_info = [
     "name": "Information Technology Fundamentals and Practices",
     "prof": "LAM TENG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
+    "remark": "",
     "venue": "",
-    "remark": "",
     "host": "FST-CIS"
   },
   {
@@ -24760,8 +24760,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-1063",
     "remark": "",
+    "venue": "E4-1063",
     "host": "FST-CIS"
   },
   {
@@ -24772,8 +24772,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-1063",
     "remark": "",
+    "venue": "E4-1063",
     "host": "FST-CIS"
   },
   {
@@ -24784,8 +24784,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "11:15",
+    "remark": "",
     "venue": "E4-1063",
-    "remark": "",
     "host": "FST-CIS"
   },
   {
@@ -24796,8 +24796,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FST-CIS"
   },
   {
@@ -24808,8 +24808,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FST-CIS"
   },
   {
@@ -24820,8 +24820,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:30",
     "end": "12:45",
+    "remark": "",
     "venue": "E12-G005",
-    "remark": "",
     "host": "FST-CIS"
   },
   {
@@ -24832,8 +24832,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1061",
     "remark": "",
+    "venue": "E4-1061",
     "host": "FST-CIS"
   },
   {
@@ -24844,8 +24844,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1061",
     "remark": "",
+    "venue": "E4-1061",
     "host": "FST-CIS"
   },
   {
@@ -24856,8 +24856,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1061",
     "remark": "",
+    "venue": "E4-1061",
     "host": "FST-CIS"
   },
   {
@@ -24868,8 +24868,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-G013",
     "remark": "",
+    "venue": "E22-G013",
     "host": "FST-CIS"
   },
   {
@@ -24880,8 +24880,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-G013",
     "remark": "",
+    "venue": "E22-G013",
     "host": "FST-CIS"
   },
   {
@@ -24892,8 +24892,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E22-G013",
     "remark": "",
+    "venue": "E22-G013",
     "host": "FST-CIS"
   },
   {
@@ -24904,8 +24904,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E12-G003",
     "remark": "",
+    "venue": "E12-G003",
     "host": "FST-CIS"
   },
   {
@@ -24916,8 +24916,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E12-G003",
     "remark": "",
+    "venue": "E12-G003",
     "host": "FST-CIS"
   },
   {
@@ -24928,8 +24928,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E12-G003",
     "remark": "",
+    "venue": "E12-G003",
     "host": "FST-CIS"
   },
   {
@@ -24940,8 +24940,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -24952,8 +24952,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -24964,8 +24964,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-1061",
     "remark": "",
+    "venue": "E4-1061",
     "host": "FST-CIS"
   },
   {
@@ -24976,8 +24976,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-1061",
     "remark": "",
+    "venue": "E4-1061",
     "host": "FST-CIS"
   },
   {
@@ -24988,8 +24988,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E22-G013",
-    "remark": "",
     "host": "FST-CIS"
   },
   {
@@ -25000,8 +25000,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1015",
     "remark": "",
+    "venue": "E11-1015",
     "host": "FST-CIS"
   },
   {
@@ -25012,8 +25012,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1015",
     "remark": "",
+    "venue": "E11-1015",
     "host": "FST-CIS"
   },
   {
@@ -25024,8 +25024,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-CIS"
   },
   {
@@ -25036,8 +25036,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -25048,8 +25048,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -25060,8 +25060,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-CIS"
   },
   {
@@ -25072,8 +25072,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -25084,8 +25084,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
+    "remark": "",
     "venue": "E11-1028",
-    "remark": "",
     "host": "FST-CIS"
   },
   {
@@ -25096,8 +25096,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-CIS"
   },
   {
@@ -25108,8 +25108,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-CIS"
   },
   {
@@ -25120,8 +25120,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1015",
     "remark": "",
+    "venue": "E11-1015",
     "host": "FST-CIS"
   },
   {
@@ -25132,8 +25132,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E11-1015",
-    "remark": "",
     "host": "FST-CIS"
   },
   {
@@ -25144,8 +25144,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E12-G004",
     "remark": "",
+    "venue": "E12-G004",
     "host": "FST-CIS"
   },
   {
@@ -25156,8 +25156,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E12-G004",
     "remark": "",
+    "venue": "E12-G004",
     "host": "FST-CIS"
   },
   {
@@ -25168,8 +25168,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-CIS"
   },
   {
@@ -25180,8 +25180,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-CIS"
   },
   {
@@ -25192,8 +25192,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-CIS"
   },
   {
@@ -25204,8 +25204,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-CIS"
   },
   {
@@ -25213,11 +25213,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "VAT KAM HOU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25225,11 +25225,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "LAM TENG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25237,11 +25237,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "PUN CHI MAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25249,11 +25249,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "MIGUEL JUNIOR GOMES DA COSTA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25261,11 +25261,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "WONG FAI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25273,11 +25273,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "ZHANG LIMING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25285,11 +25285,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "FONG SIMON JAMES (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25297,11 +25297,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "U LEONG HOU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25309,11 +25309,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "CHEN LONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25321,11 +25321,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "YIBO BOB ZHANG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25333,11 +25333,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "XU HUANLE (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25345,11 +25345,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "LI LI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25357,11 +25357,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "WANG PENGYANG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25369,11 +25369,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "WANG YE (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25381,11 +25381,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "XIAOBO ZHOU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-CIS"
   },
   {
@@ -25393,11 +25393,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "ZHENG ZHEDONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
+    "remark": "",
     "venue": "",
-    "remark": "",
     "host": "FST-CIS"
   },
   {
@@ -25408,8 +25408,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E12-G003",
     "remark": "",
+    "venue": "E12-G003",
     "host": "FST-CIS"
   },
   {
@@ -25420,8 +25420,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
+    "remark": "",
     "venue": "E12-G003",
-    "remark": "",
     "host": "FST-CIS"
   },
   {
@@ -25432,8 +25432,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -25444,8 +25444,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -25456,8 +25456,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-CIS"
   },
   {
@@ -25468,8 +25468,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-CIS"
   },
   {
@@ -25480,8 +25480,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1102D",
     "remark": "",
+    "venue": "E6-1102D",
     "host": "FST-CIS"
   },
   {
@@ -25492,8 +25492,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E6-1102D",
     "remark": "",
+    "venue": "E6-1102D",
     "host": "FST-CIS"
   },
   {
@@ -25504,8 +25504,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "FST-CSG"
   },
   {
@@ -25516,8 +25516,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "FST-CSG"
   },
   {
@@ -25528,8 +25528,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "FST-CSG"
   },
   {
@@ -25540,8 +25540,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "FST-CSG"
   },
   {
@@ -25552,8 +25552,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-DPC"
   },
   {
@@ -25564,8 +25564,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-DPC"
   },
   {
@@ -25576,8 +25576,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-DPC"
   },
   {
@@ -25588,8 +25588,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -25600,8 +25600,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -25612,8 +25612,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -25624,8 +25624,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-G013",
     "remark": "",
+    "venue": "E22-G013",
     "host": "FST-DPC"
   },
   {
@@ -25636,8 +25636,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E22-G013",
     "remark": "",
+    "venue": "E22-G013",
     "host": "FST-DPC"
   },
   {
@@ -25648,8 +25648,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "10:50",
-    "venue": "E22-G013",
     "remark": "",
+    "venue": "E22-G013",
     "host": "FST-DPC"
   },
   {
@@ -25660,8 +25660,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FST-DPC"
   },
   {
@@ -25672,8 +25672,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25684,8 +25684,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25696,8 +25696,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -25708,8 +25708,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25720,8 +25720,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25732,8 +25732,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25744,8 +25744,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-DPC"
   },
   {
@@ -25756,8 +25756,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-DPC"
   },
   {
@@ -25768,8 +25768,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25780,8 +25780,8 @@ var courses_info = [
     "day": "MON",
     "start": "19:00",
     "end": "20:15",
-    "venue": "E3-G041",
     "remark": "",
+    "venue": "E3-G041",
     "host": "FST-DPC"
   },
   {
@@ -25792,8 +25792,8 @@ var courses_info = [
     "day": "THU",
     "start": "19:00",
     "end": "20:15",
-    "venue": "E3-G041",
     "remark": "",
+    "venue": "E3-G041",
     "host": "FST-DPC"
   },
   {
@@ -25804,8 +25804,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:20",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-DPC"
   },
   {
@@ -25816,8 +25816,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-DPC"
   },
   {
@@ -25828,8 +25828,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-DPC"
   },
   {
@@ -25840,8 +25840,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:20",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-DPC"
   },
   {
@@ -25852,8 +25852,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-G012",
     "remark": "",
+    "venue": "E11-G012",
     "host": "FST-DPC"
   },
   {
@@ -25864,8 +25864,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-G012",
     "remark": "",
+    "venue": "E11-G012",
     "host": "FST-DPC"
   },
   {
@@ -25876,8 +25876,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:00",
     "end": "19:50",
-    "venue": "E11-G012",
     "remark": "",
+    "venue": "E11-G012",
     "host": "FST-DPC"
   },
   {
@@ -25888,8 +25888,8 @@ var courses_info = [
     "day": "MON",
     "start": "19:30",
     "end": "20:45",
-    "venue": "E3-3045",
     "remark": "",
+    "venue": "E3-3045",
     "host": "FST-DPC"
   },
   {
@@ -25900,8 +25900,8 @@ var courses_info = [
     "day": "THU",
     "start": "19:30",
     "end": "20:45",
-    "venue": "E3-3045",
     "remark": "",
+    "venue": "E3-3045",
     "host": "FST-DPC"
   },
   {
@@ -25912,8 +25912,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E11-1006",
     "remark": "",
+    "venue": "E11-1006",
     "host": "FST-DPC"
   },
   {
@@ -25924,8 +25924,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25936,8 +25936,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25948,8 +25948,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:20",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-DPC"
   },
   {
@@ -25960,8 +25960,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-DPC"
   },
   {
@@ -25972,8 +25972,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-DPC"
   },
   {
@@ -25984,8 +25984,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "16:50",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-DPC"
   },
   {
@@ -25993,11 +25993,11 @@ var courses_info = [
     "name": "Research Project",
     "prof": "IAN HOU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-DPC"
   },
   {
@@ -26005,11 +26005,11 @@ var courses_info = [
     "name": "Research Project",
     "prof": "PAN HUI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-DPC"
   },
   {
@@ -26017,11 +26017,11 @@ var courses_info = [
     "name": "Research Project",
     "prof": "HUI KWUN NAM (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-DPC"
   },
   {
@@ -26029,11 +26029,11 @@ var courses_info = [
     "name": "Research Project",
     "prof": "NG KAR WEI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-DPC"
   },
   {
@@ -26041,11 +26041,11 @@ var courses_info = [
     "name": "Research Project",
     "prof": "ZHOU BINGPU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-DPC"
   },
   {
@@ -26053,11 +26053,11 @@ var courses_info = [
     "name": "Research Project",
     "prof": "SHAO HUAIYU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-DPC"
   },
   {
@@ -26065,11 +26065,11 @@ var courses_info = [
     "name": "Research Project",
     "prof": "SUN GUOXING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-DPC"
   },
   {
@@ -26077,11 +26077,11 @@ var courses_info = [
     "name": "Research Project",
     "prof": "QU SONGNAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-DPC"
   },
   {
@@ -26089,11 +26089,11 @@ var courses_info = [
     "name": "Research Project",
     "prof": "LIU HONGCHAO (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-DPC"
   },
   {
@@ -26101,11 +26101,11 @@ var courses_info = [
     "name": "Research Project",
     "prof": "XING GUICHUAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
+    "remark": "",
     "venue": "",
-    "remark": "",
     "host": "FST-DPC"
   },
   {
@@ -26116,8 +26116,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -26128,8 +26128,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -26140,8 +26140,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -26152,8 +26152,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -26164,8 +26164,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -26176,8 +26176,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -26188,8 +26188,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -26200,8 +26200,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-DPC"
   },
   {
@@ -26212,8 +26212,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-DPC"
   },
   {
@@ -26224,8 +26224,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E12-G003",
     "remark": "",
+    "venue": "E12-G003",
     "host": "FST-ECE"
   },
   {
@@ -26236,8 +26236,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "16:15",
-    "venue": "E12-G004",
     "remark": "",
+    "venue": "E12-G004",
     "host": "FST-ECE"
   },
   {
@@ -26248,8 +26248,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "16:15",
-    "venue": "E12-G004",
     "remark": "",
+    "venue": "E12-G004",
     "host": "FST-ECE"
   },
   {
@@ -26260,8 +26260,8 @@ var courses_info = [
     "day": "SAT",
     "start": "08:30",
     "end": "11:15",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FST-ECE"
   },
   {
@@ -26272,8 +26272,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:00",
     "end": "10:45",
+    "remark": "",
     "venue": "E12-G005",
-    "remark": "",
     "host": "FST-ECE"
   },
   {
@@ -26284,8 +26284,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "10:15",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-ECE"
   },
   {
@@ -26296,8 +26296,8 @@ var courses_info = [
     "day": "FRI",
     "start": "08:30",
     "end": "10:15",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-ECE"
   },
   {
@@ -26308,8 +26308,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-ECE"
   },
   {
@@ -26320,8 +26320,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-ECE"
   },
   {
@@ -26332,8 +26332,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:45",
-    "venue": "N22-G002",
     "remark": "",
+    "venue": "N22-G002",
     "host": "FST-ECE"
   },
   {
@@ -26344,8 +26344,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:45",
-    "venue": "N22-G002",
     "remark": "",
+    "venue": "N22-G002",
     "host": "FST-ECE"
   },
   {
@@ -26356,8 +26356,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E12-G003",
     "remark": "",
+    "venue": "E12-G003",
     "host": "FST-ECE"
   },
   {
@@ -26368,8 +26368,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:00",
     "end": "12:45",
+    "remark": "",
     "venue": "E12-G003",
-    "remark": "",
     "host": "FST-ECE"
   },
   {
@@ -26380,8 +26380,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:00",
     "end": "18:45",
-    "venue": "N22-G002",
     "remark": "",
+    "venue": "N22-G002",
     "host": "FST-ECE"
   },
   {
@@ -26392,8 +26392,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:00",
     "end": "18:45",
-    "venue": "N22-G002",
     "remark": "",
+    "venue": "N22-G002",
     "host": "FST-ECE"
   },
   {
@@ -26404,8 +26404,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:30",
     "end": "12:15",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26416,8 +26416,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:30",
     "end": "12:15",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26428,8 +26428,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:30",
     "end": "17:15",
-    "venue": "E12-G003",
     "remark": "",
+    "venue": "E12-G003",
     "host": "FST-ECE"
   },
   {
@@ -26440,8 +26440,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E12-G003",
     "remark": "",
+    "venue": "E12-G003",
     "host": "FST-ECE"
   },
   {
@@ -26452,8 +26452,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1061",
     "remark": "",
+    "venue": "E4-1061",
     "host": "FST-ECE"
   },
   {
@@ -26464,8 +26464,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1061",
     "remark": "",
+    "venue": "E4-1061",
     "host": "FST-ECE"
   },
   {
@@ -26476,8 +26476,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E4-1061",
     "remark": "",
+    "venue": "E4-1061",
     "host": "FST-ECE"
   },
   {
@@ -26488,8 +26488,8 @@ var courses_info = [
     "day": "MON",
     "start": "09:00",
     "end": "10:45",
-    "venue": "N22-G002",
     "remark": "",
+    "venue": "N22-G002",
     "host": "FST-ECE"
   },
   {
@@ -26500,8 +26500,8 @@ var courses_info = [
     "day": "THU",
     "start": "09:00",
     "end": "10:45",
-    "venue": "N22-G002",
     "remark": "",
+    "venue": "N22-G002",
     "host": "FST-ECE"
   },
   {
@@ -26512,8 +26512,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:30",
     "end": "18:15",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-ECE"
   },
   {
@@ -26524,8 +26524,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:30",
     "end": "18:15",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-ECE"
   },
   {
@@ -26536,8 +26536,8 @@ var courses_info = [
     "day": "MON",
     "start": "15:00",
     "end": "16:45",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26548,8 +26548,8 @@ var courses_info = [
     "day": "THU",
     "start": "15:00",
     "end": "16:45",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26560,8 +26560,8 @@ var courses_info = [
     "day": "SAT",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26572,8 +26572,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:00",
     "end": "15:45",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26584,8 +26584,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:00",
     "end": "15:45",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26596,8 +26596,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:45",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26608,8 +26608,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:45",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26620,8 +26620,8 @@ var courses_info = [
     "day": "TUE",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-ECE"
   },
   {
@@ -26632,8 +26632,8 @@ var courses_info = [
     "day": "FRI",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-ECE"
   },
   {
@@ -26644,8 +26644,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:00",
     "end": "18:45",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26656,8 +26656,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:00",
     "end": "18:45",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26668,8 +26668,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:45",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-ECE"
   },
   {
@@ -26680,8 +26680,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:45",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-ECE"
   },
   {
@@ -26692,8 +26692,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26704,8 +26704,8 @@ var courses_info = [
     "day": "FRI",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26716,8 +26716,8 @@ var courses_info = [
     "day": "WED",
     "start": "17:30",
     "end": "19:15",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-ECE"
   },
   {
@@ -26728,8 +26728,8 @@ var courses_info = [
     "day": "SAT",
     "start": "17:30",
     "end": "19:15",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26737,11 +26737,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "VAI MANG I (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - ECE19 / ECE21\n",
+    "venue": "",
     "host": "FST-ECE"
   },
   {
@@ -26749,11 +26749,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "WONG MAN CHUNG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - ECE21\n",
+    "venue": "",
     "host": "FST-ECE"
   },
   {
@@ -26761,11 +26761,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "LAM CHI SENG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - ECE21\n",
+    "venue": "",
     "host": "FST-ECE"
   },
   {
@@ -26773,11 +26773,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "SIN SAI WENG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - ECE21\n",
+    "venue": "",
     "host": "FST-ECE"
   },
   {
@@ -26785,11 +26785,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "PUN SIO HANG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - ECE21\n",
+    "venue": "",
     "host": "FST-ECE"
   },
   {
@@ -26797,11 +26797,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "CARLOS JORGE FERREIRA SILVESTRE (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - ECE19 / ECE21\n",
+    "venue": "",
     "host": "FST-ECE"
   },
   {
@@ -26809,11 +26809,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "ZHU YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - ECE21\n",
+    "venue": "",
     "host": "FST-ECE"
   },
   {
@@ -26821,11 +26821,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "YIN JUN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - ECE21\n",
+    "venue": "",
     "host": "FST-ECE"
   },
   {
@@ -26833,11 +26833,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "LAO KENG WENG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - ECE21\n",
+    "venue": "",
     "host": "FST-ECE"
   },
   {
@@ -26845,11 +26845,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "ZHANG HONGCAI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - ECE21\n",
+    "venue": "",
     "host": "FST-ECE"
   },
   {
@@ -26857,11 +26857,11 @@ var courses_info = [
     "name": "Graduation Project II",
     "prof": "SHAO YULIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "Class for :\n - FST - ECE21\n",
+    "venue": "",
     "host": "FST-ECE"
   },
   {
@@ -26872,8 +26872,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:45",
-    "venue": "E11-1026 / E11-2032",
     "remark": "",
+    "venue": "E11-1026 / E11-2032",
     "host": "FST-ECE"
   },
   {
@@ -26884,8 +26884,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:45",
-    "venue": "E11-1026 / E11-2032",
     "remark": "",
+    "venue": "E11-1026 / E11-2032",
     "host": "FST-ECE"
   },
   {
@@ -26896,8 +26896,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-G068",
     "remark": "",
+    "venue": "E4-G068",
     "host": "FST-ECE"
   },
   {
@@ -26908,8 +26908,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E4-G068",
     "remark": "",
+    "venue": "E4-G068",
     "host": "FST-ECE"
   },
   {
@@ -26920,8 +26920,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "11:45",
-    "venue": "E12-G004",
     "remark": "",
+    "venue": "E12-G004",
     "host": "FST-EME"
   },
   {
@@ -26932,8 +26932,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E12-G004",
     "remark": "",
+    "venue": "E12-G004",
     "host": "FST-EME"
   },
   {
@@ -26944,8 +26944,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:00",
     "end": "12:45",
+    "remark": "",
     "venue": "E12-G004",
-    "remark": "",
     "host": "FST-EME"
   },
   {
@@ -26956,8 +26956,8 @@ var courses_info = [
     "day": "TUE",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E12-G003",
     "remark": "",
+    "venue": "E12-G003",
     "host": "FST-EME"
   },
   {
@@ -26968,8 +26968,8 @@ var courses_info = [
     "day": "FRI",
     "start": "09:00",
     "end": "10:45",
+    "remark": "",
     "venue": "E12-G003",
-    "remark": "",
     "host": "FST-EME"
   },
   {
@@ -26980,8 +26980,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:00",
     "end": "15:45",
-    "venue": "E12-G020",
     "remark": "",
+    "venue": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -26992,8 +26992,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:00",
     "end": "15:45",
-    "venue": "E12-G020",
     "remark": "",
+    "venue": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27004,8 +27004,8 @@ var courses_info = [
     "day": "MON",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-EME"
   },
   {
@@ -27016,8 +27016,8 @@ var courses_info = [
     "day": "THU",
     "start": "09:00",
     "end": "10:45",
+    "remark": "",
     "venue": "E11-G015",
-    "remark": "",
     "host": "FST-EME"
   },
   {
@@ -27028,8 +27028,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:00",
     "end": "18:45",
-    "venue": "E11-1015",
     "remark": "",
+    "venue": "E11-1015",
     "host": "FST-EME"
   },
   {
@@ -27040,8 +27040,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:00",
     "end": "18:45",
-    "venue": "E11-1015",
     "remark": "",
+    "venue": "E11-1015",
     "host": "FST-EME"
   },
   {
@@ -27052,8 +27052,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E11-1028",
     "remark": "",
+    "venue": "E11-1028",
     "host": "FST-EME"
   },
   {
@@ -27064,8 +27064,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:00",
     "end": "12:45",
+    "remark": "",
     "venue": "E11-1028",
-    "remark": "",
     "host": "FST-EME"
   },
   {
@@ -27076,8 +27076,8 @@ var courses_info = [
     "day": "TUE",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E12-G021",
     "remark": "",
+    "venue": "E12-G021",
     "host": "FST-EME"
   },
   {
@@ -27088,8 +27088,8 @@ var courses_info = [
     "day": "FRI",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E12-G021",
     "remark": "",
+    "venue": "E12-G021",
     "host": "FST-EME"
   },
   {
@@ -27100,8 +27100,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E12-G020",
     "remark": "",
+    "venue": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27112,8 +27112,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E12-G020",
     "remark": "",
+    "venue": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27124,8 +27124,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E12-G020",
     "remark": "",
+    "venue": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27136,8 +27136,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:45",
-    "venue": "E11-1015",
     "remark": "",
+    "venue": "E11-1015",
     "host": "FST-EME"
   },
   {
@@ -27148,8 +27148,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:45",
-    "venue": "E11-1015",
     "remark": "",
+    "venue": "E11-1015",
     "host": "FST-EME"
   },
   {
@@ -27160,8 +27160,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E12-G021",
     "remark": "",
+    "venue": "E12-G021",
     "host": "FST-EME"
   },
   {
@@ -27172,8 +27172,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E12-G021",
     "remark": "",
+    "venue": "E12-G021",
     "host": "FST-EME"
   },
   {
@@ -27184,8 +27184,8 @@ var courses_info = [
     "day": "TUE",
     "start": "15:00",
     "end": "16:45",
-    "venue": "E12-G021",
     "remark": "",
+    "venue": "E12-G021",
     "host": "FST-EME"
   },
   {
@@ -27196,8 +27196,8 @@ var courses_info = [
     "day": "FRI",
     "start": "15:00",
     "end": "16:45",
-    "venue": "E12-G021",
     "remark": "",
+    "venue": "E12-G021",
     "host": "FST-EME"
   },
   {
@@ -27208,8 +27208,8 @@ var courses_info = [
     "day": "TUE",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E12-G020",
     "remark": "",
+    "venue": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27220,8 +27220,8 @@ var courses_info = [
     "day": "FRI",
     "start": "09:00",
     "end": "10:45",
-    "venue": "E12-G020",
     "remark": "",
+    "venue": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27232,8 +27232,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:00",
     "end": "18:45",
-    "venue": "E12-G020",
     "remark": "",
+    "venue": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27244,8 +27244,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:00",
     "end": "18:45",
+    "remark": "",
     "venue": "E12-G020",
-    "remark": "",
     "host": "FST-EME"
   },
   {
@@ -27256,8 +27256,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-EME"
   },
   {
@@ -27268,8 +27268,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:00",
     "end": "12:45",
-    "venue": "E11-1018",
     "remark": "",
+    "venue": "E11-1018",
     "host": "FST-EME"
   },
   {
@@ -27280,8 +27280,8 @@ var courses_info = [
     "day": "MON",
     "start": "15:00",
     "end": "16:45",
-    "venue": "E11-1015",
     "remark": "",
+    "venue": "E11-1015",
     "host": "FST-EME"
   },
   {
@@ -27292,8 +27292,8 @@ var courses_info = [
     "day": "THU",
     "start": "15:00",
     "end": "16:45",
-    "venue": "E11-1015",
     "remark": "",
+    "venue": "E11-1015",
     "host": "FST-EME"
   },
   {
@@ -27301,11 +27301,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "TAM LAP MOU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-EME"
   },
   {
@@ -27313,11 +27313,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "LAO SENG KIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-EME"
   },
   {
@@ -27325,11 +27325,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "LO KIN HO (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-EME"
   },
   {
@@ -27337,11 +27337,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "WONG PAK KIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-EME"
   },
   {
@@ -27349,11 +27349,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "KWOK CHI TAT (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-EME"
   },
   {
@@ -27361,11 +27361,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "YANG ZHIXIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-EME"
   },
   {
@@ -27373,11 +27373,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "XU QINGSONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-EME"
   },
   {
@@ -27385,11 +27385,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "SU YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-EME"
   },
   {
@@ -27397,11 +27397,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "ZHONG JUNWEN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-EME"
   },
   {
@@ -27409,11 +27409,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "LIU JINRONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-EME"
   },
   {
@@ -27421,11 +27421,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "JIANG YING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-EME"
   },
   {
@@ -27436,8 +27436,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4043",
     "remark": "Class for :\n - FED - MAS19\n - FHS - BIF19\n - FST\n - FST - AMM19 / AMM23 / CIM19\n",
+    "venue": "E3-4043",
     "host": "FST-MAT"
   },
   {
@@ -27448,8 +27448,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4043",
     "remark": "Class for :\n - FED - MAS19\n - FHS - BIF19\n - FST\n - FST - AMM19 / AMM23 / CIM19\n",
+    "venue": "E3-4043",
     "host": "FST-MAT"
   },
   {
@@ -27460,8 +27460,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E3-4043",
     "remark": "Class for :\n - FED - MAS19\n - FHS - BIF19\n - FST\n - FST - AMM19 / AMM23 / CIM19\n",
+    "venue": "E3-4043",
     "host": "FST-MAT"
   },
   {
@@ -27472,8 +27472,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4042",
     "remark": "",
+    "venue": "E3-4042",
     "host": "FST-MAT"
   },
   {
@@ -27484,8 +27484,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4042",
     "remark": "",
+    "venue": "E3-4042",
     "host": "FST-MAT"
   },
   {
@@ -27496,8 +27496,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27508,8 +27508,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27520,8 +27520,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:30",
     "end": "11:20",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27532,8 +27532,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E12-G004",
     "remark": "",
+    "venue": "E12-G004",
     "host": "FST-MAT"
   },
   {
@@ -27544,8 +27544,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E12-G004",
     "remark": "",
+    "venue": "E12-G004",
     "host": "FST-MAT"
   },
   {
@@ -27556,8 +27556,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:30",
     "end": "11:20",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-MAT"
   },
   {
@@ -27568,8 +27568,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E12-G004",
     "remark": "",
+    "venue": "E12-G004",
     "host": "FST-MAT"
   },
   {
@@ -27580,8 +27580,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E12-G004",
     "remark": "",
+    "venue": "E12-G004",
     "host": "FST-MAT"
   },
   {
@@ -27592,8 +27592,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E12-G004",
     "remark": "",
+    "venue": "E12-G004",
     "host": "FST-MAT"
   },
   {
@@ -27604,8 +27604,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27616,8 +27616,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27628,8 +27628,8 @@ var courses_info = [
     "day": "TUE",
     "start": "08:30",
     "end": "09:20",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27640,8 +27640,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E12-G003",
     "remark": "",
+    "venue": "E12-G003",
     "host": "FST-MAT"
   },
   {
@@ -27652,8 +27652,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E12-G003",
     "remark": "",
+    "venue": "E12-G003",
     "host": "FST-MAT"
   },
   {
@@ -27664,8 +27664,8 @@ var courses_info = [
     "day": "FRI",
     "start": "12:00",
     "end": "12:50",
-    "venue": "N22-G002",
     "remark": "",
+    "venue": "N22-G002",
     "host": "FST-MAT"
   },
   {
@@ -27676,8 +27676,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-G068",
     "remark": "",
+    "venue": "E4-G068",
     "host": "FST-MAT"
   },
   {
@@ -27688,8 +27688,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E4-G068",
     "remark": "",
+    "venue": "E4-G068",
     "host": "FST-MAT"
   },
   {
@@ -27700,8 +27700,8 @@ var courses_info = [
     "day": "FRI",
     "start": "18:00",
     "end": "18:50",
-    "venue": "E12-G004",
     "remark": "",
+    "venue": "E12-G004",
     "host": "FST-MAT"
   },
   {
@@ -27712,8 +27712,8 @@ var courses_info = [
     "day": "MON",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -27724,8 +27724,8 @@ var courses_info = [
     "day": "THU",
     "start": "08:30",
     "end": "09:45",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -27736,8 +27736,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:00",
     "end": "11:50",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-MAT"
   },
   {
@@ -27748,8 +27748,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27760,8 +27760,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E12-G005",
     "remark": "",
+    "venue": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27772,8 +27772,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -27784,8 +27784,8 @@ var courses_info = [
     "day": "WED",
     "start": "12:00",
     "end": "12:50",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-MAT"
   },
   {
@@ -27796,8 +27796,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-MAT"
   },
   {
@@ -27808,8 +27808,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-MAT"
   },
   {
@@ -27820,8 +27820,8 @@ var courses_info = [
     "day": "WED",
     "start": "17:30",
     "end": "18:20",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-MAT"
   },
   {
@@ -27832,8 +27832,8 @@ var courses_info = [
     "day": "TUE",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-MAT"
   },
   {
@@ -27844,8 +27844,8 @@ var courses_info = [
     "day": "FRI",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-MAT"
   },
   {
@@ -27856,8 +27856,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E11-G015",
     "remark": "",
+    "venue": "E11-G015",
     "host": "FST-MAT"
   },
   {
@@ -27868,8 +27868,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-MAT"
   },
   {
@@ -27880,8 +27880,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-1021",
     "remark": "",
+    "venue": "E11-1021",
     "host": "FST-MAT"
   },
   {
@@ -27892,8 +27892,8 @@ var courses_info = [
     "day": "THU",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E12-G020",
     "remark": "",
+    "venue": "E12-G020",
     "host": "FST-MAT"
   },
   {
@@ -27904,8 +27904,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -27916,8 +27916,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -27928,8 +27928,8 @@ var courses_info = [
     "day": "WED",
     "start": "11:00",
     "end": "11:50",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -27940,8 +27940,8 @@ var courses_info = [
     "day": "TUE",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -27952,8 +27952,8 @@ var courses_info = [
     "day": "FRI",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -27964,8 +27964,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "10:50",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -27976,8 +27976,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -27988,8 +27988,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28000,8 +28000,8 @@ var courses_info = [
     "day": "MON",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-MAT"
   },
   {
@@ -28012,8 +28012,8 @@ var courses_info = [
     "day": "MON",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28024,8 +28024,8 @@ var courses_info = [
     "day": "THU",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28036,8 +28036,8 @@ var courses_info = [
     "day": "FRI",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28048,8 +28048,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-MAT"
   },
   {
@@ -28060,8 +28060,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-MAT"
   },
   {
@@ -28072,8 +28072,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:00",
     "end": "19:50",
-    "venue": "E3-G041",
     "remark": "",
+    "venue": "E3-G041",
     "host": "FST-MAT"
   },
   {
@@ -28084,8 +28084,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28096,8 +28096,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28108,8 +28108,8 @@ var courses_info = [
     "day": "THU",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E11-1027",
     "remark": "",
+    "venue": "E11-1027",
     "host": "FST-MAT"
   },
   {
@@ -28120,8 +28120,8 @@ var courses_info = [
     "day": "TUE",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28132,8 +28132,8 @@ var courses_info = [
     "day": "FRI",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28144,8 +28144,8 @@ var courses_info = [
     "day": "WED",
     "start": "09:00",
     "end": "09:50",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -28156,8 +28156,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -28168,8 +28168,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -28180,8 +28180,8 @@ var courses_info = [
     "day": "WED",
     "start": "10:00",
     "end": "10:50",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -28192,8 +28192,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28204,8 +28204,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E11-1025",
     "remark": "",
+    "venue": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28216,8 +28216,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:00",
     "end": "14:50",
-    "venue": "E11-1026",
     "remark": "",
+    "venue": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -28225,11 +28225,11 @@ var courses_info = [
     "name": "Research in Mathematics",
     "prof": "CHANGFENG GUI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-MAT"
   },
   {
@@ -28237,11 +28237,11 @@ var courses_info = [
     "name": "Graduation Project",
     "prof": "CHANGFENG GUI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "FST-MAT"
   },
   {
@@ -28252,8 +28252,8 @@ var courses_info = [
     "day": "WED",
     "start": "14:00",
     "end": "16:45",
-    "venue": "E12-G020",
     "remark": "",
+    "venue": "E12-G020",
     "host": "HC"
   },
   {
@@ -28261,11 +28261,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "MIAO KAI / MING CHEN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28273,11 +28273,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "WANG DONGHUI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28285,11 +28285,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "CHAN IO IEONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28297,11 +28297,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "QI YANING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28309,11 +28309,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "VÉNUS TERESA VIANA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28321,11 +28321,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "CHEN WEI-WEN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28333,11 +28333,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "CHEN JIA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28345,11 +28345,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "WANG HONGYU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28357,11 +28357,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "CHAN IO IEONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28369,11 +28369,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "JIANG YI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28381,11 +28381,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "QI HANG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28393,11 +28393,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "WU CHI CHONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28405,11 +28405,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "MANUEL ANTONIO NORONHA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28417,11 +28417,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "LIN YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28429,11 +28429,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "LIU JINGJING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28441,11 +28441,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "LAI NENG ROSE (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28453,11 +28453,11 @@ var courses_info = [
     "name": "Project on Social Awareness",
     "prof": "LIU JINGJING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28465,11 +28465,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "HARI VENKATESAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28477,11 +28477,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LEI LAI CHENG VICTORIA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28489,11 +28489,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "GLEN TIMMERMANS (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28501,11 +28501,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "HARI VENKATESAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28513,11 +28513,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "SHEYLA SCHUVARTZ ZANDONAI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28525,11 +28525,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "JÚLIO REIS JATOBÁ (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28537,11 +28537,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "JÚLIO REIS JATOBÁ (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28549,11 +28549,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "ZHANG JING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28561,11 +28561,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "FRANCISCO JOSÉ BERNARDINO DASILVA LEANDRO / JOÃO MANUEL PIRES DA SILVA EALMEIDA VELOSO (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28573,11 +28573,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "RICARDO MOUTINHO RODRIGUES DASILVA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28585,11 +28585,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LIU MING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28597,11 +28597,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LIU MING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28609,11 +28609,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LIU MING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28621,11 +28621,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LI GUOQIANG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28633,11 +28633,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LIAN ZHAOTONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28645,11 +28645,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "ZHU YINGPENG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28657,11 +28657,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LIU TING CHI / ZHU YINGPENG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28669,11 +28669,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "CHU XIAOLING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28681,11 +28681,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LI JIE (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28693,11 +28693,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "GONG SHUAISHUAI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28705,11 +28705,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "TAM HON KEUNG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28717,11 +28717,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "YANG ENDONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28729,11 +28729,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "ZENG JIAQING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28741,11 +28741,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "ZHAO SHEN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28753,11 +28753,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "ZHOU SILI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28765,11 +28765,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "ZHANG LIWEN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28777,11 +28777,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "FONG HOC NANG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28789,11 +28789,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "FONG KA CHIO (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28801,11 +28801,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "MAC VAI IUN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28813,11 +28813,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "ZHOU YISU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28825,11 +28825,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LIN XIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28837,11 +28837,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "YUAN RUI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28849,11 +28849,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "CHEN WEI-WEN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28861,11 +28861,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "GUO XIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28873,11 +28873,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "YU SHULIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28885,11 +28885,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "YU SHULIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28897,11 +28897,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "SHIEH JIN-JY (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28909,11 +28909,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "ZHANG HONGJIE (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28921,11 +28921,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "JOONG SUP SHIM (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28933,11 +28933,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "ZHANG XUANJUN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28945,11 +28945,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "NG KEI KEI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28957,11 +28957,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "MA ZHE (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28969,11 +28969,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "NG KEI KEI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28981,11 +28981,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "JOÃO LORETO ILHÃO MOREIRA (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -28993,11 +28993,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LEE KIN KEI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29005,11 +29005,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LI XIAOQIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29017,11 +29017,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "CHE HIO IEONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29029,11 +29029,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LI XIAOQIN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29041,11 +29041,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "HO WAI HONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29053,11 +29053,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "TAO YUBO (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29065,11 +29065,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "INACIO GUERBEROFF LANARI BO (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29077,11 +29077,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "QI HANG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29089,11 +29089,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LIU LULU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29101,11 +29101,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "ZHANG HAOYUN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29113,11 +29113,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "JIAQING O (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29125,11 +29125,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LIU LULU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29137,11 +29137,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "GUO TIEYUAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29149,11 +29149,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "WANG DONGHUI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29161,11 +29161,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "WANG HONGYU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29173,11 +29173,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "KUOK SIN CHI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29185,11 +29185,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LAM CHI CHIU (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29197,11 +29197,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "YIBO BOB ZHANG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29209,11 +29209,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "ZHANG LIMING (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29221,11 +29221,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "CHEN LONG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29233,11 +29233,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "SIN SAI WENG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29245,11 +29245,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "ZHU YAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29257,11 +29257,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LEI IEK MAN (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29269,11 +29269,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "VONG SEAK WENG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29281,11 +29281,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "LUO LI (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29293,11 +29293,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "ZHANG ZHIXIANG (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29305,11 +29305,11 @@ var courses_info = [
     "name": "Honours Project",
     "prof": "FONG SIMON JAMES (in English)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "HC"
   },
   {
@@ -29320,8 +29320,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "IAPME"
   },
   {
@@ -29332,8 +29332,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "IAPME"
   },
   {
@@ -29344,8 +29344,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "IAPME"
   },
   {
@@ -29356,8 +29356,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "IAPME"
   },
   {
@@ -29368,8 +29368,8 @@ var courses_info = [
     "day": "TUE",
     "start": "14:30",
     "end": "15:45",
-    "venue": "E6-1102C",
     "remark": "",
+    "venue": "E6-1102C",
     "host": "IAPME"
   },
   {
@@ -29380,8 +29380,8 @@ var courses_info = [
     "day": "FRI",
     "start": "14:30",
     "end": "15:45",
+    "remark": "",
     "venue": "E6-1102C",
-    "remark": "",
     "host": "IAPME"
   },
   {
@@ -29392,8 +29392,8 @@ var courses_info = [
     "day": "MON",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "IAPME"
   },
   {
@@ -29404,8 +29404,8 @@ var courses_info = [
     "day": "THU",
     "start": "16:00",
     "end": "17:15",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "IAPME"
   },
   {
@@ -29416,8 +29416,8 @@ var courses_info = [
     "day": "MON",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4042",
     "remark": "",
+    "venue": "E3-4042",
     "host": "ICMS"
   },
   {
@@ -29428,8 +29428,8 @@ var courses_info = [
     "day": "THU",
     "start": "10:00",
     "end": "11:15",
-    "venue": "E3-4042",
     "remark": "",
+    "venue": "E3-4042",
     "host": "ICMS"
   },
   {
@@ -29440,8 +29440,8 @@ var courses_info = [
     "day": "MON",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4042",
     "remark": "",
+    "venue": "E3-4042",
     "host": "ICMS"
   },
   {
@@ -29452,8 +29452,8 @@ var courses_info = [
     "day": "THU",
     "start": "11:30",
     "end": "12:45",
-    "venue": "E3-4042",
     "remark": "",
+    "venue": "E3-4042",
     "host": "ICMS"
   },
   {
@@ -29464,8 +29464,8 @@ var courses_info = [
     "day": "TUE",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "IME"
   },
   {
@@ -29476,8 +29476,8 @@ var courses_info = [
     "day": "FRI",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "IME"
   },
   {
@@ -29488,8 +29488,8 @@ var courses_info = [
     "day": "MON",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "IME"
   },
   {
@@ -29500,8 +29500,8 @@ var courses_info = [
     "day": "THU",
     "start": "13:00",
     "end": "14:15",
-    "venue": "E3-4043",
     "remark": "",
+    "venue": "E3-4043",
     "host": "IME"
   },
   {
@@ -29512,8 +29512,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W34-G035",
     "remark": "",
+    "venue": "W34-G035",
     "host": "RC"
   },
   {
@@ -29524,8 +29524,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W34-G006",
     "remark": "",
+    "venue": "W34-G006",
     "host": "RC"
   },
   {
@@ -29536,8 +29536,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W34-G035",
     "remark": "",
+    "venue": "W34-G035",
     "host": "RC"
   },
   {
@@ -29548,8 +29548,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W34-G006",
     "remark": "",
+    "venue": "W34-G006",
     "host": "RC"
   },
   {
@@ -29560,8 +29560,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W34-G035",
     "remark": "",
+    "venue": "W34-G035",
     "host": "RC"
   },
   {
@@ -29572,8 +29572,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W34-G006",
     "remark": "",
+    "venue": "W34-G006",
     "host": "RC"
   },
   {
@@ -29584,8 +29584,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W21-G015",
     "remark": "",
+    "venue": "W21-G015",
     "host": "RC"
   },
   {
@@ -29596,8 +29596,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W21-G015",
     "remark": "",
+    "venue": "W21-G015",
     "host": "RC"
   },
   {
@@ -29608,8 +29608,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W21-G028",
     "remark": "",
+    "venue": "W21-G028",
     "host": "RC"
   },
   {
@@ -29620,8 +29620,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W21-G015",
     "remark": "",
+    "venue": "W21-G015",
     "host": "RC"
   },
   {
@@ -29632,8 +29632,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W21-G028",
     "remark": "",
+    "venue": "W21-G028",
     "host": "RC"
   },
   {
@@ -29644,8 +29644,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W21-G028",
     "remark": "",
+    "venue": "W21-G028",
     "host": "RC"
   },
   {
@@ -29656,8 +29656,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W23-1051",
     "remark": "",
+    "venue": "W23-1051",
     "host": "RC"
   },
   {
@@ -29668,8 +29668,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W23-1051",
     "remark": "",
+    "venue": "W23-1051",
     "host": "RC"
   },
   {
@@ -29680,8 +29680,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W23-G012",
     "remark": "",
+    "venue": "W23-G012",
     "host": "RC"
   },
   {
@@ -29692,8 +29692,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W23-G012",
     "remark": "",
+    "venue": "W23-G012",
     "host": "RC"
   },
   {
@@ -29704,8 +29704,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W23-G012",
     "remark": "",
+    "venue": "W23-G012",
     "host": "RC"
   },
   {
@@ -29716,8 +29716,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W23-1051",
     "remark": "",
+    "venue": "W23-1051",
     "host": "RC"
   },
   {
@@ -29728,8 +29728,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-3038",
     "remark": "",
+    "venue": "E33-3038",
     "host": "RC"
   },
   {
@@ -29740,8 +29740,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-G018",
     "remark": "",
+    "venue": "E33-G018",
     "host": "RC"
   },
   {
@@ -29752,8 +29752,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-G018",
     "remark": "",
+    "venue": "E33-G018",
     "host": "RC"
   },
   {
@@ -29764,8 +29764,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-3038",
     "remark": "",
+    "venue": "E33-3038",
     "host": "RC"
   },
   {
@@ -29776,8 +29776,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-G018",
     "remark": "",
+    "venue": "E33-G018",
     "host": "RC"
   },
   {
@@ -29788,8 +29788,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-3038",
     "remark": "",
+    "venue": "E33-3038",
     "host": "RC"
   },
   {
@@ -29800,8 +29800,8 @@ var courses_info = [
     "day": "TUE",
     "start": "19:00",
     "end": "20:15",
-    "venue": "W31-G033",
     "remark": "",
+    "venue": "W31-G033",
     "host": "RC"
   },
   {
@@ -29812,8 +29812,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W14-G023",
     "remark": "",
+    "venue": "W14-G023",
     "host": "RC"
   },
   {
@@ -29824,8 +29824,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W14-G024",
     "remark": "",
+    "venue": "W14-G024",
     "host": "RC"
   },
   {
@@ -29836,8 +29836,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W14-G023",
     "remark": "",
+    "venue": "W14-G023",
     "host": "RC"
   },
   {
@@ -29848,8 +29848,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W14-G024",
     "remark": "",
+    "venue": "W14-G024",
     "host": "RC"
   },
   {
@@ -29860,8 +29860,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W14-G023",
     "remark": "",
+    "venue": "W14-G023",
     "host": "RC"
   },
   {
@@ -29872,8 +29872,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W14-G024",
     "remark": "",
+    "venue": "W14-G024",
     "host": "RC"
   },
   {
@@ -29884,8 +29884,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W22-G012",
     "remark": "",
+    "venue": "W22-G012",
     "host": "RC"
   },
   {
@@ -29896,8 +29896,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W22-G030",
     "remark": "",
+    "venue": "W22-G030",
     "host": "RC"
   },
   {
@@ -29908,8 +29908,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W22-4025",
     "remark": "",
+    "venue": "W22-4025",
     "host": "RC"
   },
   {
@@ -29920,8 +29920,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W22-4025",
     "remark": "",
+    "venue": "W22-4025",
     "host": "RC"
   },
   {
@@ -29932,8 +29932,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W22-G030",
     "remark": "",
+    "venue": "W22-G030",
     "host": "RC"
   },
   {
@@ -29944,8 +29944,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W22-G012",
     "remark": "",
+    "venue": "W22-G012",
     "host": "RC"
   },
   {
@@ -29956,8 +29956,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W22-4025",
     "remark": "",
+    "venue": "W22-4025",
     "host": "RC"
   },
   {
@@ -29968,8 +29968,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W22-G012",
     "remark": "",
+    "venue": "W22-G012",
     "host": "RC"
   },
   {
@@ -29980,8 +29980,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W22-G030",
     "remark": "",
+    "venue": "W22-G030",
     "host": "RC"
   },
   {
@@ -29992,8 +29992,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "RC"
   },
   {
@@ -30004,8 +30004,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "RC"
   },
   {
@@ -30016,8 +30016,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1032",
     "remark": "",
+    "venue": "E21-1032",
     "host": "RC"
   },
   {
@@ -30028,8 +30028,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1030",
     "remark": "",
+    "venue": "E21-1030",
     "host": "RC"
   },
   {
@@ -30040,8 +30040,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1032",
     "remark": "",
+    "venue": "E21-1032",
     "host": "RC"
   },
   {
@@ -30052,8 +30052,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E21-1033",
     "remark": "",
+    "venue": "E21-1033",
     "host": "RC"
   },
   {
@@ -30061,11 +30061,11 @@ var courses_info = [
     "name": "Residential College Experiential Learning",
     "prof": "MANUEL ANTONIO NORONHA (in English supplemented with Portuguese)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "RC"
   },
   {
@@ -30076,8 +30076,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "S9-G033",
     "remark": "",
+    "venue": "S9-G033",
     "host": "RC"
   },
   {
@@ -30088,8 +30088,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "S9-G011",
     "remark": "",
+    "venue": "S9-G011",
     "host": "RC"
   },
   {
@@ -30100,8 +30100,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "S9-G033",
     "remark": "",
+    "venue": "S9-G033",
     "host": "RC"
   },
   {
@@ -30112,8 +30112,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "S9-G011",
     "remark": "",
+    "venue": "S9-G011",
     "host": "RC"
   },
   {
@@ -30124,8 +30124,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "S9-G033",
     "remark": "",
+    "venue": "S9-G033",
     "host": "RC"
   },
   {
@@ -30136,8 +30136,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "S9-G011",
     "remark": "",
+    "venue": "S9-G011",
     "host": "RC"
   },
   {
@@ -30148,8 +30148,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W13-G023",
     "remark": "",
+    "venue": "W13-G023",
     "host": "RC"
   },
   {
@@ -30160,8 +30160,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W13-G024",
     "remark": "",
+    "venue": "W13-G024",
     "host": "RC"
   },
   {
@@ -30172,8 +30172,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W13-G023",
     "remark": "",
+    "venue": "W13-G023",
     "host": "RC"
   },
   {
@@ -30184,8 +30184,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W13-G024",
     "remark": "",
+    "venue": "W13-G024",
     "host": "RC"
   },
   {
@@ -30196,8 +30196,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W13-G023",
     "remark": "",
+    "venue": "W13-G023",
     "host": "RC"
   },
   {
@@ -30208,8 +30208,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "W13-G024",
     "remark": "",
+    "venue": "W13-G024",
     "host": "RC"
   },
   {
@@ -30217,11 +30217,11 @@ var courses_info = [
     "name": "Residential College Experiential Learning",
     "prof": "WAN WAI SAN (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
-    "day": "",
+    "day": NaN,
     "start": "",
     "end": "",
-    "venue": "",
     "remark": "",
+    "venue": "",
     "host": "RC"
   },
   {
@@ -30232,8 +30232,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-2034",
     "remark": "",
+    "venue": "E33-2034",
     "host": "RC"
   },
   {
@@ -30244,8 +30244,8 @@ var courses_info = [
     "day": "TUE",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-2034",
     "remark": "",
+    "venue": "E33-2034",
     "host": "RC"
   },
   {
@@ -30256,8 +30256,8 @@ var courses_info = [
     "day": "MON",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-G019",
     "remark": "",
+    "venue": "E33-G019",
     "host": "RC"
   },
   {
@@ -30268,8 +30268,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-2034",
     "remark": "",
+    "venue": "E33-2034",
     "host": "RC"
   },
   {
@@ -30280,8 +30280,8 @@ var courses_info = [
     "day": "THU",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-G019",
     "remark": "",
+    "venue": "E33-G019",
     "host": "RC"
   },
   {
@@ -30292,8 +30292,8 @@ var courses_info = [
     "day": "FRI",
     "start": "17:30",
     "end": "18:45",
-    "venue": "E33-3038",
     "remark": "",
+    "venue": "E33-3038",
     "host": "RC"
   }
 ];

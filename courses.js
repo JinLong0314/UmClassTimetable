@@ -30247,41 +30247,5 @@ var courses_info = [
     "remark": "E33-G019",
     "venue": "18:45",
     "host": "RC"
-  },
-  {
-    "code": "CPED1000-904",
-    "name": "Residential College Experiential Learning",
-    "prof": "CHAN IO IEONG (in English supplemented with Cantonese and Mandarin)",
-    "type": "Lecture",
-    "day": NaN,
-    "start": "THU",
-    "end": "17:30",
-    "remark": "E33-2034",
-    "venue": "18:45",
-    "host": "RC"
-  },
-  {
-    "code": "CPED1000-905",
-    "name": "Residential College Experiential Learning",
-    "prof": "VÉNUS TERESA VIANA (in English supplemented with Cantonese and Mandarin)",
-    "type": "Lecture",
-    "day": NaN,
-    "start": "THU",
-    "end": "17:30",
-    "remark": "E33-G019",
-    "venue": "18:45",
-    "host": "RC"
-  },
-  {
-    "code": "CPED1000-906",
-    "name": "Residential College Experiential Learning",
-    "prof": "VÉNUS TERESA VIANA (in English supplemented with Cantonese and Mandarin)",
-    "type": "Lecture",
-    "day": NaN,
-    "start": "FRI",
-    "end": "17:30",
-    "remark": "E33-3038",
-    "venue": "18:45",
-    "host": "RC"
   }
 ];

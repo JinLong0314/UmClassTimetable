@@ -14,10 +14,10 @@ var courses_info = [
     "prof": "CHEANG NENG IAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1029",
     "host": "FAH-DCH"
   },
   {
@@ -26,10 +26,10 @@ var courses_info = [
     "prof": "WANG SHAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-G009",
     "host": "FAH-DCH"
   },
   {
@@ -38,10 +38,10 @@ var courses_info = [
     "prof": "WANG SHAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-G009",
     "host": "FAH-DCH"
   },
   {
@@ -50,10 +50,10 @@ var courses_info = [
     "prof": "WANG SHAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1029",
     "host": "FAH-DCH"
   },
   {
@@ -62,10 +62,10 @@ var courses_info = [
     "prof": "WANG SHAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1029",
     "host": "FAH-DCH"
   },
   {
@@ -74,10 +74,10 @@ var courses_info = [
     "prof": "IP KUAI CHAN (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1031",
     "host": "FAH-DCH"
   },
   {
@@ -86,10 +86,10 @@ var courses_info = [
     "prof": "IP KUAI CHAN (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1031",
     "host": "FAH-DCH"
   },
   {
@@ -98,10 +98,10 @@ var courses_info = [
     "prof": "IP KUAI CHAN (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1031",
     "host": "FAH-DCH"
   },
   {
@@ -110,10 +110,10 @@ var courses_info = [
     "prof": "IP KUAI CHAN (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1031",
     "host": "FAH-DCH"
   },
   {
@@ -122,10 +122,10 @@ var courses_info = [
     "prof": "MA QINGZHOU (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1019",
     "host": "FAH-DCH"
   },
   {
@@ -134,10 +134,10 @@ var courses_info = [
     "prof": "MA QINGZHOU (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1019",
     "host": "FAH-DCH"
   },
   {
@@ -146,10 +146,10 @@ var courses_info = [
     "prof": "PANG HOI LING (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1027",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1027",
     "host": "FAH-DCH"
   },
   {
@@ -158,10 +158,10 @@ var courses_info = [
     "prof": "PANG HOI LING (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1027",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1027",
     "host": "FAH-DCH"
   },
   {
@@ -170,10 +170,10 @@ var courses_info = [
     "prof": "PANG HOI LING (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1017",
     "host": "FAH-DCH"
   },
   {
@@ -182,10 +182,10 @@ var courses_info = [
     "prof": "PANG HOI LING (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1017",
     "host": "FAH-DCH"
   },
   {
@@ -194,10 +194,10 @@ var courses_info = [
     "prof": "PANG HOI LING (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1046",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1046",
     "host": "FAH-DCH"
   },
   {
@@ -206,10 +206,10 @@ var courses_info = [
     "prof": "PANG HOI LING (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1046",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1046",
     "host": "FAH-DCH"
   },
   {
@@ -218,10 +218,10 @@ var courses_info = [
     "prof": "CHEONG IM LAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-1043",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-1043",
     "host": "FAH-DCH"
   },
   {
@@ -230,10 +230,10 @@ var courses_info = [
     "prof": "CHEONG IM LAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-1043",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-1043",
     "host": "FAH-DCH"
   },
   {
@@ -242,10 +242,10 @@ var courses_info = [
     "prof": "XU YUHANG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-G016",
     "host": "FAH-DCH"
   },
   {
@@ -254,10 +254,10 @@ var courses_info = [
     "prof": "XU YUHANG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-G016",
     "host": "FAH-DCH"
   },
   {
@@ -266,10 +266,10 @@ var courses_info = [
     "prof": "TAM MEI LENG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-4011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-4011",
     "host": "FAH-DCH"
   },
   {
@@ -278,10 +278,10 @@ var courses_info = [
     "prof": "TAM MEI LENG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-4011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-4011",
     "host": "FAH-DCH"
   },
   {
@@ -290,10 +290,10 @@ var courses_info = [
     "prof": "TAM MEI LENG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-4011",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-4011",
     "host": "FAH-DCH"
   },
   {
@@ -302,10 +302,10 @@ var courses_info = [
     "prof": "TAM MEI LENG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-4011",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-4011",
     "host": "FAH-DCH"
   },
   {
@@ -314,10 +314,10 @@ var courses_info = [
     "prof": "IP KUAI CHAN (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1031",
     "host": "FAH-DCH"
   },
   {
@@ -326,10 +326,10 @@ var courses_info = [
     "prof": "IP KUAI CHAN (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1031",
     "host": "FAH-DCH"
   },
   {
@@ -338,10 +338,10 @@ var courses_info = [
     "prof": "SIO CHIO IEONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-4011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-4011",
     "host": "FAH-DCH"
   },
   {
@@ -350,10 +350,10 @@ var courses_info = [
     "prof": "SIO CHIO IEONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-4011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-4011",
     "host": "FAH-DCH"
   },
   {
@@ -362,10 +362,10 @@ var courses_info = [
     "prof": "WANG MINGYU (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1017",
     "host": "FAH-DCH"
   },
   {
@@ -374,10 +374,10 @@ var courses_info = [
     "prof": "WANG MINGYU (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1017",
     "host": "FAH-DCH"
   },
   {
@@ -386,10 +386,10 @@ var courses_info = [
     "prof": "MA WAN CHAM (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-G009",
     "host": "FAH-DCH"
   },
   {
@@ -398,10 +398,10 @@ var courses_info = [
     "prof": "MA WAN CHAM (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-G009",
     "host": "FAH-DCH"
   },
   {
@@ -410,10 +410,10 @@ var courses_info = [
     "prof": "TANG CHON CHIT (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1015",
     "host": "FAH-DCH"
   },
   {
@@ -422,10 +422,10 @@ var courses_info = [
     "prof": "TANG CHON CHIT (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1015",
     "host": "FAH-DCH"
   },
   {
@@ -434,10 +434,10 @@ var courses_info = [
     "prof": "ZHANG JINGWEI (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-1027",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-1027",
     "host": "FAH-DCH"
   },
   {
@@ -446,10 +446,10 @@ var courses_info = [
     "prof": "TAM MEI LENG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-4015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-4015",
     "host": "FAH-DCH"
   },
   {
@@ -458,10 +458,10 @@ var courses_info = [
     "prof": "TANG KENG PAN (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1056",
     "host": "FAH-DCH"
   },
   {
@@ -470,10 +470,10 @@ var courses_info = [
     "prof": "TANG KENG PAN (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1056",
     "host": "FAH-DCH"
   },
   {
@@ -482,10 +482,10 @@ var courses_info = [
     "prof": "TANG CHON CHIT (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1030",
     "host": "FAH-DCH"
   },
   {
@@ -494,10 +494,10 @@ var courses_info = [
     "prof": "TANG CHON CHIT (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1030",
     "host": "FAH-DCH"
   },
   {
@@ -506,10 +506,10 @@ var courses_info = [
     "prof": "PANG HOI LING (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-G037",
     "host": "FAH-DCH"
   },
   {
@@ -518,10 +518,10 @@ var courses_info = [
     "prof": "PANG HOI LING (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-G037",
     "host": "FAH-DCH"
   },
   {
@@ -530,10 +530,10 @@ var courses_info = [
     "prof": "GONG GANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1021",
     "host": "FAH-DCH"
   },
   {
@@ -542,10 +542,10 @@ var courses_info = [
     "prof": "GONG GANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1021",
     "host": "FAH-DCH"
   },
   {
@@ -554,10 +554,10 @@ var courses_info = [
     "prof": "LIU HONGYONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-2109",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-2109",
     "host": "FAH-DCH"
   },
   {
@@ -566,10 +566,10 @@ var courses_info = [
     "prof": "WANG MINGYU (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-1039",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-1039",
     "host": "FAH-DCH"
   },
   {
@@ -578,10 +578,10 @@ var courses_info = [
     "prof": "TAM MEI LENG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-2111",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-2111",
     "host": "FAH-DCH"
   },
   {
@@ -590,10 +590,10 @@ var courses_info = [
     "prof": "WANG SIHAO (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E21-2115",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E21-2115",
     "host": "FAH-DCH"
   },
   {
@@ -602,10 +602,10 @@ var courses_info = [
     "prof": "XU YUHANG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-1032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-1032",
     "host": "FAH-DCH"
   },
   {
@@ -614,10 +614,10 @@ var courses_info = [
     "prof": "CHEN ZHONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-1045",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-1045",
     "host": "FAH-DCH"
   },
   {
@@ -626,10 +626,10 @@ var courses_info = [
     "prof": "SIO CHIO IEONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -638,10 +638,10 @@ var courses_info = [
     "prof": "SIO CHIO IEONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -650,10 +650,10 @@ var courses_info = [
     "prof": "SIO CHIO IEONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -662,10 +662,10 @@ var courses_info = [
     "prof": "SIO CHIO IEONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -674,10 +674,10 @@ var courses_info = [
     "prof": "SIO CHIO IEONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -686,10 +686,10 @@ var courses_info = [
     "prof": "SIO CHIO IEONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -698,10 +698,10 @@ var courses_info = [
     "prof": "WANG SHAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-1052",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-1052",
     "host": "FAH-DCH"
   },
   {
@@ -710,10 +710,10 @@ var courses_info = [
     "prof": "WANG SHAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-1052",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-1052",
     "host": "FAH-DCH"
   },
   {
@@ -722,10 +722,10 @@ var courses_info = [
     "prof": "LO IN FAT (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -734,10 +734,10 @@ var courses_info = [
     "prof": "LO IN FAT (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -746,10 +746,10 @@ var courses_info = [
     "prof": "ZHANG YAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-1052",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-1052",
     "host": "FAH-DCH"
   },
   {
@@ -758,10 +758,10 @@ var courses_info = [
     "prof": "ZHANG YAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-1052",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-1052",
     "host": "FAH-DCH"
   },
   {
@@ -770,10 +770,10 @@ var courses_info = [
     "prof": "CHEN LISHENG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -782,10 +782,10 @@ var courses_info = [
     "prof": "CHEN LISHENG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -794,10 +794,10 @@ var courses_info = [
     "prof": "CHEN LISHENG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -806,10 +806,10 @@ var courses_info = [
     "prof": "CHEN LISHENG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -818,10 +818,10 @@ var courses_info = [
     "prof": "LAO KENG CHONG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-1052",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-1052",
     "host": "FAH-DCH"
   },
   {
@@ -830,10 +830,10 @@ var courses_info = [
     "prof": "LAO KENG CHONG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-1052",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-1052",
     "host": "FAH-DCH"
   },
   {
@@ -842,10 +842,10 @@ var courses_info = [
     "prof": "LAO KENG CHONG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -854,10 +854,10 @@ var courses_info = [
     "prof": "LAO KENG CHONG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -866,10 +866,10 @@ var courses_info = [
     "prof": "CHAN WAI CHU (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -878,10 +878,10 @@ var courses_info = [
     "prof": "CHAN WAI CHU (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -890,10 +890,10 @@ var courses_info = [
     "prof": "CHEANG WAI LEK (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -902,10 +902,10 @@ var courses_info = [
     "prof": "CHEANG WAI LEK (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -914,10 +914,10 @@ var courses_info = [
     "prof": "LIU HONGYONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-G053",
     "host": "FAH-DCH"
   },
   {
@@ -926,10 +926,10 @@ var courses_info = [
     "prof": "LIU HONGYONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-G053",
     "host": "FAH-DCH"
   },
   {
@@ -938,10 +938,10 @@ var courses_info = [
     "prof": "LIU HONGYONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1113A",
     "host": "FAH-DCH"
   },
   {
@@ -950,10 +950,10 @@ var courses_info = [
     "prof": "LIU HONGYONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1113A",
     "host": "FAH-DCH"
   },
   {
@@ -962,10 +962,10 @@ var courses_info = [
     "prof": "CHEONG IM LAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E6-1113A",
     "host": "FAH-DCH"
   },
   {
@@ -974,10 +974,10 @@ var courses_info = [
     "prof": "CHEONG IM LAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E6-1113A",
     "host": "FAH-DCH"
   },
   {
@@ -986,10 +986,10 @@ var courses_info = [
     "prof": "CHEONG IM LAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E4-G053",
     "host": "FAH-DCH"
   },
   {
@@ -998,10 +998,10 @@ var courses_info = [
     "prof": "CHEONG IM LAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E4-G053",
     "host": "FAH-DCH"
   },
   {
@@ -1010,10 +1010,10 @@ var courses_info = [
     "prof": "CHEONG IM LAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-1102D",
     "host": "FAH-DCH"
   },
   {
@@ -1022,10 +1022,10 @@ var courses_info = [
     "prof": "CHEONG IM LAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-1102D",
     "host": "FAH-DCH"
   },
   {
@@ -1034,10 +1034,10 @@ var courses_info = [
     "prof": "CHEONG IM LAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -1046,10 +1046,10 @@ var courses_info = [
     "prof": "CHEONG IM LAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-1051",
     "host": "FAH-DCH"
   },
   {
@@ -1058,10 +1058,10 @@ var courses_info = [
     "prof": "CHIU MAN YIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1070,10 +1070,10 @@ var courses_info = [
     "prof": "CHIU MAN YIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1082,10 +1082,10 @@ var courses_info = [
     "prof": "CHIU MAN YIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1094,10 +1094,10 @@ var courses_info = [
     "prof": "CHIU MAN YIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1106,10 +1106,10 @@ var courses_info = [
     "prof": "CHIU MAN YIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1118,10 +1118,10 @@ var courses_info = [
     "prof": "CHIU MAN YIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1130,10 +1130,10 @@ var courses_info = [
     "prof": "IO KEI KUONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1011",
     "host": "FAH-DENG"
   },
   {
@@ -1142,10 +1142,10 @@ var courses_info = [
     "prof": "IO KEI KUONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1011",
     "host": "FAH-DENG"
   },
   {
@@ -1154,10 +1154,10 @@ var courses_info = [
     "prof": "IO KEI KUONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1018",
     "host": "FAH-DENG"
   },
   {
@@ -1166,10 +1166,10 @@ var courses_info = [
     "prof": "IO KEI KUONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1018",
     "host": "FAH-DENG"
   },
   {
@@ -1178,10 +1178,10 @@ var courses_info = [
     "prof": "IO KEI KUONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1190,10 +1190,10 @@ var courses_info = [
     "prof": "IO KEI KUONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1056",
     "host": "FAH-DENG"
   },
   {
@@ -1202,10 +1202,10 @@ var courses_info = [
     "prof": "CHEUNG KEE HUNG (in French and English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-2003",
     "host": "FAH-DENG"
   },
   {
@@ -1214,10 +1214,10 @@ var courses_info = [
     "prof": "CHEUNG KEE HUNG (in French and English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-2003",
     "host": "FAH-DENG"
   },
   {
@@ -1226,10 +1226,10 @@ var courses_info = [
     "prof": "CHEUNG KEE HUNG (in French and English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1013",
     "host": "FAH-DENG"
   },
   {
@@ -1238,10 +1238,10 @@ var courses_info = [
     "prof": "CHEUNG KEE HUNG (in French and English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1013",
     "host": "FAH-DENG"
   },
   {
@@ -1250,10 +1250,10 @@ var courses_info = [
     "prof": "POHL MARCO (in German and English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-3126",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-3126",
     "host": "FAH-DENG"
   },
   {
@@ -1262,10 +1262,10 @@ var courses_info = [
     "prof": "POHL MARCO (in German and English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-3126",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-3126",
     "host": "FAH-DENG"
   },
   {
@@ -1274,10 +1274,10 @@ var courses_info = [
     "prof": "POHL MARCO (in German and English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-3126",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-3126",
     "host": "FAH-DENG"
   },
   {
@@ -1286,10 +1286,10 @@ var courses_info = [
     "prof": "POHL MARCO (in German and English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-3126",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-3126",
     "host": "FAH-DENG"
   },
   {
@@ -1298,10 +1298,10 @@ var courses_info = [
     "prof": "POHL MARCO (in German and English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-3126",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-3126",
     "host": "FAH-DENG"
   },
   {
@@ -1310,10 +1310,10 @@ var courses_info = [
     "prof": "POHL MARCO (in German and English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-3126",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-3126",
     "host": "FAH-DENG"
   },
   {
@@ -1322,10 +1322,10 @@ var courses_info = [
     "prof": "DAMIAN JOHN SHAW (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1018",
     "host": "FAH-DENG"
   },
   {
@@ -1334,10 +1334,10 @@ var courses_info = [
     "prof": "DAMIAN JOHN SHAW (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1018",
     "host": "FAH-DENG"
   },
   {
@@ -1346,10 +1346,10 @@ var courses_info = [
     "prof": "DAMIAN JOHN SHAW (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1045",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1045",
     "host": "FAH-DENG"
   },
   {
@@ -1358,10 +1358,10 @@ var courses_info = [
     "prof": "DAMIAN JOHN SHAW (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1045",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1045",
     "host": "FAH-DENG"
   },
   {
@@ -1370,10 +1370,10 @@ var courses_info = [
     "prof": "CHAN HOK SHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1055",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1055",
     "host": "FAH-DENG"
   },
   {
@@ -1382,10 +1382,10 @@ var courses_info = [
     "prof": "CHAN HOK SHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1055",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1055",
     "host": "FAH-DENG"
   },
   {
@@ -1394,10 +1394,10 @@ var courses_info = [
     "prof": "FONG ION WA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-G037",
     "host": "FAH-DENG"
   },
   {
@@ -1406,10 +1406,10 @@ var courses_info = [
     "prof": "FONG ION WA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-G037",
     "host": "FAH-DENG"
   },
   {
@@ -1418,10 +1418,10 @@ var courses_info = [
     "prof": "TSAI CHENG-YU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-G011",
     "host": "FAH-DENG"
   },
   {
@@ -1430,10 +1430,10 @@ var courses_info = [
     "prof": "TSAI CHENG-YU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-G011",
     "host": "FAH-DENG"
   },
   {
@@ -1442,10 +1442,10 @@ var courses_info = [
     "prof": "TSAI CHENG-YU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-3127",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-3127",
     "host": "FAH-DENG"
   },
   {
@@ -1454,10 +1454,10 @@ var courses_info = [
     "prof": "TSAI CHENG-YU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-3127",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-3127",
     "host": "FAH-DENG"
   },
   {
@@ -1466,10 +1466,10 @@ var courses_info = [
     "prof": "PETER DAVID MATHEWS (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1045",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1045",
     "host": "FAH-DENG"
   },
   {
@@ -1478,10 +1478,10 @@ var courses_info = [
     "prof": "PETER DAVID MATHEWS (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1045",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1045",
     "host": "FAH-DENG"
   },
   {
@@ -1490,10 +1490,10 @@ var courses_info = [
     "prof": "PETER DAVID MATHEWS (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G011",
     "host": "FAH-DENG"
   },
   {
@@ -1502,10 +1502,10 @@ var courses_info = [
     "prof": "PETER DAVID MATHEWS (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G011",
     "host": "FAH-DENG"
   },
   {
@@ -1514,10 +1514,10 @@ var courses_info = [
     "prof": "CHAN HOK SHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3033",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3033",
     "host": "FAH-DENG"
   },
   {
@@ -1526,10 +1526,10 @@ var courses_info = [
     "prof": "CHAN HOK SHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3033",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3033",
     "host": "FAH-DENG"
   },
   {
@@ -1538,10 +1538,10 @@ var courses_info = [
     "prof": "YOUNHEE KIM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-1046",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-1046",
     "host": "FAH-DENG"
   },
   {
@@ -1550,10 +1550,10 @@ var courses_info = [
     "prof": "FONG ION WA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1013",
     "host": "FAH-DENG"
   },
   {
@@ -1562,10 +1562,10 @@ var courses_info = [
     "prof": "FONG ION WA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1013",
     "host": "FAH-DENG"
   },
   {
@@ -1574,10 +1574,10 @@ var courses_info = [
     "prof": "MATTHEW IAN GIBSON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1046",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1046",
     "host": "FAH-DENG"
   },
   {
@@ -1586,10 +1586,10 @@ var courses_info = [
     "prof": "MATTHEW IAN GIBSON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1046",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1046",
     "host": "FAH-DENG"
   },
   {
@@ -1598,10 +1598,10 @@ var courses_info = [
     "prof": "GLEN TIMMERMANS (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E3-1032",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E3-1032",
     "host": "FAH-DENG"
   },
   {
@@ -1610,10 +1610,10 @@ var courses_info = [
     "prof": "DANIEL LOUIS FRANCOIS DUFOURNAUD (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-1043",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-1043",
     "host": "FAH-DENG"
   },
   {
@@ -1622,10 +1622,10 @@ var courses_info = [
     "prof": "DANIEL LOUIS FRANCOIS DUFOURNAUD (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-1043",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-1043",
     "host": "FAH-DENG"
   },
   {
@@ -1634,10 +1634,10 @@ var courses_info = [
     "prof": "NICHOLAS MICHAEL PARKER-GROOM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2015",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2015",
     "host": "FAH-DENG"
   },
   {
@@ -1646,10 +1646,10 @@ var courses_info = [
     "prof": "NICHOLAS MICHAEL PARKER-GROOM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2015",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2015",
     "host": "FAH-DENG"
   },
   {
@@ -1658,10 +1658,10 @@ var courses_info = [
     "prof": "CHIU MAN YIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-1021",
     "host": "FAH-DENG"
   },
   {
@@ -1670,10 +1670,10 @@ var courses_info = [
     "prof": "HARI VENKATESAN (in English and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-G037",
     "host": "FAH-DENG"
   },
   {
@@ -1682,10 +1682,10 @@ var courses_info = [
     "prof": "HARI VENKATESAN (in English and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-G037",
     "host": "FAH-DENG"
   },
   {
@@ -1694,10 +1694,10 @@ var courses_info = [
     "prof": "XU MINHUI (in English and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E21-2003",
     "host": "FAH-DENG"
   },
   {
@@ -1706,10 +1706,10 @@ var courses_info = [
     "prof": "YOU CHENGCHENG (in English and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E21-2003",
     "host": "FAH-DENG"
   },
   {
@@ -1718,10 +1718,10 @@ var courses_info = [
     "prof": "LI SONGQING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4043",
     "host": "FAH-DENG"
   },
   {
@@ -1730,10 +1730,10 @@ var courses_info = [
     "prof": "LI SONGQING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4043",
     "host": "FAH-DENG"
   },
   {
@@ -1742,10 +1742,10 @@ var courses_info = [
     "prof": "GLEN TIMMERMANS (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-1032",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-1032",
     "host": "FAH-DENG"
   },
   {
@@ -1754,10 +1754,10 @@ var courses_info = [
     "prof": "GLEN TIMMERMANS (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-1032",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-1032",
     "host": "FAH-DENG"
   },
   {
@@ -1766,10 +1766,10 @@ var courses_info = [
     "prof": "JEREMY CENTENO DE CHAVEZ (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E6-1113A",
     "host": "FAH-DENG"
   },
   {
@@ -1778,10 +1778,10 @@ var courses_info = [
     "prof": "WONG KA KI KATRINE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E3-1032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E3-1032",
     "host": "FAH-DENG"
   },
   {
@@ -1790,10 +1790,10 @@ var courses_info = [
     "prof": "GLEN TIMMERMANS (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E3-1032",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E3-1032",
     "host": "FAH-DENG"
   },
   {
@@ -1802,10 +1802,10 @@ var courses_info = [
     "prof": "DANIEL LOUIS FRANCOIS DUFOURNAUD (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-G053",
     "host": "FAH-DENG"
   },
   {
@@ -1814,10 +1814,10 @@ var courses_info = [
     "prof": "DANIEL LOUIS FRANCOIS DUFOURNAUD (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-G053",
     "host": "FAH-DENG"
   },
   {
@@ -1826,10 +1826,10 @@ var courses_info = [
     "prof": "WEN RUJIA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-G068",
     "host": "FAH-DHIST"
   },
   {
@@ -1838,10 +1838,10 @@ var courses_info = [
     "prof": "WEN RUJIA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-G068",
     "host": "FAH-DHIST"
   },
   {
@@ -1850,10 +1850,10 @@ var courses_info = [
     "prof": "WEN RUJIA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1862,10 +1862,10 @@ var courses_info = [
     "prof": "WEN RUJIA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1874,10 +1874,10 @@ var courses_info = [
     "prof": "WEN RUJIA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1886,10 +1886,10 @@ var courses_info = [
     "prof": "WEN RUJIA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1898,10 +1898,10 @@ var courses_info = [
     "prof": "LIAO BOLUN, EDGAR (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1910,10 +1910,10 @@ var courses_info = [
     "prof": "LIAO BOLUN, EDGAR (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1922,10 +1922,10 @@ var courses_info = [
     "prof": "LIAO BOLUN, EDGAR (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1934,10 +1934,10 @@ var courses_info = [
     "prof": "LIAO BOLUN, EDGAR (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1946,10 +1946,10 @@ var courses_info = [
     "prof": "LIAO BOLUN, EDGAR (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1958,10 +1958,10 @@ var courses_info = [
     "prof": "LIAO BOLUN, EDGAR (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-1063",
     "host": "FAH-DHIST"
   },
   {
@@ -1970,10 +1970,10 @@ var courses_info = [
     "prof": "YAN NIPING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3032",
     "host": "FAH-DHIST"
   },
   {
@@ -1982,10 +1982,10 @@ var courses_info = [
     "prof": "YAN NIPING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3032",
     "host": "FAH-DHIST"
   },
   {
@@ -1994,10 +1994,10 @@ var courses_info = [
     "prof": "GUILLERMO FRANCISCO RICHARD RUIZ STOVEL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-1051",
     "host": "FAH-DHIST"
   },
   {
@@ -2006,10 +2006,10 @@ var courses_info = [
     "prof": "GUILLERMO FRANCISCO RICHARD RUIZ STOVEL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-1051",
     "host": "FAH-DHIST"
   },
   {
@@ -2018,10 +2018,10 @@ var courses_info = [
     "prof": "ZHU TIAN SHU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4032",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4032",
     "host": "FAH-DHIST"
   },
   {
@@ -2030,10 +2030,10 @@ var courses_info = [
     "prof": "ZHU TIAN SHU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4032",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4032",
     "host": "FAH-DHIST"
   },
   {
@@ -2042,10 +2042,10 @@ var courses_info = [
     "prof": "KWAN CHING-YIN NATHAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1019",
     "host": "FAH-DHIST"
   },
   {
@@ -2054,10 +2054,10 @@ var courses_info = [
     "prof": "KWAN CHING-YIN NATHAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1019",
     "host": "FAH-DHIST"
   },
   {
@@ -2066,10 +2066,10 @@ var courses_info = [
     "prof": "ZHU TIAN SHU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1031",
     "host": "FAH-DHIST"
   },
   {
@@ -2078,10 +2078,10 @@ var courses_info = [
     "prof": "ZHU TIAN SHU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1031",
     "host": "FAH-DHIST"
   },
   {
@@ -2090,10 +2090,10 @@ var courses_info = [
     "prof": "SHEYLA SCHUVARTZ ZANDONAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1031",
     "host": "FAH-DHIST"
   },
   {
@@ -2102,10 +2102,10 @@ var courses_info = [
     "prof": "SHEYLA SCHUVARTZ ZANDONAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1031",
     "host": "FAH-DHIST"
   },
   {
@@ -2114,10 +2114,10 @@ var courses_info = [
     "prof": "SHEYLA SCHUVARTZ ZANDONAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1019",
     "host": "FAH-DHIST"
   },
   {
@@ -2126,10 +2126,10 @@ var courses_info = [
     "prof": "SHEYLA SCHUVARTZ ZANDONAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1019",
     "host": "FAH-DHIST"
   },
   {
@@ -2138,10 +2138,10 @@ var courses_info = [
     "prof": "GUILLERMO FRANCISCO RICHARD RUIZ STOVEL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1031",
     "host": "FAH-DHIST"
   },
   {
@@ -2150,10 +2150,10 @@ var courses_info = [
     "prof": "GUILLERMO FRANCISCO RICHARD RUIZ STOVEL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1031",
     "host": "FAH-DHIST"
   },
   {
@@ -2162,10 +2162,10 @@ var courses_info = [
     "prof": "KWAN CHING-YIN NATHAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1015",
     "host": "FAH-DHIST"
   },
   {
@@ -2174,10 +2174,10 @@ var courses_info = [
     "prof": "KWAN CHING-YIN NATHAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1015",
     "host": "FAH-DHIST"
   },
   {
@@ -2186,10 +2186,10 @@ var courses_info = [
     "prof": "WU DONGMING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-1015",
     "host": "FAH-DHIST"
   },
   {
@@ -2198,10 +2198,10 @@ var courses_info = [
     "prof": "LIN SHAOYANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1027",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1027",
     "host": "FAH-DHIST"
   },
   {
@@ -2210,10 +2210,10 @@ var courses_info = [
     "prof": "LIN SHAOYANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1027",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1027",
     "host": "FAH-DHIST"
   },
   {
@@ -2222,10 +2222,10 @@ var courses_info = [
     "prof": "XIE JINGZHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E21-1031",
     "host": "FAH-DHIST"
   },
   {
@@ -2234,10 +2234,10 @@ var courses_info = [
     "prof": "XIE JINGZHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E21-1027",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E21-1027",
     "host": "FAH-DHIST"
   },
   {
@@ -2330,10 +2330,10 @@ var courses_info = [
     "prof": "KUMIKO KIMURA / MIHO ANDO (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1043",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1043",
     "host": "FAH-DJP"
   },
   {
@@ -2342,10 +2342,10 @@ var courses_info = [
     "prof": "KUMIKO KIMURA / MIHO ANDO (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1043",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1043",
     "host": "FAH-DJP"
   },
   {
@@ -2354,10 +2354,10 @@ var courses_info = [
     "prof": "KUMIKO KIMURA / MIHO ANDO (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1043",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1043",
     "host": "FAH-DJP"
   },
   {
@@ -2366,10 +2366,10 @@ var courses_info = [
     "prof": "KUMIKO KIMURA / MIHO ANDO (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1043",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1043",
     "host": "FAH-DJP"
   },
   {
@@ -2378,10 +2378,10 @@ var courses_info = [
     "prof": "KUMIKO KIMURA / MIHO ANDO (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1045",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2390,10 +2390,10 @@ var courses_info = [
     "prof": "KUMIKO KIMURA / MIHO ANDO (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1045",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2402,10 +2402,10 @@ var courses_info = [
     "prof": "KUMIKO KIMURA / MIHO ANDO (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1045",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2414,10 +2414,10 @@ var courses_info = [
     "prof": "KUMIKO KIMURA / MIHO ANDO (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1045",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2426,10 +2426,10 @@ var courses_info = [
     "prof": "QINGZHEN DENG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-3127",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2438,10 +2438,10 @@ var courses_info = [
     "prof": "QINGZHEN DENG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-3127",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2450,10 +2450,10 @@ var courses_info = [
     "prof": "QINGZHEN DENG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-3127",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2462,10 +2462,10 @@ var courses_info = [
     "prof": "QINGZHEN DENG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-3127",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2474,10 +2474,10 @@ var courses_info = [
     "prof": "QINGZHEN DENG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2486,10 +2486,10 @@ var courses_info = [
     "prof": "QINGZHEN DENG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2498,10 +2498,10 @@ var courses_info = [
     "prof": "QINGZHEN DENG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2510,10 +2510,10 @@ var courses_info = [
     "prof": "QINGZHEN DENG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2522,10 +2522,10 @@ var courses_info = [
     "prof": "HU YAMIN (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1045",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2534,10 +2534,10 @@ var courses_info = [
     "prof": "HU YAMIN (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1045",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2546,10 +2546,10 @@ var courses_info = [
     "prof": "HU YAMIN (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1045",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2558,10 +2558,10 @@ var courses_info = [
     "prof": "HU YAMIN (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1045",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1045",
     "host": "FAH-DJP"
   },
   {
@@ -2570,10 +2570,10 @@ var courses_info = [
     "prof": "HU YAMIN (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-3127",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2582,10 +2582,10 @@ var courses_info = [
     "prof": "HU YAMIN (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-3127",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2594,10 +2594,10 @@ var courses_info = [
     "prof": "LIDIA SUJADI (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1011",
     "host": "FAH-DJP"
   },
   {
@@ -2606,10 +2606,10 @@ var courses_info = [
     "prof": "LIDIA SUJADI (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1011",
     "host": "FAH-DJP"
   },
   {
@@ -2618,10 +2618,10 @@ var courses_info = [
     "prof": "LIDIA SUJADI (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-2003",
     "host": "FAH-DJP"
   },
   {
@@ -2630,10 +2630,10 @@ var courses_info = [
     "prof": "LIDIA SUJADI (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-2003",
     "host": "FAH-DJP"
   },
   {
@@ -2642,10 +2642,10 @@ var courses_info = [
     "prof": "LIDIA SUJADI (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-3127",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2654,10 +2654,10 @@ var courses_info = [
     "prof": "LIDIA SUJADI (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-3127",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-3127",
     "host": "FAH-DJP"
   },
   {
@@ -2666,10 +2666,10 @@ var courses_info = [
     "prof": "REN WEIJIE (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-2003",
     "host": "FAH-DJP"
   },
   {
@@ -2678,10 +2678,10 @@ var courses_info = [
     "prof": "REN WEIJIE (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-2003",
     "host": "FAH-DJP"
   },
   {
@@ -2690,10 +2690,10 @@ var courses_info = [
     "prof": "LIDIA SUJADI (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1011",
     "host": "FAH-DJP"
   },
   {
@@ -2702,10 +2702,10 @@ var courses_info = [
     "prof": "LIDIA SUJADI (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1011",
     "host": "FAH-DJP"
   },
   {
@@ -2714,10 +2714,10 @@ var courses_info = [
     "prof": "MIHO ANDO (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1011",
     "host": "FAH-DJP"
   },
   {
@@ -2726,10 +2726,10 @@ var courses_info = [
     "prof": "MIHO ANDO (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1011",
     "host": "FAH-DJP"
   },
   {
@@ -2738,10 +2738,10 @@ var courses_info = [
     "prof": "KUMIKO KIMURA (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1056",
     "host": "FAH-DJP"
   },
   {
@@ -2750,10 +2750,10 @@ var courses_info = [
     "prof": "KUMIKO KIMURA (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1056",
     "host": "FAH-DJP"
   },
   {
@@ -2762,10 +2762,10 @@ var courses_info = [
     "prof": "KUMIKO KIMURA (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1044",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1044",
     "host": "FAH-DJP"
   },
   {
@@ -2774,10 +2774,10 @@ var courses_info = [
     "prof": "KUMIKO KIMURA (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1044",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1044",
     "host": "FAH-DJP"
   },
   {
@@ -2786,10 +2786,10 @@ var courses_info = [
     "prof": "REN WEIJIE (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2798,10 +2798,10 @@ var courses_info = [
     "prof": "REN WEIJIE (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2810,10 +2810,10 @@ var courses_info = [
     "prof": "REN WEIJIE (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1016",
     "host": "FAH-DJP"
   },
   {
@@ -2822,10 +2822,10 @@ var courses_info = [
     "prof": "REN WEIJIE (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1016",
     "host": "FAH-DJP"
   },
   {
@@ -2834,10 +2834,10 @@ var courses_info = [
     "prof": "KUMIKO KIMURA (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1015",
     "host": "FAH-DJP"
   },
   {
@@ -2846,10 +2846,10 @@ var courses_info = [
     "prof": "KUMIKO KIMURA (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1015",
     "host": "FAH-DJP"
   },
   {
@@ -2858,10 +2858,10 @@ var courses_info = [
     "prof": "MIHO ANDO (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2870,10 +2870,10 @@ var courses_info = [
     "prof": "MIHO ANDO (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2882,10 +2882,10 @@ var courses_info = [
     "prof": "MIHO ANDO (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2894,10 +2894,10 @@ var courses_info = [
     "prof": "MIHO ANDO (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-G037",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-G037",
     "host": "FAH-DJP"
   },
   {
@@ -2906,10 +2906,10 @@ var courses_info = [
     "prof": "REN WEIJIE (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1044",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1044",
     "host": "FAH-DJP"
   },
   {
@@ -2918,10 +2918,10 @@ var courses_info = [
     "prof": "REN WEIJIE (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1044",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1044",
     "host": "FAH-DJP"
   },
   {
@@ -2930,10 +2930,10 @@ var courses_info = [
     "prof": "LI YUZHE (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-2115",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-2115",
     "host": "FAH-DJP"
   },
   {
@@ -2942,10 +2942,10 @@ var courses_info = [
     "prof": "LI YUZHE (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-2115",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-2115",
     "host": "FAH-DJP"
   },
   {
@@ -2954,10 +2954,10 @@ var courses_info = [
     "prof": "HU YAMIN (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-2115",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-2115",
     "host": "FAH-DJP"
   },
   {
@@ -2966,10 +2966,10 @@ var courses_info = [
     "prof": "HU YAMIN (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-2115",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-2115",
     "host": "FAH-DJP"
   },
   {
@@ -2978,10 +2978,10 @@ var courses_info = [
     "prof": "ZHONG YIJIANG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1056",
     "host": "FAH-DJP"
   },
   {
@@ -2990,10 +2990,10 @@ var courses_info = [
     "prof": "ZHONG YIJIANG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1056",
     "host": "FAH-DJP"
   },
   {
@@ -3002,10 +3002,10 @@ var courses_info = [
     "prof": "REN WEIJIE (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1018",
     "host": "FAH-DJP"
   },
   {
@@ -3014,10 +3014,10 @@ var courses_info = [
     "prof": "REN WEIJIE (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1018",
     "host": "FAH-DJP"
   },
   {
@@ -3026,10 +3026,10 @@ var courses_info = [
     "prof": "QINGZHEN DENG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1015",
     "host": "FAH-DJP"
   },
   {
@@ -3038,10 +3038,10 @@ var courses_info = [
     "prof": "QINGZHEN DENG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1015",
     "host": "FAH-DJP"
   },
   {
@@ -3050,10 +3050,10 @@ var courses_info = [
     "prof": "YANG WENJIANG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1031",
     "host": "FAH-DJP"
   },
   {
@@ -3062,10 +3062,10 @@ var courses_info = [
     "prof": "YANG WENJIANG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1031",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1031",
     "host": "FAH-DJP"
   },
   {
@@ -3074,10 +3074,10 @@ var courses_info = [
     "prof": "ZHONG YIJIANG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G012",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G012",
     "host": "FAH-DJP"
   },
   {
@@ -3086,10 +3086,10 @@ var courses_info = [
     "prof": "ZHONG YIJIANG (in Japanese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G012",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G012",
     "host": "FAH-DJP"
   },
   {
@@ -3098,10 +3098,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3110,10 +3110,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3122,10 +3122,10 @@ var courses_info = [
     "prof": "LEI WAI SENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1102D",
     "host": "FAH-DPHIL"
   },
   {
@@ -3134,10 +3134,10 @@ var courses_info = [
     "prof": "LEI WAI SENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1102D",
     "host": "FAH-DPHIL"
   },
   {
@@ -3146,10 +3146,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3158,10 +3158,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3170,10 +3170,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3182,10 +3182,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3194,10 +3194,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3206,10 +3206,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3218,10 +3218,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3230,10 +3230,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3242,10 +3242,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3254,10 +3254,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3266,10 +3266,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3278,10 +3278,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3290,10 +3290,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3302,10 +3302,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3314,10 +3314,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3326,10 +3326,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3338,10 +3338,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3350,10 +3350,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3362,10 +3362,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3374,10 +3374,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3386,10 +3386,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3398,10 +3398,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3410,10 +3410,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3422,10 +3422,10 @@ var courses_info = [
     "prof": "DIMITRA AMARANTIDOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3434,10 +3434,10 @@ var courses_info = [
     "prof": "KOU KEI SANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3446,10 +3446,10 @@ var courses_info = [
     "prof": "KOU KEI SANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1102C",
     "host": "FAH-DPHIL"
   },
   {
@@ -3458,10 +3458,10 @@ var courses_info = [
     "prof": "KOU KEI SANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3470,10 +3470,10 @@ var courses_info = [
     "prof": "KOU KEI SANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1113B",
     "host": "FAH-DPHIL"
   },
   {
@@ -3482,10 +3482,10 @@ var courses_info = [
     "prof": "KOU KEI SANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3494,10 +3494,10 @@ var courses_info = [
     "prof": "KOU KEI SANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-G053",
     "host": "FAH-DPHIL"
   },
   {
@@ -3506,10 +3506,10 @@ var courses_info = [
     "prof": "NEVIA DOLCINI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E3-3033",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E3-3033",
     "host": "FAH-DPHIL"
   },
   {
@@ -3518,10 +3518,10 @@ var courses_info = [
     "prof": "BENJAMIN IAN WINOKUR (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-1017",
     "host": "FAH-DPHIL"
   },
   {
@@ -3530,10 +3530,10 @@ var courses_info = [
     "prof": "LEE TING MIEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E21-1027",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E21-1027",
     "host": "FAH-DPHIL"
   },
   {
@@ -3542,10 +3542,10 @@ var courses_info = [
     "prof": "ZHANG ELLEN YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-1046",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-1046",
     "host": "FAH-DPHIL"
   },
   {
@@ -3554,10 +3554,10 @@ var courses_info = [
     "prof": "NEVIA DOLCINI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E3-3033",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E3-3033",
     "host": "FAH-DPHIL"
   },
   {
@@ -3566,10 +3566,10 @@ var courses_info = [
     "prof": "VICTORIA SANDRA HARRISON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E21-G035",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E21-G035",
     "host": "FAH-DPHIL"
   },
   {
@@ -3578,10 +3578,10 @@ var courses_info = [
     "prof": "ANA LUÍSA VARANI LEAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3590,10 +3590,10 @@ var courses_info = [
     "prof": "ANA LUÍSA VARANI LEAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3602,10 +3602,10 @@ var courses_info = [
     "prof": "ANA LUÍSA VARANI LEAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1042",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3614,10 +3614,10 @@ var courses_info = [
     "prof": "ANA LUÍSA VARANI LEAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1042",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3626,10 +3626,10 @@ var courses_info = [
     "prof": "ANA LUÍSA VARANI LEAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1042",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3638,10 +3638,10 @@ var courses_info = [
     "prof": "ANA LUÍSA VARANI LEAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1042",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3650,10 +3650,10 @@ var courses_info = [
     "prof": "ANA LUÍSA VARANI LEAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3662,10 +3662,10 @@ var courses_info = [
     "prof": "ANA LUÍSA VARANI LEAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1042",
     "host": "FAH-DPT"
   },
   {
@@ -3674,10 +3674,10 @@ var courses_info = [
     "prof": "RAIMUNDO ENEDINO DOS SANTOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3686,10 +3686,10 @@ var courses_info = [
     "prof": "RAIMUNDO ENEDINO DOS SANTOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3698,10 +3698,10 @@ var courses_info = [
     "prof": "RAIMUNDO ENEDINO DOS SANTOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3710,10 +3710,10 @@ var courses_info = [
     "prof": "RAIMUNDO ENEDINO DOS SANTOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3722,10 +3722,10 @@ var courses_info = [
     "prof": "RAIMUNDO ENEDINO DOS SANTOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3734,10 +3734,10 @@ var courses_info = [
     "prof": "RAIMUNDO ENEDINO DOS SANTOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3746,10 +3746,10 @@ var courses_info = [
     "prof": "AO SIO HENG (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1052",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -3758,10 +3758,10 @@ var courses_info = [
     "prof": "AO SIO HENG (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1052",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -3770,10 +3770,10 @@ var courses_info = [
     "prof": "CHOI WENG KUAN (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -3782,10 +3782,10 @@ var courses_info = [
     "prof": "CHOI WENG KUAN (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -3794,10 +3794,10 @@ var courses_info = [
     "prof": "CHOI WENG KUAN (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3806,10 +3806,10 @@ var courses_info = [
     "prof": "CHOI WENG KUAN (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -3818,10 +3818,10 @@ var courses_info = [
     "prof": "MANUELA MARIA FERREIRA CARVALHO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -3830,10 +3830,10 @@ var courses_info = [
     "prof": "MANUELA MARIA FERREIRA CARVALHO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -3842,10 +3842,10 @@ var courses_info = [
     "prof": "CARLA ALEXANDRA SANTOS LOPES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -3854,10 +3854,10 @@ var courses_info = [
     "prof": "CARLA ALEXANDRA SANTOS LOPES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -3866,10 +3866,10 @@ var courses_info = [
     "prof": "LUÍS TIAGO ALVES PIRES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-3126 / E21-1038",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-3126 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -3878,10 +3878,10 @@ var courses_info = [
     "prof": "LUÍS TIAGO ALVES PIRES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-3126 / E21-1038",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-3126 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -3890,10 +3890,10 @@ var courses_info = [
     "prof": "LUÍS TIAGO ALVES PIRES (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-3126 / E21-1038",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-3126 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -3902,10 +3902,10 @@ var courses_info = [
     "prof": "LUÍS TIAGO ALVES PIRES (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-3126 / E21-1038",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-3126 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -3914,10 +3914,10 @@ var courses_info = [
     "prof": "VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1040 / E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1040 / E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -3926,10 +3926,10 @@ var courses_info = [
     "prof": "VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1040 / E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1040 / E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -3938,10 +3938,10 @@ var courses_info = [
     "prof": "VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1040 / E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1040 / E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -3950,10 +3950,10 @@ var courses_info = [
     "prof": "VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1040 / E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1040 / E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -3962,10 +3962,10 @@ var courses_info = [
     "prof": "PAULA CRISTINA FIGUEIREDO DE CAMPOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1020 / E21-1038",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1020 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -3974,10 +3974,10 @@ var courses_info = [
     "prof": "PAULA CRISTINA FIGUEIREDO DE CAMPOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1020 / E21-1038",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1020 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -3986,10 +3986,10 @@ var courses_info = [
     "prof": "PAULA CRISTINA FIGUEIREDO DE CAMPOS (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1020 / E21-1038",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1020 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -3998,10 +3998,10 @@ var courses_info = [
     "prof": "PAULA CRISTINA FIGUEIREDO DE CAMPOS (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1020 / E21-1038",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1020 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -4010,10 +4010,10 @@ var courses_info = [
     "prof": "VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1020 / E21-1038",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1020 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -4022,10 +4022,10 @@ var courses_info = [
     "prof": "VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1020 / E21-1038",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1020 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -4034,10 +4034,10 @@ var courses_info = [
     "prof": "VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1018 / E21-1038",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1018 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -4046,10 +4046,10 @@ var courses_info = [
     "prof": "VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1018 / E21-1038",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1018 / E21-1038",
     "host": "FAH-DPT"
   },
   {
@@ -4058,10 +4058,10 @@ var courses_info = [
     "prof": "DALILA CARMEN DE SOUSA ARAUJO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -4070,10 +4070,10 @@ var courses_info = [
     "prof": "DALILA CARMEN DE SOUSA ARAUJO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -4082,10 +4082,10 @@ var courses_info = [
     "prof": "DALILA CARMEN DE SOUSA ARAUJO (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4094,10 +4094,10 @@ var courses_info = [
     "prof": "DALILA CARMEN DE SOUSA ARAUJO (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4106,10 +4106,10 @@ var courses_info = [
     "prof": "DALILA CARMEN DE SOUSA ARAUJO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -4118,10 +4118,10 @@ var courses_info = [
     "prof": "DALILA CARMEN DE SOUSA ARAUJO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -4130,10 +4130,10 @@ var courses_info = [
     "prof": "DALILA CARMEN DE SOUSA ARAUJO (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4142,10 +4142,10 @@ var courses_info = [
     "prof": "DALILA CARMEN DE SOUSA ARAUJO (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4154,10 +4154,10 @@ var courses_info = [
     "prof": "AO SIO HENG (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1052",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4166,10 +4166,10 @@ var courses_info = [
     "prof": "AO SIO HENG (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1052",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4178,10 +4178,10 @@ var courses_info = [
     "prof": "AO SIO HENG (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1052",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4190,10 +4190,10 @@ var courses_info = [
     "prof": "AO SIO HENG (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1052",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4202,10 +4202,10 @@ var courses_info = [
     "prof": "AO SIO HENG (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1052",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4214,10 +4214,10 @@ var courses_info = [
     "prof": "AO SIO HENG (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1052",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4226,10 +4226,10 @@ var courses_info = [
     "prof": "AO SIO HENG (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1052",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4238,10 +4238,10 @@ var courses_info = [
     "prof": "AO SIO HENG (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1052",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1052",
     "host": "FAH-DPT"
   },
   {
@@ -4250,10 +4250,10 @@ var courses_info = [
     "prof": "ANA INÊS COSTA CARDOSO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4262,10 +4262,10 @@ var courses_info = [
     "prof": "ANA INÊS COSTA CARDOSO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4274,10 +4274,10 @@ var courses_info = [
     "prof": "ANA INÊS COSTA CARDOSO (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4286,10 +4286,10 @@ var courses_info = [
     "prof": "ANA INÊS COSTA CARDOSO (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4298,10 +4298,10 @@ var courses_info = [
     "prof": "JOSÉ FERNANDO LINO PASCOAL / VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:30",
-    "end": "21:45",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "20:30",
+    "venue": "21:45",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4310,22 +4310,10 @@ var courses_info = [
     "prof": "JOSÉ FERNANDO LINO PASCOAL / VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:30",
-    "end": "21:45",
-    "venue": "E21-1020",
-    "remark": "",
-    "host": "FAH-DPT"
-  },
-  {
-    "code": "PORT1004-010",
-    "name": "Oral Comprehension and Production Skills II",
-    "prof": "JOSÉ FERNANDO LINO PASCOAL / VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
-    "type": "Lab",
-    "day": "LAB-L02",
-    "start": "20:30",
-    "end": "21:45",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "20:30",
+    "venue": "21:45",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4334,10 +4322,22 @@ var courses_info = [
     "prof": "JOSÉ FERNANDO LINO PASCOAL / VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "20:30",
-    "end": "21:45",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "20:30",
+    "venue": "21:45",
+    "remark": "E21-1020",
+    "host": "FAH-DPT"
+  },
+  {
+    "code": "PORT1004-010",
+    "name": "Oral Comprehension and Production Skills II",
+    "prof": "JOSÉ FERNANDO LINO PASCOAL / VÍTOR MIGUEL DUARTE SILVA (in Portuguese)",
+    "type": "Lab",
+    "day": "LAB-L02",
+    "start": "",
+    "end": "20:30",
+    "venue": "21:45",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4346,10 +4346,10 @@ var courses_info = [
     "prof": "RUI MANUEL ESTEVES DA SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4358,10 +4358,10 @@ var courses_info = [
     "prof": "RUI MANUEL ESTEVES DA SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4370,10 +4370,10 @@ var courses_info = [
     "prof": "RUI MANUEL ESTEVES DA SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4382,10 +4382,10 @@ var courses_info = [
     "prof": "RUI MANUEL ESTEVES DA SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4394,10 +4394,10 @@ var courses_info = [
     "prof": "RUI MANUEL ESTEVES DA SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4406,10 +4406,10 @@ var courses_info = [
     "prof": "RUI MANUEL ESTEVES DA SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4418,10 +4418,10 @@ var courses_info = [
     "prof": "RUI MANUEL ESTEVES DA SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4430,10 +4430,10 @@ var courses_info = [
     "prof": "RUI MANUEL ESTEVES DA SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-2003",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-2003",
     "host": "FAH-DPT"
   },
   {
@@ -4442,10 +4442,10 @@ var courses_info = [
     "prof": "LU CHUNHUI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4454,10 +4454,10 @@ var courses_info = [
     "prof": "LU CHUNHUI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4466,10 +4466,10 @@ var courses_info = [
     "prof": "LU CHUNHUI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4478,10 +4478,10 @@ var courses_info = [
     "prof": "LU CHUNHUI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4490,10 +4490,10 @@ var courses_info = [
     "prof": "ZHANG XIAOFEI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4502,10 +4502,10 @@ var courses_info = [
     "prof": "ZHANG XIAOFEI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4514,10 +4514,10 @@ var courses_info = [
     "prof": "ZHANG XIAOFEI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4526,10 +4526,10 @@ var courses_info = [
     "prof": "ZHANG XIAOFEI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4538,10 +4538,10 @@ var courses_info = [
     "prof": "ZHANG XIAOFEI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4550,10 +4550,10 @@ var courses_info = [
     "prof": "ZHANG XIAOFEI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4562,10 +4562,10 @@ var courses_info = [
     "prof": "ZHANG XIAOFEI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4574,10 +4574,10 @@ var courses_info = [
     "prof": "ZHANG XIAOFEI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4586,10 +4586,10 @@ var courses_info = [
     "prof": "LIU SIYOU (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4598,10 +4598,10 @@ var courses_info = [
     "prof": "LIU SIYOU (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4610,10 +4610,10 @@ var courses_info = [
     "prof": "LIU SIYOU (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4622,10 +4622,10 @@ var courses_info = [
     "prof": "LIU SIYOU (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -4634,10 +4634,10 @@ var courses_info = [
     "prof": "LIU SIYOU / RUI MANUEL ESTEVES DA SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4646,10 +4646,10 @@ var courses_info = [
     "prof": "LIU SIYOU / RUI MANUEL ESTEVES DA SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4658,10 +4658,10 @@ var courses_info = [
     "prof": "LIU SIYOU / RUI MANUEL ESTEVES DA SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4670,10 +4670,10 @@ var courses_info = [
     "prof": "LIU SIYOU / RUI MANUEL ESTEVES DA SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4682,10 +4682,10 @@ var courses_info = [
     "prof": "LIU SIYOU (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4694,10 +4694,10 @@ var courses_info = [
     "prof": "LIU SIYOU (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4706,10 +4706,10 @@ var courses_info = [
     "prof": "LIU SIYOU (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4718,10 +4718,10 @@ var courses_info = [
     "prof": "LIU SIYOU (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -4730,10 +4730,10 @@ var courses_info = [
     "prof": "CHOI WENG KUAN (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -4742,10 +4742,10 @@ var courses_info = [
     "prof": "CHOI WENG KUAN (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -4754,10 +4754,10 @@ var courses_info = [
     "prof": "CHOI WENG KUAN (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -4766,10 +4766,10 @@ var courses_info = [
     "prof": "CHOI WENG KUAN (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-G011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-G011",
     "host": "FAH-DPT"
   },
   {
@@ -4778,10 +4778,10 @@ var courses_info = [
     "prof": "ANA INÊS COSTA CARDOSO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:15",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:15",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4790,10 +4790,10 @@ var courses_info = [
     "prof": "ANA INÊS COSTA CARDOSO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:15",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:15",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4802,10 +4802,10 @@ var courses_info = [
     "prof": "ANA INÊS COSTA CARDOSO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:15",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:15",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4814,10 +4814,10 @@ var courses_info = [
     "prof": "ANA INÊS COSTA CARDOSO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:15",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:15",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4826,10 +4826,10 @@ var courses_info = [
     "prof": "JOSÉ FERNANDO LINO PASCOAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1037",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4838,10 +4838,10 @@ var courses_info = [
     "prof": "JOSÉ FERNANDO LINO PASCOAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1037",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4850,10 +4850,10 @@ var courses_info = [
     "prof": "JOSÉ FERNANDO LINO PASCOAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1037",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4862,10 +4862,10 @@ var courses_info = [
     "prof": "JOSÉ FERNANDO LINO PASCOAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1037",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4874,10 +4874,10 @@ var courses_info = [
     "prof": "JOSÉ FERNANDO LINO PASCOAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1037",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4886,10 +4886,10 @@ var courses_info = [
     "prof": "JOSÉ FERNANDO LINO PASCOAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1037",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4898,10 +4898,10 @@ var courses_info = [
     "prof": "JOSÉ FERNANDO LINO PASCOAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1037",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4910,10 +4910,10 @@ var courses_info = [
     "prof": "JOSÉ FERNANDO LINO PASCOAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1037",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1037",
     "host": "FAH-DPT"
   },
   {
@@ -4922,10 +4922,10 @@ var courses_info = [
     "prof": "ALVES DOS SANTOS TEIXEIRA GOMES NUNO MIGUEL (in Spanish)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -4934,10 +4934,10 @@ var courses_info = [
     "prof": "ALVES DOS SANTOS TEIXEIRA GOMES NUNO MIGUEL (in Spanish)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -4946,10 +4946,10 @@ var courses_info = [
     "prof": "ALVES DOS SANTOS TEIXEIRA GOMES NUNO MIGUEL (in Spanish)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -4958,10 +4958,10 @@ var courses_info = [
     "prof": "ALVES DOS SANTOS TEIXEIRA GOMES NUNO MIGUEL (in Spanish)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -4970,10 +4970,10 @@ var courses_info = [
     "prof": "ALVES DOS SANTOS TEIXEIRA GOMES NUNO MIGUEL (in Spanish)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4982,10 +4982,10 @@ var courses_info = [
     "prof": "ALVES DOS SANTOS TEIXEIRA GOMES NUNO MIGUEL (in Spanish)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -4994,10 +4994,10 @@ var courses_info = [
     "prof": "MARIO RUI LIMA DE OLIVEIRA PINHARANDA NUNES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-3126 / E21-1040",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5006,10 +5006,10 @@ var courses_info = [
     "prof": "MARIO RUI LIMA DE OLIVEIRA PINHARANDA NUNES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-3126 / E21-1040",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5018,10 +5018,10 @@ var courses_info = [
     "prof": "MARIO RUI LIMA DE OLIVEIRA PINHARANDA NUNES (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-3126 / E21-1040",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5030,10 +5030,10 @@ var courses_info = [
     "prof": "MARIO RUI LIMA DE OLIVEIRA PINHARANDA NUNES (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-3126 / E21-1040",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5042,10 +5042,10 @@ var courses_info = [
     "prof": "MARIO RUI LIMA DE OLIVEIRA PINHARANDA NUNES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-3126 / E21-1040",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5054,10 +5054,10 @@ var courses_info = [
     "prof": "MARIO RUI LIMA DE OLIVEIRA PINHARANDA NUNES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-3126 / E21-1040",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5066,10 +5066,10 @@ var courses_info = [
     "prof": "MARIO RUI LIMA DE OLIVEIRA PINHARANDA NUNES (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-3126 / E21-1040",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5078,10 +5078,10 @@ var courses_info = [
     "prof": "MARIO RUI LIMA DE OLIVEIRA PINHARANDA NUNES (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-3126 / E21-1040",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-3126 / E21-1040",
     "host": "FAH-DPT"
   },
   {
@@ -5090,10 +5090,10 @@ var courses_info = [
     "prof": "PAULA CRISTINA FIGUEIREDO DE CAMPOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1040 / E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1040 / E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5102,22 +5102,10 @@ var courses_info = [
     "prof": "PAULA CRISTINA FIGUEIREDO DE CAMPOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1040 / E21-1020",
-    "remark": "",
-    "host": "FAH-DPT"
-  },
-  {
-    "code": "PORT2012-003",
-    "name": "Oral Comprehension and Production Skills IV",
-    "prof": "PAULA CRISTINA FIGUEIREDO DE CAMPOS (in Portuguese)",
-    "type": "Lab",
-    "day": "LAB-L02",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1040 / E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1040 / E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5126,10 +5114,22 @@ var courses_info = [
     "prof": "PAULA CRISTINA FIGUEIREDO DE CAMPOS (in Portuguese)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1040 / E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1040 / E21-1011",
+    "host": "FAH-DPT"
+  },
+  {
+    "code": "PORT2012-003",
+    "name": "Oral Comprehension and Production Skills IV",
+    "prof": "PAULA CRISTINA FIGUEIREDO DE CAMPOS (in Portuguese)",
+    "type": "Lab",
+    "day": "LAB-L02",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1040 / E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -5138,10 +5138,10 @@ var courses_info = [
     "prof": "LU CHUNHUI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5150,10 +5150,10 @@ var courses_info = [
     "prof": "LU CHUNHUI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5162,10 +5162,10 @@ var courses_info = [
     "prof": "LU CHUNHUI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5174,10 +5174,10 @@ var courses_info = [
     "prof": "LU CHUNHUI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5186,10 +5186,10 @@ var courses_info = [
     "prof": "LU CHUNHUI / ZHANG JIANBO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5198,10 +5198,10 @@ var courses_info = [
     "prof": "LU CHUNHUI / ZHANG JIANBO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5210,10 +5210,10 @@ var courses_info = [
     "prof": "LU CHUNHUI / ZHANG JIANBO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5222,10 +5222,10 @@ var courses_info = [
     "prof": "LU CHUNHUI / ZHANG JIANBO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5234,10 +5234,10 @@ var courses_info = [
     "prof": "ZHANG JIANBO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5246,10 +5246,10 @@ var courses_info = [
     "prof": "ZHANG JIANBO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5258,10 +5258,10 @@ var courses_info = [
     "prof": "ZHANG JIANBO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5270,10 +5270,10 @@ var courses_info = [
     "prof": "ZHANG JIANBO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5282,10 +5282,10 @@ var courses_info = [
     "prof": "PAULA CRISTINA FIGUEIREDO DE CAMPOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5294,10 +5294,10 @@ var courses_info = [
     "prof": "PAULA CRISTINA FIGUEIREDO DE CAMPOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5306,10 +5306,10 @@ var courses_info = [
     "prof": "PAULA CRISTINA FIGUEIREDO DE CAMPOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5318,10 +5318,10 @@ var courses_info = [
     "prof": "PAULA CRISTINA FIGUEIREDO DE CAMPOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5330,10 +5330,10 @@ var courses_info = [
     "prof": "CARLA ALEXANDRA SANTOS LOPES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5342,10 +5342,10 @@ var courses_info = [
     "prof": "CARLA ALEXANDRA SANTOS LOPES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5354,10 +5354,10 @@ var courses_info = [
     "prof": "CARLA ALEXANDRA SANTOS LOPES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5366,10 +5366,10 @@ var courses_info = [
     "prof": "CARLA ALEXANDRA SANTOS LOPES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1013",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1013",
     "host": "FAH-DPT"
   },
   {
@@ -5378,10 +5378,10 @@ var courses_info = [
     "prof": "LUÍS TIAGO ALVES PIRES / SUN YUQI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5390,10 +5390,10 @@ var courses_info = [
     "prof": "LUÍS TIAGO ALVES PIRES / SUN YUQI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5402,10 +5402,10 @@ var courses_info = [
     "prof": "LUÍS TIAGO ALVES PIRES / SUN YUQI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5414,10 +5414,10 @@ var courses_info = [
     "prof": "LUÍS TIAGO ALVES PIRES / SUN YUQI (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1016",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1016",
     "host": "FAH-DPT"
   },
   {
@@ -5426,10 +5426,10 @@ var courses_info = [
     "prof": "LUÍS TIAGO ALVES PIRES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:15",
-    "venue": "E21-3126",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:15",
+    "remark": "E21-3126",
     "host": "FAH-DPT"
   },
   {
@@ -5438,10 +5438,10 @@ var courses_info = [
     "prof": "LUÍS TIAGO ALVES PIRES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:15",
-    "venue": "E21-3126",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:15",
+    "remark": "E21-3126",
     "host": "FAH-DPT"
   },
   {
@@ -5450,10 +5450,10 @@ var courses_info = [
     "prof": "LUÍS TIAGO ALVES PIRES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:15",
-    "venue": "E21-3126",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:15",
+    "remark": "E21-3126",
     "host": "FAH-DPT"
   },
   {
@@ -5462,10 +5462,10 @@ var courses_info = [
     "prof": "LUÍS TIAGO ALVES PIRES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:15",
-    "venue": "E21-3126",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:15",
+    "remark": "E21-3126",
     "host": "FAH-DPT"
   },
   {
@@ -5474,10 +5474,10 @@ var courses_info = [
     "prof": "JÚLIO REIS JATOBÁ (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5486,10 +5486,10 @@ var courses_info = [
     "prof": "JÚLIO REIS JATOBÁ (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5498,10 +5498,10 @@ var courses_info = [
     "prof": "JÚLIO REIS JATOBÁ (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5510,10 +5510,10 @@ var courses_info = [
     "prof": "JÚLIO REIS JATOBÁ (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5522,10 +5522,10 @@ var courses_info = [
     "prof": "ZHANG JIANBO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5534,10 +5534,10 @@ var courses_info = [
     "prof": "ZHANG JIANBO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5546,10 +5546,10 @@ var courses_info = [
     "prof": "ZHANG JIANBO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5558,10 +5558,10 @@ var courses_info = [
     "prof": "ZHANG JIANBO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5570,10 +5570,10 @@ var courses_info = [
     "prof": "ANTÓNIO JOSÉ RODRIGUES LEAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5582,10 +5582,10 @@ var courses_info = [
     "prof": "ANTÓNIO JOSÉ RODRIGUES LEAL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5594,10 +5594,10 @@ var courses_info = [
     "prof": "MARIO RUI LIMA DE OLIVEIRA PINHARANDA NUNES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-3126",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-3126",
     "host": "FAH-DPT"
   },
   {
@@ -5606,10 +5606,10 @@ var courses_info = [
     "prof": "MARIO RUI LIMA DE OLIVEIRA PINHARANDA NUNES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-3126",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-3126",
     "host": "FAH-DPT"
   },
   {
@@ -5618,10 +5618,10 @@ var courses_info = [
     "prof": "MANUELA MARIA FERREIRA CARVALHO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -5630,10 +5630,10 @@ var courses_info = [
     "prof": "MANUELA MARIA FERREIRA CARVALHO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1011",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1011",
     "host": "FAH-DPT"
   },
   {
@@ -5642,10 +5642,10 @@ var courses_info = [
     "prof": "CARLA ALEXANDRA SANTOS LOPES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5654,10 +5654,10 @@ var courses_info = [
     "prof": "CARLA ALEXANDRA SANTOS LOPES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5666,10 +5666,10 @@ var courses_info = [
     "prof": "ROBERVAL TEIXEIRA E SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5678,10 +5678,10 @@ var courses_info = [
     "prof": "ROBERVAL TEIXEIRA E SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5690,10 +5690,10 @@ var courses_info = [
     "prof": "ROBERVAL TEIXEIRA E SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5702,10 +5702,10 @@ var courses_info = [
     "prof": "ROBERVAL TEIXEIRA E SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1018",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1018",
     "host": "FAH-DPT"
   },
   {
@@ -5714,10 +5714,10 @@ var courses_info = [
     "prof": "ROBERVAL TEIXEIRA E SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1056",
     "host": "FAH-DPT"
   },
   {
@@ -5726,10 +5726,10 @@ var courses_info = [
     "prof": "ROBERVAL TEIXEIRA E SILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1056",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1056",
     "host": "FAH-DPT"
   },
   {
@@ -5738,10 +5738,10 @@ var courses_info = [
     "prof": "RICARDO MOUTINHO RODRIGUES DASILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-2106",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-2106",
     "host": "FAH-DPT"
   },
   {
@@ -5750,10 +5750,10 @@ var courses_info = [
     "prof": "RICARDO MOUTINHO RODRIGUES DASILVA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-2106",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-2106",
     "host": "FAH-DPT"
   },
   {
@@ -5762,10 +5762,10 @@ var courses_info = [
     "prof": "ZHANG JING (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5774,10 +5774,10 @@ var courses_info = [
     "prof": "ZHANG JING (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1020",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1020",
     "host": "FAH-DPT"
   },
   {
@@ -5786,10 +5786,10 @@ var courses_info = [
     "prof": "GIORGIO ERICK SINEDINO DE ARAUJO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-2109",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-2109",
     "host": "FAH-DPT"
   },
   {
@@ -5798,10 +5798,10 @@ var courses_info = [
     "prof": "GIORGIO ERICK SINEDINO DE ARAUJO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-2109",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-2109",
     "host": "FAH-DPT"
   },
   {
@@ -5810,10 +5810,10 @@ var courses_info = [
     "prof": "JÚLIO REIS JATOBÁ (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-2115",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-2115",
     "host": "FAH-DPT"
   },
   {
@@ -5822,10 +5822,10 @@ var courses_info = [
     "prof": "JÚLIO REIS JATOBÁ (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-2115",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-2115",
     "host": "FAH-DPT"
   },
   {
@@ -5834,10 +5834,10 @@ var courses_info = [
     "prof": "JÚLIO REIS JATOBÁ (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-2115",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-2115",
     "host": "FAH-DPT"
   },
   {
@@ -5846,10 +5846,10 @@ var courses_info = [
     "prof": "JÚLIO REIS JATOBÁ (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-2115",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-2115",
     "host": "FAH-DPT"
   },
   {
@@ -5858,10 +5858,10 @@ var courses_info = [
     "prof": "JÚLIO REIS JATOBÁ (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-2106",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-2106",
     "host": "FAH-DPT"
   },
   {
@@ -5870,10 +5870,10 @@ var courses_info = [
     "prof": "JÚLIO REIS JATOBÁ (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-2106",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-2106",
     "host": "FAH-DPT"
   },
   {
@@ -5882,10 +5882,10 @@ var courses_info = [
     "prof": "MARIA JOSÉ DOS REIS GROSSO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1039",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1039",
     "host": "FAH-DPT"
   },
   {
@@ -5894,10 +5894,10 @@ var courses_info = [
     "prof": "MARIA JOSÉ DOS REIS GROSSO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1039",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1039",
     "host": "FAH-DPT"
   },
   {
@@ -5906,10 +5906,10 @@ var courses_info = [
     "prof": "MARIA JOSÉ DOS REIS GROSSO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-2111",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-2111",
     "host": "FAH-DPT"
   },
   {
@@ -5918,10 +5918,10 @@ var courses_info = [
     "prof": "MARIA JOSÉ DOS REIS GROSSO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-2111",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-2111",
     "host": "FAH-DPT"
   },
   {
@@ -5930,10 +5930,10 @@ var courses_info = [
     "prof": "RAIMUNDO ENEDINO DOS SANTOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-2111",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-2111",
     "host": "FAH-DPT"
   },
   {
@@ -5942,10 +5942,10 @@ var courses_info = [
     "prof": "RAIMUNDO ENEDINO DOS SANTOS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-2111",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-2111",
     "host": "FAH-DPT"
   },
   {
@@ -5954,10 +5954,10 @@ var courses_info = [
     "prof": "JEAN-PAUL LAFAYETTE DUQUETTE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-3055",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -5966,10 +5966,10 @@ var courses_info = [
     "prof": "JEAN-PAUL LAFAYETTE DUQUETTE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-3055",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -5978,10 +5978,10 @@ var courses_info = [
     "prof": "JEAN-PAUL LAFAYETTE DUQUETTE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-3055",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -5990,10 +5990,10 @@ var courses_info = [
     "prof": "JEAN-PAUL LAFAYETTE DUQUETTE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-3055",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -6002,10 +6002,10 @@ var courses_info = [
     "prof": "JEAN-PAUL LAFAYETTE DUQUETTE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -6014,10 +6014,10 @@ var courses_info = [
     "prof": "JEAN-PAUL LAFAYETTE DUQUETTE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -6026,10 +6026,10 @@ var courses_info = [
     "prof": "JEAN-PAUL LAFAYETTE DUQUETTE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -6038,10 +6038,10 @@ var courses_info = [
     "prof": "JEAN-PAUL LAFAYETTE DUQUETTE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -6050,10 +6050,10 @@ var courses_info = [
     "prof": "LI TAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6062,10 +6062,10 @@ var courses_info = [
     "prof": "LI TAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6074,10 +6074,10 @@ var courses_info = [
     "prof": "LI TAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6086,10 +6086,10 @@ var courses_info = [
     "prof": "LI TAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6098,10 +6098,10 @@ var courses_info = [
     "prof": "LAM SZE LUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6110,10 +6110,10 @@ var courses_info = [
     "prof": "LAM SZE LUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6122,10 +6122,10 @@ var courses_info = [
     "prof": "LAM SZE LUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6134,10 +6134,10 @@ var courses_info = [
     "prof": "LAM SZE LUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6146,10 +6146,10 @@ var courses_info = [
     "prof": "VIVIAN FELICIO CHAPLIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6158,10 +6158,10 @@ var courses_info = [
     "prof": "VIVIAN FELICIO CHAPLIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6170,10 +6170,10 @@ var courses_info = [
     "prof": "VIVIAN FELICIO CHAPLIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6182,10 +6182,10 @@ var courses_info = [
     "prof": "VIVIAN FELICIO CHAPLIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6194,10 +6194,10 @@ var courses_info = [
     "prof": "CHAN I LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6206,10 +6206,10 @@ var courses_info = [
     "prof": "CHAN I LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6218,10 +6218,10 @@ var courses_info = [
     "prof": "CHAN I LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6230,10 +6230,10 @@ var courses_info = [
     "prof": "CHAN I LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6242,10 +6242,10 @@ var courses_info = [
     "prof": "WONG HWAI PING MARK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6254,10 +6254,10 @@ var courses_info = [
     "prof": "WONG HWAI PING MARK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6266,10 +6266,10 @@ var courses_info = [
     "prof": "WONG HWAI PING MARK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6278,10 +6278,10 @@ var courses_info = [
     "prof": "WONG HWAI PING MARK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6290,10 +6290,10 @@ var courses_info = [
     "prof": "WONG HWAI PING MARK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6302,10 +6302,10 @@ var courses_info = [
     "prof": "WONG HWAI PING MARK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6314,10 +6314,10 @@ var courses_info = [
     "prof": "WONG HWAI PING MARK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6326,10 +6326,10 @@ var courses_info = [
     "prof": "WONG HWAI PING MARK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -6338,10 +6338,10 @@ var courses_info = [
     "prof": "LAM SZE LUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6350,10 +6350,10 @@ var courses_info = [
     "prof": "LAM SZE LUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6362,10 +6362,10 @@ var courses_info = [
     "prof": "LAM SZE LUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6374,10 +6374,10 @@ var courses_info = [
     "prof": "LAM SZE LUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6386,10 +6386,10 @@ var courses_info = [
     "prof": "SUMIKO ITO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -6398,10 +6398,10 @@ var courses_info = [
     "prof": "SUMIKO ITO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -6410,10 +6410,10 @@ var courses_info = [
     "prof": "SUMIKO ITO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -6422,10 +6422,10 @@ var courses_info = [
     "prof": "SUMIKO ITO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -6434,10 +6434,10 @@ var courses_info = [
     "prof": "LI TAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6446,10 +6446,10 @@ var courses_info = [
     "prof": "LI TAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6458,10 +6458,10 @@ var courses_info = [
     "prof": "LI TAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6470,10 +6470,10 @@ var courses_info = [
     "prof": "LI TAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -6482,10 +6482,10 @@ var courses_info = [
     "prof": "VIVIAN FELICIO CHAPLIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6494,10 +6494,10 @@ var courses_info = [
     "prof": "VIVIAN FELICIO CHAPLIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6506,10 +6506,10 @@ var courses_info = [
     "prof": "VIVIAN FELICIO CHAPLIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6518,10 +6518,10 @@ var courses_info = [
     "prof": "VIVIAN FELICIO CHAPLIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6530,10 +6530,10 @@ var courses_info = [
     "prof": "ZHUO QIONGYAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6542,10 +6542,10 @@ var courses_info = [
     "prof": "ZHUO QIONGYAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6554,10 +6554,10 @@ var courses_info = [
     "prof": "ZHUO QIONGYAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6566,10 +6566,10 @@ var courses_info = [
     "prof": "ZHUO QIONGYAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6578,10 +6578,10 @@ var courses_info = [
     "prof": "LEE KAI CHUNG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6590,10 +6590,10 @@ var courses_info = [
     "prof": "LEE KAI CHUNG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6602,10 +6602,10 @@ var courses_info = [
     "prof": "LEE KAI CHUNG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6614,10 +6614,10 @@ var courses_info = [
     "prof": "LEE KAI CHUNG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -6626,10 +6626,10 @@ var courses_info = [
     "prof": "MATTHEW WILLIAM LAMBERT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6638,10 +6638,10 @@ var courses_info = [
     "prof": "MATTHEW WILLIAM LAMBERT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6650,10 +6650,10 @@ var courses_info = [
     "prof": "MATTHEW WILLIAM LAMBERT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6662,10 +6662,10 @@ var courses_info = [
     "prof": "MATTHEW WILLIAM LAMBERT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6674,10 +6674,10 @@ var courses_info = [
     "prof": "CHAN I LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6686,10 +6686,10 @@ var courses_info = [
     "prof": "CHAN I LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6698,10 +6698,10 @@ var courses_info = [
     "prof": "CHAN I LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6710,10 +6710,10 @@ var courses_info = [
     "prof": "CHAN I LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -6722,10 +6722,10 @@ var courses_info = [
     "prof": "ZHUO QIONGYAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6734,10 +6734,10 @@ var courses_info = [
     "prof": "ZHUO QIONGYAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6746,10 +6746,10 @@ var courses_info = [
     "prof": "ZHUO QIONGYAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6758,10 +6758,10 @@ var courses_info = [
     "prof": "ZHUO QIONGYAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6770,10 +6770,10 @@ var courses_info = [
     "prof": "LEE KAI CHUNG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -6782,10 +6782,10 @@ var courses_info = [
     "prof": "LEE KAI CHUNG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -6794,10 +6794,10 @@ var courses_info = [
     "prof": "LEE KAI CHUNG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -6806,10 +6806,10 @@ var courses_info = [
     "prof": "LEE KAI CHUNG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -6818,10 +6818,10 @@ var courses_info = [
     "prof": "MATTHEW WILLIAM LAMBERT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6830,10 +6830,10 @@ var courses_info = [
     "prof": "MATTHEW WILLIAM LAMBERT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6842,10 +6842,10 @@ var courses_info = [
     "prof": "MATTHEW WILLIAM LAMBERT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6854,10 +6854,10 @@ var courses_info = [
     "prof": "MATTHEW WILLIAM LAMBERT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6866,10 +6866,10 @@ var courses_info = [
     "prof": "HUGO ALEXANDRE MARQUES TEIXEIRA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6878,10 +6878,10 @@ var courses_info = [
     "prof": "HUGO ALEXANDRE MARQUES TEIXEIRA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6890,10 +6890,10 @@ var courses_info = [
     "prof": "HUGO ALEXANDRE MARQUES TEIXEIRA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6902,10 +6902,10 @@ var courses_info = [
     "prof": "HUGO ALEXANDRE MARQUES TEIXEIRA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -6914,10 +6914,10 @@ var courses_info = [
     "prof": "LE PHUONG ANH (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-3055",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -6926,10 +6926,10 @@ var courses_info = [
     "prof": "LE PHUONG ANH (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-3055",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -6938,10 +6938,10 @@ var courses_info = [
     "prof": "LE PHUONG ANH (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-3055",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -6950,10 +6950,10 @@ var courses_info = [
     "prof": "LE PHUONG ANH (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-3055",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -6962,10 +6962,10 @@ var courses_info = [
     "prof": "JOSHUA LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6974,10 +6974,10 @@ var courses_info = [
     "prof": "JOSHUA LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6986,10 +6986,10 @@ var courses_info = [
     "prof": "JOSHUA LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -6998,10 +6998,10 @@ var courses_info = [
     "prof": "JOSHUA LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -7010,10 +7010,10 @@ var courses_info = [
     "prof": "GENNADIY BELOTSERKOVSKIY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7022,10 +7022,10 @@ var courses_info = [
     "prof": "GENNADIY BELOTSERKOVSKIY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7034,10 +7034,10 @@ var courses_info = [
     "prof": "GENNADIY BELOTSERKOVSKIY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7046,10 +7046,10 @@ var courses_info = [
     "prof": "GENNADIY BELOTSERKOVSKIY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7058,10 +7058,10 @@ var courses_info = [
     "prof": "CHAN KA LON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7070,10 +7070,10 @@ var courses_info = [
     "prof": "CHAN KA LON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7082,10 +7082,10 @@ var courses_info = [
     "prof": "CHAN KA LON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7094,10 +7094,10 @@ var courses_info = [
     "prof": "CHAN KA LON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7106,10 +7106,10 @@ var courses_info = [
     "prof": "MICHAEL CLARENCE LICHTENSTEIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7118,10 +7118,10 @@ var courses_info = [
     "prof": "MICHAEL CLARENCE LICHTENSTEIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7130,10 +7130,10 @@ var courses_info = [
     "prof": "MICHAEL CLARENCE LICHTENSTEIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7142,10 +7142,10 @@ var courses_info = [
     "prof": "MICHAEL CLARENCE LICHTENSTEIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7154,10 +7154,10 @@ var courses_info = [
     "prof": "GENNADIY BELOTSERKOVSKIY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7166,10 +7166,10 @@ var courses_info = [
     "prof": "GENNADIY BELOTSERKOVSKIY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7178,10 +7178,10 @@ var courses_info = [
     "prof": "GENNADIY BELOTSERKOVSKIY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7190,10 +7190,10 @@ var courses_info = [
     "prof": "GENNADIY BELOTSERKOVSKIY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -7202,10 +7202,10 @@ var courses_info = [
     "prof": "CHAN KA LON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7214,10 +7214,10 @@ var courses_info = [
     "prof": "CHAN KA LON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7226,10 +7226,10 @@ var courses_info = [
     "prof": "CHAN KA LON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7238,10 +7238,10 @@ var courses_info = [
     "prof": "CHAN KA LON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -7250,10 +7250,10 @@ var courses_info = [
     "prof": "MICHAEL CLARENCE LICHTENSTEIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7262,10 +7262,10 @@ var courses_info = [
     "prof": "MICHAEL CLARENCE LICHTENSTEIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7274,10 +7274,10 @@ var courses_info = [
     "prof": "MICHAEL CLARENCE LICHTENSTEIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7286,10 +7286,10 @@ var courses_info = [
     "prof": "MICHAEL CLARENCE LICHTENSTEIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -7298,10 +7298,10 @@ var courses_info = [
     "prof": "JOSHUA LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -7310,10 +7310,10 @@ var courses_info = [
     "prof": "JOSHUA LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -7322,10 +7322,10 @@ var courses_info = [
     "prof": "JOSHUA LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -7334,10 +7334,10 @@ var courses_info = [
     "prof": "JOSHUA LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -7346,10 +7346,10 @@ var courses_info = [
     "prof": "LE PHUONG ANH (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -7358,10 +7358,10 @@ var courses_info = [
     "prof": "LE PHUONG ANH (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -7370,10 +7370,10 @@ var courses_info = [
     "prof": "LE PHUONG ANH (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -7382,10 +7382,10 @@ var courses_info = [
     "prof": "LE PHUONG ANH (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -7394,10 +7394,10 @@ var courses_info = [
     "prof": "KERRIN FELIX BURNELL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7406,10 +7406,10 @@ var courses_info = [
     "prof": "KERRIN FELIX BURNELL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7418,10 +7418,10 @@ var courses_info = [
     "prof": "HUGHES KIMBERLY SUE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7430,10 +7430,10 @@ var courses_info = [
     "prof": "HUGHES KIMBERLY SUE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7442,10 +7442,10 @@ var courses_info = [
     "prof": "HUGHES KIMBERLY SUE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7454,10 +7454,10 @@ var courses_info = [
     "prof": "HUGHES KIMBERLY SUE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7466,10 +7466,10 @@ var courses_info = [
     "prof": "RICARDO FRANCO RIBEIRO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7478,10 +7478,10 @@ var courses_info = [
     "prof": "RICARDO FRANCO RIBEIRO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7490,10 +7490,10 @@ var courses_info = [
     "prof": "LEONG NGA UT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7502,10 +7502,10 @@ var courses_info = [
     "prof": "LEONG NGA UT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7514,10 +7514,10 @@ var courses_info = [
     "prof": "KUOK CHI MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7526,10 +7526,10 @@ var courses_info = [
     "prof": "KUOK CHI MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7538,10 +7538,10 @@ var courses_info = [
     "prof": "HUGHES KIMBERLY SUE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7550,10 +7550,10 @@ var courses_info = [
     "prof": "HUGHES KIMBERLY SUE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7562,10 +7562,10 @@ var courses_info = [
     "prof": "LEONG NGA UT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7574,10 +7574,10 @@ var courses_info = [
     "prof": "LEONG NGA UT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7586,10 +7586,10 @@ var courses_info = [
     "prof": "KUOK CHI MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7598,10 +7598,10 @@ var courses_info = [
     "prof": "KUOK CHI MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7610,10 +7610,10 @@ var courses_info = [
     "prof": "HUGHES KIMBERLY SUE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7622,10 +7622,10 @@ var courses_info = [
     "prof": "HUGHES KIMBERLY SUE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7634,10 +7634,10 @@ var courses_info = [
     "prof": "ZHUO QIONGYAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7646,10 +7646,10 @@ var courses_info = [
     "prof": "ZHUO QIONGYAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7658,10 +7658,10 @@ var courses_info = [
     "prof": "KUOK CHI MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7670,10 +7670,10 @@ var courses_info = [
     "prof": "KUOK CHI MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7682,10 +7682,10 @@ var courses_info = [
     "prof": "RICARDO FRANCO RIBEIRO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7694,10 +7694,10 @@ var courses_info = [
     "prof": "RICARDO FRANCO RIBEIRO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7706,10 +7706,10 @@ var courses_info = [
     "prof": "TOU CHI WAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7718,10 +7718,10 @@ var courses_info = [
     "prof": "TOU CHI WAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7730,10 +7730,10 @@ var courses_info = [
     "prof": "TOU CHI WAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7742,10 +7742,10 @@ var courses_info = [
     "prof": "TOU CHI WAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7754,10 +7754,10 @@ var courses_info = [
     "prof": "RICARDO FRANCO RIBEIRO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7766,10 +7766,10 @@ var courses_info = [
     "prof": "RICARDO FRANCO RIBEIRO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7778,10 +7778,10 @@ var courses_info = [
     "prof": "KERRIN FELIX BURNELL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7790,10 +7790,10 @@ var courses_info = [
     "prof": "KERRIN FELIX BURNELL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7802,10 +7802,10 @@ var courses_info = [
     "prof": "LEONG NGA UT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7814,10 +7814,10 @@ var courses_info = [
     "prof": "LEONG NGA UT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7826,10 +7826,10 @@ var courses_info = [
     "prof": "JOSHUA LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7838,10 +7838,10 @@ var courses_info = [
     "prof": "JOSHUA LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4034",
     "host": "FAH-ELC"
   },
   {
@@ -7850,10 +7850,10 @@ var courses_info = [
     "prof": "KEVIN MICHAEL MAHER (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7862,10 +7862,10 @@ var courses_info = [
     "prof": "KEVIN MICHAEL MAHER (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -7874,10 +7874,10 @@ var courses_info = [
     "prof": "KUOK CHI MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7886,10 +7886,10 @@ var courses_info = [
     "prof": "KUOK CHI MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7898,10 +7898,10 @@ var courses_info = [
     "prof": "KUOK CHI MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-3055",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -7910,10 +7910,10 @@ var courses_info = [
     "prof": "KUOK CHI MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-3055",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-3055",
     "host": "FAH-ELC"
   },
   {
@@ -7922,10 +7922,10 @@ var courses_info = [
     "prof": "LEONG NGA UT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7934,10 +7934,10 @@ var courses_info = [
     "prof": "LEONG NGA UT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4033",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4033",
     "host": "FAH-ELC"
   },
   {
@@ -7946,10 +7946,10 @@ var courses_info = [
     "prof": "ALICE SHU-JU LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -7958,10 +7958,10 @@ var courses_info = [
     "prof": "ALICE SHU-JU LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -7970,10 +7970,10 @@ var courses_info = [
     "prof": "ALICE SHU-JU LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -7982,10 +7982,10 @@ var courses_info = [
     "prof": "ALICE SHU-JU LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -7994,10 +7994,10 @@ var courses_info = [
     "prof": "SEAN WILLIAM GRANT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8006,10 +8006,10 @@ var courses_info = [
     "prof": "SEAN WILLIAM GRANT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8018,10 +8018,10 @@ var courses_info = [
     "prof": "SEAN WILLIAM GRANT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8030,10 +8030,10 @@ var courses_info = [
     "prof": "SEAN WILLIAM GRANT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8042,10 +8042,10 @@ var courses_info = [
     "prof": "SEAN WILLIAM GRANT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8054,10 +8054,10 @@ var courses_info = [
     "prof": "SEAN WILLIAM GRANT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8066,10 +8066,10 @@ var courses_info = [
     "prof": "SEAN WILLIAM GRANT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8078,10 +8078,10 @@ var courses_info = [
     "prof": "SEAN WILLIAM GRANT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8090,10 +8090,10 @@ var courses_info = [
     "prof": "MA SIN I MIRANDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8102,10 +8102,10 @@ var courses_info = [
     "prof": "MA SIN I MIRANDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8114,10 +8114,10 @@ var courses_info = [
     "prof": "MA SIN I MIRANDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8126,10 +8126,10 @@ var courses_info = [
     "prof": "MA SIN I MIRANDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8138,10 +8138,10 @@ var courses_info = [
     "prof": "GAO GE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8150,10 +8150,10 @@ var courses_info = [
     "prof": "GAO GE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8162,10 +8162,10 @@ var courses_info = [
     "prof": "GAO GE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8174,10 +8174,10 @@ var courses_info = [
     "prof": "GAO GE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8186,10 +8186,10 @@ var courses_info = [
     "prof": "KERRIN FELIX BURNELL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -8198,10 +8198,10 @@ var courses_info = [
     "prof": "KERRIN FELIX BURNELL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -8210,10 +8210,10 @@ var courses_info = [
     "prof": "SUMIKO ITO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8222,10 +8222,10 @@ var courses_info = [
     "prof": "SUMIKO ITO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8234,10 +8234,10 @@ var courses_info = [
     "prof": "KERRIN FELIX BURNELL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -8246,10 +8246,10 @@ var courses_info = [
     "prof": "KERRIN FELIX BURNELL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -8258,10 +8258,10 @@ var courses_info = [
     "prof": "SUMIKO ITO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8270,10 +8270,10 @@ var courses_info = [
     "prof": "SUMIKO ITO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-2043",
     "host": "FAH-ELC"
   },
   {
@@ -8282,10 +8282,10 @@ var courses_info = [
     "prof": "GAO GE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8294,10 +8294,10 @@ var courses_info = [
     "prof": "GAO GE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4035",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4035",
     "host": "FAH-ELC"
   },
   {
@@ -8306,10 +8306,10 @@ var courses_info = [
     "prof": "GAO GE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8318,10 +8318,10 @@ var courses_info = [
     "prof": "GAO GE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8330,10 +8330,10 @@ var courses_info = [
     "prof": "HUGO ALEXANDRE MARQUES TEIXEIRA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8342,10 +8342,10 @@ var courses_info = [
     "prof": "HUGO ALEXANDRE MARQUES TEIXEIRA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8354,10 +8354,10 @@ var courses_info = [
     "prof": "RICARDO FRANCO RIBEIRO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8366,10 +8366,10 @@ var courses_info = [
     "prof": "RICARDO FRANCO RIBEIRO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8378,10 +8378,10 @@ var courses_info = [
     "prof": "HUGO ALEXANDRE MARQUES TEIXEIRA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8390,10 +8390,10 @@ var courses_info = [
     "prof": "HUGO ALEXANDRE MARQUES TEIXEIRA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8402,10 +8402,10 @@ var courses_info = [
     "prof": "RICARDO FRANCO RIBEIRO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8414,10 +8414,10 @@ var courses_info = [
     "prof": "RICARDO FRANCO RIBEIRO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8426,10 +8426,10 @@ var courses_info = [
     "prof": "MA SIN I MIRANDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8438,10 +8438,10 @@ var courses_info = [
     "prof": "MA SIN I MIRANDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8450,10 +8450,10 @@ var courses_info = [
     "prof": "MA SIN I MIRANDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8462,10 +8462,10 @@ var courses_info = [
     "prof": "MA SIN I MIRANDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8474,10 +8474,10 @@ var courses_info = [
     "prof": "ALICE SHU-JU LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8486,10 +8486,10 @@ var courses_info = [
     "prof": "ALICE SHU-JU LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8498,10 +8498,10 @@ var courses_info = [
     "prof": "ALICE SHU-JU LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8510,10 +8510,10 @@ var courses_info = [
     "prof": "ALICE SHU-JU LEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-3034",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-3034",
     "host": "FAH-ELC"
   },
   {
@@ -8522,10 +8522,10 @@ var courses_info = [
     "prof": "CHEN HOI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-2102",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8534,10 +8534,10 @@ var courses_info = [
     "prof": "CHEN HOI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-2102",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8546,10 +8546,10 @@ var courses_info = [
     "prof": "CHEN HOI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-2102",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8558,10 +8558,10 @@ var courses_info = [
     "prof": "CHEN HOI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-2102",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8570,10 +8570,10 @@ var courses_info = [
     "prof": "CHEN HOI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-2102",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8582,10 +8582,10 @@ var courses_info = [
     "prof": "CHEN HOI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-2102",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8594,10 +8594,10 @@ var courses_info = [
     "prof": "CHEN HOI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-2102",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8606,10 +8606,10 @@ var courses_info = [
     "prof": "CHEN HOI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-2102",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-2102",
     "host": "FAH-ELC"
   },
   {
@@ -8618,10 +8618,10 @@ var courses_info = [
     "prof": "KEVIN MICHAEL MAHER (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -8630,10 +8630,10 @@ var courses_info = [
     "prof": "KEVIN MICHAEL MAHER (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -8642,10 +8642,10 @@ var courses_info = [
     "prof": "KEVIN MICHAEL MAHER (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -8654,10 +8654,10 @@ var courses_info = [
     "prof": "KEVIN MICHAEL MAHER (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E4-3053",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E4-3053",
     "host": "FAH-ELC"
   },
   {
@@ -8666,10 +8666,10 @@ var courses_info = [
     "prof": "KEVIN MICHAEL MAHER (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -8678,10 +8678,10 @@ var courses_info = [
     "prof": "KEVIN MICHAEL MAHER (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -8690,10 +8690,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -8702,10 +8702,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "11:50",
-    "venue": "E4-G060",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "11:50",
+    "remark": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -8714,10 +8714,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -8726,10 +8726,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:20",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:20",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -8738,10 +8738,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "10:50",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "10:50",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8750,10 +8750,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:30",
-    "end": "11:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "10:30",
+    "venue": "11:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -8762,10 +8762,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "11:50",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "11:50",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8774,10 +8774,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -8786,10 +8786,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8798,10 +8798,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "12:30",
-    "end": "13:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "12:30",
+    "venue": "13:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -8810,10 +8810,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "13:50",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "13:50",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8822,10 +8822,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:30",
-    "end": "14:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "13:30",
+    "venue": "14:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -8834,10 +8834,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "14:50",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "14:50",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8846,10 +8846,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -8858,10 +8858,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:00",
-    "end": "15:50",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "15:50",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8870,10 +8870,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:30",
-    "end": "16:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "15:30",
+    "venue": "16:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -8882,10 +8882,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "16:50",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "16:50",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8894,10 +8894,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "10:50",
-    "venue": "E4-G067",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "10:50",
+    "remark": "E4-G067",
     "host": "FAH-ELC"
   },
   {
@@ -8906,10 +8906,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "10:50",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "10:50",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -8918,10 +8918,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "10:50",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "10:50",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -8930,10 +8930,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "10:50",
-    "venue": "E4-G060",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "10:50",
+    "remark": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -8942,10 +8942,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:30",
-    "end": "11:20",
-    "venue": "E4-G070",
-    "remark": "",
+    "start": "",
+    "end": "10:30",
+    "venue": "11:20",
+    "remark": "E4-G070",
     "host": "FAH-ELC"
   },
   {
@@ -8954,10 +8954,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:30",
-    "end": "11:20",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "10:30",
+    "venue": "11:20",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -8966,10 +8966,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:30",
-    "end": "11:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "10:30",
+    "venue": "11:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -8978,10 +8978,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:30",
-    "end": "11:20",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "10:30",
+    "venue": "11:20",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -8990,10 +8990,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "11:50",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "11:50",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -9002,10 +9002,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "11:50",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "11:50",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -9014,10 +9014,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "11:50",
-    "venue": "E3-2032",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "11:50",
+    "remark": "E3-2032",
     "host": "FAH-ELC"
   },
   {
@@ -9026,10 +9026,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "11:50",
-    "venue": "E4-G067",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "11:50",
+    "remark": "E4-G067",
     "host": "FAH-ELC"
   },
   {
@@ -9038,10 +9038,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:20",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:20",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -9050,10 +9050,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9062,10 +9062,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:20",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:20",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9074,10 +9074,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:20",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:20",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -9086,10 +9086,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E4-G070",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E4-G070",
     "host": "FAH-ELC"
   },
   {
@@ -9098,10 +9098,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E4-G067",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E4-G067",
     "host": "FAH-ELC"
   },
   {
@@ -9110,10 +9110,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E4-G060",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -9122,10 +9122,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -9134,10 +9134,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "12:30",
-    "end": "13:20",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "12:30",
+    "venue": "13:20",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9146,10 +9146,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "12:30",
-    "end": "13:20",
-    "venue": "E3-3042",
-    "remark": "",
+    "start": "",
+    "end": "12:30",
+    "venue": "13:20",
+    "remark": "E3-3042",
     "host": "FAH-ELC"
   },
   {
@@ -9158,10 +9158,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "12:30",
-    "end": "13:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "12:30",
+    "venue": "13:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9170,10 +9170,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "12:30",
-    "end": "13:20",
-    "venue": "E3-3044",
-    "remark": "",
+    "start": "",
+    "end": "12:30",
+    "venue": "13:20",
+    "remark": "E3-3044",
     "host": "FAH-ELC"
   },
   {
@@ -9182,10 +9182,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "13:50",
-    "venue": "E4-G060",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "13:50",
+    "remark": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -9194,10 +9194,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "13:50",
-    "venue": "E4-G067",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "13:50",
+    "remark": "E4-G067",
     "host": "FAH-ELC"
   },
   {
@@ -9206,10 +9206,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "13:50",
-    "venue": "E3-3041",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "13:50",
+    "remark": "E3-3041",
     "host": "FAH-ELC"
   },
   {
@@ -9218,10 +9218,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:30",
-    "end": "14:20",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "13:30",
+    "venue": "14:20",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9230,10 +9230,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:30",
-    "end": "14:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "13:30",
+    "venue": "14:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9242,10 +9242,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:30",
-    "end": "14:20",
-    "venue": "E4-G070",
-    "remark": "",
+    "start": "",
+    "end": "13:30",
+    "venue": "14:20",
+    "remark": "E4-G070",
     "host": "FAH-ELC"
   },
   {
@@ -9254,10 +9254,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "14:50",
-    "venue": "E4-G060",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "14:50",
+    "remark": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -9266,10 +9266,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "14:50",
-    "venue": "E4-G067",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "14:50",
+    "remark": "E4-G067",
     "host": "FAH-ELC"
   },
   {
@@ -9278,10 +9278,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "14:50",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "14:50",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -9290,10 +9290,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:20",
-    "venue": "E4-G070",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:20",
+    "remark": "E4-G070",
     "host": "FAH-ELC"
   },
   {
@@ -9302,10 +9302,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:20",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:20",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9314,10 +9314,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9326,10 +9326,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:00",
-    "end": "15:50",
-    "venue": "E4-G060",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "15:50",
+    "remark": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -9338,10 +9338,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:00",
-    "end": "15:50",
-    "venue": "E4-G067",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "15:50",
+    "remark": "E4-G067",
     "host": "FAH-ELC"
   },
   {
@@ -9350,10 +9350,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:00",
-    "end": "15:50",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "15:50",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -9362,10 +9362,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:30",
-    "end": "16:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "15:30",
+    "venue": "16:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9374,10 +9374,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:30",
-    "end": "16:20",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "15:30",
+    "venue": "16:20",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9386,10 +9386,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:30",
-    "end": "16:20",
-    "venue": "E4-G070",
-    "remark": "",
+    "start": "",
+    "end": "15:30",
+    "venue": "16:20",
+    "remark": "E4-G070",
     "host": "FAH-ELC"
   },
   {
@@ -9398,10 +9398,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "16:50",
-    "venue": "E4-G060",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "16:50",
+    "remark": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -9410,10 +9410,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "16:50",
-    "venue": "E4-G067",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "16:50",
+    "remark": "E4-G067",
     "host": "FAH-ELC"
   },
   {
@@ -9422,10 +9422,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "16:50",
-    "venue": "E3-1042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "16:50",
+    "remark": "E3-1042",
     "host": "FAH-ELC"
   },
   {
@@ -9434,10 +9434,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "10:50",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "10:50",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9446,10 +9446,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:30",
-    "end": "11:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "10:30",
+    "venue": "11:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9458,10 +9458,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "11:50",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "11:50",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9470,10 +9470,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9482,10 +9482,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9494,10 +9494,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "12:30",
-    "end": "13:20",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "12:30",
+    "venue": "13:20",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9506,10 +9506,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "13:50",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "13:50",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9518,10 +9518,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:30",
-    "end": "14:20",
-    "venue": "E4-G060",
-    "remark": "",
+    "start": "",
+    "end": "13:30",
+    "venue": "14:20",
+    "remark": "E4-G060",
     "host": "FAH-ELC"
   },
   {
@@ -9530,10 +9530,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "14:50",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "14:50",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9542,10 +9542,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:20",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:20",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9554,10 +9554,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:00",
-    "end": "15:50",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "15:50",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9566,10 +9566,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:30",
-    "end": "16:20",
-    "venue": "E4-G058",
-    "remark": "",
+    "start": "",
+    "end": "15:30",
+    "venue": "16:20",
+    "remark": "E4-G058",
     "host": "FAH-ELC"
   },
   {
@@ -9578,10 +9578,10 @@ var courses_info = [
     "prof": "TUTORIAL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "16:50",
-    "venue": "E4-G052",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "16:50",
+    "remark": "E4-G052",
     "host": "FAH-ELC"
   },
   {
@@ -9590,10 +9590,10 @@ var courses_info = [
     "prof": "TCHIANG VAN KAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9602,10 +9602,10 @@ var courses_info = [
     "prof": "TCHIANG VAN KAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9614,10 +9614,10 @@ var courses_info = [
     "prof": "TCHIANG VAN KAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9626,10 +9626,10 @@ var courses_info = [
     "prof": "TCHIANG VAN KAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9638,10 +9638,10 @@ var courses_info = [
     "prof": "CHAI LAI PING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9650,10 +9650,10 @@ var courses_info = [
     "prof": "CHAI LAI PING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9662,10 +9662,10 @@ var courses_info = [
     "prof": "CHAI LAI PING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9674,10 +9674,10 @@ var courses_info = [
     "prof": "CHAI LAI PING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9686,10 +9686,10 @@ var courses_info = [
     "prof": "SAM IENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -9698,10 +9698,10 @@ var courses_info = [
     "prof": "SAM IENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -9710,10 +9710,10 @@ var courses_info = [
     "prof": "CHAN WENG HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -9722,10 +9722,10 @@ var courses_info = [
     "prof": "CHAN WENG HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -9734,10 +9734,10 @@ var courses_info = [
     "prof": "CHAN WENG HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -9746,10 +9746,10 @@ var courses_info = [
     "prof": "CHAN WENG HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -9758,10 +9758,10 @@ var courses_info = [
     "prof": "SAM IENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -9770,10 +9770,10 @@ var courses_info = [
     "prof": "SAM IENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -9782,10 +9782,10 @@ var courses_info = [
     "prof": "SAM IENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -9794,10 +9794,10 @@ var courses_info = [
     "prof": "SAM IENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -9806,10 +9806,10 @@ var courses_info = [
     "prof": "CHEN CAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9818,10 +9818,10 @@ var courses_info = [
     "prof": "CHEN CAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9830,10 +9830,10 @@ var courses_info = [
     "prof": "LIU JIANCHENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-4010",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-4010",
     "host": "FBA-AIM"
   },
   {
@@ -9842,10 +9842,10 @@ var courses_info = [
     "prof": "LIU JIANCHENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-4010",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-4010",
     "host": "FBA-AIM"
   },
   {
@@ -9854,10 +9854,10 @@ var courses_info = [
     "prof": "LIU JIANCHENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9866,10 +9866,10 @@ var courses_info = [
     "prof": "LIU JIANCHENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2017",
     "host": "FBA-AIM"
   },
   {
@@ -9878,10 +9878,10 @@ var courses_info = [
     "prof": "ALEXANDR SVETLICINII (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -9890,10 +9890,10 @@ var courses_info = [
     "prof": "ALEXANDR SVETLICINII (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -9902,10 +9902,10 @@ var courses_info = [
     "prof": "KAN YUT CHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -9914,10 +9914,10 @@ var courses_info = [
     "prof": "KAN YUT CHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -9926,10 +9926,10 @@ var courses_info = [
     "prof": "KAN YUT CHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -9938,10 +9938,10 @@ var courses_info = [
     "prof": "KAN YUT CHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -9950,10 +9950,10 @@ var courses_info = [
     "prof": "CHAI LAI PING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -9962,10 +9962,10 @@ var courses_info = [
     "prof": "CHAI LAI PING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -9974,10 +9974,10 @@ var courses_info = [
     "prof": "CHAN WENG HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -9986,10 +9986,10 @@ var courses_info = [
     "prof": "CHAN WENG HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -9998,10 +9998,10 @@ var courses_info = [
     "prof": "SAM IENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10010,10 +10010,10 @@ var courses_info = [
     "prof": "SAM IENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10022,10 +10022,10 @@ var courses_info = [
     "prof": "SAM IENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10034,10 +10034,10 @@ var courses_info = [
     "prof": "SAM IENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10046,10 +10046,10 @@ var courses_info = [
     "prof": "YUEN CHUN YIP (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10058,10 +10058,10 @@ var courses_info = [
     "prof": "YUEN CHUN YIP (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10070,10 +10070,10 @@ var courses_info = [
     "prof": "TERESA CHU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2015",
     "host": "FBA-AIM"
   },
   {
@@ -10082,10 +10082,10 @@ var courses_info = [
     "prof": "TERESA CHU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2015",
     "host": "FBA-AIM"
   },
   {
@@ -10094,10 +10094,10 @@ var courses_info = [
     "prof": "TERESA CHU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2015",
     "host": "FBA-AIM"
   },
   {
@@ -10106,10 +10106,10 @@ var courses_info = [
     "prof": "TERESA CHU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2015",
     "host": "FBA-AIM"
   },
   {
@@ -10118,10 +10118,10 @@ var courses_info = [
     "prof": "TERESA CHU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2011",
     "host": "FBA-AIM"
   },
   {
@@ -10130,10 +10130,10 @@ var courses_info = [
     "prof": "TERESA CHU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2011",
     "host": "FBA-AIM"
   },
   {
@@ -10142,10 +10142,10 @@ var courses_info = [
     "prof": "HAO RUBIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10154,10 +10154,10 @@ var courses_info = [
     "prof": "HAO RUBIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10166,10 +10166,10 @@ var courses_info = [
     "prof": "LIU MING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10178,10 +10178,10 @@ var courses_info = [
     "prof": "LIU MING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10190,10 +10190,10 @@ var courses_info = [
     "prof": "LAW KIN FUN PHILIP (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -10202,10 +10202,10 @@ var courses_info = [
     "prof": "LAW KIN FUN PHILIP (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -10214,10 +10214,10 @@ var courses_info = [
     "prof": "TCHIANG VAN KAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -10226,10 +10226,10 @@ var courses_info = [
     "prof": "TCHIANG VAN KAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -10238,10 +10238,10 @@ var courses_info = [
     "prof": "JIANG YINGZHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10250,10 +10250,10 @@ var courses_info = [
     "prof": "JIANG YINGZHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10262,10 +10262,10 @@ var courses_info = [
     "prof": "CARLOS NORONHA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10274,10 +10274,10 @@ var courses_info = [
     "prof": "CARLOS NORONHA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10286,10 +10286,10 @@ var courses_info = [
     "prof": "CARLOS NORONHA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10298,10 +10298,10 @@ var courses_info = [
     "prof": "CARLOS NORONHA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10310,10 +10310,10 @@ var courses_info = [
     "prof": "JIAO YIFAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4042",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4042",
     "host": "FBA-AIM"
   },
   {
@@ -10322,10 +10322,10 @@ var courses_info = [
     "prof": "JIAO YIFAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4042",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4042",
     "host": "FBA-AIM"
   },
   {
@@ -10334,10 +10334,10 @@ var courses_info = [
     "prof": "WANG QIAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:15",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:15",
+    "remark": "E3-4043",
     "host": "FBA-AIM"
   },
   {
@@ -10346,10 +10346,10 @@ var courses_info = [
     "prof": "WANG QIAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:15",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:15",
+    "remark": "E3-4043",
     "host": "FBA-AIM"
   },
   {
@@ -10358,10 +10358,10 @@ var courses_info = [
     "prof": "KUAN UN FONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4042",
     "host": "FBA-AIM"
   },
   {
@@ -10370,10 +10370,10 @@ var courses_info = [
     "prof": "KUAN UN FONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4042",
     "host": "FBA-AIM"
   },
   {
@@ -10382,10 +10382,10 @@ var courses_info = [
     "prof": "CHAN WING HAN BRENDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4043",
     "host": "FBA-AIM"
   },
   {
@@ -10394,10 +10394,10 @@ var courses_info = [
     "prof": "CHAN WING HAN BRENDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4043",
     "host": "FBA-AIM"
   },
   {
@@ -10406,10 +10406,10 @@ var courses_info = [
     "prof": "WU IOK KUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10418,10 +10418,10 @@ var courses_info = [
     "prof": "WU IOK KUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10430,10 +10430,10 @@ var courses_info = [
     "prof": "WU IOK KUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1102D",
     "host": "FBA-AIM"
   },
   {
@@ -10442,10 +10442,10 @@ var courses_info = [
     "prof": "WU IOK KUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1102D",
     "host": "FBA-AIM"
   },
   {
@@ -10454,10 +10454,10 @@ var courses_info = [
     "prof": "WU IOK KUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10466,10 +10466,10 @@ var courses_info = [
     "prof": "WU IOK KUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10478,10 +10478,10 @@ var courses_info = [
     "prof": "WU IOK KUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10490,10 +10490,10 @@ var courses_info = [
     "prof": "WU IOK KUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10502,10 +10502,10 @@ var courses_info = [
     "prof": "LAO WUN LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1113A / E6-2092 / E6-2093",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1113A / E6-2092 / E6-2093",
     "host": "FBA-AIM"
   },
   {
@@ -10514,10 +10514,10 @@ var courses_info = [
     "prof": "LAO WUN LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1113A / E6-2092 / E6-2093",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1113A / E6-2092 / E6-2093",
     "host": "FBA-AIM"
   },
   {
@@ -10526,10 +10526,10 @@ var courses_info = [
     "prof": "CHAN WING HAN BRENDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -10538,10 +10538,10 @@ var courses_info = [
     "prof": "CHAN WING HAN BRENDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -10550,10 +10550,10 @@ var courses_info = [
     "prof": "CHAN WING HAN BRENDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -10562,10 +10562,10 @@ var courses_info = [
     "prof": "CHAN WING HAN BRENDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -10574,10 +10574,10 @@ var courses_info = [
     "prof": "CHAN WING HAN BRENDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -10586,10 +10586,10 @@ var courses_info = [
     "prof": "CHAN WING HAN BRENDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -10598,10 +10598,10 @@ var courses_info = [
     "prof": "OUYANG MING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E33-G021",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E33-G021",
     "host": "FBA-AIM"
   },
   {
@@ -10610,10 +10610,10 @@ var courses_info = [
     "prof": "OUYANG MING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E33-G021",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E33-G021",
     "host": "FBA-AIM"
   },
   {
@@ -10622,10 +10622,10 @@ var courses_info = [
     "prof": "LAO WUN LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1113A / E6-2092",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1113A / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -10634,10 +10634,10 @@ var courses_info = [
     "prof": "LAO WUN LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1113A / E6-2092",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1113A / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -10646,10 +10646,10 @@ var courses_info = [
     "prof": "LAO WUN LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1113A / E6-2092",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1113A / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -10658,10 +10658,10 @@ var courses_info = [
     "prof": "LAO WUN LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1113A / E6-2092",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1113A / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -10670,10 +10670,10 @@ var courses_info = [
     "prof": "ZHANG HAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1113A / E6-2092",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1113A / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -10682,10 +10682,10 @@ var courses_info = [
     "prof": "ZHANG HAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1113A / E6-2092",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1113A / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -10694,10 +10694,10 @@ var courses_info = [
     "prof": "LEE CHANG BOON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3045 / E6-3094",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3045 / E6-3094",
     "host": "FBA-AIM"
   },
   {
@@ -10706,10 +10706,10 @@ var courses_info = [
     "prof": "LEE CHANG BOON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-3045 / E6-3094",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-3045 / E6-3094",
     "host": "FBA-AIM"
   },
   {
@@ -10718,10 +10718,10 @@ var courses_info = [
     "prof": "SO MAN SHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10730,10 +10730,10 @@ var courses_info = [
     "prof": "SO MAN SHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10742,10 +10742,10 @@ var courses_info = [
     "prof": "SO MAN SHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10754,10 +10754,10 @@ var courses_info = [
     "prof": "SO MAN SHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10766,10 +10766,10 @@ var courses_info = [
     "prof": "SO MAN SHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -10778,10 +10778,10 @@ var courses_info = [
     "prof": "SO MAN SHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -10790,10 +10790,10 @@ var courses_info = [
     "prof": "SO MAN SHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -10802,10 +10802,10 @@ var courses_info = [
     "prof": "SO MAN SHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -10814,10 +10814,10 @@ var courses_info = [
     "prof": "CHU KUOK KUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10826,10 +10826,10 @@ var courses_info = [
     "prof": "CHU KUOK KUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10838,10 +10838,10 @@ var courses_info = [
     "prof": "KUAN UN FONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10850,10 +10850,10 @@ var courses_info = [
     "prof": "KUAN UN FONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -10862,10 +10862,10 @@ var courses_info = [
     "prof": "WU IOK KUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10874,10 +10874,10 @@ var courses_info = [
     "prof": "WU IOK KUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E6-1113A",
     "host": "FBA-AIM"
   },
   {
@@ -10886,10 +10886,10 @@ var courses_info = [
     "prof": "SAM KIN MENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-G004",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-G004",
     "host": "FBA-AIM"
   },
   {
@@ -10898,10 +10898,10 @@ var courses_info = [
     "prof": "SAM KIN MENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-G004",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-G004",
     "host": "FBA-AIM"
   },
   {
@@ -10910,10 +10910,10 @@ var courses_info = [
     "prof": "LEE CHI MING JIMMY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -10922,10 +10922,10 @@ var courses_info = [
     "prof": "LEE CHI MING JIMMY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -10934,10 +10934,10 @@ var courses_info = [
     "prof": "LEE CHI MING JIMMY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -10946,10 +10946,10 @@ var courses_info = [
     "prof": "LEE CHI MING JIMMY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -10958,10 +10958,10 @@ var courses_info = [
     "prof": "TANG HENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10970,10 +10970,10 @@ var courses_info = [
     "prof": "TANG HENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10982,10 +10982,10 @@ var courses_info = [
     "prof": "TANG HENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -10994,10 +10994,10 @@ var courses_info = [
     "prof": "TANG HENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -11006,10 +11006,10 @@ var courses_info = [
     "prof": "SAM KIN MENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -11018,10 +11018,10 @@ var courses_info = [
     "prof": "SAM KIN MENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -11030,10 +11030,10 @@ var courses_info = [
     "prof": "SAM KIN MENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -11042,10 +11042,10 @@ var courses_info = [
     "prof": "SAM KIN MENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1015",
     "host": "FBA-AIM"
   },
   {
@@ -11054,10 +11054,10 @@ var courses_info = [
     "prof": "KUAN UN FONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -11066,10 +11066,10 @@ var courses_info = [
     "prof": "KUAN UN FONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -11078,10 +11078,10 @@ var courses_info = [
     "prof": "KUAN UN FONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E4-1051",
     "host": "FBA-AIM"
   },
   {
@@ -11090,10 +11090,10 @@ var courses_info = [
     "prof": "KUAN UN FONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E4-1051",
     "host": "FBA-AIM"
   },
   {
@@ -11102,10 +11102,10 @@ var courses_info = [
     "prof": "KUAN UN FONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -11114,10 +11114,10 @@ var courses_info = [
     "prof": "KUAN UN FONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2010",
     "host": "FBA-AIM"
   },
   {
@@ -11126,10 +11126,10 @@ var courses_info = [
     "prof": "WANG QIAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -11138,10 +11138,10 @@ var courses_info = [
     "prof": "WANG QIAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -11150,10 +11150,10 @@ var courses_info = [
     "prof": "LEE CHI MING JIMMY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -11162,10 +11162,10 @@ var courses_info = [
     "prof": "LEE CHI MING JIMMY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1011",
     "host": "FBA-AIM"
   },
   {
@@ -11174,10 +11174,10 @@ var courses_info = [
     "prof": "LEE CHI MING JIMMY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -11186,10 +11186,10 @@ var courses_info = [
     "prof": "LEE CHI MING JIMMY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-1013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-1013",
     "host": "FBA-AIM"
   },
   {
@@ -11198,10 +11198,10 @@ var courses_info = [
     "prof": "LEE CHI MING JIMMY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -11210,10 +11210,10 @@ var courses_info = [
     "prof": "LEE CHI MING JIMMY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-G010",
     "host": "FBA-AIM"
   },
   {
@@ -11222,10 +11222,10 @@ var courses_info = [
     "prof": "JIANG YINGZHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E3-4043 / E6-3094",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E3-4043 / E6-3094",
     "host": "FBA-AIM"
   },
   {
@@ -11234,10 +11234,10 @@ var courses_info = [
     "prof": "JIANG YINGZHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E3-4043 / E6-3094",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E3-4043 / E6-3094",
     "host": "FBA-AIM"
   },
   {
@@ -11246,10 +11246,10 @@ var courses_info = [
     "prof": "VONG PENG CHUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -11258,10 +11258,10 @@ var courses_info = [
     "prof": "VONG PENG CHUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -11270,10 +11270,10 @@ var courses_info = [
     "prof": "VONG PENG CHUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -11282,10 +11282,10 @@ var courses_info = [
     "prof": "VONG PENG CHUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-2013",
     "host": "FBA-AIM"
   },
   {
@@ -11294,10 +11294,10 @@ var courses_info = [
     "prof": "LAO WUN LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-3010 / E6-2092",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-3010 / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -11306,10 +11306,10 @@ var courses_info = [
     "prof": "LAO WUN LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-3010 / E6-2092",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-3010 / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -11318,10 +11318,10 @@ var courses_info = [
     "prof": "LAO WUN LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-3010 / E6-2092",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-3010 / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -11330,10 +11330,10 @@ var courses_info = [
     "prof": "LAO WUN LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-3010 / E6-2092",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-3010 / E6-2092",
     "host": "FBA-AIM"
   },
   {
@@ -11342,10 +11342,10 @@ var courses_info = [
     "prof": "CHEN FEIER (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1102D",
     "host": "FBA-DRTM"
   },
   {
@@ -11354,10 +11354,10 @@ var courses_info = [
     "prof": "CHEN FEIER (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1102D",
     "host": "FBA-DRTM"
   },
   {
@@ -11366,10 +11366,10 @@ var courses_info = [
     "prof": "CHEN FEIER (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-1113A",
     "host": "FBA-DRTM"
   },
   {
@@ -11378,10 +11378,10 @@ var courses_info = [
     "prof": "CHEN FEIER (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-1113A",
     "host": "FBA-DRTM"
   },
   {
@@ -11390,10 +11390,10 @@ var courses_info = [
     "prof": "SO SIU IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-2018",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-2018",
     "host": "FBA-DRTM"
   },
   {
@@ -11402,10 +11402,10 @@ var courses_info = [
     "prof": "SO SIU IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-2018",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-2018",
     "host": "FBA-DRTM"
   },
   {
@@ -11414,10 +11414,10 @@ var courses_info = [
     "prof": "FONG HOC NANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2015",
     "host": "FBA-DRTM"
   },
   {
@@ -11426,10 +11426,10 @@ var courses_info = [
     "prof": "FONG HOC NANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2015",
     "host": "FBA-DRTM"
   },
   {
@@ -11438,10 +11438,10 @@ var courses_info = [
     "prof": "LEI SUT IENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2015",
     "host": "FBA-DRTM"
   },
   {
@@ -11450,10 +11450,10 @@ var courses_info = [
     "prof": "LEI SUT IENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2015",
     "host": "FBA-DRTM"
   },
   {
@@ -11462,10 +11462,10 @@ var courses_info = [
     "prof": "CHARK CHI HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-1011",
     "host": "FBA-DRTM"
   },
   {
@@ -11474,10 +11474,10 @@ var courses_info = [
     "prof": "CHARK CHI HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-1011",
     "host": "FBA-DRTM"
   },
   {
@@ -11486,10 +11486,10 @@ var courses_info = [
     "prof": "HUANG HUILING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E3-1032",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E3-1032",
     "host": "FBA-DRTM"
   },
   {
@@ -11498,10 +11498,10 @@ var courses_info = [
     "prof": "HUANG HUILING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E3-1032",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E3-1032",
     "host": "FBA-DRTM"
   },
   {
@@ -11510,10 +11510,10 @@ var courses_info = [
     "prof": "SO SIU IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-3015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-3015",
     "host": "FBA-DRTM"
   },
   {
@@ -11522,10 +11522,10 @@ var courses_info = [
     "prof": "SO SIU IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-3015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-3015",
     "host": "FBA-DRTM"
   },
   {
@@ -11534,10 +11534,10 @@ var courses_info = [
     "prof": "JA YOUNG CHOE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-G010",
     "host": "FBA-DRTM"
   },
   {
@@ -11546,10 +11546,10 @@ var courses_info = [
     "prof": "JOÃO LORETO ILHÃO MOREIRA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-1011",
     "host": "FBA-DRTM"
   },
   {
@@ -11558,10 +11558,10 @@ var courses_info = [
     "prof": "JOÃO LORETO ILHÃO MOREIRA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-1011",
     "host": "FBA-DRTM"
   },
   {
@@ -11570,10 +11570,10 @@ var courses_info = [
     "prof": "LIU XING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E22-2011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E22-2011",
     "host": "FBA-DRTM"
   },
   {
@@ -11582,10 +11582,10 @@ var courses_info = [
     "prof": "WONG IP KIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E22-3001",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E22-3001",
     "host": "FBA-DRTM"
   },
   {
@@ -11594,10 +11594,10 @@ var courses_info = [
     "prof": "LIU XING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-4020",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-4020",
     "host": "FBA-DRTM"
   },
   {
@@ -11606,10 +11606,10 @@ var courses_info = [
     "prof": "LIU XING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-4020",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-4020",
     "host": "FBA-DRTM"
   },
   {
@@ -11618,10 +11618,10 @@ var courses_info = [
     "prof": "GLENN JAMES MCCARTNEY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-4020",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-4020",
     "host": "FBA-DRTM"
   },
   {
@@ -11630,10 +11630,10 @@ var courses_info = [
     "prof": "GLENN JAMES MCCARTNEY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-4020",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-4020",
     "host": "FBA-DRTM"
   },
   {
@@ -11642,10 +11642,10 @@ var courses_info = [
     "prof": "FONG HOC NANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-3001",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-3001",
     "host": "FBA-DRTM"
   },
   {
@@ -11654,10 +11654,10 @@ var courses_info = [
     "prof": "FONG HOC NANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-3001",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-3001",
     "host": "FBA-DRTM"
   },
   {
@@ -11666,10 +11666,10 @@ var courses_info = [
     "prof": "LI MIAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2018",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2018",
     "host": "FBA-DRTM"
   },
   {
@@ -11678,10 +11678,10 @@ var courses_info = [
     "prof": "LI MIAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2018",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2018",
     "host": "FBA-DRTM"
   },
   {
@@ -11690,10 +11690,10 @@ var courses_info = [
     "prof": "HUANG HUILING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E3-2043 / E6-3093",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E3-2043 / E6-3093",
     "host": "FBA-DRTM"
   },
   {
@@ -11702,10 +11702,10 @@ var courses_info = [
     "prof": "HOU YUANSI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2018",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2018",
     "host": "FBA-DRTM"
   },
   {
@@ -11714,10 +11714,10 @@ var courses_info = [
     "prof": "HOU YUANSI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2018",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2018",
     "host": "FBA-DRTM"
   },
   {
@@ -11726,10 +11726,10 @@ var courses_info = [
     "prof": "ZHANG YANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E22-2013",
     "host": "FBA-FBE"
   },
   {
@@ -11738,10 +11738,10 @@ var courses_info = [
     "prof": "ZHANG YANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E22-2013",
     "host": "FBA-FBE"
   },
   {
@@ -11750,10 +11750,10 @@ var courses_info = [
     "prof": "ZHANG YANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2013",
     "host": "FBA-FBE"
   },
   {
@@ -11762,10 +11762,10 @@ var courses_info = [
     "prof": "ZHANG YANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2013",
     "host": "FBA-FBE"
   },
   {
@@ -11774,10 +11774,10 @@ var courses_info = [
     "prof": "TAM PUI SUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2017",
     "host": "FBA-FBE"
   },
   {
@@ -11786,10 +11786,10 @@ var courses_info = [
     "prof": "TAM PUI SUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2017",
     "host": "FBA-FBE"
   },
   {
@@ -11798,10 +11798,10 @@ var courses_info = [
     "prof": "SI TOU SIO TAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11810,10 +11810,10 @@ var courses_info = [
     "prof": "SI TOU SIO TAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11822,10 +11822,10 @@ var courses_info = [
     "prof": "SI TOU SIO TAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11834,10 +11834,10 @@ var courses_info = [
     "prof": "SI TOU SIO TAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11846,10 +11846,10 @@ var courses_info = [
     "prof": "SI TOU SIO TAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11858,10 +11858,10 @@ var courses_info = [
     "prof": "SI TOU SIO TAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11870,10 +11870,10 @@ var courses_info = [
     "prof": "SI TOU SIO TAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11882,10 +11882,10 @@ var courses_info = [
     "prof": "SI TOU SIO TAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11894,10 +11894,10 @@ var courses_info = [
     "prof": "SI TOU SIO TAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E33-G021",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E33-G021",
     "host": "FBA-FBE"
   },
   {
@@ -11906,10 +11906,10 @@ var courses_info = [
     "prof": "SI TOU SIO TAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E33-G021",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E33-G021",
     "host": "FBA-FBE"
   },
   {
@@ -11918,10 +11918,10 @@ var courses_info = [
     "prof": "LI SHAO ZHI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11930,10 +11930,10 @@ var courses_info = [
     "prof": "LI SHAO ZHI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11942,10 +11942,10 @@ var courses_info = [
     "prof": "QIAO ZHUO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11954,10 +11954,10 @@ var courses_info = [
     "prof": "QIAO ZHUO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -11966,10 +11966,10 @@ var courses_info = [
     "prof": "LEI CHUN KWOK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-4005",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-4005",
     "host": "FBA-FBE"
   },
   {
@@ -11978,10 +11978,10 @@ var courses_info = [
     "prof": "LEI CHUN KWOK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-4005",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-4005",
     "host": "FBA-FBE"
   },
   {
@@ -11990,10 +11990,10 @@ var courses_info = [
     "prof": "QIAO ZHUO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-1002",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-1002",
     "host": "FBA-FBE"
   },
   {
@@ -12002,10 +12002,10 @@ var courses_info = [
     "prof": "QIAO ZHUO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-1002",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-1002",
     "host": "FBA-FBE"
   },
   {
@@ -12014,10 +12014,10 @@ var courses_info = [
     "prof": "LI GUOQIANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2017",
     "host": "FBA-FBE"
   },
   {
@@ -12026,10 +12026,10 @@ var courses_info = [
     "prof": "LI GUOQIANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2017",
     "host": "FBA-FBE"
   },
   {
@@ -12038,10 +12038,10 @@ var courses_info = [
     "prof": "YUAN JIA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E22-3007",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E22-3007",
     "host": "FBA-FBE"
   },
   {
@@ -12050,10 +12050,10 @@ var courses_info = [
     "prof": "TAM PUI SUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E22-2002",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E22-2002",
     "host": "FBA-FBE"
   },
   {
@@ -12062,10 +12062,10 @@ var courses_info = [
     "prof": "SIU RICARDO CHI SEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-4005",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-4005",
     "host": "FBA-FBE"
   },
   {
@@ -12074,10 +12074,10 @@ var courses_info = [
     "prof": "SIU RICARDO CHI SEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-4005",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-4005",
     "host": "FBA-FBE"
   },
   {
@@ -12086,10 +12086,10 @@ var courses_info = [
     "prof": "ZHANG CHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-4010",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-4010",
     "host": "FBA-FBE"
   },
   {
@@ -12098,10 +12098,10 @@ var courses_info = [
     "prof": "ZHANG CHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-4010",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-4010",
     "host": "FBA-FBE"
   },
   {
@@ -12110,10 +12110,10 @@ var courses_info = [
     "prof": "SIU RICARDO CHI SEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2011",
     "host": "FBA-FBE"
   },
   {
@@ -12122,10 +12122,10 @@ var courses_info = [
     "prof": "SIU RICARDO CHI SEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2011",
     "host": "FBA-FBE"
   },
   {
@@ -12134,10 +12134,10 @@ var courses_info = [
     "prof": "LI SHAO ZHI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-2015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-2015",
     "host": "FBA-FBE"
   },
   {
@@ -12146,10 +12146,10 @@ var courses_info = [
     "prof": "VONG POU IU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-2010",
     "host": "FBA-FBE"
   },
   {
@@ -12158,10 +12158,10 @@ var courses_info = [
     "prof": "VONG POU IU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-2010",
     "host": "FBA-FBE"
   },
   {
@@ -12170,10 +12170,10 @@ var courses_info = [
     "prof": "VONG POU IU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-1002",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-1002",
     "host": "FBA-FBE"
   },
   {
@@ -12182,10 +12182,10 @@ var courses_info = [
     "prof": "VONG POU IU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-1002",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-1002",
     "host": "FBA-FBE"
   },
   {
@@ -12194,10 +12194,10 @@ var courses_info = [
     "prof": "VONG POU IU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-4015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-4015",
     "host": "FBA-FBE"
   },
   {
@@ -12206,10 +12206,10 @@ var courses_info = [
     "prof": "VONG POU IU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-4015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-4015",
     "host": "FBA-FBE"
   },
   {
@@ -12218,10 +12218,10 @@ var courses_info = [
     "prof": "VONG POU IU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-4015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-4015",
     "host": "FBA-FBE"
   },
   {
@@ -12230,10 +12230,10 @@ var courses_info = [
     "prof": "VONG POU IU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-4015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-4015",
     "host": "FBA-FBE"
   },
   {
@@ -12242,10 +12242,10 @@ var courses_info = [
     "prof": "SUN WENYI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-2013",
     "host": "FBA-FBE"
   },
   {
@@ -12254,10 +12254,10 @@ var courses_info = [
     "prof": "SUN WENYI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-2013",
     "host": "FBA-FBE"
   },
   {
@@ -12266,10 +12266,10 @@ var courses_info = [
     "prof": "LIU XIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-1002",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-1002",
     "host": "FBA-FBE"
   },
   {
@@ -12278,10 +12278,10 @@ var courses_info = [
     "prof": "LIU XIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-1002",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-1002",
     "host": "FBA-FBE"
   },
   {
@@ -12290,10 +12290,10 @@ var courses_info = [
     "prof": "LIU XIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-4010",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-4010",
     "host": "FBA-FBE"
   },
   {
@@ -12302,10 +12302,10 @@ var courses_info = [
     "prof": "LIU XIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-4010",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-4010",
     "host": "FBA-FBE"
   },
   {
@@ -12314,10 +12314,10 @@ var courses_info = [
     "prof": "SUN WENYI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-1015",
     "host": "FBA-FBE"
   },
   {
@@ -12326,10 +12326,10 @@ var courses_info = [
     "prof": "SUN WENYI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-1015",
     "host": "FBA-FBE"
   },
   {
@@ -12338,10 +12338,10 @@ var courses_info = [
     "prof": "TAM HON KEUNG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-1015",
     "host": "FBA-FBE"
   },
   {
@@ -12350,10 +12350,10 @@ var courses_info = [
     "prof": "TAM HON KEUNG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-1015",
     "host": "FBA-FBE"
   },
   {
@@ -12362,10 +12362,10 @@ var courses_info = [
     "prof": "ZENG JIAQING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1052",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1052",
     "host": "FBA-FBE"
   },
   {
@@ -12374,10 +12374,10 @@ var courses_info = [
     "prof": "ZENG JIAQING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1052",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1052",
     "host": "FBA-FBE"
   },
   {
@@ -12386,10 +12386,10 @@ var courses_info = [
     "prof": "LI JIE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -12398,10 +12398,10 @@ var courses_info = [
     "prof": "LI JIE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-G010",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-G010",
     "host": "FBA-FBE"
   },
   {
@@ -12410,10 +12410,10 @@ var courses_info = [
     "prof": "LI JIE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E33-G021",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E33-G021",
     "host": "FBA-FBE"
   },
   {
@@ -12422,10 +12422,10 @@ var courses_info = [
     "prof": "LI JIE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E33-G021",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E33-G021",
     "host": "FBA-FBE"
   },
   {
@@ -12434,10 +12434,10 @@ var courses_info = [
     "prof": "YANG ENDONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E22-4004",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E22-4004",
     "host": "FBA-FBE"
   },
   {
@@ -12446,10 +12446,10 @@ var courses_info = [
     "prof": "YANG ENDONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-2017",
     "host": "FBA-FBE"
   },
   {
@@ -12458,10 +12458,10 @@ var courses_info = [
     "prof": "QUE TINGTING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E33-G021",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E33-G021",
     "host": "FBA-FBE"
   },
   {
@@ -12470,10 +12470,10 @@ var courses_info = [
     "prof": "REN JINJUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E22-2002",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E22-2002",
     "host": "FBA-FBE"
   },
   {
@@ -12482,10 +12482,10 @@ var courses_info = [
     "prof": "CHU XIAOLING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E22-4005",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E22-4005",
     "host": "FBA-FBE"
   },
   {
@@ -12494,10 +12494,10 @@ var courses_info = [
     "prof": "QUE TINGTING / VONG POU IU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-1011",
     "host": "FBA-FBE"
   },
   {
@@ -12506,10 +12506,10 @@ var courses_info = [
     "prof": "QUE TINGTING / VONG POU IU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-1011",
     "host": "FBA-FBE"
   },
   {
@@ -12518,10 +12518,10 @@ var courses_info = [
     "prof": "MA XIAORONG / YANG ENDONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-G004",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-G004",
     "host": "FBA-FBE"
   },
   {
@@ -12530,10 +12530,10 @@ var courses_info = [
     "prof": "MA XIAORONG / YANG ENDONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-G004",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-G004",
     "host": "FBA-FBE"
   },
   {
@@ -12542,10 +12542,10 @@ var courses_info = [
     "prof": "QIN ZHENJIANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E22-3009",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E22-3009",
     "host": "FBA-FBE"
   },
   {
@@ -12554,10 +12554,10 @@ var courses_info = [
     "prof": "ZHANG YANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-1051",
     "host": "FBA-FBE"
   },
   {
@@ -12566,10 +12566,10 @@ var courses_info = [
     "prof": "ZHANG YANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-1051",
     "host": "FBA-FBE"
   },
   {
@@ -12578,10 +12578,10 @@ var courses_info = [
     "prof": "ZHAO SHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1102D",
     "host": "FBA-FBE"
   },
   {
@@ -12590,10 +12590,10 @@ var courses_info = [
     "prof": "ZHAO SHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1102D",
     "host": "FBA-FBE"
   },
   {
@@ -12602,10 +12602,10 @@ var courses_info = [
     "prof": "CHANTHIKA PORNPITAKPAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-2043",
     "host": "FBA-MMI"
   },
   {
@@ -12614,10 +12614,10 @@ var courses_info = [
     "prof": "CHANTHIKA PORNPITAKPAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-2043",
     "host": "FBA-MMI"
   },
   {
@@ -12626,10 +12626,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12638,10 +12638,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12650,10 +12650,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12662,10 +12662,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12674,10 +12674,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12686,10 +12686,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12698,10 +12698,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12710,10 +12710,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12722,10 +12722,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12734,10 +12734,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12746,10 +12746,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12758,10 +12758,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12770,10 +12770,10 @@ var courses_info = [
     "prof": "ZHAO NA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12782,10 +12782,10 @@ var courses_info = [
     "prof": "ZHAO NA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12794,10 +12794,10 @@ var courses_info = [
     "prof": "ZHAO NA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12806,10 +12806,10 @@ var courses_info = [
     "prof": "ZHAO NA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12818,10 +12818,10 @@ var courses_info = [
     "prof": "ZHAO NA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12830,10 +12830,10 @@ var courses_info = [
     "prof": "ZHAO NA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12842,10 +12842,10 @@ var courses_info = [
     "prof": "ZHAO NA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12854,10 +12854,10 @@ var courses_info = [
     "prof": "ZHAO NA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12866,10 +12866,10 @@ var courses_info = [
     "prof": "ZHAO NA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12878,10 +12878,10 @@ var courses_info = [
     "prof": "ZHAO NA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12890,10 +12890,10 @@ var courses_info = [
     "prof": "ZHAO NA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12902,10 +12902,10 @@ var courses_info = [
     "prof": "ZHAO NA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12914,10 +12914,10 @@ var courses_info = [
     "prof": "LEUNG KHALILIAN ROSE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12926,10 +12926,10 @@ var courses_info = [
     "prof": "LEUNG KHALILIAN ROSE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1102C",
     "host": "FBA-MMI"
   },
   {
@@ -12938,10 +12938,10 @@ var courses_info = [
     "prof": "LEUNG KHALILIAN ROSE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12950,10 +12950,10 @@ var courses_info = [
     "prof": "LEUNG KHALILIAN ROSE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1113B",
     "host": "FBA-MMI"
   },
   {
@@ -12962,10 +12962,10 @@ var courses_info = [
     "prof": "LEUNG KHALILIAN ROSE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12974,10 +12974,10 @@ var courses_info = [
     "prof": "LEUNG KHALILIAN ROSE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-G053",
     "host": "FBA-MMI"
   },
   {
@@ -12986,10 +12986,10 @@ var courses_info = [
     "prof": "ZHANG LIWEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4032",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4032",
     "host": "FBA-MMI"
   },
   {
@@ -12998,10 +12998,10 @@ var courses_info = [
     "prof": "ZHANG LIWEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4032",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4032",
     "host": "FBA-MMI"
   },
   {
@@ -13010,10 +13010,10 @@ var courses_info = [
     "prof": "JOSEPH ADEA SY-CHANGCO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-1113A",
     "host": "FBA-MMI"
   },
   {
@@ -13022,10 +13022,10 @@ var courses_info = [
     "prof": "JOSEPH ADEA SY-CHANGCO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-1113A",
     "host": "FBA-MMI"
   },
   {
@@ -13034,10 +13034,10 @@ var courses_info = [
     "prof": "JOSEPH ADEA SY-CHANGCO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1102D",
     "host": "FBA-MMI"
   },
   {
@@ -13046,10 +13046,10 @@ var courses_info = [
     "prof": "JOSEPH ADEA SY-CHANGCO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1102D",
     "host": "FBA-MMI"
   },
   {
@@ -13058,10 +13058,10 @@ var courses_info = [
     "prof": "JAVIER CALERO CUERVO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-1011",
     "host": "FBA-MMI"
   },
   {
@@ -13070,10 +13070,10 @@ var courses_info = [
     "prof": "JAVIER CALERO CUERVO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-1011",
     "host": "FBA-MMI"
   },
   {
@@ -13082,10 +13082,10 @@ var courses_info = [
     "prof": "JAVIER CALERO CUERVO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-G015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13094,10 +13094,10 @@ var courses_info = [
     "prof": "JAVIER CALERO CUERVO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-G015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13106,10 +13106,10 @@ var courses_info = [
     "prof": "JAVIER CALERO CUERVO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-G015",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13118,10 +13118,10 @@ var courses_info = [
     "prof": "JAVIER CALERO CUERVO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-G015",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13130,10 +13130,10 @@ var courses_info = [
     "prof": "MAK KA YEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-G015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13142,10 +13142,10 @@ var courses_info = [
     "prof": "MAK KA YEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-G015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13154,10 +13154,10 @@ var courses_info = [
     "prof": "MAK KA YEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-G015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13166,10 +13166,10 @@ var courses_info = [
     "prof": "MAK KA YEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-G015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-G015",
     "host": "FBA-MMI"
   },
   {
@@ -13178,10 +13178,10 @@ var courses_info = [
     "prof": "KRAIVIN PARIPONT CHINTAKANANDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-1015",
     "host": "FBA-MMI"
   },
   {
@@ -13190,10 +13190,10 @@ var courses_info = [
     "prof": "KRAIVIN PARIPONT CHINTAKANANDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-1015",
     "host": "FBA-MMI"
   },
   {
@@ -13202,10 +13202,10 @@ var courses_info = [
     "prof": "NG SHIU PONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E22-2011",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E22-2011",
     "host": "FBA-MMI"
   },
   {
@@ -13214,10 +13214,10 @@ var courses_info = [
     "prof": "NG SHIU PONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E22-2011",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E22-2011",
     "host": "FBA-MMI"
   },
   {
@@ -13226,10 +13226,10 @@ var courses_info = [
     "prof": "NG SHIU PONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2011",
     "host": "FBA-MMI"
   },
   {
@@ -13238,10 +13238,10 @@ var courses_info = [
     "prof": "NG SHIU PONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2011",
     "host": "FBA-MMI"
   },
   {
@@ -13250,10 +13250,10 @@ var courses_info = [
     "prof": "CHAN SOW HUP (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-3015",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13262,10 +13262,10 @@ var courses_info = [
     "prof": "CHAN SOW HUP (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-3015",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13274,10 +13274,10 @@ var courses_info = [
     "prof": "CHAN SOW HUP (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-3015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13286,10 +13286,10 @@ var courses_info = [
     "prof": "CHAN SOW HUP (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-3015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13298,10 +13298,10 @@ var courses_info = [
     "prof": "CHAN SOW HUP (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2018",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13310,10 +13310,10 @@ var courses_info = [
     "prof": "CHAN SOW HUP (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-2018",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13322,10 +13322,10 @@ var courses_info = [
     "prof": "YUKO MOODY MATSUMOTO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2018",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13334,10 +13334,10 @@ var courses_info = [
     "prof": "YUKO MOODY MATSUMOTO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2018",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13346,10 +13346,10 @@ var courses_info = [
     "prof": "YUKO MOODY MATSUMOTO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2018",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13358,10 +13358,10 @@ var courses_info = [
     "prof": "YUKO MOODY MATSUMOTO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2018",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13370,10 +13370,10 @@ var courses_info = [
     "prof": "ZHANG LINGLING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-2018",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13382,10 +13382,10 @@ var courses_info = [
     "prof": "ZHANG LINGLING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-2018",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-2018",
     "host": "FBA-MMI"
   },
   {
@@ -13394,10 +13394,10 @@ var courses_info = [
     "prof": "LIN XIAOWAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-1015",
     "host": "FBA-MMI"
   },
   {
@@ -13406,10 +13406,10 @@ var courses_info = [
     "prof": "LIN XIAOWAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-1015",
     "host": "FBA-MMI"
   },
   {
@@ -13418,10 +13418,10 @@ var courses_info = [
     "prof": "JAVIER CALERO CUERVO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1002",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1002",
     "host": "FBA-MMI"
   },
   {
@@ -13430,10 +13430,10 @@ var courses_info = [
     "prof": "JAVIER CALERO CUERVO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1002",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1002",
     "host": "FBA-MMI"
   },
   {
@@ -13442,10 +13442,10 @@ var courses_info = [
     "prof": "MAK KA YEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-2015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-2015",
     "host": "FBA-MMI"
   },
   {
@@ -13454,10 +13454,10 @@ var courses_info = [
     "prof": "MAK KA YEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-2011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-2011",
     "host": "FBA-MMI"
   },
   {
@@ -13466,10 +13466,10 @@ var courses_info = [
     "prof": "MAK KA YEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-3001",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-3001",
     "host": "FBA-MMI"
   },
   {
@@ -13478,10 +13478,10 @@ var courses_info = [
     "prof": "YU HAITAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E22-3009",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E22-3009",
     "host": "FBA-MMI"
   },
   {
@@ -13490,10 +13490,10 @@ var courses_info = [
     "prof": "YU HAITAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E22-4010",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E22-4010",
     "host": "FBA-MMI"
   },
   {
@@ -13502,10 +13502,10 @@ var courses_info = [
     "prof": "CHANTHIKA PORNPITAKPAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-3015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13514,10 +13514,10 @@ var courses_info = [
     "prof": "CHANTHIKA PORNPITAKPAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-3015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13526,10 +13526,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2015",
     "host": "FBA-MMI"
   },
   {
@@ -13538,10 +13538,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-2015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-2015",
     "host": "FBA-MMI"
   },
   {
@@ -13550,10 +13550,10 @@ var courses_info = [
     "prof": "LOI CHI HO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-3001",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-3001",
     "host": "FBA-MMI"
   },
   {
@@ -13562,10 +13562,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-1102D",
     "host": "FBA-MMI"
   },
   {
@@ -13574,10 +13574,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-1102D",
     "host": "FBA-MMI"
   },
   {
@@ -13586,10 +13586,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2013",
     "host": "FBA-MMI"
   },
   {
@@ -13598,10 +13598,10 @@ var courses_info = [
     "prof": "KUOK OI MEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2013",
     "host": "FBA-MMI"
   },
   {
@@ -13610,10 +13610,10 @@ var courses_info = [
     "prof": "BAI FENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-2017",
     "host": "FBA-MMI"
   },
   {
@@ -13622,10 +13622,10 @@ var courses_info = [
     "prof": "BAI FENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-2017",
     "host": "FBA-MMI"
   },
   {
@@ -13634,10 +13634,10 @@ var courses_info = [
     "prof": "HONG FOK LOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2010",
     "host": "FBA-MMI"
   },
   {
@@ -13646,10 +13646,10 @@ var courses_info = [
     "prof": "HONG FOK LOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2010",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2010",
     "host": "FBA-MMI"
   },
   {
@@ -13658,10 +13658,10 @@ var courses_info = [
     "prof": "LAI YUEN MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E22-3001",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E22-3001",
     "host": "FBA-MMI"
   },
   {
@@ -13670,10 +13670,10 @@ var courses_info = [
     "prof": "HU TIANYOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E22-3009",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E22-3009",
     "host": "FBA-MMI"
   },
   {
@@ -13682,10 +13682,10 @@ var courses_info = [
     "prof": "YUKO MOODY MATSUMOTO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-3015",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13694,10 +13694,10 @@ var courses_info = [
     "prof": "YUKO MOODY MATSUMOTO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-3015",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13706,10 +13706,10 @@ var courses_info = [
     "prof": "LAI YUEN MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E22-4010",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E22-4010",
     "host": "FBA-MMI"
   },
   {
@@ -13718,10 +13718,10 @@ var courses_info = [
     "prof": "MAC VAI IUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2013",
     "host": "FBA-MMI"
   },
   {
@@ -13730,10 +13730,10 @@ var courses_info = [
     "prof": "MAC VAI IUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-2013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-2013",
     "host": "FBA-MMI"
   },
   {
@@ -13742,10 +13742,10 @@ var courses_info = [
     "prof": "MAC VAI IUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-4004",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-4004",
     "host": "FBA-MMI"
   },
   {
@@ -13754,10 +13754,10 @@ var courses_info = [
     "prof": "MAC VAI IUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-4004",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-4004",
     "host": "FBA-MMI"
   },
   {
@@ -13766,10 +13766,10 @@ var courses_info = [
     "prof": "MAC VAI IUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-4004",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-4004",
     "host": "FBA-MMI"
   },
   {
@@ -13778,10 +13778,10 @@ var courses_info = [
     "prof": "MAC VAI IUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-4004",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-4004",
     "host": "FBA-MMI"
   },
   {
@@ -13790,10 +13790,10 @@ var courses_info = [
     "prof": "FU SIU FONG ISABEL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-4010",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-4010",
     "host": "FBA-MMI"
   },
   {
@@ -13802,10 +13802,10 @@ var courses_info = [
     "prof": "FU SIU FONG ISABEL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-4010",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-4010",
     "host": "FBA-MMI"
   },
   {
@@ -13814,10 +13814,10 @@ var courses_info = [
     "prof": "FU SIU FONG ISABEL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1002",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1002",
     "host": "FBA-MMI"
   },
   {
@@ -13826,10 +13826,10 @@ var courses_info = [
     "prof": "FU SIU FONG ISABEL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-1002",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-1002",
     "host": "FBA-MMI"
   },
   {
@@ -13838,10 +13838,10 @@ var courses_info = [
     "prof": "SI KAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2017",
     "host": "FBA-MMI"
   },
   {
@@ -13850,10 +13850,10 @@ var courses_info = [
     "prof": "SI KAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-2017",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-2017",
     "host": "FBA-MMI"
   },
   {
@@ -13862,10 +13862,10 @@ var courses_info = [
     "prof": "CHANTHIKA PORNPITAKPAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-3015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13874,10 +13874,10 @@ var courses_info = [
     "prof": "CHANTHIKA PORNPITAKPAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-3015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13886,10 +13886,10 @@ var courses_info = [
     "prof": "YAN LI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-1015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-1015",
     "host": "FBA-MMI"
   },
   {
@@ -13898,10 +13898,10 @@ var courses_info = [
     "prof": "FU SIU FONG ISABEL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E22-4010",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E22-4010",
     "host": "FBA-MMI"
   },
   {
@@ -13910,10 +13910,10 @@ var courses_info = [
     "prof": "HO YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E22-4010",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E22-4010",
     "host": "FBA-MMI"
   },
   {
@@ -13922,10 +13922,10 @@ var courses_info = [
     "prof": "CHEN FANGYUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-3015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13934,10 +13934,10 @@ var courses_info = [
     "prof": "CHEN FANGYUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-3015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-3015",
     "host": "FBA-MMI"
   },
   {
@@ -13946,10 +13946,10 @@ var courses_info = [
     "prof": "FU SIU FONG ISABEL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-1011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-1011",
     "host": "FBA-MMI"
   },
   {
@@ -13958,10 +13958,10 @@ var courses_info = [
     "prof": "HUI HEUNG CHIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-G028",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-G028",
     "host": "FED"
   },
   {
@@ -13970,10 +13970,10 @@ var courses_info = [
     "prof": "HUI HEUNG CHIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "N8-G028",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "N8-G028",
     "host": "FED"
   },
   {
@@ -13982,10 +13982,10 @@ var courses_info = [
     "prof": "WONG SOI PO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-G001",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-G001",
     "host": "FED"
   },
   {
@@ -13994,10 +13994,10 @@ var courses_info = [
     "prof": "WONG SOI PO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "N8-G001",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "N8-G001",
     "host": "FED"
   },
   {
@@ -14006,10 +14006,10 @@ var courses_info = [
     "prof": "WONG SOI PO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-G001",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-G001",
     "host": "FED"
   },
   {
@@ -14018,10 +14018,10 @@ var courses_info = [
     "prof": "WONG SOI PO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "N8-G001",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "N8-G001",
     "host": "FED"
   },
   {
@@ -14030,10 +14030,10 @@ var courses_info = [
     "prof": "WONG U KEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:30",
-    "end": "15:15",
-    "venue": "N8-G028 / N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "13:30",
+    "venue": "15:15",
+    "remark": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14042,10 +14042,10 @@ var courses_info = [
     "prof": "WONG U KEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:30",
-    "end": "17:15",
-    "venue": "N8-G028 / N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "15:30",
+    "venue": "17:15",
+    "remark": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14054,10 +14054,10 @@ var courses_info = [
     "prof": "WONG U KEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:30",
-    "end": "15:15",
-    "venue": "N8-G028 / N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "13:30",
+    "venue": "15:15",
+    "remark": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14066,10 +14066,10 @@ var courses_info = [
     "prof": "WONG U KEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:30",
-    "end": "17:15",
-    "venue": "N8-G028 / N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "15:30",
+    "venue": "17:15",
+    "remark": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14078,10 +14078,10 @@ var courses_info = [
     "prof": "WONG U KEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-G016",
     "host": "FED"
   },
   {
@@ -14090,10 +14090,10 @@ var courses_info = [
     "prof": "WONG U KEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "N8-G016",
     "host": "FED"
   },
   {
@@ -14102,10 +14102,10 @@ var courses_info = [
     "prof": "LEONG CHI HONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:30",
-    "end": "15:15",
-    "venue": "N8-G028 / N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "13:30",
+    "venue": "15:15",
+    "remark": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14114,10 +14114,10 @@ var courses_info = [
     "prof": "LEONG CHI HONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:30",
-    "end": "17:15",
-    "venue": "N8-G028 / N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "15:30",
+    "venue": "17:15",
+    "remark": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14126,10 +14126,10 @@ var courses_info = [
     "prof": "LEONG HUNG PO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:30",
-    "end": "15:15",
-    "venue": "N8-G028",
-    "remark": "",
+    "start": "",
+    "end": "13:30",
+    "venue": "15:15",
+    "remark": "N8-G028",
     "host": "FED"
   },
   {
@@ -14138,10 +14138,10 @@ var courses_info = [
     "prof": "LEONG HUNG PO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-G028",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-G028",
     "host": "FED"
   },
   {
@@ -14150,10 +14150,10 @@ var courses_info = [
     "prof": "LEONG HUNG PO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "N8-G028",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "N8-G028",
     "host": "FED"
   },
   {
@@ -14162,10 +14162,10 @@ var courses_info = [
     "prof": "CHAU HONG CHENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-G001",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-G001",
     "host": "FED"
   },
   {
@@ -14174,10 +14174,10 @@ var courses_info = [
     "prof": "CHAU HONG CHENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-G001",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-G001",
     "host": "FED"
   },
   {
@@ -14186,10 +14186,10 @@ var courses_info = [
     "prof": "CHAU HONG CHENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "N8-G001",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "N8-G001",
     "host": "FED"
   },
   {
@@ -14198,10 +14198,10 @@ var courses_info = [
     "prof": "IP KUAI WA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "19:15",
-    "venue": "N8-G028",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "19:15",
+    "remark": "N8-G028",
     "host": "FED"
   },
   {
@@ -14210,10 +14210,10 @@ var courses_info = [
     "prof": "IP KUAI WA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:30",
-    "end": "21:15",
-    "venue": "N8-G028",
-    "remark": "",
+    "start": "",
+    "end": "19:30",
+    "venue": "21:15",
+    "remark": "N8-G028",
     "host": "FED"
   },
   {
@@ -14222,10 +14222,10 @@ var courses_info = [
     "prof": "WONG SOI CHEONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "N8-G028",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "N8-G028",
     "host": "FED"
   },
   {
@@ -14234,10 +14234,10 @@ var courses_info = [
     "prof": "WONG SOI CHEONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-G028 / N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14246,10 +14246,10 @@ var courses_info = [
     "prof": "WONG SOI CHEONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "N8-G028 / N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14258,10 +14258,10 @@ var courses_info = [
     "prof": "IAM SZE WAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:30",
-    "end": "21:15",
-    "venue": "N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "19:30",
+    "venue": "21:15",
+    "remark": "N8-G016",
     "host": "FED"
   },
   {
@@ -14270,10 +14270,10 @@ var courses_info = [
     "prof": "IAM SZE WAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:30",
-    "end": "21:15",
-    "venue": "N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "19:30",
+    "venue": "21:15",
+    "remark": "N8-G016",
     "host": "FED"
   },
   {
@@ -14282,10 +14282,10 @@ var courses_info = [
     "prof": "LAI WENG FAT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-G028 / N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14294,10 +14294,10 @@ var courses_info = [
     "prof": "LAI WENG FAT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "N8-G016",
     "host": "FED"
   },
   {
@@ -14306,10 +14306,10 @@ var courses_info = [
     "prof": "LAI WENG FAT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:30",
-    "end": "15:15",
-    "venue": "N8-G028",
-    "remark": "",
+    "start": "",
+    "end": "13:30",
+    "venue": "15:15",
+    "remark": "N8-G028",
     "host": "FED"
   },
   {
@@ -14318,10 +14318,10 @@ var courses_info = [
     "prof": "LEONG WAI MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:30",
-    "end": "21:15",
-    "venue": "N8-G001",
-    "remark": "",
+    "start": "",
+    "end": "19:30",
+    "venue": "21:15",
+    "remark": "N8-G001",
     "host": "FED"
   },
   {
@@ -14330,10 +14330,10 @@ var courses_info = [
     "prof": "HUI HEUNG CHIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-1009",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-1009",
     "host": "FED"
   },
   {
@@ -14342,10 +14342,10 @@ var courses_info = [
     "prof": "HUI HEUNG CHIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "N8-1009",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "N8-1009",
     "host": "FED"
   },
   {
@@ -14354,10 +14354,10 @@ var courses_info = [
     "prof": "HUI HEUNG CHIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-1009",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-1009",
     "host": "FED"
   },
   {
@@ -14366,10 +14366,10 @@ var courses_info = [
     "prof": "HUI HEUNG CHIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "N8-1009",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "N8-1009",
     "host": "FED"
   },
   {
@@ -14378,10 +14378,10 @@ var courses_info = [
     "prof": "WONG SOI PO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-G028 / N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-G028 / N8-G016",
     "host": "FED"
   },
   {
@@ -14390,10 +14390,10 @@ var courses_info = [
     "prof": "LEONG CHI HONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:30",
-    "end": "15:15",
-    "venue": "N8-3010",
-    "remark": "",
+    "start": "",
+    "end": "13:30",
+    "venue": "15:15",
+    "remark": "N8-3010",
     "host": "FED"
   },
   {
@@ -14402,10 +14402,10 @@ var courses_info = [
     "prof": "LEONG CHI HONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:30",
-    "end": "17:15",
-    "venue": "N8-3010",
-    "remark": "",
+    "start": "",
+    "end": "15:30",
+    "venue": "17:15",
+    "remark": "N8-3010",
     "host": "FED"
   },
   {
@@ -14414,10 +14414,10 @@ var courses_info = [
     "prof": "LEONG CHI HONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-3010",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-3010",
     "host": "FED"
   },
   {
@@ -14426,10 +14426,10 @@ var courses_info = [
     "prof": "LEONG CHI HONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "N8-3010",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "N8-3010",
     "host": "FED"
   },
   {
@@ -14438,10 +14438,10 @@ var courses_info = [
     "prof": "XI CHENGQING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-3008",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-3008",
     "host": "FED"
   },
   {
@@ -14450,10 +14450,10 @@ var courses_info = [
     "prof": "XI CHENGQING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "N8-3008",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "N8-3008",
     "host": "FED"
   },
   {
@@ -14462,10 +14462,10 @@ var courses_info = [
     "prof": "XI CHENGQING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "11:15",
-    "venue": "N8-3008",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "11:15",
+    "remark": "N8-3008",
     "host": "FED"
   },
   {
@@ -14474,10 +14474,10 @@ var courses_info = [
     "prof": "WU HOU KEONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:30",
-    "end": "15:15",
-    "venue": "N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "13:30",
+    "venue": "15:15",
+    "remark": "N8-G016",
     "host": "FED"
   },
   {
@@ -14486,10 +14486,10 @@ var courses_info = [
     "prof": "WU HOU KEONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:30",
-    "end": "17:15",
-    "venue": "N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "15:30",
+    "venue": "17:15",
+    "remark": "N8-G016",
     "host": "FED"
   },
   {
@@ -14498,10 +14498,10 @@ var courses_info = [
     "prof": "CHONG CHI SEAK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "19:15",
-    "venue": "N8-3010",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "19:15",
+    "remark": "N8-3010",
     "host": "FED"
   },
   {
@@ -14510,10 +14510,10 @@ var courses_info = [
     "prof": "CHONG CHI SEAK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:30",
-    "end": "21:15",
-    "venue": "N8-3010",
-    "remark": "",
+    "start": "",
+    "end": "19:30",
+    "venue": "21:15",
+    "remark": "N8-3010",
     "host": "FED"
   },
   {
@@ -14522,10 +14522,10 @@ var courses_info = [
     "prof": "CHONG CHI SEAK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "19:15",
-    "venue": "N8-3010",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "19:15",
+    "remark": "N8-3010",
     "host": "FED"
   },
   {
@@ -14534,10 +14534,10 @@ var courses_info = [
     "prof": "SAM KAI CHONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "19:15",
-    "venue": "N8-4008A",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "19:15",
+    "remark": "N8-4008A",
     "host": "FED"
   },
   {
@@ -14546,10 +14546,10 @@ var courses_info = [
     "prof": "SAM KAI CHONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:30",
-    "end": "21:15",
-    "venue": "N8-4008A",
-    "remark": "",
+    "start": "",
+    "end": "19:30",
+    "venue": "21:15",
+    "remark": "N8-4008A",
     "host": "FED"
   },
   {
@@ -14558,10 +14558,10 @@ var courses_info = [
     "prof": "LON CHOU NEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:30",
-    "end": "15:15",
-    "venue": "N8-3008",
-    "remark": "",
+    "start": "",
+    "end": "13:30",
+    "venue": "15:15",
+    "remark": "N8-3008",
     "host": "FED"
   },
   {
@@ -14570,10 +14570,10 @@ var courses_info = [
     "prof": "LON CHOU NEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:30",
-    "end": "15:15",
-    "venue": "N8-3008",
-    "remark": "",
+    "start": "",
+    "end": "13:30",
+    "venue": "15:15",
+    "remark": "N8-3008",
     "host": "FED"
   },
   {
@@ -14582,10 +14582,10 @@ var courses_info = [
     "prof": "LON CHOU NEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:30",
-    "end": "17:15",
-    "venue": "N8-3008",
-    "remark": "",
+    "start": "",
+    "end": "15:30",
+    "venue": "17:15",
+    "remark": "N8-3008",
     "host": "FED"
   },
   {
@@ -14594,10 +14594,10 @@ var courses_info = [
     "prof": "KOU SI TOU CHAO FONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "19:15",
-    "venue": "N8-3008",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "19:15",
+    "remark": "N8-3008",
     "host": "FED"
   },
   {
@@ -14606,10 +14606,10 @@ var courses_info = [
     "prof": "KOU SI TOU CHAO FONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:30",
-    "end": "21:15",
-    "venue": "N8-3008",
-    "remark": "",
+    "start": "",
+    "end": "19:30",
+    "venue": "21:15",
+    "remark": "N8-3008",
     "host": "FED"
   },
   {
@@ -14618,10 +14618,10 @@ var courses_info = [
     "prof": "LEONG WAI MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "19:15",
-    "venue": "N8-3008",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "19:15",
+    "remark": "N8-3008",
     "host": "FED"
   },
   {
@@ -14630,10 +14630,10 @@ var courses_info = [
     "prof": "LEONG WAI MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:30",
-    "end": "21:15",
-    "venue": "N8-3008",
-    "remark": "",
+    "start": "",
+    "end": "19:30",
+    "venue": "21:15",
+    "remark": "N8-3008",
     "host": "FED"
   },
   {
@@ -14642,10 +14642,10 @@ var courses_info = [
     "prof": "TANG LAI SEONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "19:15",
-    "venue": "N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "19:15",
+    "remark": "N8-G016",
     "host": "FED"
   },
   {
@@ -14654,10 +14654,10 @@ var courses_info = [
     "prof": "TANG LAI SEONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:30",
-    "end": "21:15",
-    "venue": "N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "19:30",
+    "venue": "21:15",
+    "remark": "N8-G016",
     "host": "FED"
   },
   {
@@ -14666,10 +14666,10 @@ var courses_info = [
     "prof": "LAM KOON SHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "19:15",
-    "venue": "N8-4008A",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "19:15",
+    "remark": "N8-4008A",
     "host": "FED"
   },
   {
@@ -14678,10 +14678,10 @@ var courses_info = [
     "prof": "LAM KOON SHING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:30",
-    "end": "21:15",
-    "venue": "N8-4008A",
-    "remark": "",
+    "start": "",
+    "end": "19:30",
+    "venue": "21:15",
+    "remark": "N8-4008A",
     "host": "FED"
   },
   {
@@ -14690,10 +14690,10 @@ var courses_info = [
     "prof": "LAM KA CHON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:30",
-    "end": "21:15",
-    "venue": "N8-G001",
-    "remark": "",
+    "start": "",
+    "end": "19:30",
+    "venue": "21:15",
+    "remark": "N8-G001",
     "host": "FED"
   },
   {
@@ -14702,10 +14702,10 @@ var courses_info = [
     "prof": "SUNG MIN-CHUAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -14714,10 +14714,10 @@ var courses_info = [
     "prof": "SUNG MIN-CHUAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -14726,10 +14726,10 @@ var courses_info = [
     "prof": "YEUNG SIU KWAI (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -14738,10 +14738,10 @@ var courses_info = [
     "prof": "YEUNG SIU KWAI (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -14750,10 +14750,10 @@ var courses_info = [
     "prof": "CHENG CHUN WAI GEORGE (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -14762,10 +14762,10 @@ var courses_info = [
     "prof": "CHENG CHUN WAI GEORGE (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -14774,10 +14774,10 @@ var courses_info = [
     "prof": "WU CHI CHONG (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -14786,10 +14786,10 @@ var courses_info = [
     "prof": "VONG KEANG IENG (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E33-1030",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E33-1030",
     "host": "FED"
   },
   {
@@ -14798,10 +14798,10 @@ var courses_info = [
     "prof": "VONG KEANG IENG (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E33-1030",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E33-1030",
     "host": "FED"
   },
   {
@@ -14810,10 +14810,10 @@ var courses_info = [
     "prof": "HSIANG TIEN PING (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -14822,10 +14822,10 @@ var courses_info = [
     "prof": "HSIANG TIEN PING (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -14834,10 +14834,10 @@ var courses_info = [
     "prof": "WANG ZHI SHENG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -14846,10 +14846,10 @@ var courses_info = [
     "prof": "WANG ZHI SHENG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -14858,10 +14858,10 @@ var courses_info = [
     "prof": "SUN XUHUA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -14870,10 +14870,10 @@ var courses_info = [
     "prof": "SUN XUHUA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -14882,10 +14882,10 @@ var courses_info = [
     "prof": "XIE QIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-3002",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-3002",
     "host": "FED"
   },
   {
@@ -14894,10 +14894,10 @@ var courses_info = [
     "prof": "XIE QIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-3002",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-3002",
     "host": "FED"
   },
   {
@@ -14906,10 +14906,10 @@ var courses_info = [
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E22-3002",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E22-3002",
     "host": "FED"
   },
   {
@@ -14918,10 +14918,10 @@ var courses_info = [
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E22-3002",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E22-3002",
     "host": "FED"
   },
   {
@@ -14930,10 +14930,10 @@ var courses_info = [
     "prof": "WANG ZHI SHENG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-3011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-3011",
     "host": "FED"
   },
   {
@@ -14942,10 +14942,10 @@ var courses_info = [
     "prof": "WANG ZHI SHENG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-3011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-3011",
     "host": "FED"
   },
   {
@@ -14954,10 +14954,10 @@ var courses_info = [
     "prof": "SHIEH JIN-JY (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -14966,10 +14966,10 @@ var courses_info = [
     "prof": "SHIEH JIN-JY (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -14978,10 +14978,10 @@ var courses_info = [
     "prof": "WANG PING CHENG DENNIS (in English and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E33-1048",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E33-1048",
     "host": "FED"
   },
   {
@@ -14990,10 +14990,10 @@ var courses_info = [
     "prof": "WANG PING CHENG DENNIS (in English and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E33-1051",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E33-1051",
     "host": "FED"
   },
   {
@@ -15002,10 +15002,10 @@ var courses_info = [
     "prof": "LAU PUI KEI (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E33-1051",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E33-1051",
     "host": "FED"
   },
   {
@@ -15014,10 +15014,10 @@ var courses_info = [
     "prof": "ZHANG ZE XUN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E33-G025",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E33-G025",
     "host": "FED"
   },
   {
@@ -15026,10 +15026,10 @@ var courses_info = [
     "prof": "ZHANG ZE XUN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E33-G032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E33-G032",
     "host": "FED"
   },
   {
@@ -15038,10 +15038,10 @@ var courses_info = [
     "prof": "ZHANG ZE XUN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E33-G032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E33-G032",
     "host": "FED"
   },
   {
@@ -15050,10 +15050,10 @@ var courses_info = [
     "prof": "CAI GUO JIE (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E33-G031",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E33-G031",
     "host": "FED"
   },
   {
@@ -15062,10 +15062,10 @@ var courses_info = [
     "prof": "CAI GUO JIE (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E33-G031",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E33-G031",
     "host": "FED"
   },
   {
@@ -15074,10 +15074,10 @@ var courses_info = [
     "prof": "WU MEI JIUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E33-1030",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E33-1030",
     "host": "FED"
   },
   {
@@ -15086,10 +15086,10 @@ var courses_info = [
     "prof": "WU MEI JIUN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -15098,10 +15098,10 @@ var courses_info = [
     "prof": "WU MEI JIUN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -15110,10 +15110,10 @@ var courses_info = [
     "prof": "VONG SOU KUAN (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E33-1030",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E33-1030",
     "host": "FED"
   },
   {
@@ -15122,10 +15122,10 @@ var courses_info = [
     "prof": "CHEN WEI-WEN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-3011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-3011",
     "host": "FED"
   },
   {
@@ -15134,10 +15134,10 @@ var courses_info = [
     "prof": "CHEN WEI-WEN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-3011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-3011",
     "host": "FED"
   },
   {
@@ -15146,10 +15146,10 @@ var courses_info = [
     "prof": "ZHOU NAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E33-1030",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E33-1030",
     "host": "FED"
   },
   {
@@ -15158,10 +15158,10 @@ var courses_info = [
     "prof": "ZHOU NAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E33-1030",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E33-1030",
     "host": "FED"
   },
   {
@@ -15170,10 +15170,10 @@ var courses_info = [
     "prof": "CHENG CHUN WAI GEORGE (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -15182,10 +15182,10 @@ var courses_info = [
     "prof": "CHENG CHUN WAI GEORGE (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -15194,10 +15194,10 @@ var courses_info = [
     "prof": "WONG MING WAI MATILDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E33-3037",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E33-3037",
     "host": "FED"
   },
   {
@@ -15206,10 +15206,10 @@ var courses_info = [
     "prof": "SIT POU SEONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E33-3037",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E33-3037",
     "host": "FED"
   },
   {
@@ -15218,10 +15218,10 @@ var courses_info = [
     "prof": "SIT POU SEONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E33-3037",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E33-3037",
     "host": "FED"
   },
   {
@@ -15230,10 +15230,10 @@ var courses_info = [
     "prof": "SIT POU SEONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E33-3037",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E33-3037",
     "host": "FED"
   },
   {
@@ -15242,10 +15242,10 @@ var courses_info = [
     "prof": "SIT POU SEONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E33-3037",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E33-3037",
     "host": "FED"
   },
   {
@@ -15254,10 +15254,10 @@ var courses_info = [
     "prof": "LIU NAI HUA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E33-1045",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E33-1045",
     "host": "FED"
   },
   {
@@ -15266,10 +15266,10 @@ var courses_info = [
     "prof": "LIU NAI HUA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E33-1045",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E33-1045",
     "host": "FED"
   },
   {
@@ -15278,10 +15278,10 @@ var courses_info = [
     "prof": "LIU NAI HUA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E33-1045",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E33-1045",
     "host": "FED"
   },
   {
@@ -15290,10 +15290,10 @@ var courses_info = [
     "prof": "LIU NAI HUA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E33-1045",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E33-1045",
     "host": "FED"
   },
   {
@@ -15302,10 +15302,10 @@ var courses_info = [
     "prof": "LEI SI MAN (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "N8-3002 / N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "N8-3002 / N8-G016",
     "host": "FED"
   },
   {
@@ -15314,10 +15314,10 @@ var courses_info = [
     "prof": "LEI SI MAN (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "N8-3002 / N8-G016",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "N8-3002 / N8-G016",
     "host": "FED"
   },
   {
@@ -15326,10 +15326,10 @@ var courses_info = [
     "prof": "SUN XUHUA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-1030",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-1030",
     "host": "FED"
   },
   {
@@ -15338,10 +15338,10 @@ var courses_info = [
     "prof": "SUN XUHUA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-1030",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-1030",
     "host": "FED"
   },
   {
@@ -15350,10 +15350,10 @@ var courses_info = [
     "prof": "WONG SOI PO (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "N8-G001",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "N8-G001",
     "host": "FED"
   },
   {
@@ -15362,10 +15362,10 @@ var courses_info = [
     "prof": "WONG SOI PO (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "N8-G001",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "N8-G001",
     "host": "FED"
   },
   {
@@ -15374,10 +15374,10 @@ var courses_info = [
     "prof": "TANG XIAOWEI (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E33-1045",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E33-1045",
     "host": "FED"
   },
   {
@@ -15386,10 +15386,10 @@ var courses_info = [
     "prof": "ZHANG DONGBO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -15398,10 +15398,10 @@ var courses_info = [
     "prof": "ZHANG DONGBO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -15410,10 +15410,10 @@ var courses_info = [
     "prof": "CHEUNG WAI PO (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "20:45",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "20:45",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -15422,10 +15422,10 @@ var courses_info = [
     "prof": "JIANG CHUNLIAN (in English and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E3-2043",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E3-2043",
     "host": "FED"
   },
   {
@@ -15434,10 +15434,10 @@ var courses_info = [
     "prof": "WANG PING CHENG DENNIS (in English and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E33-1051",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E33-1051",
     "host": "FED"
   },
   {
@@ -15446,10 +15446,10 @@ var courses_info = [
     "prof": "HO IEONG CHENG (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-1051",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-1051",
     "host": "FED"
   },
   {
@@ -15458,10 +15458,10 @@ var courses_info = [
     "prof": "HO IEONG CHENG (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E33-1051",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E33-1051",
     "host": "FED"
   },
   {
@@ -15470,10 +15470,10 @@ var courses_info = [
     "prof": "CAI GUO JIE (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E33-G031",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E33-G031",
     "host": "FED"
   },
   {
@@ -15482,10 +15482,10 @@ var courses_info = [
     "prof": "LIN LIJIA (in English and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E33-3035 / E33-3042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E33-3035 / E33-3042",
     "host": "FED"
   },
   {
@@ -15494,10 +15494,10 @@ var courses_info = [
     "prof": "LIN LIJIA (in English and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E33-3035 / E33-3042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E33-3035 / E33-3042",
     "host": "FED"
   },
   {
@@ -15506,10 +15506,10 @@ var courses_info = [
     "prof": "FAN CHUN WAI (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E33-3035 / E33-3042",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E33-3035 / E33-3042",
     "host": "FED"
   },
   {
@@ -15518,10 +15518,10 @@ var courses_info = [
     "prof": "FAN CHUN WAI (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E33-3035 / E33-3042",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E33-3035 / E33-3042",
     "host": "FED"
   },
   {
@@ -15530,10 +15530,10 @@ var courses_info = [
     "prof": "FAN CHUN WAI (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E33-3035 / E33-3042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E33-3035 / E33-3042",
     "host": "FED"
   },
   {
@@ -15542,10 +15542,10 @@ var courses_info = [
     "prof": "FAN CHUN WAI (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E33-3035 / E33-3042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E33-3035 / E33-3042",
     "host": "FED"
   },
   {
@@ -15554,10 +15554,10 @@ var courses_info = [
     "prof": "CHING HO HONG BOBY (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -15566,10 +15566,10 @@ var courses_info = [
     "prof": "SZE TAT MING (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E33-1030",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E33-1030",
     "host": "FED"
   },
   {
@@ -15578,10 +15578,10 @@ var courses_info = [
     "prof": "SZE TAT MING (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E33-1030",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E33-1030",
     "host": "FED"
   },
   {
@@ -15590,10 +15590,10 @@ var courses_info = [
     "prof": "CHENG CHO KEE (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -15602,10 +15602,10 @@ var courses_info = [
     "prof": "CHENG CHO KEE (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "20:45",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "20:45",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -15614,10 +15614,10 @@ var courses_info = [
     "prof": "LOU CHI KUAN (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "15:45",
-    "venue": "E22-3002",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "15:45",
+    "remark": "E22-3002",
     "host": "FED"
   },
   {
@@ -15626,10 +15626,10 @@ var courses_info = [
     "prof": "GONG YANG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E33-1030",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E33-1030",
     "host": "FED"
   },
   {
@@ -15638,10 +15638,10 @@ var courses_info = [
     "prof": "GONG YANG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E33-1030",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E33-1030",
     "host": "FED"
   },
   {
@@ -15650,10 +15650,10 @@ var courses_info = [
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-3002",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-3002",
     "host": "FED"
   },
   {
@@ -15662,10 +15662,10 @@ var courses_info = [
     "prof": "WANG YAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-3002",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-3002",
     "host": "FED"
   },
   {
@@ -15674,10 +15674,10 @@ var courses_info = [
     "prof": "WONG MING WAI MATILDA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E33-1030",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E33-1030",
     "host": "FED"
   },
   {
@@ -15686,10 +15686,10 @@ var courses_info = [
     "prof": "CHEN MENGDI (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-3011",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-3011",
     "host": "FED"
   },
   {
@@ -15698,10 +15698,10 @@ var courses_info = [
     "prof": "CHEN MENGDI (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-3011",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-3011",
     "host": "FED"
   },
   {
@@ -15710,10 +15710,10 @@ var courses_info = [
     "prof": "CHAN KAN KAN (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E1-B1002",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E1-B1002",
     "host": "FED"
   },
   {
@@ -15722,10 +15722,10 @@ var courses_info = [
     "prof": "CHAN KAN KAN (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E1-B1002",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E1-B1002",
     "host": "FED"
   },
   {
@@ -15734,10 +15734,10 @@ var courses_info = [
     "prof": "ALEGRE BABY WINA UMACOB (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -15746,10 +15746,10 @@ var courses_info = [
     "prof": "VONG KEANG IENG (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-3011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-3011",
     "host": "FED"
   },
   {
@@ -15758,10 +15758,10 @@ var courses_info = [
     "prof": "LIU NAI HUA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-1045",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-1045",
     "host": "FED"
   },
   {
@@ -15770,10 +15770,10 @@ var courses_info = [
     "prof": "LIU NAI HUA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-1045",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-1045",
     "host": "FED"
   },
   {
@@ -15782,10 +15782,10 @@ var courses_info = [
     "prof": "SIT POU SEONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E33-1045",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E33-1045",
     "host": "FED"
   },
   {
@@ -15794,10 +15794,10 @@ var courses_info = [
     "prof": "LIU NAI HUA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E33-1045",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E33-1045",
     "host": "FED"
   },
   {
@@ -15806,10 +15806,10 @@ var courses_info = [
     "prof": "LIU NAI HUA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E33-1045",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E33-1045",
     "host": "FED"
   },
   {
@@ -15818,10 +15818,10 @@ var courses_info = [
     "prof": "HU BIYING (in English and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -15830,10 +15830,10 @@ var courses_info = [
     "prof": "HU BIYING (in English and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -15842,10 +15842,10 @@ var courses_info = [
     "prof": "HSIANG TIEN PING (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-3011",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-3011",
     "host": "FED"
   },
   {
@@ -15854,10 +15854,10 @@ var courses_info = [
     "prof": "HSIANG TIEN PING (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-3011",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-3011",
     "host": "FED"
   },
   {
@@ -15866,10 +15866,10 @@ var courses_info = [
     "prof": "SUNG MIN-CHUAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -15878,10 +15878,10 @@ var courses_info = [
     "prof": "SUNG MIN-CHUAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -15890,10 +15890,10 @@ var courses_info = [
     "prof": "HSIANG TIEN PING (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-3002",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-3002",
     "host": "FED"
   },
   {
@@ -15902,10 +15902,10 @@ var courses_info = [
     "prof": "HSIANG TIEN PING (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-3002",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-3002",
     "host": "FED"
   },
   {
@@ -15914,10 +15914,10 @@ var courses_info = [
     "prof": "GAN ZHENGDONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -15926,10 +15926,10 @@ var courses_info = [
     "prof": "GAN ZHENGDONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -15938,10 +15938,10 @@ var courses_info = [
     "prof": "OON PEY TEE (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E33-1029 / E33-2039",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E33-1029 / E33-2039",
     "host": "FED"
   },
   {
@@ -15950,10 +15950,10 @@ var courses_info = [
     "prof": "OON PEY TEE (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E33-1029 / E33-2039",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E33-1029 / E33-2039",
     "host": "FED"
   },
   {
@@ -15962,10 +15962,10 @@ var courses_info = [
     "prof": "JIANG CHUNLIAN (in English and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E6-3093",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E6-3093",
     "host": "FED"
   },
   {
@@ -15974,10 +15974,10 @@ var courses_info = [
     "prof": "JIANG CHUNLIAN (in English and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E6-3093",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E6-3093",
     "host": "FED"
   },
   {
@@ -15986,10 +15986,10 @@ var courses_info = [
     "prof": "WEI BING (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E33-1029 / E33-2039",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E33-1029 / E33-2039",
     "host": "FED"
   },
   {
@@ -15998,10 +15998,10 @@ var courses_info = [
     "prof": "WEI BING (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E33-1029 / E33-2039",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E33-1029 / E33-2039",
     "host": "FED"
   },
   {
@@ -16010,10 +16010,10 @@ var courses_info = [
     "prof": "OON PEY TEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-3011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-3011",
     "host": "FED"
   },
   {
@@ -16022,10 +16022,10 @@ var courses_info = [
     "prof": "OON PEY TEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-3011",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-3011",
     "host": "FED"
   },
   {
@@ -16046,10 +16046,10 @@ var courses_info = [
     "prof": "CHEN MENGDI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "20:45",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "20:45",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -16058,10 +16058,10 @@ var courses_info = [
     "prof": "HSIEH PEI YIN (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "20:45",
-    "venue": "E22-3013",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "20:45",
+    "remark": "E22-3013",
     "host": "FED"
   },
   {
@@ -17798,10 +17798,10 @@ var courses_info = [
     "prof": "CHENG CHO KEE (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "20:45",
-    "venue": "E33-1029",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "20:45",
+    "remark": "E33-1029",
     "host": "FED"
   },
   {
@@ -18098,10 +18098,10 @@ var courses_info = [
     "prof": "LI ZIHAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "N8-3002 / N8-3008",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "N8-3002 / N8-3008",
     "host": "FED"
   },
   {
@@ -18110,10 +18110,10 @@ var courses_info = [
     "prof": "VONG WENG CHON (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E3-4043",
     "host": "FED"
   },
   {
@@ -18122,10 +18122,10 @@ var courses_info = [
     "prof": "VONG WENG CHON (in English and Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E3-3032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E3-3032",
     "host": "FED"
   },
   {
@@ -18134,10 +18134,10 @@ var courses_info = [
     "prof": "WEATHERLY CHRISTOPHER ALAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E33-1048",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E33-1048",
     "host": "FED"
   },
   {
@@ -18146,10 +18146,10 @@ var courses_info = [
     "prof": "LI SIN NENG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E33-1048",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E33-1048",
     "host": "FED"
   },
   {
@@ -18158,10 +18158,10 @@ var courses_info = [
     "prof": "CAI GUO JIE (in English supplemented with Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E33-G030",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E33-G030",
     "host": "FED"
   },
   {
@@ -18170,10 +18170,10 @@ var courses_info = [
     "prof": "CAI GUO JIE (in English supplemented with Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E33-G030",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E33-G030",
     "host": "FED"
   },
   {
@@ -18182,10 +18182,10 @@ var courses_info = [
     "prof": "CAI GUO JIE (in English supplemented with Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E33-G030",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E33-G030",
     "host": "FED"
   },
   {
@@ -18194,10 +18194,10 @@ var courses_info = [
     "prof": "LEUNG SHING ON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4032",
     "host": "FED"
   },
   {
@@ -18206,10 +18206,10 @@ var courses_info = [
     "prof": "LEUNG SHING ON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4032",
     "host": "FED"
   },
   {
@@ -18218,10 +18218,10 @@ var courses_info = [
     "prof": "DING XIAOFAN / KWOK HANG FAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E12-G005",
     "host": "FHS-DBS"
   },
   {
@@ -18230,10 +18230,10 @@ var courses_info = [
     "prof": "DING XIAOFAN / KWOK HANG FAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E12-G005",
     "host": "FHS-DBS"
   },
   {
@@ -18242,10 +18242,10 @@ var courses_info = [
     "prof": "MIAO KAI (in English)",
     "type": "Lab",
     "day": "LAB-L01",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E12-G031",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E12-G031",
     "host": "FHS-DBS"
   },
   {
@@ -18254,10 +18254,10 @@ var courses_info = [
     "prof": "LIU WEIWEI (in English)",
     "type": "Lab",
     "day": "LAB-L01",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E12-G031",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E12-G031",
     "host": "FHS-DBS"
   },
   {
@@ -18266,10 +18266,10 @@ var courses_info = [
     "prof": "LI GANG / WONG KOON HO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E12-G004",
     "host": "FHS-DBS"
   },
   {
@@ -18278,10 +18278,10 @@ var courses_info = [
     "prof": "LI GANG / WONG KOON HO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E12-G004",
     "host": "FHS-DBS"
   },
   {
@@ -18290,10 +18290,10 @@ var courses_info = [
     "prof": "MIAO KAI / ZHANG HONGJIE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E11-1021",
     "host": "FHS-DBS"
   },
   {
@@ -18302,10 +18302,10 @@ var courses_info = [
     "prof": "MIAO KAI / ZHANG HONGJIE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E11-1021",
     "host": "FHS-DBS"
   },
   {
@@ -18314,10 +18314,10 @@ var courses_info = [
     "prof": "LEE TSZ ON / LEUNG CHUNG HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E12-G005",
     "host": "FHS-DBS"
   },
   {
@@ -18326,10 +18326,10 @@ var courses_info = [
     "prof": "LEE TSZ ON / LEUNG CHUNG HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E12-G005",
     "host": "FHS-DBS"
   },
   {
@@ -18338,10 +18338,10 @@ var courses_info = [
     "prof": "LEUNG CHUNG HANG / WANG LI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E12-G030 / E12-1064",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E12-G030 / E12-1064",
     "host": "FHS-DBS"
   },
   {
@@ -18350,10 +18350,10 @@ var courses_info = [
     "prof": "EDWIN CHONG WING CHEUNG / MING CHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E12-G003",
     "host": "FHS-DBS"
   },
   {
@@ -18362,10 +18362,10 @@ var courses_info = [
     "prof": "EDWIN CHONG WING CHEUNG / MING CHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E12-G003",
     "host": "FHS-DBS"
   },
   {
@@ -18374,10 +18374,10 @@ var courses_info = [
     "prof": "MIAO KAI / TAN KAELING (in English)",
     "type": "Lab",
     "day": "LAB-L01",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E12-1057 / E12-1064 / E12-1061",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E12-1057 / E12-1064 / E12-1061",
     "host": "FHS-DBS"
   },
   {
@@ -18386,10 +18386,10 @@ var courses_info = [
     "prof": "JIANGUANG JI / XIANG YUTAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E12-G003",
     "host": "FHS-DBS"
   },
   {
@@ -18398,10 +18398,10 @@ var courses_info = [
     "prof": "JIANGUANG JI / XIANG YUTAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E12-G003",
     "host": "FHS-DBS"
   },
   {
@@ -18410,10 +18410,10 @@ var courses_info = [
     "prof": "LEUNG LAI HAN / LIU TZU MING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "N23-G016",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "N23-G016",
     "host": "FHS-DBS"
   },
   {
@@ -18422,10 +18422,10 @@ var courses_info = [
     "prof": "LEUNG LAI HAN / LIU TZU MING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "N23-G016",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "N23-G016",
     "host": "FHS-DBS"
   },
   {
@@ -18434,10 +18434,10 @@ var courses_info = [
     "prof": "CHEN QIHAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-G012",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-G012",
     "host": "FHS-DPM"
   },
   {
@@ -18446,10 +18446,10 @@ var courses_info = [
     "prof": "CHEN QIHAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-G012",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-G012",
     "host": "FHS-DPM"
   },
   {
@@ -18458,10 +18458,10 @@ var courses_info = [
     "prof": "LIN LIGEN / ZHANG QINGWEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "E12-G005",
     "host": "FHS-DPS"
   },
   {
@@ -18470,10 +18470,10 @@ var courses_info = [
     "prof": "LIN LIGEN / ZHANG QINGWEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "13:15",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "13:15",
+    "remark": "E12-G005",
     "host": "FHS-DPS"
   },
   {
@@ -18482,10 +18482,10 @@ var courses_info = [
     "prof": "YU HUA / ZHONG ZHANGFENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:00",
-    "end": "15:50",
-    "venue": "E12-G030",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "15:50",
+    "remark": "E12-G030",
     "host": "FHS-DPS"
   },
   {
@@ -18494,10 +18494,10 @@ var courses_info = [
     "prof": "YU HUA / ZHONG ZHANGFENG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E12-G030",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E12-G030",
     "host": "FHS-DPS"
   },
   {
@@ -18506,10 +18506,10 @@ var courses_info = [
     "prof": "CHEANG WAI SAN / HE CHENGWEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:00",
-    "end": "15:50",
-    "venue": "E12-G030",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "15:50",
+    "remark": "E12-G030",
     "host": "FHS-DPS"
   },
   {
@@ -18518,10 +18518,10 @@ var courses_info = [
     "prof": "CHEANG WAI SAN / HE CHENGWEI (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E12-G030",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E12-G030",
     "host": "FHS-DPS"
   },
   {
@@ -18530,10 +18530,10 @@ var courses_info = [
     "prof": "GYEONG HUN BAEG / MAO XIAOWEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E12-G005",
     "host": "FHS-DPS"
   },
   {
@@ -18542,10 +18542,10 @@ var courses_info = [
     "prof": "GYEONG HUN BAEG / MAO XIAOWEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E12-G005",
     "host": "FHS-DPS"
   },
   {
@@ -18554,10 +18554,10 @@ var courses_info = [
     "prof": "CHEN XIUPING / HOI PUI MAN / LU JINJIAN / WANG YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1012",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1012",
     "host": "FHS-DPS"
   },
   {
@@ -18566,10 +18566,10 @@ var courses_info = [
     "prof": "CHEN XIUPING / HOI PUI MAN / LU JINJIAN / WANG YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1012",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1012",
     "host": "FHS-DPS"
   },
   {
@@ -18578,10 +18578,10 @@ var courses_info = [
     "prof": "CHEN XIUPING / HOI PUI MAN / LU JINJIAN / WANG YING (in English)",
     "type": "Lab",
     "day": "LAB-L01",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E12-G030",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E12-G030",
     "host": "FHS-DPS"
   },
   {
@@ -18590,10 +18590,10 @@ var courses_info = [
     "prof": "SONG HE / TAM KIN YIP (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E11-1028",
     "host": "FHS-DPS"
   },
   {
@@ -18602,10 +18602,10 @@ var courses_info = [
     "prof": "SONG HE / TAM KIN YIP (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E11-1028",
     "host": "FHS-DPS"
   },
   {
@@ -18614,10 +18614,10 @@ var courses_info = [
     "prof": "LIU WEIWEI / YAN RU / YU HUA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E11-1018",
     "host": "FHS-DPS"
   },
   {
@@ -18626,10 +18626,10 @@ var courses_info = [
     "prof": "LIU WEIWEI / YAN RU / YU HUA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E11-1018",
     "host": "FHS-DPS"
   },
   {
@@ -18638,10 +18638,10 @@ var courses_info = [
     "prof": "CHEN XIN / ZHAO YONGHUA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1006",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1006",
     "host": "FHS-DPS"
   },
   {
@@ -18650,10 +18650,10 @@ var courses_info = [
     "prof": "CHEN XIN / ZHAO YONGHUA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1006",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1006",
     "host": "FHS-DPS"
   },
   {
@@ -18662,10 +18662,10 @@ var courses_info = [
     "prof": "HU YUANJIA / LI CHIHUA / UNG OI LAM CAROLINA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E12-G020",
     "host": "FHS-DPS"
   },
   {
@@ -18674,10 +18674,10 @@ var courses_info = [
     "prof": "HU YUANJIA / LI CHIHUA / UNG OI LAM CAROLINA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E12-G020",
     "host": "FHS-DPS"
   },
   {
@@ -18686,10 +18686,10 @@ var courses_info = [
     "prof": "JOONG SUP SHIM / KWOK HANG FAI / LIU WEIWEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E12-G021",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E12-G021",
     "host": "FHS-DPS"
   },
   {
@@ -18698,10 +18698,10 @@ var courses_info = [
     "prof": "JOONG SUP SHIM / KWOK HANG FAI / LIU WEIWEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E12-G021",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E12-G021",
     "host": "FHS-DPS"
   },
   {
@@ -18710,10 +18710,10 @@ var courses_info = [
     "prof": "CHEN XIN / GYEONG HUN BAEG / LIU WEIWEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18722,10 +18722,10 @@ var courses_info = [
     "prof": "CHEN XIN / GYEONG HUN BAEG / LIU WEIWEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18734,10 +18734,10 @@ var courses_info = [
     "prof": "DAI YUNLU / DI LIJUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E4-1061",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E4-1061",
     "host": "FHS"
   },
   {
@@ -18746,10 +18746,10 @@ var courses_info = [
     "prof": "DAI YUNLU / DI LIJUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E4-1061",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E4-1061",
     "host": "FHS"
   },
   {
@@ -18758,10 +18758,10 @@ var courses_info = [
     "prof": "HUANG JUMIN / TAN KAELING / TANG ZHENGHAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18770,10 +18770,10 @@ var courses_info = [
     "prof": "HUANG JUMIN / TAN KAELING / TANG ZHENGHAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18782,10 +18782,10 @@ var courses_info = [
     "prof": "LEI CHON LOK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18794,10 +18794,10 @@ var courses_info = [
     "prof": "LEI CHON LOK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18806,10 +18806,10 @@ var courses_info = [
     "prof": "CHEN GUOKAI / JUNG WOO PARK / XU REN HE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18818,10 +18818,10 @@ var courses_info = [
     "prof": "CHEN GUOKAI / JUNG WOO PARK / XU REN HE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-G068",
     "host": "FHS"
   },
   {
@@ -18854,10 +18854,10 @@ var courses_info = [
     "prof": "LAI KUAN JU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E21-G016",
     "host": "FLL-GLS"
   },
   {
@@ -18866,10 +18866,10 @@ var courses_info = [
     "prof": "FAN XIAODING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E4-1051",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E4-1051",
     "host": "FLL-GLS"
   },
   {
@@ -18878,10 +18878,10 @@ var courses_info = [
     "prof": "MURUGA PERUMAL RAMASWAMY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "N8-3002",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "N8-3002",
     "host": "FLL-GLS"
   },
   {
@@ -18890,10 +18890,10 @@ var courses_info = [
     "prof": "LYU HANYUE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E21-G016",
     "host": "FLL-GLS"
   },
   {
@@ -18902,10 +18902,10 @@ var courses_info = [
     "prof": "WANG YILIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E21-G035",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E21-G035",
     "host": "FLL-GLS"
   },
   {
@@ -18914,10 +18914,10 @@ var courses_info = [
     "prof": "LYU HANYUE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E32-G002",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E32-G002",
     "host": "FLL-GLS"
   },
   {
@@ -18926,10 +18926,10 @@ var courses_info = [
     "prof": "LI ZHE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E32-G002",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E32-G002",
     "host": "FLL-GLS"
   },
   {
@@ -18938,10 +18938,10 @@ var courses_info = [
     "prof": "SARA MIGLIORINI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E32-G002",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E32-G002",
     "host": "FLL-GLS"
   },
   {
@@ -18950,10 +18950,10 @@ var courses_info = [
     "prof": "ZHOU ZHUOJING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E32-G002",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E32-G002",
     "host": "FLL-GLS"
   },
   {
@@ -18962,10 +18962,10 @@ var courses_info = [
     "prof": "ALEXANDR SVETLICINII (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G002",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G002",
     "host": "FLL-GLS"
   },
   {
@@ -18974,10 +18974,10 @@ var courses_info = [
     "prof": "CÉLIA FILIPA FERREIRA MATIAS (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "11:45",
-    "venue": "E32-G002",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "11:45",
+    "remark": "E32-G002",
     "host": "FLL-GLS"
   },
   {
@@ -18986,10 +18986,10 @@ var courses_info = [
     "prof": "LAI KUAN JU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -18998,10 +18998,10 @@ var courses_info = [
     "prof": "LAI KUAN JU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19010,10 +19010,10 @@ var courses_info = [
     "prof": "LAI KUAN JU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19022,10 +19022,10 @@ var courses_info = [
     "prof": "LAI KUAN JU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19034,10 +19034,10 @@ var courses_info = [
     "prof": "LAI KUAN JU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19046,10 +19046,10 @@ var courses_info = [
     "prof": "LAI KUAN JU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19058,10 +19058,10 @@ var courses_info = [
     "prof": "LAI KUAN JU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19070,10 +19070,10 @@ var courses_info = [
     "prof": "LAI KUAN JU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19082,10 +19082,10 @@ var courses_info = [
     "prof": "LAI KUAN JU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19094,10 +19094,10 @@ var courses_info = [
     "prof": "LAI KUAN JU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19106,10 +19106,10 @@ var courses_info = [
     "prof": "LAI KUAN JU (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19118,10 +19118,10 @@ var courses_info = [
     "prof": "LAI KUAN JU (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19130,10 +19130,10 @@ var courses_info = [
     "prof": "LIANG XIAOMAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19142,10 +19142,10 @@ var courses_info = [
     "prof": "LIANG XIAOMAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19154,10 +19154,10 @@ var courses_info = [
     "prof": "LIANG XIAOMAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19166,10 +19166,10 @@ var courses_info = [
     "prof": "LIANG XIAOMAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19178,10 +19178,10 @@ var courses_info = [
     "prof": "LIANG XIAOMAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19190,10 +19190,10 @@ var courses_info = [
     "prof": "LIANG XIAOMAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19202,10 +19202,10 @@ var courses_info = [
     "prof": "JIANG CHAOYANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19214,10 +19214,10 @@ var courses_info = [
     "prof": "JIANG CHAOYANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19226,10 +19226,10 @@ var courses_info = [
     "prof": "JIANG CHAOYANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19238,10 +19238,10 @@ var courses_info = [
     "prof": "JIANG CHAOYANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19250,10 +19250,10 @@ var courses_info = [
     "prof": "JIANG CHAOYANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19262,10 +19262,10 @@ var courses_info = [
     "prof": "JIANG CHAOYANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19274,10 +19274,10 @@ var courses_info = [
     "prof": "JIANG CHAOYANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19286,10 +19286,10 @@ var courses_info = [
     "prof": "JIANG CHAOYANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1102C",
     "host": "FLL-MLS"
   },
   {
@@ -19298,10 +19298,10 @@ var courses_info = [
     "prof": "JIANG CHAOYANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19310,10 +19310,10 @@ var courses_info = [
     "prof": "JIANG CHAOYANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19322,10 +19322,10 @@ var courses_info = [
     "prof": "JIANG CHAOYANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19334,10 +19334,10 @@ var courses_info = [
     "prof": "JIANG CHAOYANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-G053",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-G053",
     "host": "FLL-MLS"
   },
   {
@@ -19346,10 +19346,10 @@ var courses_info = [
     "prof": "HO HENG MAN (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19358,10 +19358,10 @@ var courses_info = [
     "prof": "HO HENG MAN (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1113B",
     "host": "FLL-MLS"
   },
   {
@@ -19370,10 +19370,10 @@ var courses_info = [
     "prof": "FAN XIAODING (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "16:45",
-    "venue": "E32-G020",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "16:45",
+    "remark": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -19382,10 +19382,10 @@ var courses_info = [
     "prof": "FAN XIAODING (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:00",
-    "end": "17:50",
-    "venue": "E32-G020",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "17:50",
+    "remark": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -19394,10 +19394,10 @@ var courses_info = [
     "prof": "WONG MEI LEI (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G029",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -19406,10 +19406,10 @@ var courses_info = [
     "prof": "SOU SIO KEI (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19418,10 +19418,10 @@ var courses_info = [
     "prof": "ROSA FERNANDA VIEIRA NEVES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "21:00",
-    "end": "22:45",
-    "venue": "E32-G006",
-    "remark": "",
+    "start": "",
+    "end": "21:00",
+    "venue": "22:45",
+    "remark": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19430,10 +19430,10 @@ var courses_info = [
     "prof": "ROSA FERNANDA VIEIRA NEVES (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "19:50",
-    "venue": "E32-G008",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "19:50",
+    "remark": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19442,10 +19442,10 @@ var courses_info = [
     "prof": "SOU SIO KEI (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E32-G027",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -19454,10 +19454,10 @@ var courses_info = [
     "prof": "KONG WA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19466,10 +19466,10 @@ var courses_info = [
     "prof": "TEMP TEACHER (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19478,10 +19478,10 @@ var courses_info = [
     "prof": "WANG YU (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:45",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:45",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19490,10 +19490,10 @@ var courses_info = [
     "prof": "WANG YU (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "10:50",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "10:50",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19502,10 +19502,10 @@ var courses_info = [
     "prof": "HUGO EMANUEL DE MIRANDA RODRIGUES DUARTE FONSECA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "21:00",
-    "end": "22:45",
-    "venue": "E32-G008",
-    "remark": "",
+    "start": "",
+    "end": "21:00",
+    "venue": "22:45",
+    "remark": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19514,10 +19514,10 @@ var courses_info = [
     "prof": "HUGO EMANUEL DE MIRANDA RODRIGUES DUARTE FONSECA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "18:50",
-    "venue": "E32-G008",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "18:50",
+    "remark": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19526,10 +19526,10 @@ var courses_info = [
     "prof": "LOK WAI KIN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19538,10 +19538,10 @@ var courses_info = [
     "prof": "LI KE (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "22:00",
-    "end": "22:50",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "22:00",
+    "venue": "22:50",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19550,10 +19550,10 @@ var courses_info = [
     "prof": "LAI KUAN JU (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19562,10 +19562,10 @@ var courses_info = [
     "prof": "WANG YU (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "11:50",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "11:50",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19574,10 +19574,10 @@ var courses_info = [
     "prof": "HUGO EMANUEL DE MIRANDA RODRIGUES DUARTE FONSECA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "19:50",
-    "venue": "E32-G008",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "19:50",
+    "remark": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19586,10 +19586,10 @@ var courses_info = [
     "prof": "LI KE (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -19598,10 +19598,10 @@ var courses_info = [
     "prof": "WANG CHAO (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "20:30",
-    "end": "23:15",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "20:30",
+    "venue": "23:15",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -19610,10 +19610,10 @@ var courses_info = [
     "prof": "WANG CHAO (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -19622,10 +19622,10 @@ var courses_info = [
     "prof": "TEMP TEACHER (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:45",
-    "venue": "E32-G008",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:45",
+    "remark": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19634,10 +19634,10 @@ var courses_info = [
     "prof": "TEMP TEACHER (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "18:50",
-    "venue": "E32-G006",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "18:50",
+    "remark": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19646,10 +19646,10 @@ var courses_info = [
     "prof": "LI KE (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "11:45",
-    "venue": "E32-G029",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "11:45",
+    "remark": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -19658,10 +19658,10 @@ var courses_info = [
     "prof": "LI KE (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "20:30",
-    "end": "21:20",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "20:30",
+    "venue": "21:20",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -19670,10 +19670,10 @@ var courses_info = [
     "prof": "LEE KIN KEI (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:30",
-    "end": "17:20",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "16:30",
+    "venue": "17:20",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -19682,10 +19682,10 @@ var courses_info = [
     "prof": "TEMP TEACHER (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "19:50",
-    "venue": "E32-G006",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "19:50",
+    "remark": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19694,10 +19694,10 @@ var courses_info = [
     "prof": "LI KE (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E32-G029",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -19706,10 +19706,10 @@ var courses_info = [
     "prof": "JOSÉ EDUARDO ISAAC SOARES DUARTE (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:45",
-    "venue": "E32-G006",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:45",
+    "remark": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19718,10 +19718,10 @@ var courses_info = [
     "prof": "JOSÉ EDUARDO ISAAC SOARES DUARTE (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "20:50",
-    "venue": "E32-G008",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "20:50",
+    "remark": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19730,10 +19730,10 @@ var courses_info = [
     "prof": "FONG KENG SENG (in Chinese supplemented with English)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "21:45",
-    "venue": "E32-G008",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "21:45",
+    "remark": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19742,10 +19742,10 @@ var courses_info = [
     "prof": "KAN YUT CHING (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G027",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -19754,10 +19754,10 @@ var courses_info = [
     "prof": "LUÍS GONÇALO GOMES DE ARAÚJO VASCONCELOS PESSANHA (in Chinese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "20:50",
-    "venue": "E32-G002",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "20:50",
+    "remark": "E32-G002",
     "host": "FLL-MLS"
   },
   {
@@ -19766,10 +19766,10 @@ var courses_info = [
     "prof": "LUÍS GONÇALO GOMES DE ARAÚJO VASCONCELOS PESSANHA (in Chinese)",
     "type": "Lecture",
     "day": "",
-    "start": "21:00",
-    "end": "21:50",
-    "venue": "E32-G008",
-    "remark": "",
+    "start": "",
+    "end": "21:00",
+    "venue": "21:50",
+    "remark": "E32-G008",
     "host": "FLL-MLS"
   },
   {
@@ -19778,10 +19778,10 @@ var courses_info = [
     "prof": "LAM HAO SAN / WONG WAI KIT BERNARD (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:15",
-    "venue": "E32-G029",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:15",
+    "remark": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -19790,10 +19790,10 @@ var courses_info = [
     "prof": "LAM HAO SAN / WONG WAI KIT BERNARD (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:30",
-    "end": "21:45",
-    "venue": "E32-G029",
-    "remark": "",
+    "start": "",
+    "end": "20:30",
+    "venue": "21:45",
+    "remark": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -19802,10 +19802,10 @@ var courses_info = [
     "prof": "PEDRO MANUEL OLIVEIRA E SOUSADE ALBERGARIA RESENDE (in Chinese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "21:45",
-    "venue": "E32-G004",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "21:45",
+    "remark": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -19814,10 +19814,10 @@ var courses_info = [
     "prof": "PEDRO MANUEL OLIVEIRA E SOUSADE ALBERGARIA RESENDE (in Chinese)",
     "type": "Lecture",
     "day": "",
-    "start": "22:00",
-    "end": "22:50",
-    "venue": "E32-G004",
-    "remark": "",
+    "start": "",
+    "end": "22:00",
+    "venue": "22:50",
+    "remark": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -19826,10 +19826,10 @@ var courses_info = [
     "prof": "NG KEI KEI (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:30",
-    "end": "23:15",
-    "venue": "E32-G029",
-    "remark": "",
+    "start": "",
+    "end": "20:30",
+    "venue": "23:15",
+    "remark": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -19838,10 +19838,10 @@ var courses_info = [
     "prof": "PAO IN HANG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G027",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -19850,10 +19850,10 @@ var courses_info = [
     "prof": "MARIA ISABEL CAVALEIRO FERREIRA MOUSINHO FIGUEIREDO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "20:45",
-    "venue": "E32-G006",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "20:45",
+    "remark": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19862,10 +19862,10 @@ var courses_info = [
     "prof": "NG KEI KEI (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -19874,10 +19874,10 @@ var courses_info = [
     "prof": "FAN XIAODING (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "21:30",
-    "end": "23:15",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "21:30",
+    "venue": "23:15",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -19886,10 +19886,10 @@ var courses_info = [
     "prof": "PAO IN HANG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "15:45",
-    "venue": "E32-G027",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "15:45",
+    "remark": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -19898,10 +19898,10 @@ var courses_info = [
     "prof": "MARIA ISABEL CAVALEIRO FERREIRA MOUSINHO FIGUEIREDO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "21:45",
-    "venue": "E32-G006",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "21:45",
+    "remark": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19910,10 +19910,10 @@ var courses_info = [
     "prof": "TONG IO CHENG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -19922,10 +19922,10 @@ var courses_info = [
     "prof": "MAI MAN IENG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "09:30",
-    "end": "12:15",
-    "venue": "E32-G004",
-    "remark": "",
+    "start": "",
+    "end": "09:30",
+    "venue": "12:15",
+    "remark": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -19934,10 +19934,10 @@ var courses_info = [
     "prof": "JIANG CHAOYANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G020",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -19946,10 +19946,10 @@ var courses_info = [
     "prof": "HUGO EMANUEL DE MIRANDA RODRIGUES DUARTE FONSECA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "21:00",
-    "end": "22:45",
-    "venue": "E32-G006",
-    "remark": "",
+    "start": "",
+    "end": "21:00",
+    "venue": "22:45",
+    "remark": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19958,10 +19958,10 @@ var courses_info = [
     "prof": "HUGO EMANUEL DE MIRANDA RODRIGUES DUARTE FONSECA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "19:50",
-    "venue": "E32-G006",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "19:50",
+    "remark": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -19970,10 +19970,10 @@ var courses_info = [
     "prof": "JIANG CHAOYANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -19982,10 +19982,10 @@ var courses_info = [
     "prof": "CHIN CHIO KEONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:30",
-    "end": "21:20",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "20:30",
+    "venue": "21:20",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -19994,10 +19994,10 @@ var courses_info = [
     "prof": "CHIN CHIO KEONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:00",
-    "end": "17:50",
-    "venue": "E32-G020",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "17:50",
+    "remark": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20006,10 +20006,10 @@ var courses_info = [
     "prof": "DIAS SOARES JOÃO LUIS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "22:00",
-    "end": "22:50",
-    "venue": "E32-G006",
-    "remark": "",
+    "start": "",
+    "end": "22:00",
+    "venue": "22:50",
+    "remark": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -20018,10 +20018,10 @@ var courses_info = [
     "prof": "VONG KENG HEI (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "18:50",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "18:50",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20030,10 +20030,10 @@ var courses_info = [
     "prof": "LAO KENG CHONG (in Chinese supplemented with English)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "21:45",
-    "venue": "E32-1005",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "21:45",
+    "remark": "E32-1005",
     "host": "FLL-MLS"
   },
   {
@@ -20042,10 +20042,10 @@ var courses_info = [
     "prof": "KAN YUT CHING (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20054,10 +20054,10 @@ var courses_info = [
     "prof": "KAN YUT CHING (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G027",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -20066,10 +20066,10 @@ var courses_info = [
     "prof": "CHU LAM LAM (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "16:45",
-    "venue": "E32-G020",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "16:45",
+    "remark": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20078,10 +20078,10 @@ var courses_info = [
     "prof": "CHU LAM LAM (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20090,10 +20090,10 @@ var courses_info = [
     "prof": "MA ZHE (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E32-G020",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20102,10 +20102,10 @@ var courses_info = [
     "prof": "CHIN CHIO KEONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "16:15",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "16:15",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20114,10 +20114,10 @@ var courses_info = [
     "prof": "MA ZHE (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E32-G029",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20126,10 +20126,10 @@ var courses_info = [
     "prof": "MANUEL MARCELINO ESCOVAR TRIGO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "19:50",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "19:50",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20138,10 +20138,10 @@ var courses_info = [
     "prof": "MANUEL MARCELINO ESCOVAR TRIGO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "19:45",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "19:45",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20150,10 +20150,10 @@ var courses_info = [
     "prof": "CHIN CHIO KEONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "21:30",
-    "end": "23:15",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "21:30",
+    "venue": "23:15",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20162,10 +20162,10 @@ var courses_info = [
     "prof": "DOS ANJOS JÚLIO MIGUEL (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "21:45",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "21:45",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20174,10 +20174,10 @@ var courses_info = [
     "prof": "WANG MORBEY WEI (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "16:45",
-    "venue": "E32-G020",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "16:45",
+    "remark": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20186,10 +20186,10 @@ var courses_info = [
     "prof": "AUGUSTO TEIXEIRA GARCIA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "19:45",
-    "venue": "E32-G028",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "19:45",
+    "remark": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20198,10 +20198,10 @@ var courses_info = [
     "prof": "AUGUSTO TEIXEIRA GARCIA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "19:50",
-    "venue": "E32-G028",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "19:50",
+    "remark": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20210,10 +20210,10 @@ var courses_info = [
     "prof": "WEI DAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20222,10 +20222,10 @@ var courses_info = [
     "prof": "WANG MORBEY WEI (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:00",
-    "end": "17:50",
-    "venue": "E32-G020",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "17:50",
+    "remark": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20234,10 +20234,10 @@ var courses_info = [
     "prof": "HUGO EMANUEL DE MIRANDA RODRIGUES DUARTE FONSECA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "20:50",
-    "venue": "E32-G028",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "20:50",
+    "remark": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20246,10 +20246,10 @@ var courses_info = [
     "prof": "MA ZHE (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "10:50",
-    "venue": "E32-G027",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "10:50",
+    "remark": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -20258,10 +20258,10 @@ var courses_info = [
     "prof": "FONG MAN CHONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20270,10 +20270,10 @@ var courses_info = [
     "prof": "MA ZHE (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "22:00",
-    "end": "22:50",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "22:00",
+    "venue": "22:50",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20282,10 +20282,10 @@ var courses_info = [
     "prof": "SAM CHAN IO (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "22:45",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "22:45",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20294,10 +20294,10 @@ var courses_info = [
     "prof": "ZHAO GUOQIANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20306,10 +20306,10 @@ var courses_info = [
     "prof": "SA MACHADO PEDRO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "19:45",
-    "venue": "E32-G002",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "19:45",
+    "remark": "E32-G002",
     "host": "FLL-MLS"
   },
   {
@@ -20318,10 +20318,10 @@ var courses_info = [
     "prof": "SA MACHADO PEDRO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "18:50",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "18:50",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20330,10 +20330,10 @@ var courses_info = [
     "prof": "ZHAO GUOQIANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20342,10 +20342,10 @@ var courses_info = [
     "prof": "SAM CHAN IO (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:30",
-    "end": "21:15",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "19:30",
+    "venue": "21:15",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20354,10 +20354,10 @@ var courses_info = [
     "prof": "VONG IOK IP FRANCISCA (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:45",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:45",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20366,10 +20366,10 @@ var courses_info = [
     "prof": "SA MACHADO PEDRO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "21:45",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "21:45",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20378,10 +20378,10 @@ var courses_info = [
     "prof": "KUOK SIO PENG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:45",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:45",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20390,10 +20390,10 @@ var courses_info = [
     "prof": "CHAN CHI WENG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "22:45",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "22:45",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20402,10 +20402,10 @@ var courses_info = [
     "prof": "LEE KIN KEI (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "19:50",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "19:50",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20414,10 +20414,10 @@ var courses_info = [
     "prof": "HO WAI NENG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20426,10 +20426,10 @@ var courses_info = [
     "prof": "JIANG YI WA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "16:45",
-    "venue": "E32-G020",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "16:45",
+    "remark": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20438,10 +20438,10 @@ var courses_info = [
     "prof": "JIANG YI WA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "11:45",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "11:45",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20450,10 +20450,10 @@ var courses_info = [
     "prof": "TOU WAI FONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "16:45",
-    "venue": "E32-G020",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "16:45",
+    "remark": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20462,10 +20462,10 @@ var courses_info = [
     "prof": "CHIN CHIO KEONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "22:00",
-    "end": "22:50",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "22:00",
+    "venue": "22:50",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20474,10 +20474,10 @@ var courses_info = [
     "prof": "JIANG YI WA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:00",
-    "end": "17:50",
-    "venue": "E32-G020",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "17:50",
+    "remark": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20486,10 +20486,10 @@ var courses_info = [
     "prof": "JIANG YI WA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20498,10 +20498,10 @@ var courses_info = [
     "prof": "TOU WAI FONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:00",
-    "end": "17:50",
-    "venue": "E32-G020",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "17:50",
+    "remark": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20510,10 +20510,10 @@ var courses_info = [
     "prof": "IAU TENG PIO (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "16:45",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "16:45",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20522,10 +20522,10 @@ var courses_info = [
     "prof": "CHU LAM LAM (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G029",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20534,10 +20534,10 @@ var courses_info = [
     "prof": "IAU TENG PIO (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:00",
-    "end": "18:45",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "18:45",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20546,10 +20546,10 @@ var courses_info = [
     "prof": "CHU LAM LAM (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E32-G029",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20558,10 +20558,10 @@ var courses_info = [
     "prof": "HUGO EMANUEL DE MIRANDA RODRIGUES DUARTE FONSECA (in English supplemented with Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "19:45",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "19:45",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20570,10 +20570,10 @@ var courses_info = [
     "prof": "JIANG YI WA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E32-G029",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20582,10 +20582,10 @@ var courses_info = [
     "prof": "LEONG CHENG HANG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "11:45",
-    "venue": "E32-G020",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "11:45",
+    "remark": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20594,10 +20594,10 @@ var courses_info = [
     "prof": "MANUEL MARCELINO ESCOVAR TRIGO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "21:45",
-    "venue": "E32-G028",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "21:45",
+    "remark": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20606,10 +20606,10 @@ var courses_info = [
     "prof": "MANUEL MARCELINO ESCOVAR TRIGO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "20:50",
-    "venue": "E32-G028",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "20:50",
+    "remark": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20618,10 +20618,10 @@ var courses_info = [
     "prof": "JIANG YI WA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "16:45",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "16:45",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20630,10 +20630,10 @@ var courses_info = [
     "prof": "JIANG YI WA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "22:00",
-    "end": "22:50",
-    "venue": "E32-G029",
-    "remark": "",
+    "start": "",
+    "end": "22:00",
+    "venue": "22:50",
+    "remark": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20642,10 +20642,10 @@ var courses_info = [
     "prof": "LEONG CHENG HANG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E32-G020",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E32-G020",
     "host": "FLL-MLS"
   },
   {
@@ -20654,10 +20654,10 @@ var courses_info = [
     "prof": "MANUEL MARCELINO ESCOVAR TRIGO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "21:00",
-    "end": "21:50",
-    "venue": "E32-G028",
-    "remark": "",
+    "start": "",
+    "end": "21:00",
+    "venue": "21:50",
+    "remark": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20666,10 +20666,10 @@ var courses_info = [
     "prof": "JIANG YI WA (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:00",
-    "end": "17:50",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "17:50",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20678,10 +20678,10 @@ var courses_info = [
     "prof": "CHOU KAM CHON (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20690,10 +20690,10 @@ var courses_info = [
     "prof": "AUGUSTO TEIXEIRA GARCIA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "18:50",
-    "venue": "E32-G004",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "18:50",
+    "remark": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -20702,10 +20702,10 @@ var courses_info = [
     "prof": "AUGUSTO TEIXEIRA GARCIA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "19:45",
-    "venue": "E32-G004",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "19:45",
+    "remark": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -20714,10 +20714,10 @@ var courses_info = [
     "prof": "CHOU KAM CHON (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20726,10 +20726,10 @@ var courses_info = [
     "prof": "HUGO EMANUEL DE MIRANDA RODRIGUES DUARTE FONSECA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "19:50",
-    "venue": "E32-G004",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "19:50",
+    "remark": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -20738,10 +20738,10 @@ var courses_info = [
     "prof": "TU GUANGJIAN (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20750,10 +20750,10 @@ var courses_info = [
     "prof": "WONG WAI KING (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "19:50",
-    "venue": "E32-G029",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "19:50",
+    "remark": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20762,10 +20762,10 @@ var courses_info = [
     "prof": "CHEONG WENG TONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20774,10 +20774,10 @@ var courses_info = [
     "prof": "LI ZHE (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20786,10 +20786,10 @@ var courses_info = [
     "prof": "SA MACHADO PEDRO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "19:45",
-    "venue": "E32-G028",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "19:45",
+    "remark": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20798,10 +20798,10 @@ var courses_info = [
     "prof": "SA MACHADO PEDRO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "20:50",
-    "venue": "E32-G004",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "20:50",
+    "remark": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -20810,10 +20810,10 @@ var courses_info = [
     "prof": "VONG VAI VA (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "15:00",
-    "end": "17:45",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "17:45",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20822,10 +20822,10 @@ var courses_info = [
     "prof": "VONG IOK IP FRANCISCA (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20834,10 +20834,10 @@ var courses_info = [
     "prof": "VONG VAI VA (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "14:50",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "14:50",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20846,10 +20846,10 @@ var courses_info = [
     "prof": "SA MACHADO PEDRO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "19:50",
-    "venue": "E32-G004",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "19:50",
+    "remark": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -20858,10 +20858,10 @@ var courses_info = [
     "prof": "VONG VAI VA (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "18:50",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "18:50",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20870,10 +20870,10 @@ var courses_info = [
     "prof": "TONG HIO FONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E32-G005",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E32-G005",
     "host": "FLL-MLS"
   },
   {
@@ -20882,10 +20882,10 @@ var courses_info = [
     "prof": "JOÃO LORETO ILHÃO MOREIRA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "21:00",
-    "end": "22:45",
-    "venue": "E32-G028",
-    "remark": "",
+    "start": "",
+    "end": "21:00",
+    "venue": "22:45",
+    "remark": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20894,10 +20894,10 @@ var courses_info = [
     "prof": "JOÃO LORETO ILHÃO MOREIRA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "22:00",
-    "end": "22:50",
-    "venue": "E32-G028",
-    "remark": "",
+    "start": "",
+    "end": "22:00",
+    "venue": "22:50",
+    "remark": "E32-G028",
     "host": "FLL-MLS"
   },
   {
@@ -20906,10 +20906,10 @@ var courses_info = [
     "prof": "VONG KENG HEI (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "21:30",
-    "end": "23:15",
-    "venue": "E32-G013",
-    "remark": "",
+    "start": "",
+    "end": "21:30",
+    "venue": "23:15",
+    "remark": "E32-G013",
     "host": "FLL-MLS"
   },
   {
@@ -20918,10 +20918,10 @@ var courses_info = [
     "prof": "MANGAS ABREU DANTAS ÁLVARO ANTÓNIO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "21:45",
-    "venue": "E32-G006",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "21:45",
+    "remark": "E32-G006",
     "host": "FLL-MLS"
   },
   {
@@ -20930,10 +20930,10 @@ var courses_info = [
     "prof": "SILVESTRE MÁRIO AUGUSTO (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "16:45",
-    "venue": "E32-G029",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "16:45",
+    "remark": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20942,10 +20942,10 @@ var courses_info = [
     "prof": "SILVESTRE MÁRIO AUGUSTO (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "11:45",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "11:45",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20954,10 +20954,10 @@ var courses_info = [
     "prof": "SILVESTRE MÁRIO AUGUSTO (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:00",
-    "end": "17:50",
-    "venue": "E32-G029",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "17:50",
+    "remark": "E32-G029",
     "host": "FLL-MLS"
   },
   {
@@ -20966,10 +20966,10 @@ var courses_info = [
     "prof": "SILVESTRE MÁRIO AUGUSTO (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E32-G007",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E32-G007",
     "host": "FLL-MLS"
   },
   {
@@ -20978,10 +20978,10 @@ var courses_info = [
     "prof": "TANG CHI KEONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E32-G027",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -20990,10 +20990,10 @@ var courses_info = [
     "prof": "VONG SOK HEI ROSITA (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E32-G027",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E32-G027",
     "host": "FLL-MLS"
   },
   {
@@ -21002,10 +21002,10 @@ var courses_info = [
     "prof": "CÉLIA FILIPA FERREIRA MATIAS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:45",
-    "venue": "E32-G004",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:45",
+    "remark": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -21014,10 +21014,10 @@ var courses_info = [
     "prof": "CÉLIA FILIPA FERREIRA MATIAS (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "21:45",
-    "venue": "E32-G004",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "21:45",
+    "remark": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -21026,10 +21026,10 @@ var courses_info = [
     "prof": "DA CRUZ CARDINAL FERNANDO PAULO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "20:00",
-    "end": "21:45",
-    "venue": "E32-G004",
-    "remark": "",
+    "start": "",
+    "end": "20:00",
+    "venue": "21:45",
+    "remark": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -21038,10 +21038,10 @@ var courses_info = [
     "prof": "DA CRUZ CARDINAL FERNANDO PAULO (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "18:00",
-    "end": "19:45",
-    "venue": "E32-G004",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "19:45",
+    "remark": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -21062,10 +21062,10 @@ var courses_info = [
     "prof": "HUGO EMANUEL DE MIRANDA RODRIGUES DUARTE FONSECA (in Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "21:00",
-    "end": "21:50",
-    "venue": "E32-G004",
-    "remark": "",
+    "start": "",
+    "end": "21:00",
+    "venue": "21:50",
+    "remark": "E32-G004",
     "host": "FLL-MLS"
   },
   {
@@ -21074,10 +21074,10 @@ var courses_info = [
     "prof": "CHEANG KA IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1015",
     "host": "FSS-DCOM"
   },
   {
@@ -21086,10 +21086,10 @@ var courses_info = [
     "prof": "CHEANG KA IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1015",
     "host": "FSS-DCOM"
   },
   {
@@ -21098,10 +21098,10 @@ var courses_info = [
     "prof": "LAI FEI LOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-G041",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-G041",
     "host": "FSS-DCOM"
   },
   {
@@ -21110,10 +21110,10 @@ var courses_info = [
     "prof": "LAI FEI LOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-G041",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-G041",
     "host": "FSS-DCOM"
   },
   {
@@ -21122,10 +21122,10 @@ var courses_info = [
     "prof": "LAI FEI LOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1019",
     "host": "FSS-DCOM"
   },
   {
@@ -21134,10 +21134,10 @@ var courses_info = [
     "prof": "LAI FEI LOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1019",
     "host": "FSS-DCOM"
   },
   {
@@ -21146,10 +21146,10 @@ var courses_info = [
     "prof": "LAU CHING MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-G041",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-G041",
     "host": "FSS-DCOM"
   },
   {
@@ -21158,10 +21158,10 @@ var courses_info = [
     "prof": "LAU CHING MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-G041",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-G041",
     "host": "FSS-DCOM"
   },
   {
@@ -21170,10 +21170,10 @@ var courses_info = [
     "prof": "CHE HIO IEONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21182,10 +21182,10 @@ var courses_info = [
     "prof": "CHE HIO IEONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21194,10 +21194,10 @@ var courses_info = [
     "prof": "CHE HIO IEONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21206,10 +21206,10 @@ var courses_info = [
     "prof": "CHE HIO IEONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21218,10 +21218,10 @@ var courses_info = [
     "prof": "LI XIAOQIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1015",
     "host": "FSS-DCOM"
   },
   {
@@ -21230,10 +21230,10 @@ var courses_info = [
     "prof": "LI XIAOQIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E21-1015",
     "host": "FSS-DCOM"
   },
   {
@@ -21242,10 +21242,10 @@ var courses_info = [
     "prof": "LI XIAOQIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1015",
     "host": "FSS-DCOM"
   },
   {
@@ -21254,10 +21254,10 @@ var courses_info = [
     "prof": "LI XIAOQIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1015",
     "host": "FSS-DCOM"
   },
   {
@@ -21266,10 +21266,10 @@ var courses_info = [
     "prof": "WANG HAIYAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1027",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1027",
     "host": "FSS-DCOM"
   },
   {
@@ -21278,10 +21278,10 @@ var courses_info = [
     "prof": "WANG HAIYAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1027",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1027",
     "host": "FSS-DCOM"
   },
   {
@@ -21290,10 +21290,10 @@ var courses_info = [
     "prof": "LI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-4015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-4015",
     "host": "FSS-DCOM"
   },
   {
@@ -21302,10 +21302,10 @@ var courses_info = [
     "prof": "LI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E22-4015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E22-4015",
     "host": "FSS-DCOM"
   },
   {
@@ -21314,10 +21314,10 @@ var courses_info = [
     "prof": "LI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-4015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-4015",
     "host": "FSS-DCOM"
   },
   {
@@ -21326,10 +21326,10 @@ var courses_info = [
     "prof": "LI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E22-4015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E22-4015",
     "host": "FSS-DCOM"
   },
   {
@@ -21338,10 +21338,10 @@ var courses_info = [
     "prof": "LI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-4012",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-4012",
     "host": "FSS-DCOM"
   },
   {
@@ -21350,10 +21350,10 @@ var courses_info = [
     "prof": "LI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E22-4012",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E22-4012",
     "host": "FSS-DCOM"
   },
   {
@@ -21362,10 +21362,10 @@ var courses_info = [
     "prof": "TIMOTHY ALAN SIMPSON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21374,10 +21374,10 @@ var courses_info = [
     "prof": "TIMOTHY ALAN SIMPSON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21386,10 +21386,10 @@ var courses_info = [
     "prof": "TIMOTHY ALAN SIMPSON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21398,10 +21398,10 @@ var courses_info = [
     "prof": "TIMOTHY ALAN SIMPSON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21410,10 +21410,10 @@ var courses_info = [
     "prof": "TODD LYLE SANDEL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21422,10 +21422,10 @@ var courses_info = [
     "prof": "TODD LYLE SANDEL (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21434,10 +21434,10 @@ var courses_info = [
     "prof": "YU YATING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21446,10 +21446,10 @@ var courses_info = [
     "prof": "YU YATING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21458,10 +21458,10 @@ var courses_info = [
     "prof": "CHANG WEN YU ANGELA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1029",
     "host": "FSS-DCOM"
   },
   {
@@ -21470,10 +21470,10 @@ var courses_info = [
     "prof": "CHANG WEN YU ANGELA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1029",
     "host": "FSS-DCOM"
   },
   {
@@ -21482,10 +21482,10 @@ var courses_info = [
     "prof": "AO IEONG WENG FONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-G026A",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -21494,10 +21494,10 @@ var courses_info = [
     "prof": "AO IEONG WENG FONG (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E21-G026A",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -21506,10 +21506,10 @@ var courses_info = [
     "prof": "AO IEONG WENG FONG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-G026A",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -21518,10 +21518,10 @@ var courses_info = [
     "prof": "AO IEONG WENG FONG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-G026A",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -21530,10 +21530,10 @@ var courses_info = [
     "prof": "AO IEONG WENG FONG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E21-G026A",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -21542,10 +21542,10 @@ var courses_info = [
     "prof": "KUOK LEI CHENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E21-G026A",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -21554,10 +21554,10 @@ var courses_info = [
     "prof": "LOK CHU KWAN (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4043 / E6-3093",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4043 / E6-3093",
     "host": "FSS-DCOM"
   },
   {
@@ -21566,10 +21566,10 @@ var courses_info = [
     "prof": "LOK CHU KWAN (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4043 / E6-3093",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4043 / E6-3093",
     "host": "FSS-DCOM"
   },
   {
@@ -21578,10 +21578,10 @@ var courses_info = [
     "prof": "WONG WANG LAP (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4042 / E6-3093",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4042 / E6-3093",
     "host": "FSS-DCOM"
   },
   {
@@ -21590,10 +21590,10 @@ var courses_info = [
     "prof": "WONG WANG LAP (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4042 / E6-3093",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4042 / E6-3093",
     "host": "FSS-DCOM"
   },
   {
@@ -21602,10 +21602,10 @@ var courses_info = [
     "prof": "YIN DEGANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21614,10 +21614,10 @@ var courses_info = [
     "prof": "YIN DEGANG (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21626,10 +21626,10 @@ var courses_info = [
     "prof": "SHI WEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21638,10 +21638,10 @@ var courses_info = [
     "prof": "SHI WEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1021",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1021",
     "host": "FSS-DCOM"
   },
   {
@@ -21650,10 +21650,10 @@ var courses_info = [
     "prof": "SHI WEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -21662,10 +21662,10 @@ var courses_info = [
     "prof": "SHI WEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -21674,10 +21674,10 @@ var courses_info = [
     "prof": "LIU MINGXUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-G015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-G015",
     "host": "FSS-DCOM"
   },
   {
@@ -21686,10 +21686,10 @@ var courses_info = [
     "prof": "LIU MINGXUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-G015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-G015",
     "host": "FSS-DCOM"
   },
   {
@@ -21698,10 +21698,10 @@ var courses_info = [
     "prof": "LOK CHU KWAN (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21710,10 +21710,10 @@ var courses_info = [
     "prof": "LOK CHU KWAN (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21722,10 +21722,10 @@ var courses_info = [
     "prof": "LOK CHU KWAN (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21734,10 +21734,10 @@ var courses_info = [
     "prof": "LOK CHU KWAN (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21746,10 +21746,10 @@ var courses_info = [
     "prof": "LAI FEI LOI (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-G015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-G015",
     "host": "FSS-DCOM"
   },
   {
@@ -21758,10 +21758,10 @@ var courses_info = [
     "prof": "LAI FEI LOI (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-G015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-G015",
     "host": "FSS-DCOM"
   },
   {
@@ -21770,10 +21770,10 @@ var courses_info = [
     "prof": "LAI FEI LOI (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-G015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-G015",
     "host": "FSS-DCOM"
   },
   {
@@ -21782,10 +21782,10 @@ var courses_info = [
     "prof": "LAI FEI LOI (in Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-G015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-G015",
     "host": "FSS-DCOM"
   },
   {
@@ -21794,10 +21794,10 @@ var courses_info = [
     "prof": "SOU VA IAN SUZANA (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21806,10 +21806,10 @@ var courses_info = [
     "prof": "SOU VA IAN SUZANA (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21818,10 +21818,10 @@ var courses_info = [
     "prof": "SOU VA IAN SUZANA (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21830,10 +21830,10 @@ var courses_info = [
     "prof": "SOU VA IAN SUZANA (in Cantonese)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -21842,10 +21842,10 @@ var courses_info = [
     "prof": "SOU VA IAN SUZANA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -21854,10 +21854,10 @@ var courses_info = [
     "prof": "SOU VA IAN SUZANA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -21866,10 +21866,10 @@ var courses_info = [
     "prof": "CAROL TING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-G012",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-G012",
     "host": "FSS-DCOM"
   },
   {
@@ -21878,10 +21878,10 @@ var courses_info = [
     "prof": "CAROL TING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-G012",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-G012",
     "host": "FSS-DCOM"
   },
   {
@@ -21890,10 +21890,10 @@ var courses_info = [
     "prof": "CAROL TING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1029",
     "host": "FSS-DCOM"
   },
   {
@@ -21902,10 +21902,10 @@ var courses_info = [
     "prof": "CAROL TING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1029",
     "host": "FSS-DCOM"
   },
   {
@@ -21914,10 +21914,10 @@ var courses_info = [
     "prof": "LAU CHING MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E6-3093",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E6-3093",
     "host": "FSS-DCOM"
   },
   {
@@ -21926,10 +21926,10 @@ var courses_info = [
     "prof": "LAU CHING MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E6-3093",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E6-3093",
     "host": "FSS-DCOM"
   },
   {
@@ -21938,10 +21938,10 @@ var courses_info = [
     "prof": "CHANG WEN YU ANGELA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -21950,10 +21950,10 @@ var courses_info = [
     "prof": "CHANG WEN YU ANGELA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -21962,10 +21962,10 @@ var courses_info = [
     "prof": "LI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1019",
     "host": "FSS-DCOM"
   },
   {
@@ -21974,10 +21974,10 @@ var courses_info = [
     "prof": "LI YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1019",
     "host": "FSS-DCOM"
   },
   {
@@ -21986,10 +21986,10 @@ var courses_info = [
     "prof": "MA XIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1019",
     "host": "FSS-DCOM"
   },
   {
@@ -21998,10 +21998,10 @@ var courses_info = [
     "prof": "MA XIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1019",
     "host": "FSS-DCOM"
   },
   {
@@ -22010,10 +22010,10 @@ var courses_info = [
     "prof": "CHE HIO IEONG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -22022,10 +22022,10 @@ var courses_info = [
     "prof": "CHE HIO IEONG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -22034,10 +22034,10 @@ var courses_info = [
     "prof": "LIU MINGXUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -22046,10 +22046,10 @@ var courses_info = [
     "prof": "LIU MINGXUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -22058,10 +22058,10 @@ var courses_info = [
     "prof": "WONG TENG TENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E21-G026A",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -22070,10 +22070,10 @@ var courses_info = [
     "prof": "WONG TENG TENG (in English, Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -22082,10 +22082,10 @@ var courses_info = [
     "prof": "SOU VA IAN SUZANA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1027",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1027",
     "host": "FSS-DCOM"
   },
   {
@@ -22094,10 +22094,10 @@ var courses_info = [
     "prof": "SOU VA IAN SUZANA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1027",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1027",
     "host": "FSS-DCOM"
   },
   {
@@ -22106,10 +22106,10 @@ var courses_info = [
     "prof": "CHEANG KA IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1027",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1027",
     "host": "FSS-DCOM"
   },
   {
@@ -22118,10 +22118,10 @@ var courses_info = [
     "prof": "CHEANG KA IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1027",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1027",
     "host": "FSS-DCOM"
   },
   {
@@ -22130,10 +22130,10 @@ var courses_info = [
     "prof": "CHEANG KA IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -22142,10 +22142,10 @@ var courses_info = [
     "prof": "CHEANG KA IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1030",
     "host": "FSS-DCOM"
   },
   {
@@ -22154,10 +22154,10 @@ var courses_info = [
     "prof": "LAM IOK FONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -22166,10 +22166,10 @@ var courses_info = [
     "prof": "CHE HIO IEONG (in Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-1017",
     "host": "FSS-DCOM"
   },
   {
@@ -22178,10 +22178,10 @@ var courses_info = [
     "prof": "BENJAMIN KIDDER HODGES (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-G026A",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -22190,10 +22190,10 @@ var courses_info = [
     "prof": "BENJAMIN KIDDER HODGES (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E21-G026A",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -22202,10 +22202,10 @@ var courses_info = [
     "prof": "BENJAMIN KIDDER HODGES (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-G026A",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-G026A",
     "host": "FSS-DCOM"
   },
   {
@@ -22214,10 +22214,10 @@ var courses_info = [
     "prof": "LAU CHING MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G035",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G035",
     "host": "FSS-DCOM"
   },
   {
@@ -22226,10 +22226,10 @@ var courses_info = [
     "prof": "LAU CHING MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G035",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G035",
     "host": "FSS-DCOM"
   },
   {
@@ -22238,10 +22238,10 @@ var courses_info = [
     "prof": "LAI FEI LOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4042",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4042",
     "host": "FSS-DCOM"
   },
   {
@@ -22250,10 +22250,10 @@ var courses_info = [
     "prof": "LAI FEI LOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4042",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4042",
     "host": "FSS-DCOM"
   },
   {
@@ -22262,10 +22262,10 @@ var courses_info = [
     "prof": "CHEANG KA IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4032",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4032",
     "host": "FSS-DCOM"
   },
   {
@@ -22274,10 +22274,10 @@ var courses_info = [
     "prof": "CHEANG KA IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4032",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4032",
     "host": "FSS-DCOM"
   },
   {
@@ -22286,10 +22286,10 @@ var courses_info = [
     "prof": "LAU CHING MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4034",
     "host": "FSS-DCOM"
   },
   {
@@ -22298,10 +22298,10 @@ var courses_info = [
     "prof": "LAU CHING MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4034",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4034",
     "host": "FSS-DCOM"
   },
   {
@@ -22310,10 +22310,10 @@ var courses_info = [
     "prof": "WONG HOI PAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1102C",
     "host": "FSS-DECO"
   },
   {
@@ -22322,10 +22322,10 @@ var courses_info = [
     "prof": "WONG HOI PAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1102C",
     "host": "FSS-DECO"
   },
   {
@@ -22334,10 +22334,10 @@ var courses_info = [
     "prof": "YANG YIBAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-1102C",
     "host": "FSS-DECO"
   },
   {
@@ -22346,10 +22346,10 @@ var courses_info = [
     "prof": "YANG YIBAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-1102C",
     "host": "FSS-DECO"
   },
   {
@@ -22358,10 +22358,10 @@ var courses_info = [
     "prof": "ZU YANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-G068",
     "host": "FSS-DECO"
   },
   {
@@ -22370,10 +22370,10 @@ var courses_info = [
     "prof": "ZU YANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-G068",
     "host": "FSS-DECO"
   },
   {
@@ -22382,10 +22382,10 @@ var courses_info = [
     "prof": "SUN GUANGZHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-G068",
     "host": "FSS-DECO"
   },
   {
@@ -22394,10 +22394,10 @@ var courses_info = [
     "prof": "SUN GUANGZHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-G068",
     "host": "FSS-DECO"
   },
   {
@@ -22406,10 +22406,10 @@ var courses_info = [
     "prof": "HO WAI HONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-1113B",
     "host": "FSS-DECO"
   },
   {
@@ -22418,10 +22418,10 @@ var courses_info = [
     "prof": "HO WAI HONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-1113B",
     "host": "FSS-DECO"
   },
   {
@@ -22430,10 +22430,10 @@ var courses_info = [
     "prof": "JIA CHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "15:45",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "15:45",
+    "remark": "E21-1015",
     "host": "FSS-DECO"
   },
   {
@@ -22442,10 +22442,10 @@ var courses_info = [
     "prof": "INACIO GUERBEROFF LANARI BO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "15:45",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "15:45",
+    "remark": "E21-G009",
     "host": "FSS-DECO"
   },
   {
@@ -22454,10 +22454,10 @@ var courses_info = [
     "prof": "KWAN FUNG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-G016",
     "host": "FSS-DECO"
   },
   {
@@ -22466,10 +22466,10 @@ var courses_info = [
     "prof": "KWAN FUNG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-G016",
     "host": "FSS-DECO"
   },
   {
@@ -22478,10 +22478,10 @@ var courses_info = [
     "prof": "WONG KA KEI GARY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E6-1102C",
     "host": "FSS-DECO"
   },
   {
@@ -22490,10 +22490,10 @@ var courses_info = [
     "prof": "INACIO GUERBEROFF LANARI BO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1015",
     "host": "FSS-DECO"
   },
   {
@@ -22502,10 +22502,10 @@ var courses_info = [
     "prof": "INACIO GUERBEROFF LANARI BO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1015",
     "host": "FSS-DECO"
   },
   {
@@ -22514,10 +22514,10 @@ var courses_info = [
     "prof": "CHANG YUAN LAWRENCE CHOO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1019",
     "host": "FSS-DECO"
   },
   {
@@ -22526,10 +22526,10 @@ var courses_info = [
     "prof": "CHANG YUAN LAWRENCE CHOO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1019",
     "host": "FSS-DECO"
   },
   {
@@ -22538,10 +22538,10 @@ var courses_info = [
     "prof": "CHU CHI HO ANGUS (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1015",
     "host": "FSS-DECO"
   },
   {
@@ -22550,10 +22550,10 @@ var courses_info = [
     "prof": "CHU CHI HO ANGUS (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1015",
     "host": "FSS-DECO"
   },
   {
@@ -22562,10 +22562,10 @@ var courses_info = [
     "prof": "CHANG YUAN LAWRENCE CHOO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "15:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "15:45",
+    "remark": "E21-1029",
     "host": "FSS-DECO"
   },
   {
@@ -22574,10 +22574,10 @@ var courses_info = [
     "prof": "HU RUIYANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1015",
     "host": "FSS-DECO"
   },
   {
@@ -22586,10 +22586,10 @@ var courses_info = [
     "prof": "HU RUIYANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1015",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1015",
     "host": "FSS-DECO"
   },
   {
@@ -22598,10 +22598,10 @@ var courses_info = [
     "prof": "MINGLI ZHENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1063",
     "host": "FSS-DECO"
   },
   {
@@ -22610,10 +22610,10 @@ var courses_info = [
     "prof": "MINGLI ZHENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1063",
     "host": "FSS-DECO"
   },
   {
@@ -22622,10 +22622,10 @@ var courses_info = [
     "prof": "WU XIANGNING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4043",
     "host": "FSS-DGPA"
   },
   {
@@ -22634,10 +22634,10 @@ var courses_info = [
     "prof": "WU XIANGNING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E3-4043",
     "host": "FSS-DGPA"
   },
   {
@@ -22646,10 +22646,10 @@ var courses_info = [
     "prof": "QI HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-1102C",
     "host": "FSS-DGPA"
   },
   {
@@ -22658,10 +22658,10 @@ var courses_info = [
     "prof": "QI HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E6-1102C",
     "host": "FSS-DGPA"
   },
   {
@@ -22670,10 +22670,10 @@ var courses_info = [
     "prof": "QI HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1113B",
     "host": "FSS-DGPA"
   },
   {
@@ -22682,10 +22682,10 @@ var courses_info = [
     "prof": "QI HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1113B",
     "host": "FSS-DGPA"
   },
   {
@@ -22694,10 +22694,10 @@ var courses_info = [
     "prof": "PAN WEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-G068",
     "host": "FSS-DGPA"
   },
   {
@@ -22706,10 +22706,10 @@ var courses_info = [
     "prof": "PAN WEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E4-G068",
     "host": "FSS-DGPA"
   },
   {
@@ -22718,10 +22718,10 @@ var courses_info = [
     "prof": "IEONG MENG U (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-G016",
     "host": "FSS-DGPA"
   },
   {
@@ -22730,10 +22730,10 @@ var courses_info = [
     "prof": "IEONG MENG U (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-G016",
     "host": "FSS-DGPA"
   },
   {
@@ -22742,10 +22742,10 @@ var courses_info = [
     "prof": "IEONG MENG U (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-G016",
     "host": "FSS-DGPA"
   },
   {
@@ -22754,10 +22754,10 @@ var courses_info = [
     "prof": "IEONG MENG U (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-G016",
     "host": "FSS-DGPA"
   },
   {
@@ -22766,10 +22766,10 @@ var courses_info = [
     "prof": "HO CHIEW SIANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E22-4012",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E22-4012",
     "host": "FSS-DGPA"
   },
   {
@@ -22778,10 +22778,10 @@ var courses_info = [
     "prof": "WEN BO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -22790,10 +22790,10 @@ var courses_info = [
     "prof": "WEN BO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -22802,10 +22802,10 @@ var courses_info = [
     "prof": "WEN BO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22814,10 +22814,10 @@ var courses_info = [
     "prof": "WEN BO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22826,10 +22826,10 @@ var courses_info = [
     "prof": "LAM KA IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22838,10 +22838,10 @@ var courses_info = [
     "prof": "LAM KA IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22850,10 +22850,10 @@ var courses_info = [
     "prof": "CHENG SAM KEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-G016",
     "host": "FSS-DGPA"
   },
   {
@@ -22862,10 +22862,10 @@ var courses_info = [
     "prof": "CHENG SAM KEE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-G016",
     "host": "FSS-DGPA"
   },
   {
@@ -22874,10 +22874,10 @@ var courses_info = [
     "prof": "WU XIANGNING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1029",
     "host": "FSS-DGPA"
   },
   {
@@ -22886,10 +22886,10 @@ var courses_info = [
     "prof": "WU XIANGNING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1029",
     "host": "FSS-DGPA"
   },
   {
@@ -22898,10 +22898,10 @@ var courses_info = [
     "prof": "CHAN KIN SUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22910,10 +22910,10 @@ var courses_info = [
     "prof": "CHAN KIN SUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22922,10 +22922,10 @@ var courses_info = [
     "prof": "CHENGXIN PAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -22934,10 +22934,10 @@ var courses_info = [
     "prof": "CHENGXIN PAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -22946,10 +22946,10 @@ var courses_info = [
     "prof": "WU YONGHONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22958,10 +22958,10 @@ var courses_info = [
     "prof": "WU YONGHONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -22970,10 +22970,10 @@ var courses_info = [
     "prof": "YANG HAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G035",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G035",
     "host": "FSS-DGPA"
   },
   {
@@ -22982,10 +22982,10 @@ var courses_info = [
     "prof": "YANG HAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G035",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G035",
     "host": "FSS-DGPA"
   },
   {
@@ -22994,10 +22994,10 @@ var courses_info = [
     "prof": "SONG WEIQING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -23006,10 +23006,10 @@ var courses_info = [
     "prof": "SONG WEIQING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -23018,10 +23018,10 @@ var courses_info = [
     "prof": "DAINA CHIBA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -23030,10 +23030,10 @@ var courses_info = [
     "prof": "DAINA CHIBA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1019",
     "host": "FSS-DGPA"
   },
   {
@@ -23042,10 +23042,10 @@ var courses_info = [
     "prof": "YIN WEIWEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-4012",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-4012",
     "host": "FSS-DGPA"
   },
   {
@@ -23054,10 +23054,10 @@ var courses_info = [
     "prof": "YIN WEIWEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-4012",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-4012",
     "host": "FSS-DGPA"
   },
   {
@@ -23066,10 +23066,10 @@ var courses_info = [
     "prof": "YUAN ZHIHANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E21-1017",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E21-1017",
     "host": "FSS-DGPA"
   },
   {
@@ -23078,10 +23078,10 @@ var courses_info = [
     "prof": "KWONG KAM KWAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-G016",
     "host": "FSS-DGPA"
   },
   {
@@ -23090,10 +23090,10 @@ var courses_info = [
     "prof": "ZHANG JIASHENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E22-4012",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E22-4012",
     "host": "FSS-DGPA"
   },
   {
@@ -23102,10 +23102,10 @@ var courses_info = [
     "prof": "NGO TAK WING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E22-4012",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E22-4012",
     "host": "FSS-DGPA"
   },
   {
@@ -23114,10 +23114,10 @@ var courses_info = [
     "prof": "WU HAIYAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E34-G011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E34-G011",
     "host": "FSS-DPSY"
   },
   {
@@ -23126,10 +23126,10 @@ var courses_info = [
     "prof": "WU HAIYAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E34-G011",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E34-G011",
     "host": "FSS-DPSY"
   },
   {
@@ -23138,10 +23138,10 @@ var courses_info = [
     "prof": "GUO TIEYUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23150,10 +23150,10 @@ var courses_info = [
     "prof": "GUO TIEYUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23162,10 +23162,10 @@ var courses_info = [
     "prof": "GUO TIEYUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23174,10 +23174,10 @@ var courses_info = [
     "prof": "GUO TIEYUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23186,10 +23186,10 @@ var courses_info = [
     "prof": "MICHIEL MARTEN ARJEN SPAPÉ (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23198,10 +23198,10 @@ var courses_info = [
     "prof": "MICHIEL MARTEN ARJEN SPAPÉ (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23210,10 +23210,10 @@ var courses_info = [
     "prof": "GUO TIEYUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23222,10 +23222,10 @@ var courses_info = [
     "prof": "GUO TIEYUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23234,10 +23234,10 @@ var courses_info = [
     "prof": "GUO TIEYUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23246,10 +23246,10 @@ var courses_info = [
     "prof": "GUO TIEYUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23258,10 +23258,10 @@ var courses_info = [
     "prof": "CHEUNG SHU FAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "N21-G013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "N21-G013",
     "host": "FSS-DPSY"
   },
   {
@@ -23270,10 +23270,10 @@ var courses_info = [
     "prof": "CHEUNG SHU FAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "N21-G013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "N21-G013",
     "host": "FSS-DPSY"
   },
   {
@@ -23282,10 +23282,10 @@ var courses_info = [
     "prof": "ANDRIY MYACHYKOV (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23294,10 +23294,10 @@ var courses_info = [
     "prof": "ANDRIY MYACHYKOV (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23306,10 +23306,10 @@ var courses_info = [
     "prof": "JIAQING O (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23318,10 +23318,10 @@ var courses_info = [
     "prof": "CHI PEILIAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E33-G021",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E33-G021",
     "host": "FSS-DPSY"
   },
   {
@@ -23330,10 +23330,10 @@ var courses_info = [
     "prof": "LAM KA LAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G016",
     "host": "FSS-DPSY"
   },
   {
@@ -23342,10 +23342,10 @@ var courses_info = [
     "prof": "LAM KA LAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G016",
     "host": "FSS-DPSY"
   },
   {
@@ -23354,10 +23354,10 @@ var courses_info = [
     "prof": "LIU LULU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-G016",
     "host": "FSS-DPSY"
   },
   {
@@ -23366,10 +23366,10 @@ var courses_info = [
     "prof": "LIU LULU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-G016",
     "host": "FSS-DPSY"
   },
   {
@@ -23378,10 +23378,10 @@ var courses_info = [
     "prof": "CHANG LEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-2115",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-2115",
     "host": "FSS-DPSY"
   },
   {
@@ -23582,10 +23582,10 @@ var courses_info = [
     "prof": "XU HUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E33-G021",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E33-G021",
     "host": "FSS-DPSY"
   },
   {
@@ -23594,10 +23594,10 @@ var courses_info = [
     "prof": "ZHU NAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23606,10 +23606,10 @@ var courses_info = [
     "prof": "ZHU NAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E21-1029",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E21-1029",
     "host": "FSS-DPSY"
   },
   {
@@ -23618,10 +23618,10 @@ var courses_info = [
     "prof": "ZHU NAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1019",
     "host": "FSS-DPSY"
   },
   {
@@ -23630,10 +23630,10 @@ var courses_info = [
     "prof": "ZHU NAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-1019",
     "host": "FSS-DPSY"
   },
   {
@@ -23642,10 +23642,10 @@ var courses_info = [
     "prof": "FAN LINLIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1019",
     "host": "FSS-DPSY"
   },
   {
@@ -23654,10 +23654,10 @@ var courses_info = [
     "prof": "FAN LINLIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1019",
     "host": "FSS-DPSY"
   },
   {
@@ -23666,10 +23666,10 @@ var courses_info = [
     "prof": "CHEN JUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1113A",
     "host": "FSS-DSOC"
   },
   {
@@ -23678,10 +23678,10 @@ var courses_info = [
     "prof": "CHEN JUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1113A",
     "host": "FSS-DSOC"
   },
   {
@@ -23690,10 +23690,10 @@ var courses_info = [
     "prof": "SPENCER DE LI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1113B",
     "host": "FSS-DSOC"
   },
   {
@@ -23702,10 +23702,10 @@ var courses_info = [
     "prof": "SPENCER DE LI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1113B",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1113B",
     "host": "FSS-DSOC"
   },
   {
@@ -23714,10 +23714,10 @@ var courses_info = [
     "prof": "JIYOUNG CHOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1113A",
     "host": "FSS-DSOC"
   },
   {
@@ -23726,10 +23726,10 @@ var courses_info = [
     "prof": "JIYOUNG CHOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E6-1113A",
     "host": "FSS-DSOC"
   },
   {
@@ -23738,10 +23738,10 @@ var courses_info = [
     "prof": "WANG DONGHUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1113A",
     "host": "FSS-DSOC"
   },
   {
@@ -23750,10 +23750,10 @@ var courses_info = [
     "prof": "WANG DONGHUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E6-1113A",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E6-1113A",
     "host": "FSS-DSOC"
   },
   {
@@ -23762,10 +23762,10 @@ var courses_info = [
     "prof": "WANG HONGYU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23774,10 +23774,10 @@ var courses_info = [
     "prof": "XU JIANHUA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23786,10 +23786,10 @@ var courses_info = [
     "prof": "XU JIANHUA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23798,10 +23798,10 @@ var courses_info = [
     "prof": "ZHANG HUIQUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23810,10 +23810,10 @@ var courses_info = [
     "prof": "ZHANG HUIQUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23822,10 +23822,10 @@ var courses_info = [
     "prof": "ZHANG HUIQUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23834,10 +23834,10 @@ var courses_info = [
     "prof": "XU JIANHUA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23846,10 +23846,10 @@ var courses_info = [
     "prof": "XU JIANHUA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23858,10 +23858,10 @@ var courses_info = [
     "prof": "HONG ZE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23870,10 +23870,10 @@ var courses_info = [
     "prof": "HONG ZE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23882,10 +23882,10 @@ var courses_info = [
     "prof": "JIANG BO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "21:45",
-    "venue": "E21-G016",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "21:45",
+    "remark": "E21-G016",
     "host": "FSS-DSOC"
   },
   {
@@ -23894,10 +23894,10 @@ var courses_info = [
     "prof": "CHEN JUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "12:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "12:45",
+    "remark": "E21-1019",
     "host": "FSS-DSOC"
   },
   {
@@ -23906,10 +23906,10 @@ var courses_info = [
     "prof": "JIYOUNG CHOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1019",
     "host": "FSS-DSOC"
   },
   {
@@ -23918,10 +23918,10 @@ var courses_info = [
     "prof": "JIYOUNG CHOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E21-1019",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E21-1019",
     "host": "FSS-DSOC"
   },
   {
@@ -23930,10 +23930,10 @@ var courses_info = [
     "prof": "ZHAO RUOHUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23942,10 +23942,10 @@ var courses_info = [
     "prof": "ZHAO RUOHUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E21-G009",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E21-G009",
     "host": "FSS-DSOC"
   },
   {
@@ -23966,10 +23966,10 @@ var courses_info = [
     "prof": "WANG DONGHUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "18:45",
-    "venue": "E21-G015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "18:45",
+    "remark": "E21-G015",
     "host": "FSS-DSOC"
   },
   {
@@ -23978,10 +23978,10 @@ var courses_info = [
     "prof": "HONG ZE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1030",
     "host": "FSS-DSOC"
   },
   {
@@ -23990,10 +23990,10 @@ var courses_info = [
     "prof": "HONG ZE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E21-1030",
     "host": "FSS-DSOC"
   },
   {
@@ -24002,10 +24002,10 @@ var courses_info = [
     "prof": "HAO TIANWEI / KOU KUN PANG / LOK MAN HOI / PAN MI / QUACH WAI MENG / WAN IAT MENG / ZHANG PING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "15:45",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "15:45",
+    "remark": "E11-G015",
     "host": "FST-CEE"
   },
   {
@@ -24014,10 +24014,10 @@ var courses_info = [
     "prof": "SHEN PING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E4-1052",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E4-1052",
     "host": "FST-CEE"
   },
   {
@@ -24026,10 +24026,10 @@ var courses_info = [
     "prof": "SHEN PING (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E4-1052",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E4-1052",
     "host": "FST-CEE"
   },
   {
@@ -24038,10 +24038,10 @@ var courses_info = [
     "prof": "HAO TIANWEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1006",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1006",
     "host": "FST-CEE"
   },
   {
@@ -24050,10 +24050,10 @@ var courses_info = [
     "prof": "HAO TIANWEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1006",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1006",
     "host": "FST-CEE"
   },
   {
@@ -24062,10 +24062,10 @@ var courses_info = [
     "prof": "HAO TIANWEI (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:00",
-    "end": "10:50",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "10:50",
+    "remark": "E11-1018",
     "host": "FST-CEE"
   },
   {
@@ -24074,10 +24074,10 @@ var courses_info = [
     "prof": "CAI ZHONGYA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E12-G021",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E12-G021",
     "host": "FST-CEE"
   },
   {
@@ -24086,10 +24086,10 @@ var courses_info = [
     "prof": "CAI ZHONGYA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E12-G021",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E12-G021",
     "host": "FST-CEE"
   },
   {
@@ -24098,10 +24098,10 @@ var courses_info = [
     "prof": "CAI ZHONGYA (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:00",
-    "end": "11:45",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:45",
+    "remark": "E11-1018",
     "host": "FST-CEE"
   },
   {
@@ -24110,10 +24110,10 @@ var courses_info = [
     "prof": "WAN IAT MENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E11-1006",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E11-1006",
     "host": "FST-CEE"
   },
   {
@@ -24122,10 +24122,10 @@ var courses_info = [
     "prof": "WAN IAT MENG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E11-1006",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E11-1006",
     "host": "FST-CEE"
   },
   {
@@ -24134,10 +24134,10 @@ var courses_info = [
     "prof": "IU VAI PAN(CIVL2006) (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E11-1006",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E11-1006",
     "host": "FST-CEE"
   },
   {
@@ -24146,10 +24146,10 @@ var courses_info = [
     "prof": "IU VAI PAN(CIVL2006) (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "11:50",
-    "venue": "E11-1006",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "11:50",
+    "remark": "E11-1006",
     "host": "FST-CEE"
   },
   {
@@ -24158,10 +24158,10 @@ var courses_info = [
     "prof": "IU VAI PAN(CIVL2006) (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E11-1006",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E11-1006",
     "host": "FST-CEE"
   },
   {
@@ -24170,10 +24170,10 @@ var courses_info = [
     "prof": "LOK MAN HOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-1028",
     "host": "FST-CEE"
   },
   {
@@ -24182,10 +24182,10 @@ var courses_info = [
     "prof": "LOK MAN HOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-1028",
     "host": "FST-CEE"
   },
   {
@@ -24194,10 +24194,10 @@ var courses_info = [
     "prof": "LOK MAN HOI (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E11-1018",
     "host": "FST-CEE"
   },
   {
@@ -24206,10 +24206,10 @@ var courses_info = [
     "prof": "ZHANG PING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-1025",
     "host": "FST-CEE"
   },
   {
@@ -24218,10 +24218,10 @@ var courses_info = [
     "prof": "ZHANG PING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-1025",
     "host": "FST-CEE"
   },
   {
@@ -24230,10 +24230,10 @@ var courses_info = [
     "prof": "ZHANG PING (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "14:00",
-    "end": "15:45",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "15:45",
+    "remark": "E11-1027",
     "host": "FST-CEE"
   },
   {
@@ -24242,10 +24242,10 @@ var courses_info = [
     "prof": "QUACH WAI MENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:00",
-    "end": "18:45",
-    "venue": "E12-G021",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "18:45",
+    "remark": "E12-G021",
     "host": "FST-CEE"
   },
   {
@@ -24254,10 +24254,10 @@ var courses_info = [
     "prof": "QUACH WAI MENG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "17:00",
-    "end": "18:45",
-    "venue": "E12-G021",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "18:45",
+    "remark": "E12-G021",
     "host": "FST-CEE"
   },
   {
@@ -24266,10 +24266,10 @@ var courses_info = [
     "prof": "SHI HUABIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E11-1009",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E11-1009",
     "host": "FST-CEE"
   },
   {
@@ -24278,10 +24278,10 @@ var courses_info = [
     "prof": "SHI HUABIN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E11-1009",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E11-1009",
     "host": "FST-CEE"
   },
   {
@@ -24542,10 +24542,10 @@ var courses_info = [
     "prof": "SIU IN VAI / TSOI WA YEUNG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:00",
-    "end": "18:45",
-    "venue": "E11-1006 / E11-2032",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "18:45",
+    "remark": "E11-1006 / E11-2032",
     "host": "FST-CEE"
   },
   {
@@ -24554,10 +24554,10 @@ var courses_info = [
     "prof": "SIU IN VAI / TSOI WA YEUNG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "19:00",
-    "end": "20:45",
-    "venue": "E11-1006 / E11-2032",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:45",
+    "remark": "E11-1006 / E11-2032",
     "host": "FST-CEE"
   },
   {
@@ -24566,10 +24566,10 @@ var courses_info = [
     "prof": "E GUOKANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "16:15",
-    "venue": "E11-1009",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "16:15",
+    "remark": "E11-1009",
     "host": "FST-CEE"
   },
   {
@@ -24578,10 +24578,10 @@ var courses_info = [
     "prof": "E GUOKANG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "14:30",
-    "end": "16:15",
-    "venue": "E11-1009",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "16:15",
+    "remark": "E11-1009",
     "host": "FST-CEE"
   },
   {
@@ -24590,10 +24590,10 @@ var courses_info = [
     "prof": "YAN WANGJI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:45",
-    "venue": "E11-1015",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:45",
+    "remark": "E11-1015",
     "host": "FST-CEE"
   },
   {
@@ -24602,10 +24602,10 @@ var courses_info = [
     "prof": "YAN WANGJI (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "13:00",
-    "end": "14:45",
-    "venue": "E11-1015",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:45",
+    "remark": "E11-1015",
     "host": "FST-CEE"
   },
   {
@@ -24614,10 +24614,10 @@ var courses_info = [
     "prof": "LOK MAN HOI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:00",
-    "end": "16:45",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "16:45",
+    "remark": "E12-G020",
     "host": "FST-CEE"
   },
   {
@@ -24626,10 +24626,10 @@ var courses_info = [
     "prof": "LOK MAN HOI (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "15:00",
-    "end": "16:45",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "16:45",
+    "remark": "E12-G020",
     "host": "FST-CEE"
   },
   {
@@ -24638,10 +24638,10 @@ var courses_info = [
     "prof": "WAN IAT MENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E11-1028",
     "host": "FST-CEE"
   },
   {
@@ -24650,10 +24650,10 @@ var courses_info = [
     "prof": "WAN IAT MENG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E11-1028",
     "host": "FST-CEE"
   },
   {
@@ -24662,10 +24662,10 @@ var courses_info = [
     "prof": "LAM CHI CHIU / LOK MAN HOI / WONG MUN ON (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E11-1015 / E11-2032",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E11-1015 / E11-2032",
     "host": "FST-CEE"
   },
   {
@@ -24674,10 +24674,10 @@ var courses_info = [
     "prof": "LAM CHI CHIU / LOK MAN HOI / WONG MUN ON (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E11-1015 / E11-2032",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E11-1015 / E11-2032",
     "host": "FST-CEE"
   },
   {
@@ -24686,10 +24686,10 @@ var courses_info = [
     "prof": "WAN IAT MENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E34-G011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E34-G011",
     "host": "FST-CEE"
   },
   {
@@ -24698,10 +24698,10 @@ var courses_info = [
     "prof": "WAN IAT MENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E34-G011",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E34-G011",
     "host": "FST-CEE"
   },
   {
@@ -24710,10 +24710,10 @@ var courses_info = [
     "prof": "KOU KUN PANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4032",
     "host": "FST-CEE"
   },
   {
@@ -24722,10 +24722,10 @@ var courses_info = [
     "prof": "KOU KUN PANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4032",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4032",
     "host": "FST-CEE"
   },
   {
@@ -24758,10 +24758,10 @@ var courses_info = [
     "prof": "LAM TENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-1063",
     "host": "FST-CIS"
   },
   {
@@ -24770,10 +24770,10 @@ var courses_info = [
     "prof": "LAM TENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-1063",
     "host": "FST-CIS"
   },
   {
@@ -24782,10 +24782,10 @@ var courses_info = [
     "prof": "LAM TENG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1063",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1063",
     "host": "FST-CIS"
   },
   {
@@ -24794,10 +24794,10 @@ var courses_info = [
     "prof": "WAN LUNG YAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E12-G005",
     "host": "FST-CIS"
   },
   {
@@ -24806,10 +24806,10 @@ var courses_info = [
     "prof": "WAN LUNG YAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E12-G005",
     "host": "FST-CIS"
   },
   {
@@ -24818,10 +24818,10 @@ var courses_info = [
     "prof": "WAN LUNG YAM (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E12-G005",
     "host": "FST-CIS"
   },
   {
@@ -24830,10 +24830,10 @@ var courses_info = [
     "prof": "LEI SIU LONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1061",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1061",
     "host": "FST-CIS"
   },
   {
@@ -24842,10 +24842,10 @@ var courses_info = [
     "prof": "LEI SIU LONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1061",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1061",
     "host": "FST-CIS"
   },
   {
@@ -24854,10 +24854,10 @@ var courses_info = [
     "prof": "LEI SIU LONG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1061",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1061",
     "host": "FST-CIS"
   },
   {
@@ -24866,10 +24866,10 @@ var courses_info = [
     "prof": "XU HUANLE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-G013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-G013",
     "host": "FST-CIS"
   },
   {
@@ -24878,10 +24878,10 @@ var courses_info = [
     "prof": "XU HUANLE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-G013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-G013",
     "host": "FST-CIS"
   },
   {
@@ -24890,10 +24890,10 @@ var courses_info = [
     "prof": "XU HUANLE (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E22-G013",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E22-G013",
     "host": "FST-CIS"
   },
   {
@@ -24902,10 +24902,10 @@ var courses_info = [
     "prof": "WU XIAOWEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E12-G003",
     "host": "FST-CIS"
   },
   {
@@ -24914,10 +24914,10 @@ var courses_info = [
     "prof": "WU XIAOWEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E12-G003",
     "host": "FST-CIS"
   },
   {
@@ -24926,10 +24926,10 @@ var courses_info = [
     "prof": "WU XIAOWEI (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E12-G003",
     "host": "FST-CIS"
   },
   {
@@ -24938,10 +24938,10 @@ var courses_info = [
     "prof": "VAT KAM HOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -24950,10 +24950,10 @@ var courses_info = [
     "prof": "VAT KAM HOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -24962,10 +24962,10 @@ var courses_info = [
     "prof": "GONG ZHIGUO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-1061",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-1061",
     "host": "FST-CIS"
   },
   {
@@ -24974,10 +24974,10 @@ var courses_info = [
     "prof": "GONG ZHIGUO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-1061",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-1061",
     "host": "FST-CIS"
   },
   {
@@ -24986,10 +24986,10 @@ var courses_info = [
     "prof": "GONG ZHIGUO (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E22-G013",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E22-G013",
     "host": "FST-CIS"
   },
   {
@@ -24998,10 +24998,10 @@ var courses_info = [
     "prof": "CHEN LONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1015",
     "host": "FST-CIS"
   },
   {
@@ -25010,10 +25010,10 @@ var courses_info = [
     "prof": "CHEN LONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1015",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1015",
     "host": "FST-CIS"
   },
   {
@@ -25022,10 +25022,10 @@ var courses_info = [
     "prof": "CHEN LONG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E11-1021",
     "host": "FST-CIS"
   },
   {
@@ -25034,10 +25034,10 @@ var courses_info = [
     "prof": "VAT KAM HOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -25046,10 +25046,10 @@ var courses_info = [
     "prof": "VAT KAM HOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -25058,10 +25058,10 @@ var courses_info = [
     "prof": "VAT KAM HOU (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1021",
     "host": "FST-CIS"
   },
   {
@@ -25070,10 +25070,10 @@ var courses_info = [
     "prof": "YANG DINGQI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -25082,10 +25082,10 @@ var courses_info = [
     "prof": "YANG DINGQI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -25094,10 +25094,10 @@ var courses_info = [
     "prof": "SHEN JIANBING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1021",
     "host": "FST-CIS"
   },
   {
@@ -25106,10 +25106,10 @@ var courses_info = [
     "prof": "SHEN JIANBING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1021",
     "host": "FST-CIS"
   },
   {
@@ -25118,10 +25118,10 @@ var courses_info = [
     "prof": "ZHANG LIMING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1015",
     "host": "FST-CIS"
   },
   {
@@ -25130,10 +25130,10 @@ var courses_info = [
     "prof": "ZHANG LIMING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1015",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1015",
     "host": "FST-CIS"
   },
   {
@@ -25142,10 +25142,10 @@ var courses_info = [
     "prof": "LI LI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E12-G004",
     "host": "FST-CIS"
   },
   {
@@ -25154,10 +25154,10 @@ var courses_info = [
     "prof": "LI LI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E12-G004",
     "host": "FST-CIS"
   },
   {
@@ -25166,10 +25166,10 @@ var courses_info = [
     "prof": "XU QIWEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E11-1021",
     "host": "FST-CIS"
   },
   {
@@ -25178,10 +25178,10 @@ var courses_info = [
     "prof": "XU QIWEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E11-1021",
     "host": "FST-CIS"
   },
   {
@@ -25190,10 +25190,10 @@ var courses_info = [
     "prof": "WONG FAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1018",
     "host": "FST-CIS"
   },
   {
@@ -25202,10 +25202,10 @@ var courses_info = [
     "prof": "WONG FAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1018",
     "host": "FST-CIS"
   },
   {
@@ -25406,10 +25406,10 @@ var courses_info = [
     "prof": "MIGUEL JUNIOR GOMES DA COSTA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E12-G003",
     "host": "FST-CIS"
   },
   {
@@ -25418,10 +25418,10 @@ var courses_info = [
     "prof": "MIGUEL JUNIOR GOMES DA COSTA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E12-G003",
     "host": "FST-CIS"
   },
   {
@@ -25430,10 +25430,10 @@ var courses_info = [
     "prof": "MIGUEL JUNIOR GOMES DA COSTA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -25442,10 +25442,10 @@ var courses_info = [
     "prof": "MIGUEL JUNIOR GOMES DA COSTA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1028",
     "host": "FST-CIS"
   },
   {
@@ -25454,10 +25454,10 @@ var courses_info = [
     "prof": "YIBO BOB ZHANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1018",
     "host": "FST-CIS"
   },
   {
@@ -25466,10 +25466,10 @@ var courses_info = [
     "prof": "YIBO BOB ZHANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1018",
     "host": "FST-CIS"
   },
   {
@@ -25478,10 +25478,10 @@ var courses_info = [
     "prof": "LAM TENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1102D",
     "host": "FST-CIS"
   },
   {
@@ -25490,10 +25490,10 @@ var courses_info = [
     "prof": "LAM TENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E6-1102D",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E6-1102D",
     "host": "FST-CIS"
   },
   {
@@ -25502,10 +25502,10 @@ var courses_info = [
     "prof": "SONG HAOMIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4043",
     "host": "FST-CSG"
   },
   {
@@ -25514,10 +25514,10 @@ var courses_info = [
     "prof": "SONG HAOMIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4043",
     "host": "FST-CSG"
   },
   {
@@ -25526,10 +25526,10 @@ var courses_info = [
     "prof": "IP WENG FAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-4043",
     "host": "FST-CSG"
   },
   {
@@ -25538,10 +25538,10 @@ var courses_info = [
     "prof": "IP WENG FAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E3-4043",
     "host": "FST-CSG"
   },
   {
@@ -25550,10 +25550,10 @@ var courses_info = [
     "prof": "ZHOU BINGPU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E11-1028",
     "host": "FST-DPC"
   },
   {
@@ -25562,10 +25562,10 @@ var courses_info = [
     "prof": "ZHOU BINGPU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E11-1028",
     "host": "FST-DPC"
   },
   {
@@ -25574,10 +25574,10 @@ var courses_info = [
     "prof": "ZHOU BINGPU (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1028",
     "host": "FST-DPC"
   },
   {
@@ -25586,10 +25586,10 @@ var courses_info = [
     "prof": "IP WENG FAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -25598,10 +25598,10 @@ var courses_info = [
     "prof": "IP WENG FAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -25610,10 +25610,10 @@ var courses_info = [
     "prof": "IP WENG FAI (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -25622,10 +25622,10 @@ var courses_info = [
     "prof": "TANG YU MING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-G013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-G013",
     "host": "FST-DPC"
   },
   {
@@ -25634,10 +25634,10 @@ var courses_info = [
     "prof": "TANG YU MING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E22-G013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E22-G013",
     "host": "FST-DPC"
   },
   {
@@ -25646,10 +25646,10 @@ var courses_info = [
     "prof": "TANG YU MING (in English)",
     "type": "Lab",
     "day": "",
-    "start": "10:00",
-    "end": "10:50",
-    "venue": "E22-G013",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "10:50",
+    "remark": "E22-G013",
     "host": "FST-DPC"
   },
   {
@@ -25658,10 +25658,10 @@ var courses_info = [
     "prof": "LIU TZU MING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E12-G005",
     "host": "FST-DPC"
   },
   {
@@ -25670,10 +25670,10 @@ var courses_info = [
     "prof": "IAN HOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25682,10 +25682,10 @@ var courses_info = [
     "prof": "IAN HOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25694,10 +25694,10 @@ var courses_info = [
     "prof": "IAN HOU (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -25706,10 +25706,10 @@ var courses_info = [
     "prof": "SHAO HUAIYU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25718,10 +25718,10 @@ var courses_info = [
     "prof": "SHAO HUAIYU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25730,10 +25730,10 @@ var courses_info = [
     "prof": "SHAO HUAIYU (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25742,10 +25742,10 @@ var courses_info = [
     "prof": "CHEN SHI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-1026",
     "host": "FST-DPC"
   },
   {
@@ -25754,10 +25754,10 @@ var courses_info = [
     "prof": "CHEN SHI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-1026",
     "host": "FST-DPC"
   },
   {
@@ -25766,10 +25766,10 @@ var courses_info = [
     "prof": "CHEN SHI (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25778,10 +25778,10 @@ var courses_info = [
     "prof": "LIU HONGCHAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:15",
-    "venue": "E3-G041",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:15",
+    "remark": "E3-G041",
     "host": "FST-DPC"
   },
   {
@@ -25790,10 +25790,10 @@ var courses_info = [
     "prof": "LIU HONGCHAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:15",
-    "venue": "E3-G041",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:15",
+    "remark": "E3-G041",
     "host": "FST-DPC"
   },
   {
@@ -25802,10 +25802,10 @@ var courses_info = [
     "prof": "LIU HONGCHAO (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:30",
-    "end": "12:20",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:20",
+    "remark": "E11-1026",
     "host": "FST-DPC"
   },
   {
@@ -25814,10 +25814,10 @@ var courses_info = [
     "prof": "NG KAR WEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1025",
     "host": "FST-DPC"
   },
   {
@@ -25826,10 +25826,10 @@ var courses_info = [
     "prof": "NG KAR WEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1025",
     "host": "FST-DPC"
   },
   {
@@ -25838,10 +25838,10 @@ var courses_info = [
     "prof": "NG KAR WEI (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:30",
-    "end": "12:20",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:20",
+    "remark": "E11-1025",
     "host": "FST-DPC"
   },
   {
@@ -25850,10 +25850,10 @@ var courses_info = [
     "prof": "XING GUICHUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-G012",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-G012",
     "host": "FST-DPC"
   },
   {
@@ -25862,10 +25862,10 @@ var courses_info = [
     "prof": "XING GUICHUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-G012",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-G012",
     "host": "FST-DPC"
   },
   {
@@ -25874,10 +25874,10 @@ var courses_info = [
     "prof": "XING GUICHUAN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "19:00",
-    "end": "19:50",
-    "venue": "E11-G012",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "19:50",
+    "remark": "E11-G012",
     "host": "FST-DPC"
   },
   {
@@ -25886,10 +25886,10 @@ var courses_info = [
     "prof": "ZHOU YINNING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:30",
-    "end": "20:45",
-    "venue": "E3-3045",
-    "remark": "",
+    "start": "",
+    "end": "19:30",
+    "venue": "20:45",
+    "remark": "E3-3045",
     "host": "FST-DPC"
   },
   {
@@ -25898,10 +25898,10 @@ var courses_info = [
     "prof": "ZHOU YINNING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "19:30",
-    "end": "20:45",
-    "venue": "E3-3045",
-    "remark": "",
+    "start": "",
+    "end": "19:30",
+    "venue": "20:45",
+    "remark": "E3-3045",
     "host": "FST-DPC"
   },
   {
@@ -25910,10 +25910,10 @@ var courses_info = [
     "prof": "ZHOU YINNING (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E11-1006",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E11-1006",
     "host": "FST-DPC"
   },
   {
@@ -25922,10 +25922,10 @@ var courses_info = [
     "prof": "WANG SHUANGPENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25934,10 +25934,10 @@ var courses_info = [
     "prof": "WANG SHUANGPENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -25946,10 +25946,10 @@ var courses_info = [
     "prof": "WANG SHUANGPENG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:30",
-    "end": "12:20",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:20",
+    "remark": "E11-1025",
     "host": "FST-DPC"
   },
   {
@@ -25958,10 +25958,10 @@ var courses_info = [
     "prof": "SUN GUOXING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1025",
     "host": "FST-DPC"
   },
   {
@@ -25970,10 +25970,10 @@ var courses_info = [
     "prof": "SUN GUOXING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1025",
     "host": "FST-DPC"
   },
   {
@@ -25982,10 +25982,10 @@ var courses_info = [
     "prof": "SUN GUOXING (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "16:50",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "16:50",
+    "remark": "E11-1027",
     "host": "FST-DPC"
   },
   {
@@ -26114,10 +26114,10 @@ var courses_info = [
     "prof": "LI QING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -26126,10 +26126,10 @@ var courses_info = [
     "prof": "LI QING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -26138,10 +26138,10 @@ var courses_info = [
     "prof": "YANG SHENGYUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -26150,10 +26150,10 @@ var courses_info = [
     "prof": "YANG SHENGYUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -26162,10 +26162,10 @@ var courses_info = [
     "prof": "YANG SHENGYUAN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E11-1021",
     "host": "FST-DPC"
   },
   {
@@ -26174,10 +26174,10 @@ var courses_info = [
     "prof": "LAI SHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -26186,10 +26186,10 @@ var courses_info = [
     "prof": "LAI SHEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1018",
     "host": "FST-DPC"
   },
   {
@@ -26198,10 +26198,10 @@ var courses_info = [
     "prof": "CAI YONGQING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1026",
     "host": "FST-DPC"
   },
   {
@@ -26210,10 +26210,10 @@ var courses_info = [
     "prof": "CAI YONGQING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1026",
     "host": "FST-DPC"
   },
   {
@@ -26222,10 +26222,10 @@ var courses_info = [
     "prof": "LAM CHI SENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E12-G003",
     "host": "FST-ECE"
   },
   {
@@ -26234,10 +26234,10 @@ var courses_info = [
     "prof": "VAI MANG I (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "16:15",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "16:15",
+    "remark": "E12-G004",
     "host": "FST-ECE"
   },
   {
@@ -26246,10 +26246,10 @@ var courses_info = [
     "prof": "VAI MANG I (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "14:30",
-    "end": "16:15",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "16:15",
+    "remark": "E12-G004",
     "host": "FST-ECE"
   },
   {
@@ -26258,10 +26258,10 @@ var courses_info = [
     "prof": "MAK PUI IN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "11:15",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "11:15",
+    "remark": "E12-G005",
     "host": "FST-ECE"
   },
   {
@@ -26270,10 +26270,10 @@ var courses_info = [
     "prof": "MAK PUI IN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E12-G005",
     "host": "FST-ECE"
   },
   {
@@ -26282,10 +26282,10 @@ var courses_info = [
     "prof": "MAK PENG UN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "10:15",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "10:15",
+    "remark": "E11-G015",
     "host": "FST-ECE"
   },
   {
@@ -26294,10 +26294,10 @@ var courses_info = [
     "prof": "MAK PENG UN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "08:30",
-    "end": "10:15",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "10:15",
+    "remark": "E11-G015",
     "host": "FST-ECE"
   },
   {
@@ -26306,10 +26306,10 @@ var courses_info = [
     "prof": "UN KA FAI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E11-G015",
     "host": "FST-ECE"
   },
   {
@@ -26318,10 +26318,10 @@ var courses_info = [
     "prof": "UN KA FAI (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E11-G015",
     "host": "FST-ECE"
   },
   {
@@ -26330,10 +26330,10 @@ var courses_info = [
     "prof": "LEI KA MENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:45",
-    "venue": "N22-G002",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:45",
+    "remark": "N22-G002",
     "host": "FST-ECE"
   },
   {
@@ -26342,10 +26342,10 @@ var courses_info = [
     "prof": "LEI KA MENG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:00",
-    "end": "11:45",
-    "venue": "N22-G002",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:45",
+    "remark": "N22-G002",
     "host": "FST-ECE"
   },
   {
@@ -26354,10 +26354,10 @@ var courses_info = [
     "prof": "SHAO YULIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E12-G003",
     "host": "FST-ECE"
   },
   {
@@ -26366,10 +26366,10 @@ var courses_info = [
     "prof": "SHAO YULIN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E12-G003",
     "host": "FST-ECE"
   },
   {
@@ -26378,10 +26378,10 @@ var courses_info = [
     "prof": "WANG MINGHAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:00",
-    "end": "18:45",
-    "venue": "N22-G002",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "18:45",
+    "remark": "N22-G002",
     "host": "FST-ECE"
   },
   {
@@ -26390,10 +26390,10 @@ var courses_info = [
     "prof": "WANG MINGHAO (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "17:00",
-    "end": "18:45",
-    "venue": "N22-G002",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "18:45",
+    "remark": "N22-G002",
     "host": "FST-ECE"
   },
   {
@@ -26402,10 +26402,10 @@ var courses_info = [
     "prof": "VAI MANG I (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:30",
-    "end": "12:15",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "10:30",
+    "venue": "12:15",
+    "remark": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26414,10 +26414,10 @@ var courses_info = [
     "prof": "VAI MANG I (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:30",
-    "end": "12:15",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "10:30",
+    "venue": "12:15",
+    "remark": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26426,10 +26426,10 @@ var courses_info = [
     "prof": "MAK PENG UN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "17:15",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "17:15",
+    "remark": "E12-G003",
     "host": "FST-ECE"
   },
   {
@@ -26438,10 +26438,10 @@ var courses_info = [
     "prof": "MAK PENG UN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E12-G003",
     "host": "FST-ECE"
   },
   {
@@ -26450,10 +26450,10 @@ var courses_info = [
     "prof": "LEI SIU LONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1061",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1061",
     "host": "FST-ECE"
   },
   {
@@ -26462,10 +26462,10 @@ var courses_info = [
     "prof": "LEI SIU LONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1061",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1061",
     "host": "FST-ECE"
   },
   {
@@ -26474,10 +26474,10 @@ var courses_info = [
     "prof": "LEI SIU LONG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E4-1061",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E4-1061",
     "host": "FST-ECE"
   },
   {
@@ -26486,10 +26486,10 @@ var courses_info = [
     "prof": "TAM KAM WENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "N22-G002",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "N22-G002",
     "host": "FST-ECE"
   },
   {
@@ -26498,10 +26498,10 @@ var courses_info = [
     "prof": "TAM KAM WENG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "N22-G002",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "N22-G002",
     "host": "FST-ECE"
   },
   {
@@ -26510,10 +26510,10 @@ var courses_info = [
     "prof": "LAO KENG WENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:30",
-    "end": "18:15",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "16:30",
+    "venue": "18:15",
+    "remark": "E11-G015",
     "host": "FST-ECE"
   },
   {
@@ -26522,10 +26522,10 @@ var courses_info = [
     "prof": "LAO KENG WENG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:30",
-    "end": "18:15",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "16:30",
+    "venue": "18:15",
+    "remark": "E11-G015",
     "host": "FST-ECE"
   },
   {
@@ -26534,10 +26534,10 @@ var courses_info = [
     "prof": "CARLOS JORGE FERREIRA SILVESTRE (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:00",
-    "end": "16:45",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "16:45",
+    "remark": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26546,10 +26546,10 @@ var courses_info = [
     "prof": "CARLOS JORGE FERREIRA SILVESTRE (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "15:00",
-    "end": "16:45",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "16:45",
+    "remark": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26558,10 +26558,10 @@ var courses_info = [
     "prof": "MOK SENG PENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26570,10 +26570,10 @@ var courses_info = [
     "prof": "JIA YANWEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "15:45",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "15:45",
+    "remark": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26582,10 +26582,10 @@ var courses_info = [
     "prof": "JIA YANWEI (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "14:00",
-    "end": "15:45",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "15:45",
+    "remark": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26594,10 +26594,10 @@ var courses_info = [
     "prof": "WANG MINGHAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:45",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:45",
+    "remark": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26606,10 +26606,10 @@ var courses_info = [
     "prof": "WANG MINGHAO (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "13:00",
-    "end": "14:45",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:45",
+    "remark": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26618,10 +26618,10 @@ var courses_info = [
     "prof": "CHOI WAI WA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E11-1026",
     "host": "FST-ECE"
   },
   {
@@ -26630,10 +26630,10 @@ var courses_info = [
     "prof": "CHOI WAI WA (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E11-1026",
     "host": "FST-ECE"
   },
   {
@@ -26642,10 +26642,10 @@ var courses_info = [
     "prof": "JIANG YANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:00",
-    "end": "18:45",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "18:45",
+    "remark": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26654,10 +26654,10 @@ var courses_info = [
     "prof": "JIANG YANG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "17:00",
-    "end": "18:45",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "18:45",
+    "remark": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26666,10 +26666,10 @@ var courses_info = [
     "prof": "ZHU YAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:45",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:45",
+    "remark": "E11-1026",
     "host": "FST-ECE"
   },
   {
@@ -26678,10 +26678,10 @@ var courses_info = [
     "prof": "ZHU YAN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "17:45",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:45",
+    "remark": "E11-1026",
     "host": "FST-ECE"
   },
   {
@@ -26690,10 +26690,10 @@ var courses_info = [
     "prof": "YIN JUN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26702,10 +26702,10 @@ var courses_info = [
     "prof": "YIN JUN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26714,10 +26714,10 @@ var courses_info = [
     "prof": "LAW MAN KAY (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "19:15:00",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "19:15:00",
+    "remark": "E11-1026",
     "host": "FST-ECE"
   },
   {
@@ -26726,10 +26726,10 @@ var courses_info = [
     "prof": "LAW MAN KAY (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "17:30",
-    "end": "19:15:00",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "19:15:00",
+    "remark": "E11-1027",
     "host": "FST-ECE"
   },
   {
@@ -26870,10 +26870,10 @@ var courses_info = [
     "prof": "PUN SIO HANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:45",
-    "venue": "E11-1026 / E11-2032",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:45",
+    "remark": "E11-1026 / E11-2032",
     "host": "FST-ECE"
   },
   {
@@ -26882,10 +26882,10 @@ var courses_info = [
     "prof": "PUN SIO HANG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "13:00",
-    "end": "14:45",
-    "venue": "E11-1026 / E11-2032",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:45",
+    "remark": "E11-1026 / E11-2032",
     "host": "FST-ECE"
   },
   {
@@ -26894,10 +26894,10 @@ var courses_info = [
     "prof": "CHOI WAI WA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-G068",
     "host": "FST-ECE"
   },
   {
@@ -26906,10 +26906,10 @@ var courses_info = [
     "prof": "CHOI WAI WA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E4-G068",
     "host": "FST-ECE"
   },
   {
@@ -26918,10 +26918,10 @@ var courses_info = [
     "prof": "LAO SENG KIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:45",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:45",
+    "remark": "E12-G004",
     "host": "FST-EME"
   },
   {
@@ -26930,10 +26930,10 @@ var courses_info = [
     "prof": "KWOK CHI TAT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E12-G004",
     "host": "FST-EME"
   },
   {
@@ -26942,10 +26942,10 @@ var courses_info = [
     "prof": "KWOK CHI TAT (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E12-G004",
     "host": "FST-EME"
   },
   {
@@ -26954,10 +26954,10 @@ var courses_info = [
     "prof": "JIANG YING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E12-G003",
     "host": "FST-EME"
   },
   {
@@ -26966,10 +26966,10 @@ var courses_info = [
     "prof": "JIANG YING (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E12-G003",
     "host": "FST-EME"
   },
   {
@@ -26978,10 +26978,10 @@ var courses_info = [
     "prof": "LO KIN HO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "15:45",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "15:45",
+    "remark": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -26990,10 +26990,10 @@ var courses_info = [
     "prof": "LO KIN HO (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "14:00",
-    "end": "15:45",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "15:45",
+    "remark": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27002,10 +27002,10 @@ var courses_info = [
     "prof": "VALENTINO ANOK MELO CRISTINO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E11-G015",
     "host": "FST-EME"
   },
   {
@@ -27014,10 +27014,10 @@ var courses_info = [
     "prof": "VALENTINO ANOK MELO CRISTINO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E11-G015",
     "host": "FST-EME"
   },
   {
@@ -27026,10 +27026,10 @@ var courses_info = [
     "prof": "LIU JINRONG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:00",
-    "end": "18:45",
-    "venue": "E11-1015",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "18:45",
+    "remark": "E11-1015",
     "host": "FST-EME"
   },
   {
@@ -27038,10 +27038,10 @@ var courses_info = [
     "prof": "LIU JINRONG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "17:00",
-    "end": "18:45",
-    "venue": "E11-1015",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "18:45",
+    "remark": "E11-1015",
     "host": "FST-EME"
   },
   {
@@ -27050,10 +27050,10 @@ var courses_info = [
     "prof": "WU ZEHAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E11-1028",
     "host": "FST-EME"
   },
   {
@@ -27062,10 +27062,10 @@ var courses_info = [
     "prof": "WU ZEHAO (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E11-1028",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E11-1028",
     "host": "FST-EME"
   },
   {
@@ -27074,10 +27074,10 @@ var courses_info = [
     "prof": "LAO SENG KIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E12-G021",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E12-G021",
     "host": "FST-EME"
   },
   {
@@ -27086,10 +27086,10 @@ var courses_info = [
     "prof": "LAO SENG KIN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E12-G021",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E12-G021",
     "host": "FST-EME"
   },
   {
@@ -27098,10 +27098,10 @@ var courses_info = [
     "prof": "LAO SENG KIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27110,10 +27110,10 @@ var courses_info = [
     "prof": "LAO SENG KIN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27122,10 +27122,10 @@ var courses_info = [
     "prof": "LAO SENG KIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27134,10 +27134,10 @@ var courses_info = [
     "prof": "TAM LAP MOU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:45",
-    "venue": "E11-1015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:45",
+    "remark": "E11-1015",
     "host": "FST-EME"
   },
   {
@@ -27146,10 +27146,10 @@ var courses_info = [
     "prof": "TAM LAP MOU (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "16:00",
-    "end": "17:45",
-    "venue": "E11-1015",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:45",
+    "remark": "E11-1015",
     "host": "FST-EME"
   },
   {
@@ -27158,10 +27158,10 @@ var courses_info = [
     "prof": "SU YAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E12-G021",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E12-G021",
     "host": "FST-EME"
   },
   {
@@ -27170,10 +27170,10 @@ var courses_info = [
     "prof": "SU YAN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E12-G021",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E12-G021",
     "host": "FST-EME"
   },
   {
@@ -27182,10 +27182,10 @@ var courses_info = [
     "prof": "WONG SENG FAT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:00",
-    "end": "16:45",
-    "venue": "E12-G021",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "16:45",
+    "remark": "E12-G021",
     "host": "FST-EME"
   },
   {
@@ -27194,10 +27194,10 @@ var courses_info = [
     "prof": "WONG SENG FAT (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "15:00",
-    "end": "16:45",
-    "venue": "E12-G021",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "16:45",
+    "remark": "E12-G021",
     "host": "FST-EME"
   },
   {
@@ -27206,10 +27206,10 @@ var courses_info = [
     "prof": "LI QINGBIAO (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27218,10 +27218,10 @@ var courses_info = [
     "prof": "LI QINGBIAO (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "10:45",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "10:45",
+    "remark": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27230,10 +27230,10 @@ var courses_info = [
     "prof": "LEI IEK MAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:00",
-    "end": "18:45",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "18:45",
+    "remark": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27242,10 +27242,10 @@ var courses_info = [
     "prof": "LEI IEK MAN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "17:00",
-    "end": "18:45",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "17:00",
+    "venue": "18:45",
+    "remark": "E12-G020",
     "host": "FST-EME"
   },
   {
@@ -27254,10 +27254,10 @@ var courses_info = [
     "prof": "CHUCK CHUNG YIN ALBERT (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E11-1018",
     "host": "FST-EME"
   },
   {
@@ -27266,10 +27266,10 @@ var courses_info = [
     "prof": "CHUCK CHUNG YIN ALBERT (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:00",
-    "end": "12:45",
-    "venue": "E11-1018",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "12:45",
+    "remark": "E11-1018",
     "host": "FST-EME"
   },
   {
@@ -27278,10 +27278,10 @@ var courses_info = [
     "prof": "ZHONG JUNWEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "15:00",
-    "end": "16:45",
-    "venue": "E11-1015",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "16:45",
+    "remark": "E11-1015",
     "host": "FST-EME"
   },
   {
@@ -27290,10 +27290,10 @@ var courses_info = [
     "prof": "ZHONG JUNWEN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "15:00",
-    "end": "16:45",
-    "venue": "E11-1015",
-    "remark": "",
+    "start": "",
+    "end": "15:00",
+    "venue": "16:45",
+    "remark": "E11-1015",
     "host": "FST-EME"
   },
   {
@@ -27434,10 +27434,10 @@ var courses_info = [
     "prof": "KOU KIT IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4043",
     "host": "FST-MAT"
   },
   {
@@ -27446,10 +27446,10 @@ var courses_info = [
     "prof": "KOU KIT IAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4043",
     "host": "FST-MAT"
   },
   {
@@ -27458,10 +27458,10 @@ var courses_info = [
     "prof": "KOU KIT IAN (in English)",
     "type": "Lab",
     "day": "",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E3-4043",
     "host": "FST-MAT"
   },
   {
@@ -27470,10 +27470,10 @@ var courses_info = [
     "prof": "WAN LUNG YAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4042",
     "host": "FST-MAT"
   },
   {
@@ -27482,10 +27482,10 @@ var courses_info = [
     "prof": "WAN LUNG YAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4042",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4042",
     "host": "FST-MAT"
   },
   {
@@ -27494,10 +27494,10 @@ var courses_info = [
     "prof": "JIN XIAO QING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27506,10 +27506,10 @@ var courses_info = [
     "prof": "JIN XIAO QING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27518,10 +27518,10 @@ var courses_info = [
     "prof": "JIN XIAO QING (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:30",
-    "end": "11:20",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "10:30",
+    "venue": "11:20",
+    "remark": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27530,10 +27530,10 @@ var courses_info = [
     "prof": "CHENG CHE MAN RAYMOND (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E12-G004",
     "host": "FST-MAT"
   },
   {
@@ -27542,10 +27542,10 @@ var courses_info = [
     "prof": "CHENG CHE MAN RAYMOND (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E12-G004",
     "host": "FST-MAT"
   },
   {
@@ -27554,10 +27554,10 @@ var courses_info = [
     "prof": "CHENG CHE MAN RAYMOND (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:30",
-    "end": "11:20",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "10:30",
+    "venue": "11:20",
+    "remark": "E11-G015",
     "host": "FST-MAT"
   },
   {
@@ -27566,10 +27566,10 @@ var courses_info = [
     "prof": "CHENG CHE MAN RAYMOND (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E12-G004",
     "host": "FST-MAT"
   },
   {
@@ -27578,10 +27578,10 @@ var courses_info = [
     "prof": "CHENG CHE MAN RAYMOND (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E12-G004",
     "host": "FST-MAT"
   },
   {
@@ -27590,10 +27590,10 @@ var courses_info = [
     "prof": "CHENG CHE MAN RAYMOND (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E12-G004",
     "host": "FST-MAT"
   },
   {
@@ -27602,10 +27602,10 @@ var courses_info = [
     "prof": "YANG WEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27614,10 +27614,10 @@ var courses_info = [
     "prof": "YANG WEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27626,10 +27626,10 @@ var courses_info = [
     "prof": "YANG WEN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "08:30",
-    "end": "09:20",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:20",
+    "remark": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27638,10 +27638,10 @@ var courses_info = [
     "prof": "YANG WEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E12-G003",
     "host": "FST-MAT"
   },
   {
@@ -27650,10 +27650,10 @@ var courses_info = [
     "prof": "YANG WEN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E12-G003",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E12-G003",
     "host": "FST-MAT"
   },
   {
@@ -27662,10 +27662,10 @@ var courses_info = [
     "prof": "YANG WEN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "N22-G002",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "N22-G002",
     "host": "FST-MAT"
   },
   {
@@ -27674,10 +27674,10 @@ var courses_info = [
     "prof": "WAN LUNG YAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-G068",
     "host": "FST-MAT"
   },
   {
@@ -27686,10 +27686,10 @@ var courses_info = [
     "prof": "WAN LUNG YAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E4-G068",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E4-G068",
     "host": "FST-MAT"
   },
   {
@@ -27698,10 +27698,10 @@ var courses_info = [
     "prof": "WAN LUNG YAM (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "18:00",
-    "end": "18:50",
-    "venue": "E12-G004",
-    "remark": "",
+    "start": "",
+    "end": "18:00",
+    "venue": "18:50",
+    "remark": "E12-G004",
     "host": "FST-MAT"
   },
   {
@@ -27710,10 +27710,10 @@ var courses_info = [
     "prof": "LEONG IENG TAK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -27722,10 +27722,10 @@ var courses_info = [
     "prof": "LEONG IENG TAK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "08:30",
-    "end": "09:45",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "08:30",
+    "venue": "09:45",
+    "remark": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -27734,10 +27734,10 @@ var courses_info = [
     "prof": "LEONG IENG TAK (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:00",
-    "end": "11:50",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "11:50",
+    "remark": "E11-1027",
     "host": "FST-MAT"
   },
   {
@@ -27746,10 +27746,10 @@ var courses_info = [
     "prof": "LEONG IENG TAK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27758,10 +27758,10 @@ var courses_info = [
     "prof": "LEONG IENG TAK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E12-G005",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E12-G005",
     "host": "FST-MAT"
   },
   {
@@ -27770,10 +27770,10 @@ var courses_info = [
     "prof": "LEONG IENG TAK (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -27782,10 +27782,10 @@ var courses_info = [
     "prof": "LEONG IENG TAK (in English)",
     "type": "Lab",
     "day": "LAB-L03",
-    "start": "12:00",
-    "end": "12:50",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "12:00",
+    "venue": "12:50",
+    "remark": "E11-1027",
     "host": "FST-MAT"
   },
   {
@@ -27794,10 +27794,10 @@ var courses_info = [
     "prof": "HU GUANGHUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-G015",
     "host": "FST-MAT"
   },
   {
@@ -27806,10 +27806,10 @@ var courses_info = [
     "prof": "HU GUANGHUI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-G015",
     "host": "FST-MAT"
   },
   {
@@ -27818,10 +27818,10 @@ var courses_info = [
     "prof": "HU GUANGHUI (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "17:30",
-    "end": "18:20",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:20",
+    "remark": "E11-G015",
     "host": "FST-MAT"
   },
   {
@@ -27830,10 +27830,10 @@ var courses_info = [
     "prof": "WAN LUNG YAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E11-G015",
     "host": "FST-MAT"
   },
   {
@@ -27842,10 +27842,10 @@ var courses_info = [
     "prof": "WAN LUNG YAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E11-G015",
     "host": "FST-MAT"
   },
   {
@@ -27854,10 +27854,10 @@ var courses_info = [
     "prof": "WAN LUNG YAM (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E11-G015",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E11-G015",
     "host": "FST-MAT"
   },
   {
@@ -27866,10 +27866,10 @@ var courses_info = [
     "prof": "JIN XIAO QING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-1021",
     "host": "FST-MAT"
   },
   {
@@ -27878,10 +27878,10 @@ var courses_info = [
     "prof": "JIN XIAO QING (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-1021",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-1021",
     "host": "FST-MAT"
   },
   {
@@ -27890,10 +27890,10 @@ var courses_info = [
     "prof": "JIN XIAO QING (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E12-G020",
     "host": "FST-MAT"
   },
   {
@@ -27902,10 +27902,10 @@ var courses_info = [
     "prof": "VONG SEAK WENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -27914,10 +27914,10 @@ var courses_info = [
     "prof": "VONG SEAK WENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -27926,10 +27926,10 @@ var courses_info = [
     "prof": "VONG SEAK WENG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "11:00",
-    "end": "11:50",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "11:00",
+    "venue": "11:50",
+    "remark": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -27938,10 +27938,10 @@ var courses_info = [
     "prof": "LEONG IENG TAK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -27950,10 +27950,10 @@ var courses_info = [
     "prof": "LEONG IENG TAK (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -27962,10 +27962,10 @@ var courses_info = [
     "prof": "LEONG IENG TAK (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:00",
-    "end": "10:50",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "10:50",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -27974,10 +27974,10 @@ var courses_info = [
     "prof": "VONG SEAK WENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -27986,10 +27986,10 @@ var courses_info = [
     "prof": "VONG SEAK WENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -27998,10 +27998,10 @@ var courses_info = [
     "prof": "VONG SEAK WENG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E11-1027",
     "host": "FST-MAT"
   },
   {
@@ -28010,10 +28010,10 @@ var courses_info = [
     "prof": "LUO LI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28022,10 +28022,10 @@ var courses_info = [
     "prof": "LUO LI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28034,10 +28034,10 @@ var courses_info = [
     "prof": "LUO LI (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28046,10 +28046,10 @@ var courses_info = [
     "prof": "CHIA HUI MIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-1027",
     "host": "FST-MAT"
   },
   {
@@ -28058,10 +28058,10 @@ var courses_info = [
     "prof": "CHIA HUI MIN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-1027",
     "host": "FST-MAT"
   },
   {
@@ -28070,10 +28070,10 @@ var courses_info = [
     "prof": "CHIA HUI MIN (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "19:00",
-    "end": "19:50",
-    "venue": "E3-G041",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "19:50",
+    "remark": "E3-G041",
     "host": "FST-MAT"
   },
   {
@@ -28082,10 +28082,10 @@ var courses_info = [
     "prof": "XU LIHU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28094,10 +28094,10 @@ var courses_info = [
     "prof": "XU LIHU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28106,10 +28106,10 @@ var courses_info = [
     "prof": "XU LIHU (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E11-1027",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E11-1027",
     "host": "FST-MAT"
   },
   {
@@ -28118,10 +28118,10 @@ var courses_info = [
     "prof": "ZHANG ZHIXIANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28130,10 +28130,10 @@ var courses_info = [
     "prof": "ZHANG ZHIXIANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28142,10 +28142,10 @@ var courses_info = [
     "prof": "ZHANG ZHIXIANG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "09:00",
-    "end": "09:50",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "09:00",
+    "venue": "09:50",
+    "remark": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -28154,10 +28154,10 @@ var courses_info = [
     "prof": "YUAN HONGWEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -28166,10 +28166,10 @@ var courses_info = [
     "prof": "YUAN HONGWEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -28178,10 +28178,10 @@ var courses_info = [
     "prof": "YUAN HONGWEI (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "10:00",
-    "end": "10:50",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "10:50",
+    "remark": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -28190,10 +28190,10 @@ var courses_info = [
     "prof": "ZHANG ZHIXIANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28202,10 +28202,10 @@ var courses_info = [
     "prof": "ZHANG ZHIXIANG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E11-1025",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E11-1025",
     "host": "FST-MAT"
   },
   {
@@ -28214,10 +28214,10 @@ var courses_info = [
     "prof": "ZHANG ZHIXIANG (in English)",
     "type": "Lab",
     "day": "LAB-L02",
-    "start": "14:00",
-    "end": "14:50",
-    "venue": "E11-1026",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "14:50",
+    "remark": "E11-1026",
     "host": "FST-MAT"
   },
   {
@@ -28250,10 +28250,10 @@ var courses_info = [
     "prof": "CHAN KA WAI / GUO TIEYUAN / SIMPSON TIMOTHY ALAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:00",
-    "end": "16:45",
-    "venue": "E12-G020",
-    "remark": "",
+    "start": "",
+    "end": "14:00",
+    "venue": "16:45",
+    "remark": "E12-G020",
     "host": "HC"
   },
   {
@@ -29318,10 +29318,10 @@ var courses_info = [
     "prof": "LI HAIFENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1102C",
     "host": "IAPME"
   },
   {
@@ -29330,10 +29330,10 @@ var courses_info = [
     "prof": "LI HAIFENG (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E6-1102C",
     "host": "IAPME"
   },
   {
@@ -29342,10 +29342,10 @@ var courses_info = [
     "prof": "QU SONGNAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E6-1102C",
     "host": "IAPME"
   },
   {
@@ -29354,10 +29354,10 @@ var courses_info = [
     "prof": "QU SONGNAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E6-1102C",
     "host": "IAPME"
   },
   {
@@ -29366,10 +29366,10 @@ var courses_info = [
     "prof": "REN TIANHUA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1102C",
     "host": "IAPME"
   },
   {
@@ -29378,10 +29378,10 @@ var courses_info = [
     "prof": "REN TIANHUA (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "14:30",
-    "end": "15:45",
-    "venue": "E6-1102C",
-    "remark": "",
+    "start": "",
+    "end": "14:30",
+    "venue": "15:45",
+    "remark": "E6-1102C",
     "host": "IAPME"
   },
   {
@@ -29390,10 +29390,10 @@ var courses_info = [
     "prof": "HUI KWUN NAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4043",
     "host": "IAPME"
   },
   {
@@ -29402,10 +29402,10 @@ var courses_info = [
     "prof": "HUI KWUN NAM (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "16:00",
-    "end": "17:15",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "16:00",
+    "venue": "17:15",
+    "remark": "E3-4043",
     "host": "IAPME"
   },
   {
@@ -29414,10 +29414,10 @@ var courses_info = [
     "prof": "CHEANG WAI SAN / CHOU CHON KIT / HOI PUI MAN / LI YUE / YAN RU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4042",
     "host": "ICMS"
   },
   {
@@ -29426,10 +29426,10 @@ var courses_info = [
     "prof": "CHEANG WAI SAN / CHOU CHON KIT / HOI PUI MAN / LI YUE / YAN RU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "10:00",
-    "end": "11:15",
-    "venue": "E3-4042",
-    "remark": "",
+    "start": "",
+    "end": "10:00",
+    "venue": "11:15",
+    "remark": "E3-4042",
     "host": "ICMS"
   },
   {
@@ -29438,10 +29438,10 @@ var courses_info = [
     "prof": "CHEANG WAI SAN / CHOU CHON KIT / HOI PUI MAN / LI YUE / YAN RU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4042",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4042",
     "host": "ICMS"
   },
   {
@@ -29450,10 +29450,10 @@ var courses_info = [
     "prof": "CHEANG WAI SAN / CHOU CHON KIT / HOI PUI MAN / LI YUE / YAN RU (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "11:30",
-    "end": "12:45",
-    "venue": "E3-4042",
-    "remark": "",
+    "start": "",
+    "end": "11:30",
+    "venue": "12:45",
+    "remark": "E3-4042",
     "host": "ICMS"
   },
   {
@@ -29462,10 +29462,10 @@ var courses_info = [
     "prof": "ZHANG MINGLEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4043",
     "host": "IME"
   },
   {
@@ -29474,10 +29474,10 @@ var courses_info = [
     "prof": "ZHANG MINGLEI (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4043",
     "host": "IME"
   },
   {
@@ -29486,10 +29486,10 @@ var courses_info = [
     "prof": "YAN ZHIYUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4043",
     "host": "IME"
   },
   {
@@ -29498,10 +29498,10 @@ var courses_info = [
     "prof": "YAN ZHIYUAN (in English)",
     "type": "Lecture",
     "day": "",
-    "start": "13:00",
-    "end": "14:15",
-    "venue": "E3-4043",
-    "remark": "",
+    "start": "",
+    "end": "13:00",
+    "venue": "14:15",
+    "remark": "E3-4043",
     "host": "IME"
   },
   {
@@ -29510,10 +29510,10 @@ var courses_info = [
     "prof": "HUANG CAISHI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W34-G035",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W34-G035",
     "host": "RC"
   },
   {
@@ -29522,10 +29522,10 @@ var courses_info = [
     "prof": "CHAN KA HOU (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W34-G006",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W34-G006",
     "host": "RC"
   },
   {
@@ -29534,10 +29534,10 @@ var courses_info = [
     "prof": "HUANG CAISHI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W34-G035",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W34-G035",
     "host": "RC"
   },
   {
@@ -29546,10 +29546,10 @@ var courses_info = [
     "prof": "CHAN KA HOU (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W34-G006",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W34-G006",
     "host": "RC"
   },
   {
@@ -29558,10 +29558,10 @@ var courses_info = [
     "prof": "HUANG CAISHI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W34-G035",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W34-G035",
     "host": "RC"
   },
   {
@@ -29570,10 +29570,10 @@ var courses_info = [
     "prof": "CHAN KA HOU (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W34-G006",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W34-G006",
     "host": "RC"
   },
   {
@@ -29582,10 +29582,10 @@ var courses_info = [
     "prof": "CHEANG CHI MENG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W21-G015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W21-G015",
     "host": "RC"
   },
   {
@@ -29594,10 +29594,10 @@ var courses_info = [
     "prof": "CHEANG CHI MENG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W21-G015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W21-G015",
     "host": "RC"
   },
   {
@@ -29606,10 +29606,10 @@ var courses_info = [
     "prof": "NG WAN FONG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W21-G028",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W21-G028",
     "host": "RC"
   },
   {
@@ -29618,10 +29618,10 @@ var courses_info = [
     "prof": "NG WAN FONG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W21-G015",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W21-G015",
     "host": "RC"
   },
   {
@@ -29630,10 +29630,10 @@ var courses_info = [
     "prof": "SENG I TENG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W21-G028",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W21-G028",
     "host": "RC"
   },
   {
@@ -29642,10 +29642,10 @@ var courses_info = [
     "prof": "SENG I TENG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W21-G028",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W21-G028",
     "host": "RC"
   },
   {
@@ -29654,10 +29654,10 @@ var courses_info = [
     "prof": "GONG YINGXUE (in English supplemented with Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W23-1051",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W23-1051",
     "host": "RC"
   },
   {
@@ -29666,10 +29666,10 @@ var courses_info = [
     "prof": "GONG YINGXUE (in English supplemented with Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W23-1051",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W23-1051",
     "host": "RC"
   },
   {
@@ -29678,10 +29678,10 @@ var courses_info = [
     "prof": "LU CHING HUI (in English supplemented with Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W23-G012",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W23-G012",
     "host": "RC"
   },
   {
@@ -29690,10 +29690,10 @@ var courses_info = [
     "prof": "LU CHING HUI (in English supplemented with Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W23-G012",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W23-G012",
     "host": "RC"
   },
   {
@@ -29702,10 +29702,10 @@ var courses_info = [
     "prof": "TANG YU MING (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W23-G012",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W23-G012",
     "host": "RC"
   },
   {
@@ -29714,10 +29714,10 @@ var courses_info = [
     "prof": "TANG YU MING (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W23-1051",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W23-1051",
     "host": "RC"
   },
   {
@@ -29726,10 +29726,10 @@ var courses_info = [
     "prof": "LI WAI CHUNG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-3038",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-3038",
     "host": "RC"
   },
   {
@@ -29738,10 +29738,10 @@ var courses_info = [
     "prof": "QI YANING (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-G018",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-G018",
     "host": "RC"
   },
   {
@@ -29750,10 +29750,10 @@ var courses_info = [
     "prof": "WU CHI CHONG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-G018",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-G018",
     "host": "RC"
   },
   {
@@ -29762,10 +29762,10 @@ var courses_info = [
     "prof": "LI WAI CHUNG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-3038",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-3038",
     "host": "RC"
   },
   {
@@ -29774,10 +29774,10 @@ var courses_info = [
     "prof": "QI YANING (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-G018",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-G018",
     "host": "RC"
   },
   {
@@ -29786,10 +29786,10 @@ var courses_info = [
     "prof": "WU CHI CHONG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-3038",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-3038",
     "host": "RC"
   },
   {
@@ -29798,10 +29798,10 @@ var courses_info = [
     "prof": "LEUNG MAY YEE JANNY (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "19:00",
-    "end": "20:15",
-    "venue": "W31-G033",
-    "remark": "",
+    "start": "",
+    "end": "19:00",
+    "venue": "20:15",
+    "remark": "W31-G033",
     "host": "RC"
   },
   {
@@ -29810,10 +29810,10 @@ var courses_info = [
     "prof": "CHANG KIT PENG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W14-G023",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W14-G023",
     "host": "RC"
   },
   {
@@ -29822,10 +29822,10 @@ var courses_info = [
     "prof": "LAO CHAN CHIO (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W14-G024",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W14-G024",
     "host": "RC"
   },
   {
@@ -29834,10 +29834,10 @@ var courses_info = [
     "prof": "JIANG YI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W14-G023",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W14-G023",
     "host": "RC"
   },
   {
@@ -29846,10 +29846,10 @@ var courses_info = [
     "prof": "LAO CHAN CHIO (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W14-G024",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W14-G024",
     "host": "RC"
   },
   {
@@ -29858,10 +29858,10 @@ var courses_info = [
     "prof": "JIANG YI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W14-G023",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W14-G023",
     "host": "RC"
   },
   {
@@ -29870,10 +29870,10 @@ var courses_info = [
     "prof": "CHANG KIT PENG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W14-G024",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W14-G024",
     "host": "RC"
   },
   {
@@ -29882,10 +29882,10 @@ var courses_info = [
     "prof": "SUN SISI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W22-G012",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W22-G012",
     "host": "RC"
   },
   {
@@ -29894,10 +29894,10 @@ var courses_info = [
     "prof": "LEI WENG HONG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W22-G030",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W22-G030",
     "host": "RC"
   },
   {
@@ -29906,10 +29906,10 @@ var courses_info = [
     "prof": "CHAO KUOK FAI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W22-4025",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W22-4025",
     "host": "RC"
   },
   {
@@ -29918,10 +29918,10 @@ var courses_info = [
     "prof": "LEI WENG HONG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W22-4025",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W22-4025",
     "host": "RC"
   },
   {
@@ -29930,10 +29930,10 @@ var courses_info = [
     "prof": "SUN SISI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W22-G030",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W22-G030",
     "host": "RC"
   },
   {
@@ -29942,10 +29942,10 @@ var courses_info = [
     "prof": "CHAO KUOK FAI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W22-G012",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W22-G012",
     "host": "RC"
   },
   {
@@ -29954,10 +29954,10 @@ var courses_info = [
     "prof": "SUN SISI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W22-4025",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W22-4025",
     "host": "RC"
   },
   {
@@ -29966,10 +29966,10 @@ var courses_info = [
     "prof": "LEI WENG HONG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W22-G012",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W22-G012",
     "host": "RC"
   },
   {
@@ -29978,10 +29978,10 @@ var courses_info = [
     "prof": "CHAO KUOK FAI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W22-G030",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W22-G030",
     "host": "RC"
   },
   {
@@ -29990,10 +29990,10 @@ var courses_info = [
     "prof": "LAU PUI KEI (in English supplemented with Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1030",
     "host": "RC"
   },
   {
@@ -30002,10 +30002,10 @@ var courses_info = [
     "prof": "LAU PUI KEI (in English supplemented with Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1030",
     "host": "RC"
   },
   {
@@ -30014,10 +30014,10 @@ var courses_info = [
     "prof": "HONG IENG WAI (in English supplemented with Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1032",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1032",
     "host": "RC"
   },
   {
@@ -30026,10 +30026,10 @@ var courses_info = [
     "prof": "MANUEL ANTONIO NORONHA (in English supplemented with Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1030",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1030",
     "host": "RC"
   },
   {
@@ -30038,10 +30038,10 @@ var courses_info = [
     "prof": "HONG IENG WAI (in English supplemented with Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1032",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1032",
     "host": "RC"
   },
   {
@@ -30050,10 +30050,10 @@ var courses_info = [
     "prof": "MANUEL ANTONIO NORONHA (in English supplemented with Portuguese)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E21-1033",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E21-1033",
     "host": "RC"
   },
   {
@@ -30074,10 +30074,10 @@ var courses_info = [
     "prof": "CHAN HIO HEI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "S9-G033",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "S9-G033",
     "host": "RC"
   },
   {
@@ -30086,10 +30086,10 @@ var courses_info = [
     "prof": "LIU JINGJING (in English supplemented with Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "S9-G011",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "S9-G011",
     "host": "RC"
   },
   {
@@ -30098,10 +30098,10 @@ var courses_info = [
     "prof": "WONG HANG CHEONG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "S9-G033",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "S9-G033",
     "host": "RC"
   },
   {
@@ -30110,10 +30110,10 @@ var courses_info = [
     "prof": "LIU JINGJING (in English supplemented with Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "S9-G011",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "S9-G011",
     "host": "RC"
   },
   {
@@ -30122,10 +30122,10 @@ var courses_info = [
     "prof": "CHAN HIO HEI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "S9-G033",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "S9-G033",
     "host": "RC"
   },
   {
@@ -30134,10 +30134,10 @@ var courses_info = [
     "prof": "WONG HANG CHEONG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "S9-G011",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "S9-G011",
     "host": "RC"
   },
   {
@@ -30146,10 +30146,10 @@ var courses_info = [
     "prof": "CHANG YIXIN (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W13-G023",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W13-G023",
     "host": "RC"
   },
   {
@@ -30158,10 +30158,10 @@ var courses_info = [
     "prof": "WAN WAI SAN (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W13-G024",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W13-G024",
     "host": "RC"
   },
   {
@@ -30170,10 +30170,10 @@ var courses_info = [
     "prof": "CHAN U WAI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W13-G023",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W13-G023",
     "host": "RC"
   },
   {
@@ -30182,10 +30182,10 @@ var courses_info = [
     "prof": "WAN WAI SAN (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W13-G024",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W13-G024",
     "host": "RC"
   },
   {
@@ -30194,10 +30194,10 @@ var courses_info = [
     "prof": "CHANG YIXIN (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W13-G023",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W13-G023",
     "host": "RC"
   },
   {
@@ -30206,10 +30206,10 @@ var courses_info = [
     "prof": "CHAN U WAI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "W13-G024",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "W13-G024",
     "host": "RC"
   },
   {
@@ -30230,10 +30230,10 @@ var courses_info = [
     "prof": "FUNG KA WAI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-2034",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-2034",
     "host": "RC"
   },
   {
@@ -30242,10 +30242,10 @@ var courses_info = [
     "prof": "FUNG KA WAI (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-2034",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-2034",
     "host": "RC"
   },
   {
@@ -30254,10 +30254,10 @@ var courses_info = [
     "prof": "CHAN IO IEONG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-G019",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-G019",
     "host": "RC"
   },
   {
@@ -30266,10 +30266,10 @@ var courses_info = [
     "prof": "CHAN IO IEONG (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-2034",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-2034",
     "host": "RC"
   },
   {
@@ -30278,10 +30278,10 @@ var courses_info = [
     "prof": "VÉNUS TERESA VIANA (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-G019",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-G019",
     "host": "RC"
   },
   {
@@ -30290,10 +30290,10 @@ var courses_info = [
     "prof": "VÉNUS TERESA VIANA (in English supplemented with Cantonese and Mandarin)",
     "type": "Lecture",
     "day": "",
-    "start": "17:30",
-    "end": "18:45",
-    "venue": "E33-3038",
-    "remark": "",
+    "start": "",
+    "end": "17:30",
+    "venue": "18:45",
+    "remark": "E33-3038",
     "host": "RC"
   }
 ];
